@@ -4,13 +4,8 @@
 
 <br>
 
-<div style="border: 2px solid #990066; padding: 8px; outline: #990066 solid 4px; outline-offset: 4px;">
-
 ### NOTE: Oct 1, 2021 - This is a draft, this list is still being built out...
 
-</div>
-
-<br>
 Contributions will be welcome when draft is complete, but are currently not accepted.
 <br><br>
 
@@ -37,7 +32,7 @@ Contributions will be welcome when draft is complete, but are currently not acce
 - [GameEngines](#GameEngines)
 - [HowTo](#HowTo)
 - [Coding](#Coding)
-- [C++](#C++)
+- [C/C++](#C++)
 - [C#](#C#)
 - [Haxe](#Haxe)
 - [Java](#Java)
@@ -56,6 +51,12 @@ Contributions will be welcome when draft is complete, but are currently not acce
 
 <br>
 
+Empty:
+    - :tada: []() : .
+    - :tada: []() [:octocat:]() : .
+
+<br>
+
 ## Essentials
 Helpful resources for game / game engine development.
 - :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
@@ -67,6 +68,28 @@ More awesome resources for game / game engine development.
 - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : An awesome list of Game Development resources to make magic happen.
 
 ## GameEngines
+Commercial game engines to explore, learn and inspire.
+- ### Popular
+    - :money_with_wings: [Unity](https://unity.com) : The standard in Game Engine Development. The engine all other engines are compared to.
+    - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
+- ### AAA Quality
+    - :moneybag: [C4 Engine](http://c4engine.com) : Modern console engine.
+    - :tada: [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) : Free, open source AAA game engine deeply integrated with AWS and Twitch.
+    - :money_with_wings: [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) : Powerful real-time game development platform created by Crytek.
+    - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (Electronic Arts) Cutting-Edge Games And Experiences.
+    - :moneybag: [Gamebryo](http://www.gamebryo.com) : Complete toolset, flexible workflow, rapid prototyping.
+    - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (Successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
+    - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
+- ### Other Notable Engines
+    - :moneybag: [AppGameKit Studio](https://www.appgamekit.com/studio) : Easy, quick and powerful programming.
+    - :money_with_wings: [Buildbox](https://www.buildbox.com) : Create 3D & 2D video games without coding.
+    - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder.
+    - :money_with_wings: [GameMaker](https://www.yoyogames.com/en/gamemaker) : The Ultimate 2D Game Development Environment, by YoYo Games. Large user base.
+    - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
+    - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
+    - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
+    - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
+    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Git repo for core runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 ## HowTo
 Info on design and development of game engines.
@@ -77,18 +100,34 @@ Learn to code.
 - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
 - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 
-## C++
+## C/C++
 Game Engine Development tools and libaries for C++.
 - ### - Language: Collections -
     - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Awesome list of C++ frameworks, libraries, and resources.
     - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Awesome list of C++ things for Game Development.
+- ### Game Engine
+    - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, GUI, audio, network, physics, user input, etc. Widely used in game development and application construction.
+    - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
+    - :tada: [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) : LÖVE is an awesome 2D game framework for writing game code with Lua.
+    - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
+    - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
+    - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (Previously known as Corona) Focus on ease of iterations and usage.
 - ### Game Engine w/Editor
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
-    - :money_with_wings: [Unity](https://unity.com) : The engine all other engines are compared to.
-    - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
+    - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+    - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
+- ### Graphics
+    - :tada: [Ogre](https://www.ogre3d.org) [:octocat](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
+- ### Graphics w/Editor
+    - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. Horde3D scene editor [docs](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
 
 ## C#
 Game Engine Development tools and libaries for C#.
+- ### - Language -
+- ### Game Engine
+    - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : Framework for creating powerful cross-platform games in C#.
+- ### Game Engine w/Editor
+    - :tada: [Stride](https://stride3d.net) [:octocat:](https://github.com/stride3d/stride) : (formerly Xenko) C# game engine for realistic rendering and VR.
 
 ## Haxe
 Game Engine Development tools and libaries for Haxe.
@@ -127,7 +166,6 @@ Game Engine Development tools and libaries for Haxe.
     - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
     - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : Very cool modern, lightweight and efficient 2D level editor.
     - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
-    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for core runtime only) : Quick and easy game making.
 - ### Graphics
     - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : High-performance cross platform graphics engine by the creators of [Haxe](https://haxe.org).
     - :tada: [Kha](https://kha.tech) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
@@ -154,17 +192,28 @@ Game Engine Development tools and libaries for Haxe.
 
 ## Java
 Game Engine Development tools and libaries for Java.
+- ### - Language -
 - ### Game Engine, Low-Level
     - :books: [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme) : Awesome list of resources for libGDX.
     - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross platform Java game development framework.
     
 ## Javascript
 Game Engine Development tools and libaries for Javascript.
+- ### - Language -
+- ### Game Engine
+    - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : A 2D full-featured, open-source game development software platform.
+    - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
 - ### Game Engine w/Editor
-    - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder.
+    - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building virtual reality (VR) experiences.
+    - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D/3D Game Creation Tool
+    - :money_with_wings: [PlayCanvas](http://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) : Collaboratively build stunning HTML5 games and visualizations.
+    - :tada: [three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : Easy to use, lightweight, cross-browser, general purpose 3D library. [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)
 
 ## Python
 Game Engine Development tools and libaries for Python.
+- ### - Language -
+- ### Gui
+    - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
 ## Scripting
 Scripting and Visual Scripting support.
