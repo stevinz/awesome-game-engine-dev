@@ -14,7 +14,7 @@ Contributions will be welcome when draft is complete, but are currently not acce
 :star: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)\
 :tada: - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)\
 :lock: - Restrictive License (Copyleft, ShareAlike, GPL / LGPL, MPL, etc.)\
-:question: - License Unknown
+:question: - License Unknown\
 :free: - Closed Source, Free\
 :moneybag: - Closed Source, Paid\
 :money_with_wings: - Closed Source, Partially Free\
@@ -53,9 +53,14 @@ Contributions will be welcome when draft is complete, but are currently not acce
 <br>
 
 ## GameDevEssentials
-Helpful resources for any game developer / game engine developer.
+Helpful resources for game development / game engine development.
 - :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines, their platforms and their licenses.
+
+## AwesomeGameDev
+More awesome resources for game development.
+- :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A curated list of awesome stuff related to the development of games.
+- :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : An awesome list of Game Development resources to make magic happen.
 
 ## GameEngineDesign
 Info on design and development of a game engine.
@@ -73,7 +78,7 @@ Game Engine Development tools and libaries for C++.
     - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Awesome list of C++ things for Game Development.
 - ### Game Engines, High-Level
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
-    - :money_with_wings: [Unity](https://unity.com) : The standard in game development.
+    - :money_with_wings: [Unity](https://unity.com) : The engine all other engines are compared to.
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
 
 ## C#
@@ -94,16 +99,16 @@ Game Engine Development tools and libaries for Haxe.
 - ### Game Engines, High-Level
     - :tada: [Armory](https://armory3d.org) [:octocat:](https://github.com/armory3d/armory) : 3D game engine with full Blender integration.
     - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
-    - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
     - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
+    - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
     - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
-    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) : (Built with Haxe) Quick and easy game making.
+    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for core runtime only) : Quick and easy game making.
 - ### Game Engines, Low-Level
     - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
     - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : High performance game framework by the creators of Haxe.
     - :tada: [Kha](https://kha.tech) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
-    - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
     - :tada: [Lime](https://lime.software) [:octocat:](https://github.com/haxelime/lime) : A flexible, lightweight layer for Haxe cross-platform developers.
+    - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
 - ### Physics
     - :tada: [haxebullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
     - :tada: [HeapsIO/bullet](https://github.com/HeapsIO/bullet) : Bullet 3D Physics for Heaps (Haxe's native low-level game framework).
@@ -111,7 +116,6 @@ Game Engine Development tools and libaries for Haxe.
     - :tada: [Nape](https://joecreates.github.io/napephys/) [:octocat:](https://github.com/HaxeFlixel/nape-haxe4) : Very impressive powerful, fast, and friendly 2D Rigid Body physics engine.
 - ### Serialization / Storage
     - :tada: [CastleDB](https://github.com/ncannasse/castle) : A structured database with a local web service to edit it.
-    - :tada: [HxBit](https://github.com/HeapsIO/hxbit) : Haxe Binary serialization and network synchronization library.
     - :tada: [HxBit](https://github.com/HeapsIO/hxbit) : Haxe Binary serialization and network synchronization library.
     - :question: [PODStream](https://github.com/Dvergar/PODStream) : Plain Old Data serializer.
 - ### Visual Scripting
