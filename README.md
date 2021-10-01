@@ -1,4 +1,4 @@
-# Awesome list of Game Engine Development Resources
+# Awesome Game Engine Development Resources
 
 An awesome curated list of resources for Game Engine Development.
 
@@ -6,9 +6,9 @@ If you would like to add resources / projects / articles, do a pull request or o
 
 ### License Legend
 
-🎉 - Public Domain License (CC0, BOLA, WTFPL, Unlicense)\
-😀 - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL)\
-🔓 - Restrictive License (GPL / LGPL, MPL)\
+🎉 - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)\
+😀 - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)\
+🔓 - Restrictive License (GPL / LGPL, MPL, etc.)\
 🆓 - Closed Source, Free\
 💰 - Closed Source, Paid\
 💸 - Closed Sourece, Free and Paid
@@ -35,6 +35,9 @@ If you would like to add resources / projects / articles, do a pull request or o
 
 
 ## Engines
-Game engines to pull inspiration from.
+Game engines to pull inspiration from.\
 [Back to top](#Index)
-- 💸&nbsp;&nbsp;&nbsp;[unity](https://unity.com) : The standard in game development
+- MostPopular
+    - 💸&nbsp;[Unity](https://unity.com) : The standard in game development. 50% of all mobile games are developed through the Unity Game Engine.
+    - 💸&nbsp;[Unreal Engine](https://www.unrealengine.com) : The world's most advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
+    - 😀&nbsp;[Godot](https://godotengine.org) : Feature-packed, cross-platform game engine to create 2D and 3D games. Closest open source engine to match Unity's / Unreal's features.
