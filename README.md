@@ -1,32 +1,41 @@
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> An awesome list that curates the best Game Engine Development articles, libraries, tools, tutorials, and more. Favors C/C++ and Javascript.
+> An awesome list that curates the best Game Engine Development articles, libraries, tools, tutorials, and more. This list currently favors C/C++ and Javascript.
 
 <br>
 
-### NOTE - Oct 1, 2021: This is a draft, this list is still being built out...
+<div style="border: 2px solid #990066; padding: 8px; outline: #990066 solid 4px; outline-offset: 4px;">
 
+### NOTE: Oct 1, 2021 - This is a draft, this list is still being built out...
+
+</div>
+
+<br>
 Contributions will be welcome when draft is complete, but are currently not accepted.
 <br><br>
 
 ### License Legend
-
-:star: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)\
-:tada: - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)\
-:lock: - Restrictive License (Copyleft, ShareAlike, GPL / LGPL, MPL, etc.)\
-:question: - License Unknown\
-:free: - Closed Source, Free\
-:moneybag: - Closed Source, Paid\
-:money_with_wings: - Closed Source, Partially Free\
-:books: - Article / Website
+- Open Source
+    - :star: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)
+    - :tada: - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)
+    - :lock: - Restrictive License (Copyleft, ShareAlike, GPL / LGPL, MPL, etc.)
+- Closed Source
+    - :free: - Free App / Resource / Service / Tool
+    - :moneybag: - Paid App / Resource / Service / Tool
+    - :money_with_wings: - Free and Paid Options
+- Other
+    - :question: - License Unknown
+    - :books: - Article / Website
 
 :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
 
 <br>
 
 ## Index
-- [GameDevEssentials](#GameDevEssentials)
-- [GameEngineDesign](#GameEngineDesign)
+- [Essentials](#Essentials)
+- [Awesome](#Awesome)
+- [GameEngines](#GameEngines)
+- [HowTo](#HowTo)
 - [Coding](#Coding)
 - [C++](#C++)
 - [C#](#C#)
@@ -47,18 +56,20 @@ Contributions will be welcome when draft is complete, but are currently not acce
 
 <br>
 
-## GameDevEssentials
+## Essentials
 Helpful resources for game / game engine development.
 - :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines, their platforms and their licenses.
 
-## AwesomeGameDev
-More awesome resources for game development.
+## Awesome
+More awesome resources for game / game engine development.
 - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A curated list of awesome stuff related to the development of games.
 - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : An awesome list of Game Development resources to make magic happen.
 
-## GameEngineDesign
-Info on design and development of a game engine.
+## GameEngines
+
+## HowTo
+Info on design and development of game engines.
 - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 ## Coding
