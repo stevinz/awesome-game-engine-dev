@@ -1,8 +1,9 @@
-# Awesome Game Engine Development Resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome resources for Game Engine Development. Currently this list is C/C++ and Javascript heavy for the production of the Engine.
-<br><br>
-If you would like to add resources / projects / articles, submit a pull request or open an issue! 
+> A curated list of awesome articles, tools, libraries, and resources for Game Engine Development. Favors C/C++ and Javascript.
+
+<br>
+Contributions are welcome! Just submit a pull request or open an issue! 
 <br><br>
 ## Draft / WIP: Oct 1, 2021, This list is still being built out...
 <br><br>
@@ -17,9 +18,10 @@ If you would like to add resources / projects / articles, submit a pull request 
 💸 - Closed Source, Mixed, Free / Paid
 🗞 - Article
 
+:octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
+
 <br>
 
-<!-- START -->
 ## Index
 - [Essentials](#Essentials)
 - [Collections](#Collections)
@@ -36,6 +38,8 @@ If you would like to add resources / projects / articles, submit a pull request 
     - [Textures]
 - [GameDesign](#GameDesign)
 - [Website](#Website)
+
+<br>
 
 ## Essentials
 Helpful resources for any game developer / game engine developer.\
@@ -58,9 +62,9 @@ Game engines to pull inspiration from.\
 - MostPopular
     - 💸&nbsp;[Unity](https://unity.com) : The standard in game development.
     - 💸&nbsp;[Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
-    - 😀&nbsp;[Godot](https://godotengine.org) : Feature-packed, open source engine.
+    - 😀&nbsp;[Godot](https://godotengine.org)[:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
 - 2D Engines
-    - https://www.construct.net/en
+    - 💸&nbsp;[Construct](https://www.construct.net/) : Drag and drop browser based game building.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
