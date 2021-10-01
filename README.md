@@ -20,7 +20,8 @@ Contributions will be welcome when draft is complete, but are currently not acce
     - :money_with_wings: - Free and Paid Options
 - Other
     - :question: - License Unknown
-    - :books: - Article / Website
+    - :books: - Article
+    - :earth_americas: - Website
 
 :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
 
@@ -60,8 +61,8 @@ Empty:
 
 ## Essentials
 Helpful resources for game / game engine development.
-- :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
-- :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines, their platforms and their licenses.
+- :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
+- :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
 
 ## Awesome
 More awesome resources for game / game engine development.
