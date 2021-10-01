@@ -77,8 +77,8 @@ Commercial game engines to explore, learn and inspire.
     - :money_with_wings: [Unity](https://unity.com) : The standard in Game Engine Development. The engine all other engines are compared to.
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
 - ### AAA Quality
-    - :moneybag: [C4 Engine](http://c4engine.com) : Modern console engine.
     - :tada: [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) : Free, open source AAA game engine deeply integrated with AWS and Twitch.
+    - :moneybag: [C4 Engine](http://c4engine.com) : Modern console engine.
     - :money_with_wings: [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) : Powerful real-time game development platform created by Crytek.
     - :money_with_wings: [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) : Modern 3D game engine written in C++ and C#. Stunning graphics, powerful scripts.
     - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (Electronic Arts) Cutting-Edge Games And Experiences.
@@ -97,7 +97,7 @@ Commercial game engines to explore, learn and inspire.
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
-    - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [Website](http://fireflytech.org)
+    - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [Developer Website](http://fireflytech.org)
     - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 - ### Specialty
     - :moneybag: [3dSen](https://geod.itch.io/3dnes) : Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Website](http://www.geodstudio.net)
@@ -108,7 +108,7 @@ Commercial game engines to explore, learn and inspire.
 
 ## Games
 Open source games to be dissected for knowledge.
-    - :lock: [VoltAir](http://google.github.io/VoltAir/doc/main/html/index.html) [:octocat:](https://github.com/google/VoltAir) : Made by Google, a full 2D game built on top of [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html) and [Liquidfun](http://google.github.io/liquidfun/).
+- :lock: [VoltAir](http://google.github.io/VoltAir/doc/main/html/index.html) [:octocat:](https://github.com/google/VoltAir) : Made by Google, a full 2D game built on top of [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html) and [Liquidfun](http://google.github.io/liquidfun/).
 
 ## HowTo
 Info on design and development of game engines.
