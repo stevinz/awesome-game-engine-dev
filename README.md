@@ -1,16 +1,17 @@
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome articles, tools, libraries, and resources for Game Engine Development. Favors C/C++ and Javascript.
+> An awesome list that curates the best Game Engine Development articles, libraries, tools, tutorials, and more. Favors C/C++ and Javascript.
 
 <br>
-Contributions are welcome! Just submit a pull request or open an issue! 
-<br><br>
-## Draft / WIP: Oct 1, 2021, This list is still being built out...
+
+### NOTE - Oct 1, 2021: This is a draft, this list is still being built out...
+
+Contributions will be welcome when draft is complete, but are currently not accepted.
 <br><br>
 
 ### License Legend
 
-:sparkles: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)\
+:star: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)\
 :tada: - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)\
 :lock: - Restrictive License (Copyleft, ShareAlike, GPL / LGPL, MPL, etc.)\
 :free: - Closed Source, Free\
@@ -62,7 +63,7 @@ Game engines to pull inspiration from.\
 - MostPopular
     - :money_with_wings: [Unity](https://unity.com) : The standard in game development.
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
-    - :tada: [Godot](https://godotengine.org)[:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
+    - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
 - 2D Engines
     - :money_with_wings: [Construct](https://www.construct.net/) : Drag and drop browser based game building.
 
