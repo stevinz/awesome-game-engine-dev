@@ -24,11 +24,6 @@ Contributions will be welcome when draft is complete, but are currently not acce
 
 <br>
 
-### Definitions
-For the purposes of this document a <b>"High-Level"</b> Game Engine is a game engine framework that includes an interactive visual scene editor.
-
-<br>
-
 ## Index
 - [GameDevEssentials](#GameDevEssentials)
 - [GameEngineDesign](#GameEngineDesign)
@@ -53,7 +48,7 @@ For the purposes of this document a <b>"High-Level"</b> Game Engine is a game en
 <br>
 
 ## GameDevEssentials
-Helpful resources for game development / game engine development.
+Helpful resources for game / game engine development.
 - :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines, their platforms and their licenses.
 
@@ -76,7 +71,7 @@ Game Engine Development tools and libaries for C++.
 - ### - Language: Collections -
     - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Awesome list of C++ frameworks, libraries, and resources.
     - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Awesome list of C++ things for Game Development.
-- ### Game Engine, High-Level
+- ### Game Engine w/Editor
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
     - :money_with_wings: [Unity](https://unity.com) : The engine all other engines are compared to.
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
@@ -109,7 +104,12 @@ Game Engine Development tools and libaries for Haxe.
 - ### Entity Component System
     - :tada: [ecx](https://github.com/eliasku/ecx) : Entity Component System framework for Haxe.
     - :tada: [GASM](https://github.com/HacksawStudios/GASM) : Framework agnostic Entity Component System for Haxe.
-- ### Game Engine, High-Level
+- ### Game Engine
+    - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
+    - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2d game framework.
+    - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
+    - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
+- ### Game Engine w/Editor
     - :tada: [Armory](https://armory3d.org) [:octocat:](https://github.com/armory3d/armory) : 3D game engine with full Blender integration.
     - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
     - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
@@ -117,11 +117,6 @@ Game Engine Development tools and libaries for Haxe.
     - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : Very cool modern, lightweight and efficient 2D level editor.
     - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
     - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for core runtime only) : Quick and easy game making.
-- ### Game Engine, Low-Level
-    - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
-    - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2d game framework.
-    - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
-    - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
 - ### Graphics
     - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : High-performance cross platform graphics engine by the creators of [Haxe](https://haxe.org).
     - :tada: [Kha](https://kha.tech) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
@@ -154,8 +149,8 @@ Game Engine Development tools and libaries for Java.
     
 ## Javascript
 Game Engine Development tools and libaries for Javascript.
-- ### Game Engine, High-Level
-    - :money_with_wings: [Construct](https://www.construct.net/) : Drag and drop browser based game building.
+- ### Game Engine w/Editor
+    - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder.
 
 ## Python
 Game Engine Development tools and libaries for Python.
