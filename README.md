@@ -1,3 +1,9 @@
+<style>
+    a:active.NoClick { 
+        pointer-events: none; 
+    }
+</style>
+
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > An awesome list that curates the best Game Engine Development articles, libraries, tools, tutorials, and more. This list currently favors C/C++ and Javascript.
@@ -61,7 +67,7 @@ Empty:
 
 ## Essentials
 Helpful resources for game / game engine development.
-- [:earth_americas:](a "Hover text") [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
+- <a href="" class="NoClick" title="Website">:earth_americas:</a> [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
 
 ## Awesome
