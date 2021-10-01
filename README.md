@@ -29,7 +29,7 @@ Contributions will be welcome when draft is complete, but are currently not acce
 - [HighLevelEngines](#HighLevelEngines)
 - [Coding](#Coding)
 - [C++](#C++)
-- [CSharp](#CSharp)
+- [C#](#C#)
 - [Haxe](#Haxe)
 - [Java](#Java)
 - [Javascript](#Javascript)
@@ -47,75 +47,75 @@ Contributions will be welcome when draft is complete, but are currently not acce
 <br>
 
 ## GameDevEssentials
-Helpful resources for any game developer / game engine developer.\
+Helpful resources for any game developer / game engine developer.
 - :money_with_wings: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 
 ## GameEngineDesign
-Info on Game Engine design and development.\
+Info on Game Engine design and development.
 - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 ## HighLevelEngines
-Closed source full featured game engines to pull inspiration from.\
-- Lists
+Full featured game engines to pull inspiration from.
+- ### Collections
     - :books: [Wikipedia: List of game engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of Game Engines, their platforms and their licenses.
-- Popular
+- ### Popular
     - :money_with_wings: [Unity](https://unity.com) : The standard in game development.
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
-- Other
+- ### Other
     - :money_with_wings: [Construct](https://www.construct.net/) : Drag and drop browser based game building.
 
 ## Coding
-Learn to code.\
+Learn to code.
 - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Games that teach you a programming language.
 - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 
 ## C++
-Game Engine Development tools and libaries for C++.\
-- Basic Info
+Game Engine Development tools and libaries for C++.
+- ### Basic Info
     - :books: [C++](https://github.com/fffaraz/awesome-cpp#readme) : C++ frameworks, libraries, resources.
     - :books: [C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : C++ things for Game Development.
-- Game Engines, High-Level
+- ### Game Engines, High-Level
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
 
-## CSharp
-Game Engine Development tools and libaries for Haxe.\
+## C#
+Game Engine Development tools and libaries for C#.
 
 ## Haxe
-Game Engine Development tools and libaries for Haxe.\
-- Basic Info
-    - :books: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Very cool programming language used to produce cross-platform native code.
+Game Engine Development tools and libaries for Haxe.
+- ### Basic Info
+    - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Very cool programming language used to produce cross-platform native code.
     - :books: [Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Game dev resources for Haxe.
-- Game Engines, High-Level
+- ### Game Engines, High-Level
     - :tada: [Armory](https://armory3d.org) [:octocat:](https://github.com/armory3d/armory) : 3D game engine with full Blender integration.
     - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
     - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : High performance game framework by the creators of Haxe.
     - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
-- Game Engines, Low-Level
+- ### Game Engines, Low-Level
     - :tada: [Armory](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
 
 ## Java
-Game Engine Development tools and libaries for Java.\
-- Game Engines, Low-Level
+Game Engine Development tools and libaries for Java.
+- ### Game Engines, Low-Level
     - :books: [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) : Resources for libGDX, a Java game framework.
 
 ## Javascript
-Game Engine Development tools and libaries for Javascript.\
+Game Engine Development tools and libaries for Javascript.
 
 ## Python
-Game Engine Development tools and libaries for Python.\
+Game Engine Development tools and libaries for Python.
 
 ## Scripting
-Scripting and Visual Scripting support.\
+Scripting and Visual Scripting support.
 
 ## GameDesign
 
 ## GameProgramming
-- # AI
+- ### AI
 
 ## Tools
-- # ImageEditing
-- # Modeling
-- # Textures
+- ### ImageEditing
+- ### Modeling
+- ### Textures
 
 ## Website
 
