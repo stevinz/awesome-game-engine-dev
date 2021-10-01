@@ -80,16 +80,18 @@ Commercial game engines to explore, learn and inspire.
     - :moneybag: [Gamebryo](http://www.gamebryo.com) : Complete toolset, flexible workflow, rapid prototyping.
     - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (Successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
     - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
+    - :money_with_wings: [Unigine](https://unigine.com) : Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 - ### Other Notable Engines
     - :moneybag: [AppGameKit Studio](https://www.appgamekit.com/studio) : Easy, quick and powerful programming.
     - :money_with_wings: [Buildbox](https://www.buildbox.com) : Create 3D & 2D video games without coding.
     - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder.
+    - :money_with_wings: [Felgo](https://felgo.com/games) : Build Cross-Platform 2D Games in Days. Based on the Qt framework.
     - :money_with_wings: [GameMaker](https://www.yoyogames.com/en/gamemaker) : The Ultimate 2D Game Development Environment, by YoYo Games. Large user base.
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
-    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Git repo for core runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 ## HowTo
 Info on design and development of game engines.
@@ -114,12 +116,13 @@ Game Engine Development tools and libaries for C++.
     - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (Previously known as Corona) Focus on ease of iterations and usage.
 - ### Game Engine w/Editor
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine.
-    - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+    - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+    - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine.
     - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
 - ### Graphics
-    - :tada: [Ogre](https://www.ogre3d.org) [:octocat](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
+    - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
 - ### Graphics w/Editor
-    - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. Horde3D scene editor [docs](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
+    - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. Horde3D [scene editor docs](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
 
 ## C#
 Game Engine Development tools and libaries for C#.
@@ -203,10 +206,16 @@ Game Engine Development tools and libaries for Javascript.
 - ### Game Engine
     - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : A 2D full-featured, open-source game development software platform.
     - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
+    - :tada: [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) : Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 - ### Game Engine w/Editor
     - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building virtual reality (VR) experiences.
     - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D/3D Game Creation Tool
     - :money_with_wings: [PlayCanvas](http://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) : Collaboratively build stunning HTML5 games and visualizations.
+- ### Graphics
+    - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
+- ### Graphics w/Editor
+    - :tada: [babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
+    - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [CopperCube Editor](http://ambiera.com/coppercube/index.html)
     - :tada: [three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : Easy to use, lightweight, cross-browser, general purpose 3D library. [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)
 
 ## Python
