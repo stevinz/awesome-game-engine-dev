@@ -61,7 +61,7 @@ Empty:
 
 ## Essentials
 Helpful resources for game / game engine development.
-- :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
+- [:earth_americas:](a "Hover text") [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
 
 ## Awesome
