@@ -1,31 +1,24 @@
-<style>
-    a:active.NoClick { 
-        pointer-events: none; 
-    }
-</style>
-
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> An awesome list that curates the best Game Engine Development articles, libraries, tools, tutorials, and more. This list currently favors C/C++ and Javascript.
+> An awesome list of articles, libraries, tools, and more geared toward the development of game engines. Emphasis on C/C++ and Javascript.
 
 <br>
 
-### NOTE: Oct 1, 2021 - This is a draft, this list is still being built out...
+### NOTE: As of Oct 2, 2021 this document is still a draft...
 
 Contributions will be welcome when draft is complete, but are currently not accepted.
 <br><br>
 
 ### License Legend
-- Open Source
-    - :star: - Public Domain License (CC0, BOLA, WTFPL, Unlicense, etc.)
-    - :tada: - Permissive License (MIT, BSD, ZLIB / LIBPNG, ISC, Apache, BSL, etc.)
-    - :lock: - Restrictive License (Copyleft, ShareAlike, GPL / LGPL, MPL, etc.)
-- Closed Source
-    - :free: - Free App / Resource / Service / Tool
-    - :moneybag: - Paid App / Resource / Service / Tool
-    - :money_with_wings: - Free and Paid Options
+- Open Source Software
+    - :star: - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
+    - :tada: - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), etc.)
+    - :lock: - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) / [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
+- Asset / Service / Tool
+    - :free: - Free
+    - :moneybag: - Paid
+    - :money_with_wings: - Partially Free
 - Other
-    - :question: - License Unknown
     - :books: - Article
     - :earth_americas: - Website
 
@@ -34,72 +27,71 @@ Contributions will be welcome when draft is complete, but are currently not acce
 <br>
 
 ## Index
-- [Essentials](#Essentials)
-- [Awesome](#Awesome)
-- [GameEngines](#GameEngines)
+- [Game Development](#Game-Development)
+    - [Additional Collections](#Additional-Collections)
+    - [Game Development](#Game-Development)
+- [Game Engines](#Game-Engines)
+    - [Most Popular](Most-Popular)
+    - [AAA Quality](AAA-Quality)
 - [Games](#Games)
-- [HowTo](#HowTo)
+- [How To](#How-To)
 - [Coding](#Coding)
-- [C/C++](#C++)
-- [C#](#C#)
-- [Haxe](#Haxe)
-- [Java](#Java)
-- [Javascript](#Javascript)
-- [Python](#Python)
-- [Scripting](#Scripting)
-- [GameDesign](#GameDesign)
-- [GameProgramming](#GameProgramming)
+- [Libraries](#Libraries)
+    - [C/C++](#C++)
+    - [C#](#C#)
+    - [Haxe](#Haxe)
+    - [Java](#Java)
+    - [Javascript](#Javascript)
+    - [Python](#Python)
+    - [Scripting](#Scripting)
+- [Game Design](#Game-Design)
+- [Game Programming](#Game-Programming)
     - [AI](#AI)
 - [Tools](#Tools)
-    - [ImageEditing](#ImageEditing)
+    - [Image Editing](#Image-Editing)
     - [Modeling](#Modeling)
     - [Textures](#Textures)
 - [Website](#Website)
 - [Business](#Business)
 
-<br>
-
-Empty:
-    - :tada: []() : .
-    - :tada: []() [:octocat:]() : .
 
 <br>
 
-## Essentials
-Helpful resources for game / game engine development.
-- <a href="" class="NoClick" title="Website">:earth_americas:</a> [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
-- :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
+## Game Development
+_Helpful resources for game development_
+- ### Additional Collections
+    - :books: [Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
+    - :books: [Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+    - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
+- ### Essentials
+    - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
 
-## Awesome
-More awesome resources for game / game engine development.
-- :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A curated list of awesome stuff related to the development of games.
-- :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
-- :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : An awesome list of Game Development resources to make magic happen.
-
-## GameEngines
-Commercial game engines to explore, learn and inspire.
-- ### Popular
-    - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot) : Feature-packed, open source engine. Amazing!
-    - :money_with_wings: [Unity](https://unity.com) : The standard in Game Engine Development. The engine all other engines are compared to.
-    - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals.
+## Game Engines
+_Production game engines to explore, learn and inspire_
+- ### Engine Collections
+    - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
+- ### Most Popular
+    - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
+    - :money_with_wings: [Unity](https://unity.com) : Sets the bar for Game Engines. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
+    - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
 - ### AAA Quality
     - :tada: [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) : Free, open source AAA game engine deeply integrated with AWS and Twitch.
     - :moneybag: [C4 Engine](http://c4engine.com) : Modern console engine.
     - :money_with_wings: [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) : Powerful real-time game development platform created by Crytek.
     - :money_with_wings: [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) : Modern 3D game engine written in C++ and C#. Stunning graphics, powerful scripts.
-    - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (Electronic Arts) Cutting-Edge Games And Experiences.
+    - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (by Electronic Arts) Cutting-Edge Games and Experiences.
     - :moneybag: [Gamebryo](http://www.gamebryo.com) : Complete toolset, flexible workflow, rapid prototyping.
     - :money_with_wings: [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) : Versatile real-time platform for making 2D / 3D games and apps.
     - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (Successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
-    - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
+    - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (by Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
     - :money_with_wings: [Unigine](https://unigine.com) : Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
     - :free: [Wave Engine](https://waveengine.net) : The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [Projects/Samples](https://github.com/WaveEngine/)
 - ### Other Notable Engines
     - :moneybag: [AppGameKit Studio](https://www.appgamekit.com/studio) : Easy, quick and powerful programming.
     - :money_with_wings: [Buildbox](https://www.buildbox.com) : Create 3D & 2D video games without coding.
-    - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder.
+    - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
     - :money_with_wings: [Felgo](https://felgo.com/games) : Build Cross-Platform 2D Games in Days. Based on the Qt framework.
-    - :money_with_wings: [Game Maker Studio](https://www.yoyogames.com/en/gamemaker) : The Ultimate 2D Game Development Environment, by YoYo Games. Large user base.
+    - :money_with_wings: [Game Maker Studio](https://www.yoyogames.com/en/gamemaker) : (by YoYo Games) 2D Game Development Environment with large following.
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
@@ -113,23 +105,23 @@ Commercial game engines to explore, learn and inspire.
     - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
 
 ## Games
-Open source games to be dissected for knowledge.
+_Open source games to be dissected for knowledge_
 - :lock: [VoltAir](http://google.github.io/VoltAir/doc/main/html/index.html) [:octocat:](https://github.com/google/VoltAir) : Made by Google, a full 2D game built on top of [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html) and [Liquidfun](http://google.github.io/liquidfun/).
 
-## HowTo
-Info on design and development of game engines.
+## How To
+_Info on design and development of game engines_
 - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 ## Coding
-Learn to code.
+_Learn to code_
 - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
 - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 
 ## C/C++
-Game Engine Development tools and libaries for C++.
+_Game Engine Development tools and libaries for C++_
 - ### - Language: Collections -
-    - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Awesome list of C++ frameworks, libraries, and resources.
-    - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Awesome list of C++ things for Game Development.
+    - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
+    - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
 - ### Game Engine
     - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, GUI, audio, network, physics, user input, etc. Widely used in game development and application construction.
     - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
@@ -208,7 +200,6 @@ Game Engine Development tools and libaries for Haxe.
     - :tada: [CastleDB](https://github.com/ncannasse/castle) : Structured database with a local web service to edit it.
     - :tada: [format](https://github.com/HaxeFoundation/format) : Various files formats support for Haxe.
     - :tada: [HxBit](https://github.com/HeapsIO/hxbit) : Binary serialization and network synchronization library.
-    - :question: [PODStream](https://github.com/Dvergar/PODStream) : Plain Old Data serializer.
 - ### Utility
     - :tada: [hxColorToolkit](https://github.com/andyli/hxColorToolkit) : Library for color conversion and color scheme generation.
     - :tada: [HxMath](https://github.com/tbrosman/hxmath) : Game-oriented math library for the Haxe language.
@@ -252,13 +243,11 @@ Game Engine Development tools and libaries for Python.
 ## Scripting
 Scripting and Visual Scripting support.
 
-## GameDesign
-
-## GameProgramming
+## Game Programming
 - ### AI
 
 ## Tools
-- ### ImageEditing
+- ### Image Editing
 - ### Modeling
 - ### Textures
 
