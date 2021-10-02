@@ -29,11 +29,15 @@ Contributions will be welcome when draft is complete, but are currently not acce
 ## Index
 - [Game Development](#Game-Development)
     - [Additional Collections](#Additional-Collections)
-    - [Game Development](#Game-Development)
+    - [Developer Portals](#Developer-Portals)
 - [Game Engines](#Game-Engines)
-    - [Most Popular](Most-Popular)
-    - [AAA Quality](AAA-Quality)
+    - [Engine Collections](#Engine-Collections)
+    - [Most Popular](#Most-Popular)
+    - [AAA Quality](#AAA-Quality)
+    - [Other Notable Engines](#Other-Notable-Engines)
+    - [Specialty](#Specialty)
 - [Games](#Games)
+    - [DOS](#DOS)
 - [How To](#How-To)
 - [Coding](#Coding)
 - [Libraries](#Libraries)
@@ -63,8 +67,8 @@ _Helpful resources for game development_
     - :books: [Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
     - :books: [Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
     - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
-- ### Essentials
-    - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy / sell games and resources.
+- ### Developer Portals
+    - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 ## Game Engines
 _Production game engines to explore, learn and inspire_
