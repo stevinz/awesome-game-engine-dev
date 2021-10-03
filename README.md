@@ -1,13 +1,12 @@
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> An awesome list of articles, libraries, tools, and more geared toward the development of game engines. Emphasis on C/C++ and Javascript.
+> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically high-level, fully featured game engines which would include things typically not included in a low-level game engine such as a visual editor, scipting support, physics integration, etc. Emphasis on C/C++, Javascript, and Haxe.
 
 <br>
 
-### NOTE: As of Oct 2, 2021 this document is still a draft...
+### NOTE: This list is still being written, this is just a draft. Contributions will be welcome when draft is complete, but are currently not accepted.
 
-Contributions will be welcome when draft is complete, but are currently not accepted.
-<br><br>
+<br>
 
 ### License Legend
 - Open Source Software
@@ -92,7 +91,7 @@ _Production game engines to explore, learn and inspire_
     - :money_with_wings: [Buildbox](https://www.buildbox.com) : Create 3D & 2D video games without coding.
     - :money_with_wings: [Construct](https://www.construct.net/) : Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
     - :money_with_wings: [Felgo](https://felgo.com/games) : Build Cross-Platform 2D Games in Days. Based on the Qt framework.
-    - :money_with_wings: [Game Maker Studio](https://www.yoyogames.com/en/gamemaker) : (by YoYo Games) 2D Game Development Environment with large following.
+    - :money_with_wings: [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) : (by YoYo Games) 2D Game Development Environment with large following.
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
@@ -100,9 +99,9 @@ _Production game engines to explore, learn and inspire_
     - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 - ### Specialty
     - :moneybag: [3dSen](https://geod.itch.io/3dnes) : Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
-    - :money_with_wings: [DopeFish](https://subpixel-studios.itch.io/dopefish) : Full GML Doom/Heretic map loading system for [Game Maker Studio](https://www.yoyogames.com/en/gamemaker).
+    - :money_with_wings: [DopeFish](https://subpixel-studios.itch.io/dopefish) : Full GML Doom/Heretic map loading system for [GameMaker Studio](https://www.yoyogames.com/en/gamemaker).
     - :tada: [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) : Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
-    - :moneybag: [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) : Everything you need to create your very own platforming game for [Game Maker Studio](https://www.yoyogames.com/en/gamemaker).
+    - :moneybag: [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) : Everything you need to create your very own platforming game for [GameMaker Studio](https://www.yoyogames.com/en/gamemaker).
     - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
 
 ## Games
