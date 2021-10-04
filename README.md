@@ -71,6 +71,8 @@ _Helpful resources for game development_
     - :books: [Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
     - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 - ### Developer Portals
+    - :earth_americas: [gamedev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
+    - :earth_americas: [gamefromscratch.com](gamefromscratch.com) : Game development news, tutorials and so much more.
     - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 ## Game Engines
@@ -118,6 +120,13 @@ _Open source games to be dissected for knowledge_
 _Exploring specific functionality of a game engine_
 - ### Geometry
     - ### Mesh
+- ### Graphics
+    - ### DirectX
+    - ### Metal
+    - ### OpenGL
+        - :books: [Learn OpenGL](https://learnopengl.com) : Incredible resource! Teaches you everything you need to do modern graphics programming!
+    - ### Vulkan
+    - ### WebGL
 - ### Layout
     - ### Blob Tiles
 - ### Lighting
