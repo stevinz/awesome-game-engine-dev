@@ -1,10 +1,14 @@
+<h1 align="center">
+    <img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/>
+</h1>
+
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically high-level, fully featured game engines which would include things typically not included in a low-level game engine such as a visual editor, scipting support, physics integration, etc. Emphasis on C/C++, Javascript, and Haxe.
+> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically with an eye towards high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This includes things typically not found in a low-level game engine, game framework, or graphics library (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly a visual editor, but also things such as scipting support, physics integration, special effects, etc. This list currently favors programming core engine functionality in the following languages: C/C++, C#, Haxe, or Javascript. Of course, a game engine could be designed in [any language](https://en.wikipedia.org/wiki/List_of_programming_languages)!
 
 <br>
 
-### NOTE: This list is still being written, this is just a draft. Contributions will be welcome when draft is complete, but are currently not accepted.
+### NOTE: This list is under development, it is still in draft state. Contributions will be welcome when the draft is complete, but are currently not accepted.
 
 <br>
 
@@ -68,7 +72,7 @@ _Helpful resources for game development_
     - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 ## Game Engines
-_Production game engines to explore, learn and inspire_
+_Production game engines to tinker with, explore, learn and inspire_
 - ### Popular
     - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
     - :money_with_wings: [Unity](https://unity.com) : Sets the bar for Game Engines. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
