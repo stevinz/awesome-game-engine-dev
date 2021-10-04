@@ -4,7 +4,9 @@
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically with an eye towards high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This includes things typically not found in a low-level game engine, game framework, or graphics library (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly a visual editor, but also things such as scipting support, physics integration, special effects, etc. This list currently favors programming core engine functionality in the following languages: C/C++, C#, Haxe, or Javascript. Of course, a game engine could be designed in [any language](https://en.wikipedia.org/wiki/List_of_programming_languages)!
+> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
+
+This list currently favors programming the core engine in the following languages: C/C++, C#, Haxe, or Javascript.
 
 <br>
 
