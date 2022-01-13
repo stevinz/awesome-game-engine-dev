@@ -58,8 +58,8 @@ This list currently favors programming the core engine in the following language
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
-    - [C/C++](#C++)
-    - [C#](#C#)
+    - [C++](#Cpp)
+    - [C#](#CSharp)
     - [Haxe](#Haxe)
     - [Java](#Java)
     - [Javascript](#Javascript)
@@ -189,7 +189,7 @@ _Language specific game engine development libraries / frameworks / code_
     - ### - Language: Collections -
     - ### Game Engine
     - ### Graphics
-- ### C++
+- ### C++ <a name="Cpp"></a>
     - ### - Language: Collections -
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
@@ -210,7 +210,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
     - ### Graphics w/Editor
         - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. Horde3D [scene editor docs](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
-- ### C#
+- ### C# <a name="CSharp"></a>
     - ### - Language -
     - ### Game Engine
         - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : Framework for creating powerful cross-platform games in C#.
