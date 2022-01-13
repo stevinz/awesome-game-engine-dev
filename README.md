@@ -96,7 +96,7 @@ _Helpful resources for game development_
 ## Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
 - ### Popular
-    - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
+    - :tada: [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : :fire: Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
     - :money_with_wings: [Unity](https://unity.com) : Sets the bar for Game Engines. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
     - :money_with_wings: [Unreal Engine](https://www.unrealengine.com) : AAA game capable, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
     - :books: [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) : Thorough list of game engines along with their platforms and licenses.
@@ -275,18 +275,17 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Game Engine
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : A 2D full-featured, open-source game development software platform.
         - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
-        - :tada: [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) : Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+        - :tada: [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) : Modular 2D / 3D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
     - ### Game Engine w/Editor
-        - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building virtual reality (VR) experiences.
-        - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D/3D Game Creation Tool
-        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype tile-based games in HTML5 and JavaScript. [Editor](https://pixwlk.itch.io/pixelbox)
-        - :money_with_wings: [PlayCanvas](http://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) : Collaboratively build stunning HTML5 games and visualizations.
+        - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
+        - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D / 3D Game Creation Tool
+        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [Editor](https://pixwlk.itch.io/pixelbox)
     - ### Graphics
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
     - ### Graphics w/Editor
         - :tada: [babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
         - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [CopperCube Editor](http://ambiera.com/coppercube/index.html)
-        - :tada: [three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : Easy to use, lightweight, cross-browser, general purpose 3D library. [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)
+        - :tada: [three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)
 - ### Python
     - ### Gui
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
