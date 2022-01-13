@@ -28,6 +28,7 @@ This list currently favors programming the core engine in the following language
     - :earth_americas: - Website
 
 :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
+<br>
 :fire: - Any item with a Fire is a MUST-SEE AMAZING resource!
 
 <br>
@@ -44,9 +45,9 @@ This list currently favors programming the core engine in the following language
 - [How To](#How-To)
     - [AI](#AI)
     - [Animating](#Animating)
+    - [Computer Graphics](#Computer-Graphics)
     - [Game Engine Development](#Game-Engine-Development)
     - [Geometry](#Geometry)
-    - [Graphics](#Graphics)
     - [Programming](#Programming)
     - [Lighting](#Lighting)
     - [Particles](#Particles)
@@ -83,8 +84,8 @@ This list currently favors programming the core engine in the following language
 ## Game Development
 _Helpful resources for game development_
 - ### Collections
-    - :books: [Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
-    - :books: [Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+    - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
+    - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
     - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 - ### Developer Portals
     - :earth_americas: [gamedev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
@@ -137,11 +138,7 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Exploring specific functionality of a game engine_
 - ### AI
 - ### Animating
-- ### Game Engine Development
-    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
-- ### Geometry
-    - ### Mesh
-- ### Graphics
+- ### Computer Graphics
     - ### DirectX
     - ### Metal
     - ### OpenGL
@@ -149,6 +146,10 @@ _Exploring specific functionality of a game engine_
         - :books: [opengl-tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - ### Vulkan
     - ### WebGL
+- ### Game Engine Development
+    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
+- ### Geometry
+    - ### Mesh
 - ### Lighting
     - ### Lighting 2D
     - ### Lighting 3D
