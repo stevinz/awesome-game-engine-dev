@@ -26,8 +26,8 @@ This list currently favors programming the core engine in the following language
 - Other
     - :books: - Article
     - :earth_americas: - Website
-- :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
-- :fire: - Any item with a Fire is a MUST-SEE AMAZING resource!
+- :octocat: - Link to repo, click on it to see the source code!
+- :fire: - Hot! Amazing, must-see resource!
 <br><br>
 
 ## Index
@@ -42,10 +42,7 @@ This list currently favors programming the core engine in the following language
 - [How To](#How-To)
     - [AI](#AI)
     - [Animating](#Animating)
-    - [Computer Graphics](#Computer-Graphics)
-    - [Game Engine Development](#Game-Engine-Development)
     - [Geometry](#Geometry)
-    - [Programming](#Programming)
     - [Lighting](#Lighting)
     - [Particles](#Particles)
     - [Physics](#Physics)
@@ -55,6 +52,10 @@ This list currently favors programming the core engine in the following language
     - [Speciality](#Speciality)
     - [Transparency](#Transparency)
     - [Water](#Water)
+- [Learning](#Learning)
+    - [Computer Graphics](#Computer-Graphics)
+    - [Game Engine Development](#Game-Engine-Development)
+    - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
     - [C/C++](#C++)
@@ -135,18 +136,9 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Exploring specific functionality of a game engine_
 - ### AI
 - ### Animating
-- ### Computer Graphics
-    - ### DirectX
-    - ### Metal
-    - ### OpenGL
-        - :books: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
-        - :books: [opengl-tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
-    - ### Vulkan
-    - ### WebGL
-- ### Game Engine Development
-    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 - ### Geometry
     - ### Mesh
+        - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octicat:](https://github.com/olegtyshcneko/CAMeshTransform): Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
 - ### Lighting
     - ### Lighting 2D
     - ### Lighting 3D
@@ -154,9 +146,6 @@ _Exploring specific functionality of a game engine_
     - ### Shadows 3D
 - ### Particles
 - ### Physics
-- ### Programming
-    - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
-    - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 - ### Scripting
 - ### Shaders
     - ### Articles
@@ -171,6 +160,26 @@ _Exploring specific functionality of a game engine_
     - ### Ropes
 - ### Transparency
 - ### Water
+
+<br>
+
+## Learning
+_Info on topics necessary for designing and developing game engines_
+- ### Computer Graphics
+    - ### DirectX
+        - :earth_americas: [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) : Older resource with lots of tutorials on DirectX versions 9 & 11.
+    - ### Metal
+    - ### OpenGL
+        - :earth_americas: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :earth_americas: [opengl-tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
+    - ### Vulkan
+    - ### WebGL
+- ### Game Engine Development
+    - :earth_americas: [3D Game Engine Programming](https://www.3dgep.com) : Helping you build your dream game engine.
+    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
+- ### Programming
+    - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
+    - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 
 <br>
 
