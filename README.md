@@ -4,9 +4,9 @@
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A list of awesome assets, libraries, and tools geared toward Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
+> A curated list of awesome assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
 
-This list currently favors programming the core engine in the following languages: C/C++, C#, Haxe, or Javascript.
+This list currently favors programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
 <br>
 
@@ -58,6 +58,7 @@ This list currently favors programming the core engine in the following language
 - [Tools](#Tools)
     - [Image Editing](#Image-Editing)
     - [Modeling](#Modeling)
+    - [Sound](#Sound)
     - [Textures](#Textures)
 - [Website](#Website)
 - [Business](#Business)
@@ -72,8 +73,10 @@ _Helpful resources for game development_
     - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 - ### Developer Portals
     - :earth_americas: [gamedev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
-    - :earth_americas: [gamefromscratch.com](gamefromscratch.com) : Game development news, tutorials and so much more.
+    - :earth_americas: [gamefromscratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
     - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
+
+<br>
 
 ## Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
@@ -93,7 +96,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (Successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
     - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (by Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
     - :money_with_wings: [Unigine](https://unigine.com) : Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
-    - :free: [Wave Engine](https://waveengine.net) : The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [Projects/Samples](https://github.com/WaveEngine/)    
+    - :free: [Evergine](https://evergine.com) : (previously known as Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
 - ### Commercial
     - :moneybag: [AppGameKit Studio](https://www.appgamekit.com/studio) : Easy, quick and powerful programming.
     - :money_with_wings: [Buildbox](https://www.buildbox.com) : Create 3D & 2D video games without coding.
@@ -102,6 +105,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :money_with_wings: [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) : (by YoYo Games) 2D Game Development Environment with large following.
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
+    - :money_with_wings: [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (Repo for  runtime only) : Popular (Flappy Bird), fast and lightweight JavaScript game engine built on WebGL.
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
     - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [Developer Website](http://fireflytech.org)
     - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
@@ -112,27 +116,36 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :moneybag: [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) : Everything you need to create your very own platforming game for [GameMaker Studio](https://www.yoyogames.com/en/gamemaker).
     - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
 
+<br>
+
 ## Games
 _Open source games to be dissected for knowledge_
 - :lock: [VoltAir](http://google.github.io/VoltAir/doc/main/html/index.html) [:octocat:](https://github.com/google/VoltAir) : Made by Google, a full 2D game built on top of [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html) and [Liquidfun](http://google.github.io/liquidfun/).
 
+<br>
+
 ## How To
 _Exploring specific functionality of a game engine_
+- ### Animation
 - ### Geometry
     - ### Mesh
 - ### Graphics
     - ### DirectX
     - ### Metal
     - ### OpenGL
-        - :books: [Learn OpenGL](https://learnopengl.com) : Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :books: [Learn OpenGL](https://learnopengl.com) :fire: : Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :books: [opengl-tutorial](https://www.opengl-tutorial.org) : Incredible resource! Teaches you everything you need to do modern graphics programming!
     - ### Vulkan
     - ### WebGL
 - ### Layout
     - ### Blob Tiles
 - ### Lighting
     - ### Lighting 2D
-    - ### Lighting 3D / Light Maps
+    - ### Lighting 3D
+    - ### Shadows 2D
+    - ### Shadows 3D
 - ### Particles
+- ### Physics
 - ### Portals
 - ### Ropes
 - ### Scripting
@@ -143,7 +156,6 @@ _Exploring specific functionality of a game engine_
     - ### Noise
     - ### Outlines
     - ### Smoke
-- ### Soft Body Physics
 - ### Transparency
 - ### Water
 
@@ -154,6 +166,8 @@ _Info on topics necessary for designing and developing game engines_
 - ### Programming
     - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
     - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
+
+<br>
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code_
@@ -266,17 +280,20 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Gui
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
+<br>
+
 ## Game Programming
 - ### AI
+
+<br>
 
 ## Tools
 - ### Image Editing
 - ### Modeling
+- ### Sound
 - ### Textures
 
-## Website
-
-## Business
+<br>
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
