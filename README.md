@@ -138,7 +138,7 @@ _Exploring specific functionality of a game engine_
 - ### Animating
 - ### Geometry
     - ### Mesh
-        - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octicat:](https://github.com/olegtyshcneko/CAMeshTransform): Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
+        - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) : Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
 - ### Lighting
     - ### Lighting 2D
     - ### Lighting 3D
