@@ -26,13 +26,9 @@ This list currently favors programming the core engine in the following language
 - Other
     - :books: - Article
     - :earth_americas: - Website
-
-<br>
-:octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
+- :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
+- :fire: - Any item with a Fire is a MUST-SEE AMAZING resource!
 <br><br>
-:fire: - Any item with a Fire is a MUST-SEE AMAZING resource!
-
-<br>
 
 ## Index
 - [Game Development](#Game-Development)
