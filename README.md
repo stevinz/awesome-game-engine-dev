@@ -28,6 +28,7 @@ This list currently favors programming the core engine in the following language
     - :earth_americas: - Website
 
 :octocat: - Any item with an OctoCat has a GitHub repo, click on it to see the source code!
+:fire: - Any item with a Fire is a MUST-SEE AMAZING resource!
 
 <br>
 
@@ -40,28 +41,42 @@ This list currently favors programming the core engine in the following language
     - [AAA](#AAA)
     - [Commercial](#Commercial)
     - [Specialty](#Specialty)
-- [Games](#Games)
 - [How To](#How-To)
-    - [Scripting](#Scripting)
-- [Learning](#Learning)
+    - [AI](#AI)
+    - [Animating](#Animating)
     - [Game Engine Development](#Game-Engine-Development)
+    - [Geometry](#Geometry)
+    - [Graphics](#Graphics)
     - [Programming](#Programming)
+    - [Lighting](#Lighting)
+    - [Particles](#Particles)
+    - [Physics](#Physics)
+    - [Programming](#Programming)
+    - [Scripting](#Scripting)
+    - [Shaders](#Shaders)
+    - [Speciality](#Speciality)
+    - [Transparency](#Transparency)
+    - [Water](#Water)
 - [Libraries](#Libraries)
+    - [C](#C)
     - [C/C++](#C++)
     - [C#](#C#)
     - [Haxe](#Haxe)
     - [Java](#Java)
     - [Javascript](#Javascript)
     - [Python](#Python)
-- [Game Programming](#Game-Programming)
-    - [AI](#AI)
 - [Tools](#Tools)
-    - [Image Editing](#Image-Editing)
+    - [Animation](#Animation)
+    - [Color](#Color)
+    - [Drawing](#Drawing)
+    - [Game Dev](#Game-Dev)
+    - [Image Editors](#Image-Editors)
+    - [Materials](#Materials)
     - [Modeling](#Modeling)
+    - [Particles](#Particles)
+    - [Pixel Art](#Pixel-Art)
     - [Sound](#Sound)
     - [Textures](#Textures)
-- [Website](#Website)
-- [Business](#Business)
 
 <br>
 
@@ -118,27 +133,22 @@ _Production game engines to tinker with, explore, learn and inspire_
 
 <br>
 
-## Games
-_Open source games to be dissected for knowledge_
-- :lock: [VoltAir](http://google.github.io/VoltAir/doc/main/html/index.html) [:octocat:](https://github.com/google/VoltAir) : Made by Google, a full 2D game built on top of [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html) and [Liquidfun](http://google.github.io/liquidfun/).
-
-<br>
-
 ## How To
 _Exploring specific functionality of a game engine_
-- ### Animation
+- ### AI
+- ### Animating
+- ### Game Engine Development
+    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 - ### Geometry
     - ### Mesh
 - ### Graphics
     - ### DirectX
     - ### Metal
     - ### OpenGL
-        - :books: [Learn OpenGL](https://learnopengl.com) :fire: : Incredible resource! Teaches you everything you need to do modern graphics programming!
-        - :books: [opengl-tutorial](https://www.opengl-tutorial.org) : Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :books: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :books: [opengl-tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - ### Vulkan
     - ### WebGL
-- ### Layout
-    - ### Blob Tiles
 - ### Lighting
     - ### Lighting 2D
     - ### Lighting 3D
@@ -146,8 +156,9 @@ _Exploring specific functionality of a game engine_
     - ### Shadows 3D
 - ### Particles
 - ### Physics
-- ### Portals
-- ### Ropes
+- ### Programming
+    - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
+    - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 - ### Scripting
 - ### Shaders
     - ### Articles
@@ -156,22 +167,22 @@ _Exploring specific functionality of a game engine_
     - ### Noise
     - ### Outlines
     - ### Smoke
+- ### Speciality
+    - ### Blob Tiles
+    - ### Portals
+    - ### Ropes
 - ### Transparency
 - ### Water
-
-## Learning
-_Info on topics necessary for designing and developing game engines_
-- ### Game Engine Development
-    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
-- ### Programming
-    - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
-    - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
 
 <br>
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code_
-- ### C/C++
+- ### C
+    - ### - Language: Collections -
+    - ### Game Engine
+    - ### Graphics
+- ### C++
     - ### - Language: Collections -
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
@@ -282,14 +293,16 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-## Game Programming
-- ### AI
-
-<br>
-
 ## Tools
-- ### Image Editing
+- ### Animation
+- ### Color
+- ### Drawing
+- ### Game Dev
+- ### Image Editors
+- ### Materials
 - ### Modeling
+- ### Particles
+- ### Pixel Art
 - ### Sound
 - ### Textures
 
