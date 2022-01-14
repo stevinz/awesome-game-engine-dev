@@ -193,21 +193,21 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [pico_headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
         - :books: [single_file_libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
-    - ### Game Engine
-    - ### Graphics
-- ### C++ <a name="Cpp"></a>
-    - ### - Language: Collections -
-        - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
-        - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
     - ### App Frameworks
-        - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
-        - :tada: [sokol](https://github.com/floooh/sokol) : :fire: Top notch single file header library that includes cross platform windowing, file handling, graphics, audio and more. Excellent!!
+        - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
+        - :tada: [sokol](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!!
         - ### Sokol
             - :tada: [cimgui-sokol-starterkit](https://github.com/floooh/cimgui-sokol-starterkit) : A minimal self-contained Dear ImGui starter project for Windows, Linux and macOS.
             - :tada: [gamepad api sokol](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Sokol branch with add on support for game pads
             - :books: [learnopengl-examples](https://www.geertarien.com/learnopengl-examples-html5/) [:octocat:](https://github.com/geertarien/learnopengl-examples) : Examples from learnopengl.com, implemented using Sokol libraries.
             - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter in C.
             - :tada: [sokol-tools](https://github.com/floooh/sokol-tools) : Command line tools for use with sokol headers, specifically a shader-cross-compiler and code-generator for sokol_gfx.h
+    - ### Game Engine
+    - ### Graphics
+- ### C++ <a name="Cpp"></a>
+    - ### - Language: Collections -
+        - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
+        - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
     - ### Game Engine
         - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, GUI, audio, network, physics, user input, etc. Widely used in game development and application construction.
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
