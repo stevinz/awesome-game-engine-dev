@@ -86,8 +86,8 @@ _Helpful resources for game development_
     - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
     - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 - ### Developer Portals
-    - :earth_americas: [gamedev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
-    - :earth_americas: [gamefromscratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
+    - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
+    - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
     - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 <br>
@@ -144,6 +144,7 @@ _Exploring specific functionality of a game engine_
     - ### Lighting 3D
     - ### Shadows 2D
     - ### Shadows 3D
+        - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
 - ### Particles
 - ### Physics
 - ### Scripting
@@ -189,13 +190,13 @@ _Language specific game engine development libraries / frameworks / code_
     - ### - Language -
         - :books: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
     - ### - Language: Collections -
-        - :star: [cute_headers](https://github.com/RandyGaul/cute_headers) : :fire: Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
-        - :star: [pico_headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
-        - :books: [single_file_libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
+        - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+        - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
+        - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
     - ### App Frameworks
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
-        - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[learnopengl-examples ported to sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
+        - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[Learn OpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
     - ### Audio
 
     - ### Entity Component Systems
@@ -209,11 +210,11 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Geometry
 
     - ### Graphics
-        - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp)] : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
+        - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - ### Gui
 
     - ### Input
-        - :tada: [gamepad api for sokol](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
+        - :tada: [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
     - ### Math
 
     - ### Physics
@@ -246,7 +247,7 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Graphics
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
     - ### Graphics w/Editor
-        - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. Horde3D [scene editor docs](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
+        - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. [Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor).
 - ### C# <a name="CSharp"></a>
     - ### - Language -
     - ### Game Engine
@@ -258,7 +259,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
         - :books: [Haxelibs](https://lib.haxe.org/all) : A list of every library uploaded to Haxe's website.
         - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
-        - :books: [snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : A collective of Haxe developers.
+        - :books: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : A collective of Haxe developers.
     - ### - Language: Articles -
         - :books: [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
         - :books: [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
@@ -296,13 +297,13 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Gui
         - :tada: [HaxeUI](http://haxeui.org) [:octocat:](https://github.com/haxeui/haxeui-core) : Cross-platform set of styleable application centric, rich UI components.
     - ### Physics
-        - :tada: [haxebullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
+        - :tada: [Haxe Bullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
         - :tada: [HeapsIO/bullet](https://github.com/HeapsIO/bullet) : Bullet 3D Physics for Heaps (Haxe's native low-level game framework).
-        - :tada: [jellyPhysics](https://github.com/michaelapfelbeck/jellyPhysics) : Soft body physics engine.
+        - :tada: [Jelly Physics](https://github.com/michaelapfelbeck/jellyPhysics) : Soft body physics engine.
         - :tada: [Nape](https://joecreates.github.io/napephys/) [:octocat:](https://github.com/HaxeFlixel/nape-haxe4) : Very impressive powerful, fast, and friendly 2D Rigid Body physics engine.
     - ### Serialization / Storage
         - :tada: [CastleDB](https://github.com/ncannasse/castle) : Structured database with a local web service to edit it.
-        - :tada: [format](https://github.com/HaxeFoundation/format) : Various files formats support for Haxe.
+        - :tada: [Format](https://github.com/HaxeFoundation/format) : Various files formats support for Haxe.
         - :tada: [HxBit](https://github.com/HeapsIO/hxbit) : Binary serialization and network synchronization library.
     - ### Utility
         - :tada: [hxColorToolkit](https://github.com/andyli/hxColorToolkit) : Library for color conversion and color scheme generation.
@@ -313,8 +314,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [haxe-blockly](https://github.com/nickmain/haxe-blockly) : Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 - ### Java
     - ### Game Engine, Low-Level
-        - :books: [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme) : Awesome list of resources for libGDX.
-        - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework.     
+        - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]   
 - ### Javascript
     - ### Game Engine
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : A 2D full-featured, open-source game development software platform.
@@ -327,9 +327,15 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Graphics
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
     - ### Graphics w/Editor
-        - :tada: [babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
+        - :tada: [Babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
         - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [[CopperCube Editor](http://ambiera.com/coppercube/index.html)]
-        - :tada: [three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
+        - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
+        - ### Three.js Reference
+            - :books: [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics from beginner to advanced.
+            - :tada: [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) - Excellent set of instructive examples with well commented source code.
+            - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Great collection of resources for [Three.js](https://threejs.org).
+            - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
+            - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - (formerly threejsfundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
 - ### Python
     - ### Gui
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
