@@ -49,8 +49,9 @@ This list currently favors (but is not limited to) programming the core engine i
 - [How To](#How-To)
     - [AI](#AI)
     - [Animating](#Animating)
+    - [Fluid](#Fluid)
     - [Geometry](#Geometry)
-    - [Lighting](#Lighting)
+    - [Lighting / Shadows](#Lighting)
     - [Particles](#Particles)
     - [Physics](#Physics)
     - [Programming](#Programming)
@@ -156,8 +157,14 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Exploring specific functionality of a game engine_
 
 - ### AI
+    - :books: [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at [raywenderlich.com](https://www.raywenderlich.com).
+    - :books: [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) : Introduction to a range of concepts used in artificial intelligence for games at [gamedev.net](https://www.gamedev.net).
 
 - ### Animating
+    - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
+
+- ### Fluid
+    - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : A method for fast, stable fluid simulation that runs entirely on the GPU.
 
 - ### Geometry
     - #### Mesh
@@ -165,8 +172,12 @@ _Exploring specific functionality of a game engine_
 
 - ### Lighting
     - #### Lighting 2D
+        - :books: [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) : A simple introduction to 2D lighting in a game with GLSL.
+        - :books: [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) : Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
     - #### Lighting 3D
     - #### Shadows 2D
+        - :books: [2D Visibility](https://www.redblobgames.com/articles/visibility/) : Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, Javascript and C#.
+        - :books: [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) : Tutorial on a common technique for calculating field of view.
     - #### Shadows 3D
         - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
 
@@ -179,15 +190,22 @@ _Exploring specific functionality of a game engine_
 - ### Shaders
     - #### Articles
     - #### Bloom
+        - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
+        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
+        - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
     - #### Fire
+        - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
+        - :earth_americas: [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) : Simplex noise fire simulation shader at [ShaderToy](https://www.shadertoy.com).
     - #### Noise
     - #### Outlines
     - #### Smoke
 
 - ### Speciality
-    - #### Blob Tiles
     - #### Portals
     - #### Ropes
+    - #### Tiling
+        - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
+        - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : A great tutorial on 2D edge and corner matched tilesets.
 
 - ### Transparency
 
@@ -206,6 +224,7 @@ _Info on topics necessary for designing and developing game engines_
     - #### Metal
     - #### OpenGL
         - :earth_americas: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and other computer graphics topics.
         - :earth_americas: [OpenGL Tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - #### Vulkan
     - #### WebGL
@@ -249,6 +268,8 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Gui <a name="C-Gui"></a>
     - #### Input <a name="C-Input"></a>
         - :tada: [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
+    - #### Lighting <a name="C-Lighting"></a>
+        - :star: [Light Mapper](https://github.com/ands/lightmapper) : Single-file library for lightmap baking by using your existing OpenGL renderer.
     - #### Math <a name="C-Math"></a>
     - #### Physics <a name="C-Physics"></a>
     - #### Scripting <a name="C-Scripting"></a>
@@ -275,10 +296,15 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
         - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
         - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (Previously known as Corona) Focus on ease of iterations and usage.
+    - #### Geometry <a name="Cpp-Geometry"></a>
+        - :lock: [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) : A C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
     - #### Graphics <a name="Cpp-Graphics"></a>
         - :tada: [Bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, rendering library.
         - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
+    - #### Lighting <a name="Cpp-Lighting"></a>
+        - :tada: [Thekla Atlas](https://github.com/Thekla/thekla_atlas) : Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied uv's.
+        - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
 
 <br>
 
