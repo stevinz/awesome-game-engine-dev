@@ -6,7 +6,7 @@
 
 > A curated list of awesome assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
 
-This list currently favors (but not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
+This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
 <br>
 
@@ -195,7 +195,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
     - ### App Frameworks
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
-        - :tada: [Sokol](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[learnopengl-examples](https://www.geertarien.com/learnopengl-examples-html5/) | [Sokol Graphics Painter](https://github.com/edubart/sokol_gp)]            
+        - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[learnopengl-examples ported to sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
     - ### Audio
 
     - ### Entity Component Systems
@@ -209,7 +209,7 @@ _Language specific game engine development libraries / frameworks / code_
     - ### Geometry
 
     - ### Graphics
-
+        - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp)] : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - ### Gui
 
     - ### Input
