@@ -256,6 +256,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Vector Graphics <a name="C-Vector-Graphics"></a>
     - #### Windowing <a name="C-Windowing"></a>
 
+<br>
 
 - ### C++ <a name="Cpp"></a>
     - #### - Language: Collections - <a name="Cpp-Language-Collections"></a>
@@ -279,6 +280,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
 
+<br>
 
 - ### C# <a name="CSharp"></a>
     - #### - Language - <a name="CSharp-"></a>
@@ -289,6 +291,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Physics <a name="CSharp-Physics"></a>
         - :tada: [Aether Physics](https://github.com/tainicom/Aether.Physics2D) : Greet 2D physics library with continuous collision detection, convex and concave polyons, collision groups, joints and much more.
 
+<br>
 
 - ### Haxe
     - #### - Language - <a name="Haxe-Language"></a>
@@ -349,11 +352,13 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Visual Scripting <a name="Haxe-Visual-Scripting"></a>
         - :tada: [haxe-blockly](https://github.com/nickmain/haxe-blockly) : Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
+<br>
 
 - ### Java
     - #### Game Framework <a name="Java-Game-Framework"></a>
         - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]   
 
+<br>
 
 - ### Javascript
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
@@ -377,11 +382,13 @@ _Language specific game engine development libraries / frameworks / code_
             - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
             - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
 
+<br>
 
 - ### Python
     - #### Gui <a name="Python-Gui"></a>
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
+<br>
 
 - ### Rust
     - #### Game Framework <a name="Rust-Game-Framework"></a>
