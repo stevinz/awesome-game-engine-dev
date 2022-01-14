@@ -57,8 +57,6 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Javascript](#Javascript)
     - [Python](#Python)
     - [Rust](#Rust)
-- [Shaders](#Shaders)
-
 - [Specialty Topics](#Specialty-Topics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
@@ -140,7 +138,7 @@ _Info on topics necessary for designing and developing game engines_
 
 - ### Computer Graphics
     - #### General Resources
-        - :book: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : A review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
+        - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : A review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
         - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :earth_americas: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
     - #### Graphics API: DirectX
@@ -400,23 +398,32 @@ _Exploring specific game engine / game dev topics and features_
         - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
 
 - ### Particles
+    - :books: [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : : Excellent particle article by [Learn OpenGL](https://learnopengl.com).
+    - :books: [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
 - ### Physics
-    - #### 2D Physics
-    - #### 3D Physics
-    - #### Portals
-    - #### Ropes
+    - #### General Resources
+        - :books: [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) : If you're a game developer interested in learning about physics engines, these resources are a good place to start.
+        - :books: [Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines) : A list of open source physics engines.
+    - #### Physics 2D
+        - :books: [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) : This article covers how to create a simple and robust physics system for a platformer game.
+        - :books: [How to create 2D Physics Games](https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library) : Excellent article on how to use [Box2D](https://box2d.org) for 2D game topics ranging from shapes, water (metaballs), ropes, gravity, lines and vehicles.
+        - :books: [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) : Tutorial on ledge grabbing in 2D platformer physics.
+    - #### Ropes / Chains
+        - :books: [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) : A short discussion about how to implement the physics of ropes in Contraption Maker.
+        - :earth_americas: [Matter.js Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) : Chains demo using the javascript library [Matter.js](https://brm.io/matter-js/).
     - #### Verlet Physics
 
 - ### Scripting
 
 - ### Shaders <a name="Topic-Shaders"></a>
     - #### - General Resources -
+        - :earth_americas: [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : :fire: A collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
         - :earth_americas: [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) : :fire: This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
         - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
-        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
+        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
         - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
     - #### Fire
         - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
