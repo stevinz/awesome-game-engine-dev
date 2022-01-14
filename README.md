@@ -38,53 +38,53 @@ This list currently favors (but is not limited to) programming the core engine i
 
 
 ## Index
-- <sub><sup> [Game Development](#Game-Development) </sup></sub>
-    - <sub><sup> [Collections](#Collections) </sup></sub>
-    - <sub><sup> [Developer Portals](#Developer-Portals) </sup></sub>
-- <sub><sup> [Game Engines](#Game-Engines) </sup></sub>
-    - <sub><sup> [Popular](#Popular) </sup></sub>
-    - <sub><sup> [AAA](#AAA) </sup></sub>
-    - <sub><sup> [Commercial](#Commercial) </sup></sub>
-    - <sub><sup> [Specialty](#Specialty) </sup></sub>
-- <sub><sup> [How To](#How-To) </sup></sub>
-    - <sub><sup> [AI](#AI) </sup></sub>
-    - <sub><sup> [Animating](#Animating) </sup></sub>
-    - <sub><sup> [Fluid](#Fluid) </sup></sub>
-    - <sub><sup> [Geometry](#Geometry) </sup></sub>
-    - <sub><sup> [Lighting / Shadows](#Lighting) </sup></sub>
-    - <sub><sup> [Particles](#Particles) </sup></sub>
-    - <sub><sup> [Physics](#Physics) </sup></sub>
-    - <sub><sup> [Programming](#Programming) </sup></sub>
-    - <sub><sup> [Scripting](#Scripting) </sup></sub>
-    - <sub><sup> [Shaders](#Shaders) </sup></sub>
-    - <sub><sup> [Speciality](#Speciality) </sup></sub>
-    - <sub><sup> [Transparency](#Transparency) </sup></sub>
-    - <sub><sup> [Water](#Water) </sup></sub>
-- <sub><sup> [Learning](#Learning) </sup></sub>
-    - <sub><sup> [Computer Graphics](#Computer-Graphics) </sup></sub>
-    - <sub><sup> [Game Engine Development](#Game-Engine-Development) </sup></sub>
-    - <sub><sup> [Programming](#Programming) </sup></sub>
-- <sub><sup> [Libraries](#Libraries) </sup></sub>
-    - <sub><sup> [C](#C) </sup></sub>
-    - <sub><sup> [C++](#Cpp) </sup></sub>
-    - <sub><sup> [C#](#CSharp) </sup></sub>
-    - <sub><sup> [Haxe](#Haxe) </sup></sub>
-    - <sub><sup> [Java](#Java) </sup></sub>
-    - <sub><sup> [Javascript](#Javascript) </sup></sub>
-    - <sub><sup> [Python](#Python) </sup></sub>
-    - <sub><sup> [Rust](#Rust) </sup></sub>
-- <sub><sup> [Tools](#Tools) </sup></sub>
-    - <sub><sup> [Animation](#Animation) </sup></sub>
-    - <sub><sup> [Color](#Color) </sup></sub>
-    - <sub><sup> [Drawing](#Drawing) </sup></sub>
-    - <sub><sup> [Game Dev](#Game-Dev) </sup></sub>
-    - <sub><sup> [Image Editors](#Image-Editors) </sup></sub>
-    - <sub><sup> [Materials](#Materials) </sup></sub>
-    - <sub><sup> [Modeling](#Modeling) </sup></sub>
-    - <sub><sup> [Particles](#Particles) </sup></sub>
-    - <sub><sup> [Pixel Art](#Pixel-Art) </sup></sub>
-    - <sub><sup> [Sound](#Sound) </sup></sub>
-    - <sub><sup> [Textures](#Textures) </sup></sub>
+- [Game Development](#Game-Development)
+    - [Collections](#Collections)
+    - [Developer Portals](#Developer-Portals)
+- [Game Engines](#Game-Engines)
+    - [Popular](#Popular)
+    - [AAA](#AAA)
+    - [Commercial](#Commercial)
+    - [Specialty](#Specialty)
+- [How To](#How-To)
+    - [AI](#AI)
+    - [Animation](#Animation)
+    - [Fluid](#Fluid)
+    - [Geometry](#Geometry)
+    - [Lighting / Shadows](#Lighting)
+    - [Particles](#Particles)
+    - [Physics](#Physics)
+    - [Programming](#Programming)
+    - [Scripting](#Scripting)
+    - [Shaders](#Shaders)
+    - [Speciality](#Speciality)
+    - [Transparency](#Transparency)
+    - [Water](#Water)
+- [Learning](#Learning)
+    - [Computer Graphics](#Computer-Graphics)
+    - [Game Engine Development](#Game-Engine-Development)
+    - [Programming](#Programming)
+- [Libraries](#Libraries)
+    - [C](#C)
+    - [C++](#Cpp)
+    - [C#](#CSharp)
+    - [Haxe](#Haxe)
+    - [Java](#Java)
+    - [Javascript](#Javascript)
+    - [Python](#Python)
+    - [Rust](#Rust)
+- [Tools](#Tools)
+    - [Animation](#Animation-Tools)
+    - [Color](#Color)
+    - [Drawing](#Drawing)
+    - [Game Dev](#Game-Dev)
+    - [Image Editors](#Image-Editors)
+    - [Materials](#Materials)
+    - [Modeling](#Modeling)
+    - [Particles](#Particles)
+    - [Pixel Art](#Pixel-Art)
+    - [Sound](#Sound)
+    - [Textures](#Textures)
 
 
 <br>
@@ -429,7 +429,7 @@ _Language specific game engine development libraries / frameworks / code_
 ## Tools
 _Software to help with game engine / video game development_
 
-- ### Animation
+- ### Animation <a name="Animation-Tools"></a>
 
 - ### Color
 
