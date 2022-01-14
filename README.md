@@ -38,31 +38,15 @@ This list currently favors (but is not limited to) programming the core engine i
 
 
 ## Index
-- [Game Development](#Game-Development)
-    - [Collections](#Collections)
-    - [Developer Portals](#Developer-Portals)
 - [Game Engines](#Game-Engines)
     - [Popular](#Popular)
     - [AAA](#AAA)
     - [Commercial](#Commercial)
     - [Specialty](#Specialty)
-- [How To](#How-To)
-    - [AI](#AI)
-    - [Animation](#Animation)
-    - [Fluid](#Fluid)
-    - [Geometry](#Geometry)
-    - [Lighting / Shadows](#Lighting)
-    - [Particles](#Particles)
-    - [Physics](#Physics)
-    - [Programming](#Programming)
-    - [Scripting](#Scripting)
-    - [Shaders](#Shaders)
-    - [Speciality](#Speciality)
-    - [Transparency](#Transparency)
-    - [Water](#Water)
 - [Learning](#Learning)
     - [Computer Graphics](#Computer-Graphics)
-    - [Game Engine Development](#Game-Engine-Development)
+    - [Engine Development](#Engine-Development)
+    - [Game Development](#Game-Development)
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
@@ -73,35 +57,31 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Javascript](#Javascript)
     - [Python](#Python)
     - [Rust](#Rust)
-- [Tools](#Tools)
-    - [Animation](#Animation-Tools)
-    - [Color](#Color)
-    - [Drawing](#Drawing)
-    - [Game Dev](#Game-Dev)
-    - [Image Editors](#Image-Editors)
-    - [Materials](#Materials)
-    - [Modeling](#Modeling)
+- [Specialty Topics](#Specialty-Topics)
+    - [AI / Pathfinding](#Topic-AI)
+    - [Animation](#Topic-Animation)
+    - [Fluid / Smoke](#Topic-Fluid)
+    - [Geometry](#Geometry)
+    - [Lighting / Shadows](#Lighting)
     - [Particles](#Particles)
-    - [Pixel Art](#Pixel-Art)
-    - [Sound](#Sound)
-    - [Textures](#Textures)
-
-
-<br>
-
-
-## Game Development
-_Helpful resources for game development_
-
-- ### Collections
-    - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
-    - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
-    - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
-
-- ### Developer Portals
-    - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
-    - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
-    - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
+    - [Physics](#Physics)
+    - [Scripting](#Scripting)
+    - [Shaders](#Shaders)
+    - [Tiling](#Tiling)
+    - [Transparency](#Transparency)
+    - [Water](#Water)
+- [Tools / Software](#Tools)
+    - [Animation](#Tools-Animation)
+    - [Color](#Tools-Color)
+    - [Drawing](#Tools-Drawing)
+    - [Game Dev](#Tools-Game-Dev)
+    - [Image Editors](#Tools-Image-Editors)
+    - [Materials](#Tools-Materials)
+    - [Modeling](#Tools-Modeling)
+    - [Particles](#Tools-Particles)
+    - [Pixel Art](#Tools-Pixel-Art)
+    - [Sound](#Tools-Sound)
+    - [Textures](#Tools-Textures)
 
 
 <br>
@@ -153,86 +133,37 @@ _Production game engines to tinker with, explore, learn and inspire_
 <br>
 
 
-## How To
-_Exploring specific functionality of a game engine_
-
-- ### AI
-    - :books: [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at [raywenderlich.com](https://www.raywenderlich.com).
-    - :books: [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) : Introduction to a range of concepts used in artificial intelligence for games at [gamedev.net](https://www.gamedev.net).
-
-- ### Animating
-    - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
-
-- ### Fluid
-    - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : A method for fast, stable fluid simulation that runs entirely on the GPU.
-
-- ### Geometry
-    - #### Mesh
-        - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) : Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
-
-- ### Lighting
-    - #### Lighting 2D
-        - :books: [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) : A simple introduction to 2D lighting in a game with GLSL.
-        - :books: [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) : Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
-    - #### Lighting 3D
-    - #### Shadows 2D
-        - :books: [2D Visibility](https://www.redblobgames.com/articles/visibility/) : Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, Javascript and C#.
-        - :books: [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) : Tutorial on a common technique for calculating field of view.
-    - #### Shadows 3D
-        - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
-
-- ### Particles
-
-- ### Physics
-
-- ### Scripting
-
-- ### Shaders
-    - #### Articles
-    - #### Bloom
-        - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
-        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
-        - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
-    - #### Fire
-        - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
-        - :earth_americas: [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) : Simplex noise fire simulation shader at [ShaderToy](https://www.shadertoy.com).
-    - #### Noise
-    - #### Outlines
-    - #### Smoke
-
-- ### Speciality
-    - #### Portals
-    - #### Ropes
-    - #### Tiling
-        - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
-        - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : A great tutorial on 2D edge and corner matched tilesets.
-
-- ### Transparency
-
-- ### Water
-
-
-<br>
-
-
 ## Learning
 _Info on topics necessary for designing and developing game engines_
 
 - ### Computer Graphics
+    - #### - General Resources -
+        - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
+        - :earth_americas: [](https://www.scratchapixel.com) :
     - #### DirectX
         - :earth_americas: [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) : Older resource with lots of tutorials on DirectX versions 9 & 11.
     - #### Metal
     - #### OpenGL
         - :earth_americas: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
-        - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and other computer graphics topics.
         - :earth_americas: [OpenGL Tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - #### Vulkan
     - #### WebGL
     - #### WebGPU
 
-- ### Game Engine Development
+- ### Engine Development
     - :earth_americas: [3D Game Engine Programming](https://www.3dgep.com) : Helping you build your dream game engine.
     - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
+
+- ### Game Development
+    - #### Collections
+        - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
+        - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+        - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
+
+    - #### Developer Portals
+        - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
+        - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
+        - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 - ### Programming
     - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
@@ -426,30 +357,96 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 
-## Tools
-_Software to help with game engine / video game development_
+## Specialty Topics
+_Exploring specific game engine / game dev topics and features_
 
-- ### Animation <a name="Animation-Tools"></a>
+- ### AI / Pathfinding <a name="Topic-AI"></a>
+    - :books: [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at [raywenderlich.com](https://www.raywenderlich.com).
+    - :books: [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) : Introduction to a range of concepts used in artificial intelligence for games at [gamedev.net](https://www.gamedev.net).
 
-- ### Color
+- ### Animation <a name="Topic-Animation"></a>
+    - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
 
-- ### Drawing
+- ### Fluid / Smoke <a name="Topic-Fluid"></a>
+    - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : A method for fast, stable fluid simulation that runs entirely on the GPU.
 
-- ### Game Dev
+- ### Geometry
+    - #### Mesh
+        - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) : Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
 
-- ### Image Editors
-
-- ### Materials
-
-- ### Modeling
+- ### Lighting / Shadows
+    - #### Lighting 2D
+        - :books: [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) : A simple introduction to 2D lighting in a game with GLSL.
+        - :books: [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) : Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
+    - #### Lighting 3D
+    - #### Shadows 2D
+        - :books: [2D Visibility](https://www.redblobgames.com/articles/visibility/) : Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, Javascript and C#.
+        - :books: [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) : Tutorial on a common technique for calculating field of view.
+    - #### Shadows 3D
+        - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
 
 - ### Particles
 
-- ### Pixel Art
+- ### Physics
+    - #### 2D Physics
+    - #### 3D Physics
+    - #### Portals
+    - #### Ropes
+    - #### Verlet Physics
 
-- ### Sound
+- ### Scripting
 
-- ### Textures
+- ### Shaders
+    - #### Articles
+    - #### Bloom
+        - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
+        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
+        - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
+    - #### Fire
+        - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
+        - :earth_americas: [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) : Simplex noise fire simulation shader at [ShaderToy](https://www.shadertoy.com).
+    - #### Noise
+    - #### Outlines
+    - #### Smoke
+    - #### Wireframe
+        - :books: [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) : This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+
+- ### Tiling
+    - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
+    - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : A great tutorial on 2D edge and corner matched tilesets.
+
+- ### Transparency
+
+- ### Water
+
+
+<br>
+
+
+## Tools / Software <a name="Tools"></a>
+_Software to help with game engine / video game development_
+
+- ### Animation <a name="Tools-Animation"></a>
+
+- ### Color <a name="Tools-Color"></a>
+
+- ### Drawing <a name="Tools-Drawing"></a>
+
+- ### Game Dev <a name="Tools-Game-Dev"></a>
+
+- ### Image Editors <a name="Tools-Image-Editors"></a>
+
+- ### Materials <a name="Tools-Materials"></a>
+
+- ### Modeling <a name="Tools-Modeling"></a>
+
+- ### Particles <a name="Tools-Particles"></a>
+
+- ### Pixel Art <a name="Tools-Pixel-Art"></a>
+
+- ### Sound <a name="Tools-Sound"></a>
+
+- ### Textures <a name="Tools-Textures"></a>
 
 
 <br>
