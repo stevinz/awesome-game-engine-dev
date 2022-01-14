@@ -6,7 +6,7 @@
 
 > A curated list of awesome assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
 
-This list currently favors programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
+This list currently favors (but not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
 <br>
 
@@ -195,21 +195,43 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
     - ### App Frameworks
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
-        - :tada: [sokol](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!!
-        - ### Sokol
-            - :tada: [cimgui-sokol-starterkit](https://github.com/floooh/cimgui-sokol-starterkit) : A minimal self-contained Dear ImGui starter project for Windows, Linux and macOS.
-            - :tada: [gamepad api sokol](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Sokol branch with add on support for game pads
-            - :books: [learnopengl-examples](https://www.geertarien.com/learnopengl-examples-html5/) [:octocat:](https://github.com/geertarien/learnopengl-examples) : Examples from learnopengl.com, implemented using Sokol libraries.
-            - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter in C.
-            - :tada: [sokol-tools](https://github.com/floooh/sokol-tools) : Command line tools for use with sokol headers, specifically a shader-cross-compiler and code-generator for sokol_gfx.h
+        - :tada: [Sokol](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[learnopengl-examples](https://www.geertarien.com/learnopengl-examples-html5/) | [Sokol Graphics Painter](https://github.com/edubart/sokol_gp)]            
+    - ### Audio
+
+    - ### Entity Component Systems
+
+    - ### File Loading
+
+    - ### Fonts
+
     - ### Game Engine
+
+    - ### Geometry
+
     - ### Graphics
+
+    - ### Gui
+
+    - ### Input
+        - :tada: [gamepad api for sokol](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
+    - ### Math
+
+    - ### Physics
+
+    - ### Scripting
+
+    - ### Utility
+
+    - ### Vector Graphics
+
+    - ### Windowing
+
 - ### C++ <a name="Cpp"></a>
     - ### - Language: Collections -
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
     - ### Game Engine
-        - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, GUI, audio, network, physics, user input, etc. Widely used in game development and application construction.
+        - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, gui, audio, network, physics, user input, etc. Widely used in game development and application construction.
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
         - :tada: [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) : LÖVE is an awesome 2D game framework for writing game code with Lua.
         - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
