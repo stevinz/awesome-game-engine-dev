@@ -52,7 +52,6 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
-        - <sub><sup>[Audio](#C-Audio) | [ECS](#C-Entity-Component-System) | [File Loading](#C-File-Loading) | [Fonts](#C-Fonts) | [Game Engine](#C-Game-Engine) | [Game Framework](#C-Game-Framework) | [Geometry](#C-Geometry) | [Graphics](#C-Graphics) | [Gui](#C-Gui) | [Input](#C-Input) | [Lighting](#C-Lighting) | [Math](#C-Math) | [Physics](#C-Physics) | [Scripting](#C-Scripting) | [Utility](#C-Utility) | [Vector Graphics](#C-Vector-Graphics) | [Windowing](#C-Windowing)</sup></sub>
     - [C++](#Cpp)
     - [C#](#CSharp)
     - [Haxe](#Haxe)
@@ -65,11 +64,15 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Animation](#Topic-Animation)
     - [Fluid / Smoke](#Topic-Fluid)
     - [Geometry](#Geometry)
+        - <sub><sup>[Algorithms](#Algorithms) | [Meshes](#Meshes) | [Smoothing](#Smoothing)</sup></sub>
     - [Lighting / Shadows](#Lighting)
+        - <sub><sup>[Lighting](#Lighting-2D) | [Shadows](#Shadows-2D)</sup></sub>
     - [Particles](#Particles)
     - [Physics](#Physics)
+        - <sub><sup>[Platformer](#Platformer) | [Ropes / Chains](#Topics-Physics-Ropes) | [Soft Body](#Soft-Body) | [Verlet](#Verlet-Physics) | [Water](#Topics-Physics-Water)</sup></sub>
     - [Scripting](#Scripting)
     - [Shaders](#Topic-Shaders)
+         - <sub><sup>[Bloom](#Bloom) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [Animation](#Tools-Animation)
@@ -261,6 +264,12 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Lighting <a name="Cpp-Lighting"></a>
         - :tada: [Thekla Atlas](https://github.com/Thekla/thekla_atlas) : Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied uv's.
         - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
+    - #### Physics <a name="Cpp-Physics"></a>
+        - :tada: [Box2D](https://box2d.org) [:octocat:](https://github.com/erincatto/box2d) : The original, classic, battle tested 2D physics engine for games. [[Docs](https://box2d.org/documentation/) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
+        - :tada: [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) : 3D Physics simulation for games, visual effects, robotics and reinforcement learning.
+        - :tada: [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) : An extension of [Box2D](https://box2d.org), it adds a particle based fluid and soft body simulation to the rigid body functionality of [Box2D](https://box2d.org).
+        - :tada: [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) : A C++ physics engine library that can be used in 3D simulations and games.
+        - :tada: [qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
 
 <br>
 
@@ -435,12 +444,13 @@ _Exploring specific game engine / game dev topics and features_
 - ### Physics
     - #### General Resources
         - :books: [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) : If you're a game developer interested in learning about physics engines, these resources are a good place to start.
+        - :books: [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) : Video Game Physics Tutorial - Part I: An Introduction to Rigid Body Dynamics.
         - :books: [Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines) : A list of open source physics engines.
-    - #### Physics 2D
+    - #### Platformer
         - :books: [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) : This article covers how to create a simple and robust physics system for a platformer game.
         - :books: [How to create 2D Physics Games](https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library) : Excellent article on how to use [Box2D](https://box2d.org) for 2D game topics ranging from shapes, water (metaballs), ropes, gravity, lines and vehicles.
         - :books: [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) : Tutorial on ledge grabbing in 2D platformer physics.
-    - #### Ropes / Chains
+    - #### Ropes / Chains <a name="Topics-Physics-Ropes"></a>
         - :books: [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) : A short discussion about how to implement the physics of ropes in Contraption Maker.
         - :earth_americas: [Matter.js Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) : Chains demo using the javascript library [Matter.js](https://brm.io/matter-js/).
     - #### Soft Body
@@ -448,7 +458,7 @@ _Exploring specific game engine / game dev topics and features_
         - :books: [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) : Step by step creation of a Box2D soft body blob.
     - #### Verlet Physics
         - :books: [Making a Verlet Physics Engine in JavaScript](https://betterprogramming.pub/making-a-verlet-physics-engine-in-javascript-1dff066d7bc5) : Taking a look under the hood of a 2D physics engine in Javascript.
-    - #### Water
+    - #### Water <a name="Topics-Physics-Water"></a>
         - :books: [2D Water](https://prime31.github.io/water2d-part1/) : Modeling 2D water with springs.
 
 - ### Scripting
@@ -481,7 +491,7 @@ _Exploring specific game engine / game dev topics and features_
     - #### Pixelation
         - :books: [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
         - :earth_americas: [Three.js Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
-    - #### Water
+    - #### Water <a name="Topics-Shaders-Water"></a>
         - :books: [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) : GLSL fragment shader to simulate 2D water surface in [libGDX](https://libgdx.com).
     - #### Wireframe
         - :books: [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) : Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
