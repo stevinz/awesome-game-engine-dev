@@ -68,8 +68,6 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Scripting](#Scripting)
     - [Shaders](#Topic-Shaders)
     - [Tiling](#Tiling)
-    - [Transparency](#Transparency)
-    - [Water](#Water)
 - [Tools / Software](#Tools)
     - [Animation](#Tools-Animation)
     - [Color](#Tools-Color)
@@ -139,17 +137,24 @@ _Info on topics necessary for designing and developing game engines_
 - ### Computer Graphics
     - #### General Resources
         - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : A review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
+        - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
+        - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
+        - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : A collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
         - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :earth_americas: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
     - #### Graphics API: DirectX
         - :earth_americas: [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) : Older resource with lots of tutorials on DirectX versions 9 & 11.
     - #### Graphics API: Metal
+
     - #### Graphics API: OpenGL
         - :earth_americas: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
         - :earth_americas: [OpenGL Tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - #### Graphics API: Vulkan
+
     - #### Graphics API: WebGL
+
     - #### Graphics API: WebGPU
+
     - #### Shaders
         _see [Shaders](#Topic-Shaders)_
 
@@ -187,28 +192,39 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
-    - #### App Frameworks <a name="C-App-Frameworks"></a>
+    - #### Audio <a name="C-Audio"></a>
+
+    - #### Entity Component System <a name="C-Entity-Component-System"></a>
+
+    - #### File Loading <a name="C-File-Loading"></a>
+
+    - #### Fonts <a name="C-Fonts"></a>
+
+    - #### Game Engine w/Editor <a name="C-Game-Engine"></a>
+
+    - #### Game Framework <a name="C-Game-Framework"></a>
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
         - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[Learn OpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
-    - #### Audio <a name="C-Audio"></a>
-    - #### Entity Component System <a name="C-Entity-Component-System"></a>
-    - #### File Loading <a name="C-File-Loading"></a>
-    - #### Fonts <a name="C-Fonts"></a>
-    - #### Game Engine w/Editor <a name="C-Game-Engine"></a>
-    - #### Game Framework <a name="C-Game-Framework"></a>
     - #### Geometry <a name="C-Geometry"></a>
+
     - #### Graphics <a name="C-Graphics"></a>
         - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - #### Gui <a name="C-Gui"></a>
+
     - #### Input <a name="C-Input"></a>
         - :tada: [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
     - #### Lighting <a name="C-Lighting"></a>
         - :star: [Light Mapper](https://github.com/ands/lightmapper) : Single-file library for lightmap baking by using your existing OpenGL renderer.
     - #### Math <a name="C-Math"></a>
+
     - #### Physics <a name="C-Physics"></a>
+
     - #### Scripting <a name="C-Scripting"></a>
+
     - #### Utility <a name="C-Utility"></a>
+
     - #### Vector Graphics <a name="C-Vector-Graphics"></a>
+
     - #### Windowing <a name="C-Windowing"></a>
 
 <br>
@@ -318,8 +334,11 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### Java
+     - #### - Language: Tutorials - <a name="Java-Language-Articles"></a>
+        - :books: (OpenGL & GLSL Tutorials)[https://github.com/mattdesl/lwjgl-basics/wiki] : OpenGL / GLSL tutorials written for LWJGL and libGDX.
     - #### Game Framework <a name="Java-Game-Framework"></a>
-        - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]   
+        - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework that is built on and adds functionality to [LWJGL](https://www.lwjgl.org). [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
+        - :tada: [LWJGL](https://www.lwjgl.org) [:octocat:](https://github.com/LWJGL/lwjgl3) : Library that enables cross-platform access to popular native APIs useful in the development of graphics, audio, parallel computing and XR applications.
 
 <br>
 
@@ -374,7 +393,10 @@ _Exploring specific game engine / game dev topics and features_
     - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
 
 - ### Fluid / Smoke <a name="Topic-Fluid"></a>
-    - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : A method for fast, stable fluid simulation that runs entirely on the GPU.
+    - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : GPU Gems Chapter 38. A method for fast, stable fluid simulation that runs entirely on the GPU.
+    - :lock: [Fluids-2D](http://www.csc.kth.se/~mathar/fluids-2d/) [:octocat:](https://github.com/mharrys/fluids-2d) : Real-time fluid dynamics running on the GPU with the help of WebGL and [Three.js](https://threejs.org).
+    - :lock: [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) [:octocat:](https://github.com/haxiomic/GPU-Fluid-Experiments) : Cross-platform GPU fluid simulation.
+    - :tada: [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) [:octocat:](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) : Play with fluids in your browser (works even on mobile).
 
 - ### Geometry
     - #### Algorithms
@@ -391,14 +413,20 @@ _Exploring specific game engine / game dev topics and features_
         - :books: [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) : A simple introduction to 2D lighting in a game with GLSL.
         - :books: [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) : Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
     - #### Lighting 3D
+        - :books: [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) : Excellent basic 3D lighting article by [Learn OpenGL](https://learnopengl.com). There are many excellent more advanced follow-up articles on this site.
     - #### Shadows 2D
+        - :books: [2D Pixel Perfect Shadows](https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows) : An approach to 2D pixel-perfect lights/shadows using shaders.
         - :books: [2D Visibility](https://www.redblobgames.com/articles/visibility/) : Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, Javascript and C#.
+        - :books: [Fast 2D shadows in Unity](https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping) : Article about adapting traditional techniques from 3D rendering to achieve fast 2D shadows for a large number of light sources in the Unity game engine.
+        - :earth_americas: [Sight & Light](https://ncase.me/sight-and-light/) [:octocat:](https://github.com/ncase/sight-and-light) : How to create 2D visibility/shadow effects for your game.
         - :books: [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) : Tutorial on a common technique for calculating field of view.
     - #### Shadows 3D
+        - :books: [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) : GPU Gems 2 Chapter 17. Efficient Soft-Edged Shadows Using Pixel Shader Branching.
         - :books: [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
+        - :books: [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) : In depth explantion on [Wikipedia](https://en.m.wikipedia.org) of shadow mapping and the techniques used to acheive it.
 
 - ### Particles
-    - :books: [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : : Excellent particle article by [Learn OpenGL](https://learnopengl.com).
+    - :books: [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by [Learn OpenGL](https://learnopengl.com).
     - :books: [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
 - ### Physics
@@ -412,18 +440,27 @@ _Exploring specific game engine / game dev topics and features_
     - #### Ropes / Chains
         - :books: [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) : A short discussion about how to implement the physics of ropes in Contraption Maker.
         - :earth_americas: [Matter.js Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) : Chains demo using the javascript library [Matter.js](https://brm.io/matter-js/).
+    - #### Soft Body
+        - :books: [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) : Using verlet physics to simulate blobs.
+        - :books: [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) : Step by step creation of a Box2D soft body blob.
     - #### Verlet Physics
+        - :books: [Making a Verlet Physics Engine in JavaScript](https://betterprogramming.pub/making-a-verlet-physics-engine-in-javascript-1dff066d7bc5) : Taking a look under the hood of a 2D physics engine in Javascript.
+    - #### Water
+        - :books: [2D Water](https://prime31.github.io/water2d-part1/) : Modeling 2D water with springs.
 
 - ### Scripting
+    - :books: [Adding Languages to Game Engines](https://www.gamedeveloper.com/programming/adding-languages-to-game-engines) : How a self described "lazy programmer" built the powerful scripting language used in making Jedi Knight: Dark Forces 2.
+    - :books: [Implementing A Scripting Engine](https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml) : In depth series of articles about writting a scripting engine from scratch.
 
 - ### Shaders <a name="Topic-Shaders"></a>
     - #### - General Resources -
         - :earth_americas: [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : :fire: A collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
         - :earth_americas: [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) : :fire: This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
+        - :earth_americas: [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) : Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
         - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
-        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect post processing example in [Three.js](https://threejs.org).
+        - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect postprocessing example in [Three.js](https://threejs.org).
         - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
     - #### Fire
         - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
@@ -438,7 +475,11 @@ _Exploring specific game engine / game dev topics and features_
         - :earth_americas: [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) : Quickly drawing an outline on the alpha channel of a 2D image at [ShaderToy](https://www.shadertoy.com).
         - :books: [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) : Fantastic article with shader code on dynamically adding outlines to characters.
         - :tada: [Outline Shader](https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/) [:octocat:](https://github.com/steincodes/godot-shader-tutorials) : Reddit post and github repo of nice outline shader.
-    - #### Smoke
+    - #### Pixelation
+        - :books: [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
+        - :earth_americas: [Three.js Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
+    - #### Water
+        - :books: [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) : GLSL fragment shader to simulate 2D water surface in [libGDX](https://libgdx.com).
     - #### Wireframe
         - :books: [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) : Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
         - :books: [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) : This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
@@ -446,10 +487,6 @@ _Exploring specific game engine / game dev topics and features_
 - ### Tiling
     - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
     - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : A great tutorial on 2D edge and corner matched tilesets.
-
-- ### Transparency
-
-- ### Water
 
 
 <br>
