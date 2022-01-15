@@ -45,12 +45,14 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Specialty](#Specialty)
 - [Learning](#Learning)
     - [Computer Graphics](#Computer-Graphics)
-        - <sub><sup>[General](#Graphics-General)</sup></sub> | <sub><sup>[DirectX](#Graphics-DirectX)</sup></sub> | <sub><sup>[Metal](#Graphics-Metal)</sup></sub> | <sub><sup>[OpenGL](#Graphics-OpenGL)</sup></sub> | <sub><sup>[Vulkan](#Graphics-Vulkan)</sup></sub> | <sub><sup>[WebGL](#Graphics-WebGL)</sup></sub> | <sub><sup>[WebGPU](#Graphics-WebGPU)</sup></sub>
+        - <sub><sup>[General](#Graphics-General) | [DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
+        - <sub><sup>[Additional Collections](#Game-Development-Additional-Collections) | [Developer Portals](#Game-Development-Developer-Portals)</sup></sub>
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
+        - <sub><sup>[Audio](#C-Audio) | [ECS](#C-Entity-Component-System) | [File Loading](#C-File-Loading) | [Fonts](#C-Fonts) | [Game Engine](#C-Game-Engine) | [Game Framework](#C-Game-Framework) | [Geometry](#C-Geometry) | [Graphics](#C-Graphics) | [Gui](#C-Gui) | [Input](#C-Input) | [Lighting](#C-Lighting) | [Math](#C-Math) | [Physics](#C-Physics) | [Scripting](#C-Scripting) | [Utility](#C-Utility) | [Vector Graphics](#C-Vector-Graphics) | [Windowing](#C-Windowing)</sup></sub>
     - [C++](#Cpp)
     - [C#](#CSharp)
     - [Haxe](#Haxe)
@@ -164,12 +166,12 @@ _Info on topics necessary for designing and developing game engines_
     - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 - ### Game Development
-    - #### Collections <a name="Game-Development-Collections"></a>
+    - #### Additional Collections <a name="Game-Development-Additional-Collections"></a>
         - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
         - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
         - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 
-    - #### Developer Portals <a name="Game-Development-Collections-Developer-Portals"></a>
+    - #### Developer Portals <a name="Game-Development-Developer-Portals"></a>
         - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
         - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
@@ -188,7 +190,7 @@ _Language specific game engine development libraries / frameworks / code_
 - ### C
     - #### - Language - <a name="C-Language"></a>
         - :earth_americas: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
-    - #### - Language: Collections - <a name="C-Language-Collections"></a>
+    - #### - Language: Additional Collections - <a name="C-Language-Additional-Collections"></a>
         - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
         - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
@@ -231,7 +233,7 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### C++ <a name="Cpp"></a>
-    - #### - Language: Collections - <a name="Cpp-Language-Collections"></a>
+    - #### - Language: Additional Collections - <a name="Cpp-Language-Additional-Collections"></a>
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : A curated list of awesome C++ (mainly) things for Game Development.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
@@ -279,12 +281,12 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Haxelibs](https://lib.haxe.org/all) : A list of every library uploaded to Haxe's website.
         - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
         - :earth_americas: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : A collective of Haxe developers.
+    - #### - Language: Additional Collections - <a name="Haxe-Language-Additional-Collections"></a>
+        - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
+        - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
     - #### - Language: Articles - <a name="Haxe-Language-Articles"></a>
         - :books: [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
         - :books: [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
-    - #### - Language: Collections - <a name="Haxe-Language-Collections"></a>
-        - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
-        - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
     - #### Animation <a name="Haxe-Animation"></a>
         - :tada: [Actuate](https://github.com/jgranick/actuate) : Flexible, fast "tween" library.
         - :tada: [openfl/DragonBones](https://github.com/openfl/dragonbones) : Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
