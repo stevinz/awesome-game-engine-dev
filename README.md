@@ -4,7 +4,7 @@
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, special effects, etc. 
+> A curated list of awesome assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, asset management, special effects, etc. 
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
@@ -180,9 +180,11 @@ _Info on topics necessary for designing and developing game engines_
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
 - ### Programming
+    - :books: [Big-O Cheat Sheet](https://www.bigocheatsheet.com) : This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.
+    - :books: [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know.
     - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
     - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
-
+        
 
 <br>
 
@@ -199,16 +201,30 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
     - #### Audio <a name="C-Audio"></a>
-
+        - :star: [miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
+        - :tada: [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) : An audio mixer that supports various file formats for [SDL](https://libsdl.org).
+        - :tada: [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud)
     - #### Entity Component System <a name="C-Entity-Component-System"></a>
-
+        - :tada: [flecs](https://github.com/SanderMertens/flecs) : A fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
     - #### File Loading <a name="C-File-Loading"></a>
-
+        - :tada: [assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) : The Open Asset Importer Library. Loads 40+ 3D file formats into one unified and clean data structure.
+        - :tada: [cgltf](https://github.com/jkuhlmann/cgltf) : Single-file glTF 2.0 loader and writer written in C99.
+        - :star: [dr_libs](https://github.com/mackron/dr_libs) : Single file audio decoding libraries for C/C++.
+        - :tada: [libspng](https://github.com/randy408/libspng) : Simple, modern libpng alternative.
+        - :tada: [miniz](https://github.com/richgel999/miniz) : Single C source file drop-in replacement for zlib's most used API's (libpng and libzip).
+        - :tada: [OBJ GL Loader v2](https://github.com/karolek471/objgl) : Quite fast wavefront OBJ loader for OpenGL.
+        - :tada: [PL_MPEG](https://github.com/phoboslab/pl_mpeg) : Single file C library for decoding MPEG1 Video and MP2 Audio.
+        - :star: [stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) : Ogg Vorbis audio decoder.
     - #### Fonts <a name="C-Fonts"></a>
-
+        - :tada: [Font Stash](https://github.com/memononen/fontstash) : Light-weight library that uses [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) to render fonts on demand to a texture atlas.
+        - :tada: [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C, C++ headers and C# classes for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons and Fontaudio.
+        - :tada: [msdf-c](https://github.com/eg-z/msdf-c) : Pure C multi-channel signed distance field generator.
+        - :star: [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) : Single header file library that processes TrueType font files.
+        - :tada: [vertext](https://github.com/kevinmkchin/vertext) : Single-header C library for generating vertices for rendering text, requires [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h).
     - #### Game Engine w/Editor <a name="C-Game-Engine"></a>
-
+        - :star: [AVA](https://github.com/r-lyeh/AVA) : A tiny minimalistic, unlicensed 3D game engine in C.
     - #### Game Framework <a name="C-Game-Framework"></a>
+        - :star: [FWK](https://raw.githack.com/r-lyeh/FWK/master/art/docs/docs.html) [:octocat:](https://github.com/r-lyeh/FWK) : 3D game framework in C.
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
         - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch single file header libraries that include cross platform a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!! [[Learn OpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
     - #### Geometry <a name="C-Geometry"></a>
@@ -270,6 +286,9 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) : An extension of [Box2D](https://box2d.org), it adds a particle based fluid and soft body simulation to the rigid body functionality of [Box2D](https://box2d.org).
         - :tada: [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) : A C++ physics engine library that can be used in 3D simulations and games.
         - :tada: [qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
+     - #### Visual Scripting <a name="Cpp-Visual-Scripting"></a>
+        - :tada: [NodeEditor](https://github.com/paceholder/nodeeditor) : A general-purpose [Qt](https://www.qt.io)-based node editor library aimed at graph-controlled data processing.
+        - :tada: [QuickQanava](http://cneben.github.io/QuickQanava/index.html) [:octocat:](https://github.com/cneben/QuickQanava) : A C++14 library designed to display graphs and relational content in a [QtQuick](https://www.qt.io) application.
 
 <br>
 
@@ -293,7 +312,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Additional Collections - <a name="Haxe-Language-Additional-Collections"></a>
         - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
         - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
-    - #### - Language: Articles - <a name="Haxe-Language-Articles"></a>
+    - #### - Language: Blog Articles - <a name="Haxe-Language-Blog-Articles"></a>
         - :books: [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
         - :books: [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
     - #### Animation <a name="Haxe-Animation"></a>
@@ -313,7 +332,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
         - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
         - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
-        - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : Very cool modern, lightweight and efficient 2D level editor.
+        - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : :fire: Very cool modern, lightweight and efficient 2D level editor.
         - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
     - #### Game Framework <a name="Haxe-Game-Framework"></a>
         - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
@@ -321,7 +340,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
         - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
     - #### Graphics <a name="Haxe-Graphics"></a>
-        - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : High-performance cross-platform graphics engine by the creators of [Haxe](https://haxe.org).
+        - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : :fire: High-performance cross-platform graphics engine by the creators of [Haxe](https://haxe.org).
         - :tada: [Kha](https://kha.tech) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
         - :tada: [Sparkler](https://github.com/AndreiRudenko/sparkler) : Modular Macro-powered Particle System.
     - #### Gui <a name="Haxe-Gui"></a>
@@ -338,7 +357,6 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Utility <a name="Haxe-Utility"></a>
         - :tada: [hxColorToolkit](https://github.com/andyli/hxColorToolkit) : Library for color conversion and color scheme generation.
         - :tada: [HxMath](https://github.com/tbrosman/hxmath) : Game-oriented math library for the Haxe language.
-        - :tada: [nxColor](https://github.com/oscarcs/nxColor) : Color manipulation library.
         - :tada: [SteamWrap](https://github.com/larsiusprime/SteamWrap) : Haxe native extension for the Steam API.
     - #### Visual Scripting <a name="Haxe-Visual-Scripting"></a>
         - :tada: [haxe-blockly](https://github.com/nickmain/haxe-blockly) : Haxe wrapper for [Blockly](https://developers.google.com/blockly)
@@ -346,7 +364,7 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### Java
-     - #### - Language: Tutorials - <a name="Java-Language-Articles"></a>
+     - #### - Language: Tutorials - <a name="Java-Language-Tutorials"></a>
         - :books: [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) : OpenGL / GLSL tutorials written for LWJGL and libGDX.
     - #### Game Framework <a name="Java-Game-Framework"></a>
         - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework that is built on and adds functionality to [LWJGL](https://www.lwjgl.org). [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
@@ -355,6 +373,8 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### Javascript
+    - #### - Language - <a name="Javascript-Language"></a>
+        - :earth_americas: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
         - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D / 3D Game Creation Tool
