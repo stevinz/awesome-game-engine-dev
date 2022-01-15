@@ -45,7 +45,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Specialty](#Specialty)
 - [Learning](#Learning)
     - [Computer Graphics](#Computer-Graphics)
-        - <sub><sup>[General](#Graphics-General) | [DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
+        - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
         - <sub><sup>[Additional Collections](#Game-Development-Additional-Collections) | [Developer Portals](#Game-Development-Developer-Portals)</sup></sub>
@@ -255,7 +255,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Geometry <a name="Cpp-Geometry"></a>
         - :tada: [Delabella](https://github.com/msokalski/delabella) : Super stable 2D delaunay triangulation.
         - :tada: [Geometric Tools](https://www.geometrictools.com/index.html) : Collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics written in C++ 14.
-        - :lock: [libigl](https://libigl.github.io) [:octocat](https://github.com/libigl/libigl) : A simple C++ geometry processing library.
+        - :lock: [libigl](https://libigl.github.io) [:octocat:](https://github.com/libigl/libigl) : A simple C++ geometry processing library.
         - :lock: [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) : A C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
     - #### Graphics <a name="Cpp-Graphics"></a>
         - :tada: [Bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, rendering library.
@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 - ### Java
      - #### - Language: Tutorials - <a name="Java-Language-Articles"></a>
-        - :books: (OpenGL & GLSL Tutorials)[https://github.com/mattdesl/lwjgl-basics/wiki] : OpenGL / GLSL tutorials written for LWJGL and libGDX.
+        - :books: [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) : OpenGL / GLSL tutorials written for LWJGL and libGDX.
     - #### Game Framework <a name="Java-Game-Framework"></a>
         - :tada: [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) : Cross-platform Java game development framework that is built on and adds functionality to [LWJGL](https://www.lwjgl.org). [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
         - :tada: [LWJGL](https://www.lwjgl.org) [:octocat:](https://github.com/LWJGL/lwjgl3) : Library that enables cross-platform access to popular native APIs useful in the development of graphics, audio, parallel computing and XR applications.
@@ -358,7 +358,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
         - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : A Cross-Platform 2D / 3D Game Creation Tool
-        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [Editor](https://pixwlk.itch.io/pixelbox)
+        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
     - #### Game Framework <a name="Javascript-Game-Framework"></a>
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : A 2D full-featured, open source game development software platform.
         - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
