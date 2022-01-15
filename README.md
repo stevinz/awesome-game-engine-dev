@@ -45,6 +45,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Specialty](#Specialty)
 - [Learning](#Learning)
     - [Computer Graphics](#Computer-Graphics)
+        - <sub><sup>[General](#Graphics-General)</sup></sub> | <sub><sup>[DirectX](#Graphics-DirectX)</sup></sub> | <sub><sup>[Metal](#Graphics-Metal)</sup></sub> | <sub><sup>[OpenGL](#Graphics-OpenGL)</sup></sub> | <sub><sup>[Vulkan](#Graphics-Vulkan)</sup></sub> | <sub><sup>[WebGL](#Graphics-WebGL)</sup></sub> | <sub><sup>[WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
     - [Programming](#Programming)
@@ -135,27 +136,27 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Info on topics necessary for designing and developing game engines_
 
 - ### Computer Graphics
-    - #### General Resources
+    - #### General Resources <a name="Graphics-General"></a>
         - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : A review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
         - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : A collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
         - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :earth_americas: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
-    - #### Graphics API: DirectX
+    - #### Graphics API: DirectX <a name="Graphics-DirectX"></a>
         - :earth_americas: [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) : Older resource with lots of tutorials on DirectX versions 9 & 11.
-    - #### Graphics API: Metal
+    - #### Graphics API: Metal <a name="Graphics-Metal"></a>
 
-    - #### Graphics API: OpenGL
+    - #### Graphics API: OpenGL <a name="Graphics-OpenGL"></a>
         - :earth_americas: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
         - :earth_americas: [OpenGL Tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
-    - #### Graphics API: Vulkan
+    - #### Graphics API: Vulkan <a name="Graphics-Vulkan"></a>
 
-    - #### Graphics API: WebGL
+    - #### Graphics API: WebGL <a name="Graphics-WebGL"></a>
 
-    - #### Graphics API: WebGPU
+    - #### Graphics API: WebGPU <a name="Graphics-WebGPU"></a>
 
-    - #### Shaders
+    - #### Shaders <a name="Graphics-Shaders"></a>
         _see [Shaders](#Topic-Shaders)_
 
 - ### Engine Development
@@ -163,12 +164,12 @@ _Info on topics necessary for designing and developing game engines_
     - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 - ### Game Development
-    - #### Collections
+    - #### Collections <a name="Game-Development-Collections"></a>
         - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : A collection of free software and free culture resources for making amazing games.
         - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
         - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : A list of Game Development resources to make magic happen.
 
-    - #### Developer Portals
+    - #### Developer Portals <a name="Game-Development-Collections-Developer-Portals"></a>
         - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
         - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
