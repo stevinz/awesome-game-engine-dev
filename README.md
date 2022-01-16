@@ -150,13 +150,13 @@ _Info on topics necessary for designing and developing game engines_
 - ### Computer Graphics
     - #### Awesome Collections <a name="Graphics-Awesome"></a>
         - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+    - #### Blog Articles <a name="Graphics-Blog-Articles"></a>
+        - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
     - #### Books <a name="Graphics-General"></a>
         - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : Collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
-    - #### Comparison <a name="Graphics-Comparison"></a>
-        - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
-    - #### Education <a name="Graphics-Education"></a>
+    - #### Education Portals <a name="Graphics-Education"></a>
         - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :earth_americas: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
     - #### Graphics API: DirectX <a name="Graphics-DirectX"></a>
