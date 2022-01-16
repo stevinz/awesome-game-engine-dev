@@ -48,7 +48,7 @@ This list currently favors (but is not limited to) programming the core engine i
         - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
-        - <sub><sup>[Additional Collections](#Game-Development-Additional-Collections) | [Developer Portals](#Game-Development-Developer-Portals)</sup></sub>
+        - <sub><sup>[Awesome Collections](#Game-Development-Awesome) | [Developer Portals](#Game-Development-Portals)</sup></sub>
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
@@ -76,16 +76,23 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [Animation](#Tools-Animation)
+    - [Audio Creation](#Tools-Audio)
     - [Color](#Tools-Color)
     - [Drawing](#Tools-Drawing)
     - [Game Dev](#Tools-Game-Dev)
-    - [Image Editors](#Tools-Image-Editors)
+    - [Image Editors](#Tools-Image)
     - [Materials](#Tools-Materials)
     - [Modeling](#Tools-Modeling)
     - [Particles](#Tools-Particles)
     - [Pixel Art](#Tools-Pixel-Art)
     - [Sound](#Tools-Sound)
     - [Textures](#Tools-Textures)
+    - [Voxel](#Voxel)
+- [Video Game Assets](#Video-Game-Assets)
+    - [Graphics](#Assets-Graphics)
+    - [Models](#Assets-Models)
+    - [Music / Tracks](#Assets-Music)
+    - [Sound Effects](#Assets-Sound-Effects)
 
 
 <br>
@@ -141,11 +148,15 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Info on topics necessary for designing and developing game engines_
 
 - ### Computer Graphics
-    - #### General Resources <a name="Graphics-General"></a>
-        - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
+    - #### Awesome Collections <a name="Graphics-Awesome"></a>
+        - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+    - #### Books <a name="Graphics-General"></a>
         - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : Collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
+    - #### Comparison <a name="Graphics-Comparison"></a>
+        - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
+    - #### Education <a name="Graphics-Education"></a>
         - :earth_americas: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :earth_americas: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
     - #### Graphics API: DirectX <a name="Graphics-DirectX"></a>
@@ -169,12 +180,12 @@ _Info on topics necessary for designing and developing game engines_
     - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 - ### Game Development
-    - #### Additional Collections <a name="Game-Development-Additional-Collections"></a>
+    - #### Awesome Collections <a name="Game-Development-Awesome"></a>
         - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : Collection of free software and free culture resources for making amazing games.
-        - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
+        - :books: [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) : Wonderful list of Game Development resources.
         - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : List of Game Development resources to make magic happen.
 
-    - #### Developer Portals <a name="Game-Development-Developer-Portals"></a>
+    - #### Developer Portals <a name="Game-Development-Portals"></a>
         - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
         - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
@@ -195,7 +206,7 @@ _Language specific game engine development libraries / frameworks / code_
 - ### C
     - #### - Language - <a name="C-Language"></a>
         - :earth_americas: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
-    - #### - Language: Additional Collections - <a name="C-Language-Additional-Collections"></a>
+    - #### - Language: Awesome Collections - <a name="C-Language-Awesome"></a>
         - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
         - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
@@ -265,7 +276,7 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### C++ <a name="Cpp"></a>
-    - #### - Language: Additional Collections - <a name="Cpp-Language-Additional-Collections"></a>
+    - #### - Language: Awesome Collections - <a name="Cpp-Language-Awesome"></a>
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Curated list of awesome C++ (mainly) things for Game Development.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
@@ -323,7 +334,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Haxelibs](https://lib.haxe.org/all) : List of every library uploaded to Haxe's website.
         - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
         - :earth_americas: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : Collective of Haxe developers.
-    - #### - Language: Additional Collections - <a name="Haxe-Language-Additional-Collections"></a>
+    - #### - Language: Awesome Collections - <a name="Haxe-Language-Awesome"></a>
         - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
         - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
     - #### - Language: Blog Articles - <a name="Haxe-Language-Blog-Articles"></a>
@@ -546,13 +557,15 @@ _Software to help with game engine / video game development_
 
 - ### Animation <a name="Tools-Animation"></a>
 
+- ### Audio Creation <a name="Tools-Audio"></a>
+
 - ### Color <a name="Tools-Color"></a>
 
-- ### Drawing <a name="Tools-Drawing"></a>
+- ### Drawing / Vector Editors <a name="Tools-Drawing"></a>
 
 - ### Game Dev <a name="Tools-Game-Dev"></a>
 
-- ### Image Editors <a name="Tools-Image-Editors"></a>
+- ### Image / Photo Editors <a name="Tools-Image"></a>
 
 - ### Materials <a name="Tools-Materials"></a>
 
@@ -565,6 +578,23 @@ _Software to help with game engine / video game development_
 - ### Sound <a name="Tools-Sound"></a>
 
 - ### Textures <a name="Tools-Textures"></a>
+
+- ### Voxel <a name="Tools-Voxel"></a>
+
+
+<br>
+
+
+## Video Game Assets
+_Resources to help bring video games and game engines alive_
+
+- ### Graphics <a name="Assets-Graphics"></a>
+
+- ### Models <a name="Assets-Models"></a>
+
+- ### Music / Tracks <a name="Assets-Music"></a>
+
+- ### Sound Effects <a name="Assets-Sound-Effects"></a>
 
 
 <br>
