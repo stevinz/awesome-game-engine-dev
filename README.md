@@ -90,6 +90,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Voxel](#Voxel)
 - [Video Game Assets](#Video-Game-Assets)
     - [Graphics](#Assets-Graphics)
+    - [Materials](#Assets-Materials)
     - [Models](#Assets-Models)
     - [Music / Tracks](#Assets-Music)
     - [Sound Effects](#Assets-Sound-Effects)
@@ -139,6 +140,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :tada: [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) : Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
     - :moneybag: [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) : Everything you need to create your very own platforming game for [GameMaker Studio](https://www.yoyogames.com/en/gamemaker).
     - :moneybag: [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
+    - :lock: [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) : Tool for telling interactive, nonlinear stories.
 
 
 <br>
@@ -152,7 +154,7 @@ _Info on topics necessary for designing and developing game engines_
         - :books: [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
     - #### Blog Articles <a name="Graphics-Blog-Articles"></a>
         - :books: [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) : Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
-    - #### Books <a name="Graphics-General"></a>
+    - #### Books <a name="Graphics-Books"></a>
         - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : Collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
@@ -176,8 +178,12 @@ _Info on topics necessary for designing and developing game engines_
         _see [Shaders](#Topic-Shaders)_
 
 - ### Engine Development
-    - :earth_americas: [3D Game Engine Programming](https://www.3dgep.com) : Helping you build your dream game engine.
-    - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
+    - #### Blog Articles <a name="Engine-Blog-Articles"></a>
+        - :earth_americas: [3D Game Engine Programming](https://www.3dgep.com) : Helping you build your dream game engine.    
+    - #### Books <a name="Engine-Books"></a>
+        - :books: [Game Engine Architecture](https://www.gameenginebook.com) : Covers both the theory and practice of game engine software development, bringing together complete coverage of a wide range of topics.
+    - #### Education Portals <a name="Engine-Education"></a>
+        - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
 - ### Game Development
     - #### Awesome Collections <a name="Game-Development-Awesome"></a>
@@ -207,10 +213,11 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language - <a name="C-Language"></a>
         - :earth_americas: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
     - #### - Language: Awesome Collections - <a name="C-Language-Awesome"></a>
-        - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
-        - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C
-        - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries
-        - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++
+        - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
+        - :star: [libs](https://github.com/mattiasgustavsson/libs) : Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
+        - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C by [Empyreanx](https://github.com/empyreanx).
+        - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries compiled from many authors.
+        - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### Audio <a name="C-Audio"></a>
         - :star: [miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
         - :tada: [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) : Audio mixer that supports various file formats for [SDL](https://libsdl.org).
@@ -265,11 +272,11 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Scripting <a name="C-Scripting"></a>
         - :tada: [Duktape](https://github.com/svaarala/duktapev) : Embeddable Javascript engine with a focus on portability and compact footprint.
     - #### Utility <a name="C-Utility"></a>
-
-
+        - :tada: [hexembed](https://github.com/codeplea/hexembed) : Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
+        - :star: [incbin](https://github.com/graphitemaster/incbin) : Include binary and text files in your C/C++ applications with ease.
     - #### Vector Graphics <a name="C-Vector-Graphics"></a>
-
-
+        - :tada: [NanoVG](https://github.com/memononen/nanovg) : Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
+        - :tada: [par_streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) : Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
     - #### Windowing <a name="C-Windowing"></a>
 
 
@@ -311,7 +318,9 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) : An extension of [Box2D](https://box2d.org), it adds a particle based fluid and soft body simulation to the rigid body functionality of [Box2D](https://box2d.org).
         - :tada: [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) : Physics engine library that can be used in 3D simulations and games.
         - :tada: [qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
-     - #### Visual Scripting <a name="Cpp-Visual-Scripting"></a>
+    - #### Terrain <a name="Cpp-Terrain"></a>
+        - :tada: [Terra Forge 3D](https://jaysmito101.github.io/TerraForge3D/) [:octocat:](https://github.com/Jaysmito101/TerraForge3D) : Procedural 3D terrain generation and texturing tool.
+    - #### Visual Scripting <a name="Cpp-Visual-Scripting"></a>
         - :tada: [NodeEditor](https://github.com/paceholder/nodeeditor) : General-purpose [Qt](https://www.qt.io)-based node editor library aimed at graph-controlled data processing.
         - :tada: [QuickQanava](http://cneben.github.io/QuickQanava/index.html) [:octocat:](https://github.com/cneben/QuickQanava) : Library written in C++-14 designed to display graphs and relational content in a [QtQuick](https://www.qt.io) application.
 
@@ -432,6 +441,7 @@ _Language specific game engine development libraries / frameworks / code_
 - ### Rust
     - #### Game Framework <a name="Rust-Game-Framework"></a>
         - :tada: [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) : :fire: Refreshingly simple data-driven game engine built in Rust.
+        - :tada: [macroquad](https://github.com/not-fl3/macroquad) : Simple and easy to use game library for Rust programming language, heavily inspired by [raylib](https://www.raylib.com).
     - #### Physics <a name="Rust-Physics"></a>
         - :tada: [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) : 2D and 3D physics engines focused on performance.
 
@@ -590,12 +600,14 @@ _Resources to help bring video games and game engines alive_
 
 - ### Graphics <a name="Assets-Graphics"></a>
 
+- ### Materials <a name="Assets-Materials"></a>
+
 - ### Models <a name="Assets-Models"></a>
+    - :star: [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
 
 - ### Music / Tracks <a name="Assets-Music"></a>
 
 - ### Sound Effects <a name="Assets-Sound-Effects"></a>
-
 
 <br>
 
