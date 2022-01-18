@@ -23,6 +23,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - :star: - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - :tada: - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
     - :lock: - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) / [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
+    - :question: - License Unknown
 - Asset / Service / Tool
     - :free: - Free
     - :moneybag: - Paid
@@ -30,8 +31,8 @@ This list currently favors (but is not limited to) programming the core engine i
 - Other
     - :books: - Article, Blog, Collection, List, Tutorial(s)
     - :earth_americas: - Website
-- :octocat: - Link to Repo, click on it to see the source code!
-- :fire: - Hot! Amazing, must-see resource!
+- :octocat: - Link to Repository. Click on it to see Source Code!
+- :fire: - Hot, Amazing Resource!
 
 
 <br><br>
@@ -47,6 +48,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Computer Graphics](#Computer-Graphics)
         - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
+    - [Entity Component System](#Entity-Component-System)
     - [Game Development](#Game-Development)
         - <sub><sup>[Awesome Collections](#Game-Development-Awesome) | [Developer Portals](#Game-Development-Portals)</sup></sub>
     - [Programming](#Programming)
@@ -76,7 +78,8 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [Animation](#Tools-Animation)
-    - [Audio Creation](#Tools-Audio)
+    - [Audio](#Tools-Audio)
+        - <sub><sup>[Music](#Tools-Audio-Music) | [Sound Effects](#Tools-Audio-Sound-Effects)</sup></sub>
     - [Color](#Tools-Color)
     - [Drawing](#Tools-Drawing)
     - [Game Dev](#Tools-Game-Dev)
@@ -194,6 +197,13 @@ _Info on topics necessary for designing and developing game engines_
     - #### Education Portals <a name="Engine-Education"></a>
         - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
+- ### Entity Component System
+    - :books: [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
+    - :books: [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) : Article that provides a solid overview of EC systems and why you should use them at [Cowboy Programming](https://cowboyprogramming.com).
+    - :books: [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) : Nice blog post about component based architecture at at [raywenderlich.com](https://www.raywenderlich.com).
+    - :books: [Nomad Game Engine](https://savas.ca/nomad) [:octocat:](https://github.com/taurheim/NomadECS) : Series of articles building a basic entity component system from the ground up in C++.
+    - :books: [What's an Entity System](http://entity-systems.wikidot.com) : Overview of component / entity systems and how they are used in game development.
+
 - ### Game Development
     - #### Awesome Collections <a name="Game-Development-Awesome"></a>
         - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : Collection of free software and free culture resources for making amazing games.
@@ -251,6 +261,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### File System <a name="C-File-System"></a>
         - :tada: [hexembed](https://github.com/codeplea/hexembed) : Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
         - :star: [incbin](https://github.com/graphitemaster/incbin) : Include binary and text files in your C/C++ applications with ease.
+        - :tada: [PhysicsFS](http://icculus.org/physfs/) [:octocat:](https://github.com/icculus/physfs) : A portable, flexible file i/o abstraction, provides abstract access to various archives.
         - :star: [Where Am I](https://github.com/gpakosz/whereami) : Drop-in, multi platform, two file library to locate the current executable and the current module on the file system.
     - #### Fonts <a name="C-Fonts"></a>
         - :tada: [Font Stash](https://github.com/memononen/fontstash) : Light-weight library that uses [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) to render fonts on demand to a texture atlas.
@@ -299,6 +310,25 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Awesome Collections - <a name="Cpp-Language-Awesome"></a>
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Curated list of awesome C++ (mainly) things for Game Development.
+    - #### Animation <a name="Cpp-Animation"><a/>
+        - :question: [Easing Functions](https://github.com/nicolausYes/easing-functions) : Easing functions implemented in C++.
+        - :tada: [ozz-animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) : Open source skeletal animation library and toolset.
+        - :tada: [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) : Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
+    - #### Audio <a name="Cpp-Audio"><a/>
+        - :moneybag: [irrKlang](https://www.ambiera.com/irrklang/) : High level 2D and 3D cross platform (Windows, macOS, Linux) sound engine and audio library.
+        - :moneybag: [Juce](https://juce.com) : The leading framework for multi-platform audio applications.
+        - :lock: [OpenAL Soft](https://github.com/kcat/openal-soft) : Software implementation of the OpenAL 3D audio API.
+        - :tada: [PortAudio](http://www.portaudio.com) [:octocat:](https://github.com/PortAudio/portaudio) : Free, cross-platform, open-source, audio I/O library.
+    - #### Entity Component System <a name="Cpp-Entity-Component-System"></a>
+        - :tada: [EntityX](https://github.com/alecthomas/entityx) : Fast, type-safe C++ Entity-Component system.
+        - :tada: [Entt](https://github.com/skypjack/entt) : Gaming meets modern C++, a fast and reliable entity component system.
+    - #### File Loading <a name="Cpp-File-Loading"></a>
+        - :tada: [C++ Bitmap Library](http://www.partow.net/programming/bitmap/index.html) [:octocat:](https://github.com/ArashPartow/bitmap) : Incredible bitmap loading and manipulation library.
+        - :star: [jpeg-compressor](https://github.com/richgel999/jpeg-compressor) : Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
+        - :tada: [tinydng](https://github.com/syoyo/tinydng) : Header only DNG / TIFF loader and writer.
+        - :tada: [tinyexr](https://github.com/syoyo/tinyexr) : Tiny OpenEXR image loader/saver library.
+        - :tada: [tinygltf](https://github.com/syoyo/tinygltf) : Header only C++11 tiny glTF 2.0 library.
+        - :tada: [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
         - :tada: [Esenthel](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
         - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
@@ -322,6 +352,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, rendering library.
         - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
+        - :tada: [Tungsten](https://github.com/tunabrain/tungsten) : High performance physically based renderer in C++11.
     - #### Lighting <a name="Cpp-Lighting"></a>
         - :tada: [Thekla Atlas](https://github.com/Thekla/thekla_atlas) : Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied uv's.
         - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
@@ -581,7 +612,11 @@ _Software to help with game engine / video game development_
 - ### Animation <a name="Tools-Animation"></a>
 
 - ### Audio Creation <a name="Tools-Audio"></a>
+    - #### Music <a name="Tools-Audio-Music"></a>
 
+    - #### Sound Effects <a name="Tools-Audio-Sound-Effects"></a>
+        - :free: [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) : The classic program of choice for many people looking to make sound effects for computer games.
+        - :free: [ChipTone](https://sfbgames.itch.io/chiptone) : Excellent tool for generating sound effects.
 - ### Color <a name="Tools-Color"></a>
 
 - ### Drawing / Vector Editors <a name="Tools-Drawing"></a>
