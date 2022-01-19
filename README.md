@@ -9,13 +9,7 @@
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
 
-<br>
-
-
-### NOTE: This list is under development, it is still in draft state. Contributions will be welcome when the draft is complete, but are currently not accepted.
-
-
-<br>
+<br><br>
 
 
 ### License Legend
@@ -97,7 +91,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Sound Effects](#Assets-Sound-Effects)
 
 
-<br>
+<br><br>
 
 
 ## Game Engines
@@ -144,7 +138,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :lock: [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) : Tool for telling interactive, nonlinear stories.
 
 
-<br>
+<br><br>
 
 
 ## Learning
@@ -219,7 +213,8 @@ _Info on topics necessary for designing and developing game engines_
 - ### Topics
     _see [Specialty Topics](#Specialty-Topics)_        
 
-<br>
+
+<br><br>
 
 
 ## Libraries
@@ -627,7 +622,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) : 2D and 3D physics engines focused on performance.
 
 
-<br>
+<br><br>
 
 
 ## Specialty Topics
@@ -749,7 +744,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : Great tutorial on 2D edge and corner matched tilesets.
 
 
-<br>
+<br><br>
 
 
 ## Tools / Software <a name="Tools"></a>
@@ -786,7 +781,7 @@ _Software to help with game engine / video game development_
 - ### Voxel <a name="Tools-Voxel"></a>
 
 
-<br>
+<br><br>
 
 
 ## Video Game Assets
@@ -803,7 +798,8 @@ _Resources to help bring video games and game engines alive_
 
 - ### Sound Effects <a name="Assets-Sound-Effects"></a>
 
-<br>
+
+<br><br>
 
 
 ## License
