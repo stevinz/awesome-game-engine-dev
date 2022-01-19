@@ -46,7 +46,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Specialty](#Specialty)
 - [Learning](#Learning)
     - [Computer Graphics](#Computer-Graphics)
-        - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
+        - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU) | [XNA](#Graphics-XNA) </sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
     - [Programming](#Programming)
@@ -170,7 +170,7 @@ _Info on topics necessary for designing and developing game engines_
         - :earth_americas: [Metal](https://developer.apple.com/metal/) : Metal provides a platform-optimized, low-overhead API for developing the latest 3D applications and amazing games on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
         - :books: [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) : Learn how to get started with Apple’s 3D graphics API at [raywenderlich.com](https://www.raywenderlich.com).
     - #### Graphics API: OpenGL <a name="Graphics-OpenGL"></a>
-        - :books: [Learn OpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - :books: [LearnOpenGL](https://learnopengl.com) : :fire: Incredible resource! Teaches you everything you need to do modern graphics programming!
         - :earth_americas: [OpenGL](https://www.opengl.org/) : The industry's foundation for high performance graphics.
         - :books: [OpenGL Tutorial](https://www.opengl-tutorial.org) : Excellent collection of OpenGL tutorials with full source covering lots of topics.
     - #### Graphics API: Vulkan <a name="Graphics-Vulkan"></a>
@@ -185,6 +185,9 @@ _Info on topics necessary for designing and developing game engines_
         - :earth_americas: [Dawn](https://dawn.googlesource.com/dawn) : Google's open-source and cross-platform implementation of the work-in-progress WebGPU standard.
         - :earth_americas: [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) : Next generation web API that exposes modern computer graphics capabilities, specifically Direct3D 12, Metal, and Vulkan, for performing rendering and computation operations on the GPU.
         - :earth_americas: [WebGPU Demos](https://webkit.org/demos/webgpu/) : Apple's a collection of simple WebGPU examples. They should work in the latest WebKit builds and Safari Technology Preview release.
+    - #### Platform: XNA <a name="Graphics-XNA"></a>
+        - :books: [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) : Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
+        - :books: [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) : :fire: Required visit for[MonoGame](https://www.monogame.net) / [FNA](https://fna-xna.github.io) developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
     - #### Shaders <a name="Graphics-Shaders"></a>
         _see [Shaders](#Topic-Shaders)_
 
@@ -278,7 +281,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Graphics: 2D <a name="C-Graphics-2D"></a>
         - :tada: [NanoVG](https://github.com/memononen/nanovg) : Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
     - #### Graphics: 3D <a name="C-Graphics-3D"></a>
-        - :tada: [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) [:octocat:](https://github.com/floooh/sokol) : Cross platform, single header file graphics abstraction api, part of the larger, amazing [Sokol](https://floooh.github.io/sokol-html5/) library. [[Examples](https://floooh.github.io/sokol-html5) | [Learn OpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
+        - :tada: [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) [:octocat:](https://github.com/floooh/sokol) : Cross platform, single header file graphics abstraction api, part of the larger, amazing [Sokol](https://floooh.github.io/sokol-html5/) library. [[Examples](https://floooh.github.io/sokol-html5) | [LearnOpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
         - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - #### Gui <a name="C-Gui"></a>
         - :tada: [cimgui](https://github.com/cimgui/cimgui) : Thin c-api wrapper programmatically generated for the excellent C++ immediate mode gui [Dear ImGui](https://github.com/ocornut/imgui).
@@ -319,6 +322,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Inqlude](https://inqlude.org) : Comprehensive listing of all existing libraries for developers of applications using the [Qt](https://www.qt.io) toolkit.
         - :books: [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) : Comprehensive list of open source C++ libraries from [cppreference.com](https://en.cppreference.com/w/).
         - :books: [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) : NVIDIA Technologies for game and application developers.
+    - #### - Language: Cross Platform - <a name="Cpp-Language-Cross-Platform"></a>
+        - :earth_americas: [emscripten](https://emscripten.org) [:octocat:](https://github.com/emscripten-core/emscripten) : The C/C++ to Javascript (WebAssembly) compiler.
     - #### App Framework <a name="Cpp-App-Framework"></a>
         - :tada: [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) : Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
     - #### Animation <a name="Cpp-Animation"><a/>
@@ -459,7 +464,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Utility <a name="C-Utility"></a>
         - :tada: [any-lite](https://github.com/martinmoene/any-lite) : A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library.
         - :tada: [EASTL](https://github.com/electronicarts/EASTL/) : Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
-        = :tada: [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) : Family of header-only, very fast and memory-friendly hashmap and btree containers.
+        - :tada: [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) : Family of header-only, very fast and memory-friendly hashmap and btree containers.
         - :tada: [spdlog](https://github.com/gabime/spdlog) : Fast C++ logging library.
         - :tada: [tiny-process-library](https://gitlab.com/eidheim/tiny-process-library) [:octocat:](https://github.com/eidheim/tiny-process-library) : Small, platform independent library making it simple to create and stop new processes in C++.
         - :tada: [TinyXML-2](https://github.com/leethomason/tinyxml2) : Simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
@@ -470,32 +475,58 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### C# <a name="CSharp"></a>
-    - #### - Language - <a name="CSharp-"></a>
+    - #### - Language - <a name="CSharp-Language"></a>
+        - :books: [Dot Net Perls](https://www.dotnetperls.com) : Amazing reference for the C# language.
+    - #### - Language: Cross Platform - <a name="CSharp-Language-Cross-Platform"></a>
+        - :earth_americas: [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) [:octocat:](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) : Microsoft's C# to Javascript (WebAssembly) technology.
+        - :tada: [Mono](https://www.mono-project.com) [:octocat:](https://github.com/mono/mono) : Open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
+    - #### Audio <a name="CSharp-Audio"><a/>
+        - :tada: [NAudio](https://github.com/naudio/NAudio) : Audio and MIDI library for .NET.
+    - #### Entity Component System <a name="CSharp-Entity-Component-System"></a>
+        - :tada: [LeoECS](https://github.com/Leopotam/ecs) : Fast ECS Framework powered by C# with optional integration to Unity.
     - #### Game Engine w/Editor <a name="CSharp-Game-Engine"></a>
+        - :tada: [Duality](https://www.duality2d.net) [:octocat:](https://github.com/AdamsLair/duality) : Modular 2D game engine that provides its own visual editor. Built on C# and [OpenTK](https://opentk.net).
+        - :tada: [Flat Red Ball](https://flatredball.com) [:octocat:](https://github.com/vchelaru/FlatRedBall) : 2D game engine built on [MonoGame](https://www.monogame.net). Various tools to help with game design. [[Gui Editor](http://vchelaru.github.io/Gum/)]
         - :tada: [Stride](https://stride3d.net) [:octocat:](https://github.com/stride3d/stride) : (formerly Xenko) C# game engine for realistic rendering and VR.
+        - :money_with_wings: [Unity](https://unity.com) : Industry standard for game engines, uses C# for scripting.
     - #### Game Framework <a name="CSharp-Game-Framework"></a>
-        - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : Framework for creating powerful cross-platform games in C#.
+        - :tada: [FNA](https://fna-xna.github.io) [:octocat:](https://github.com/FNA-XNA/FNA) : Accuracy-focused reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
+        - :tada: [Monofoxe](https://github.com/Martenfur/Monofoxe) : Game engine designed to simplify working with, and built on [MonoGame](https://www.monogame.net).
+        - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : Framework for creating powerful cross-platform games in C#. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms.
+        - :tada: [Nez](https://github.com/prime31/Nez) : Feature-rich 2D framework that sits on top of [MonoGame](https://www.monogame.net). Provides a solid base for you to build a 2D game on.
+        - :tada: [Protogame](https://github.com/RedpointGames/Protogame) : Cross-platform 2D/3D game engine for C#, built on top of MonoGame.
+    - #### Graphics: 3D <a name="CSharp-Graphics-3D"></a>
+        - :tada: [OpenTK](https://opentk.net) [:octocat:](https://github.com/opentk/opentk) : Fast, portable, low-level C# bindings for OpenGL, OpenGL ES, OpenAL, and OpenCL. Runs on all major platforms and powers hundreds of apps, games, and scientific research programs. [[LearnOpenGL Examples, ported to OpenTK](https://github.com/opentk/LearnOpenTK)]
+        - :tada: [Veldrid](https://veldrid.dev) [:octocat:](https://github.com/mellinoe/veldrid) : Cross-platform, graphics API-agnostic rendering and compute library for .NET.
+    - #### Gui <a name="CSharp-Gui"></a>
+        :tada: [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) : UI system for [MonoGame](https://www.monogame.net) projects.
+        :tada: [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) : The easiest way of integrating a MonoGame render window into your Windows Forms project.
+        :tada: [Myra](https://github.com/rds1983/Myra) : UI Library for [MonoGame](https://www.monogame.net), [FNA](https://fna-xna.github.io) and [Stride](https://stride3d.net).
     - #### Physics <a name="CSharp-Physics"></a>
-        - :tada: [Aether Physics](https://github.com/tainicom/Aether.Physics2D) : Greet 2D physics library with continuous collision detection, convex and concave polyons, collision groups, joints and much more.
+        - :tada: [Aether Physics](https://github.com/tainicom/Aether.Physics2D) : Great 2D physics library with continuous collision detection, convex and concave polyons, collision groups, joints and much more.
+        - :tada: [Velcro Physics](https://github.com/Genbox/VelcroPhysics) : Formerly Farseer Physics, original C# port of Box2D. High performance 2D collision detection system with realistic physics responses.
+    - #### Utility <a name="CSharp-Utility"></a>
+        - :tada: [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) : C# Steamworks implementation.
 
 <br>
 
 - ### Haxe
     - #### - Language - <a name="Haxe-Language"></a>
         - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
-        - :books: [Haxelibs](https://lib.haxe.org/all) : List of every library uploaded to Haxe's website.
-        - :tada: [HashLink](https://hashlink.haxe.org) [:octocat:](https://github.com/HaxeFoundation/hashlink/) : Virtual machine for Haxe.
-        - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
-        - :earth_americas: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : Collective of Haxe developers.
     - #### - Language: Awesome Collections - <a name="Haxe-Language-Awesome"></a>
         - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
         - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
+        - :books: [Haxelibs](https://lib.haxe.org/all) : List of every library uploaded to Haxe's website.
+        - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
+        - :earth_americas: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : Collective of Haxe developers.
     - #### - Language: Blog Articles - <a name="Haxe-Language-Blog-Articles"></a>
         - :books: [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
         - :books: [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+    - #### - Language: Cross Platform - <a name="Haxe-Language-Cross-Platform"></a>
+        - :tada: [HashLink](https://hashlink.haxe.org) [:octocat:](https://github.com/HaxeFoundation/hashlink/) : Virtual machine for Haxe.
     - #### Animation <a name="Haxe-Animation"></a>
         - :tada: [Actuate](https://github.com/jgranick/actuate) : Flexible, fast "tween" library.
-        - :tada: [openfl/DragonBones](https://github.com/openfl/dragonbones) : Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
+        - :tada: [DragonBones](https://github.com/openfl/dragonbones) : Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
         - :tada: [spine-hx](https://github.com/jeremyfa/spine-hx) : [Spine](https://esotericsoftware.com) runtime for Haxe.
     - #### App Framework <a name="Haxe-App-Framework"></a>
         - :tada: [Lime](https://lime.software) [:octocat:](https://github.com/haxelime/lime) : Flexible, lightweight layer for Haxe cross-platform developers.
@@ -509,7 +540,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
         - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
         - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : :fire: Very cool modern, lightweight and efficient 2D level editor.
-        - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular Stage3D framework.
+        - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular (Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
     - #### Game Framework <a name="Haxe-Game-Framework"></a>
         - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
         - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2d game framework.
@@ -552,7 +583,7 @@ _Language specific game engine development libraries / frameworks / code_
 - ### Javascript
     - #### - Language - <a name="Javascript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
-    - #### - Language: Cross Platform - 
+    - #### - Language: Cross Platform - <a name="Javascript-Language-Cross-Platform"></a>
         - :tada: [Electron](https://www.electronjs.org) [:octocat:](https://github.com/electron/electron) : Build cross-platform desktop apps with Javascript, HTML, and CSS.
         - :money_with_wings: [Ultralight](https://ultralig.ht/) : Based on WebKit — supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable. Currently available for Windows, macOS, Linux, and Xbox.
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
@@ -633,7 +664,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :books: [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) : Simple introduction to 2D lighting in a game with GLSL.
         - :books: [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) : Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
     - #### Lighting 3D
-        - :books: [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) : Excellent basic 3D lighting article by [Learn OpenGL](https://learnopengl.com). There are many excellent more advanced follow-up articles on this site.
+        - :books: [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) : Excellent basic 3D lighting article by [LearnOpenGL](https://learnopengl.com). There are many excellent more advanced follow-up articles on this site.
     - #### Shadows 2D
         - :books: [2D Pixel Perfect Shadows](https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows) : An approach to 2D pixel-perfect lights/shadows using shaders.
         - :books: [2D Visibility](https://www.redblobgames.com/articles/visibility/) : Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, Javascript and C#.
@@ -646,7 +677,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :books: [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) : In depth explantion on [Wikipedia](https://en.m.wikipedia.org) of shadow mapping and the techniques used to acheive it.
 
 - ### Particles
-    - :books: [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by [Learn OpenGL](https://learnopengl.com).
+    - :books: [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by [LearnOpenGL](https://learnopengl.com).
     - :books: [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
 - ### Physics
@@ -684,7 +715,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :earth_americas: [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) : Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
-        - :books: [Learn OpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
+        - :books: [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
         - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect postprocessing example in [Three.js](https://threejs.org).
         - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
     - #### Fire
