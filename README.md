@@ -21,7 +21,7 @@ This list currently favors (but is not limited to) programming the core engine i
 ### License Legend
 - Open Source Software
     - :star: - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
-    - :tada: - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
+    - :tada: - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
     - :lock: - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) / [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
     - :question: - License Unknown
 - Asset / Service / Tool
@@ -48,7 +48,6 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Computer Graphics](#Computer-Graphics)
         - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU)</sup></sub>
     - [Engine Development](#Engine-Development)
-    - [Entity Component System](#Entity-Component-System)
     - [Game Development](#Game-Development)
         - <sub><sup>[Awesome Collections](#Game-Development-Awesome) | [Developer Portals](#Game-Development-Portals)</sup></sub>
     - [Programming](#Programming)
@@ -64,6 +63,7 @@ This list currently favors (but is not limited to) programming the core engine i
 - [Specialty Topics](#Specialty-Topics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
+    - [Entity Component System](#Topic-ECS")
     - [Fluid / Smoke](#Topic-Fluid)
     - [Geometry](#Geometry)
         - <sub><sup>[Algorithms](#Algorithms) | [Meshes](#Meshes) | [Smoothing](#Smoothing)</sup></sub>
@@ -197,13 +197,6 @@ _Info on topics necessary for designing and developing game engines_
     - #### Education Portals <a name="Engine-Education"></a>
         - :books: [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) : Short and simple starting point on Game Engine Development
 
-- ### Entity Component System
-    - :books: [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
-    - :books: [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) : Article that provides a solid overview of EC systems and why you should use them at [Cowboy Programming](https://cowboyprogramming.com).
-    - :books: [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) : Nice blog post about component based architecture at at [raywenderlich.com](https://www.raywenderlich.com).
-    - :books: [Nomad Game Engine](https://savas.ca/nomad) [:octocat:](https://github.com/taurheim/NomadECS) : Series of articles building a basic entity component system from the ground up in C++.
-    - :books: [What's an Entity System](http://entity-systems.wikidot.com) : Overview of component / entity systems and how they are used in game development.
-
 - ### Game Development
     - #### Awesome Collections <a name="Game-Development-Awesome"></a>
         - :books: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) : Collection of free software and free culture resources for making amazing games.
@@ -220,7 +213,9 @@ _Info on topics necessary for designing and developing game engines_
     - :books: [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) : Collection of (mostly) technical things every software developer should know.
     - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
     - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
-        
+
+- #### Topics
+    _see [Specialty Topics](#Specialty-Topics)_        
 
 <br>
 
@@ -278,7 +273,10 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Marching Squares](https://prideout.net/marching-squares) [:octocat:](https://github.com/prideout/par/blob/master/par_msquares.h) : Converts grayscale images, or 8-bit color images, into triangles.
         - :tada: [Octasphere](https://prideout.net/blog/octasphere/) [:octocat:](https://github.com/prideout/par/blob/master/par_octasphere.h) : Tiny malloc-free library that generates triangle meshes for spheres, rounded boxes, and capsules.
         - :tada: [par_shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) : Simple C library for creation and manipulation of triangle meshes including platonic solids, spheres and more.
-    - #### Graphics <a name="C-Graphics"></a>
+        - :tada: [par_streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) : Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
+    - #### Graphics: 2D <a name="C-Graphics-2D"></a>
+        - :tada: [NanoVG](https://github.com/memononen/nanovg) : Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
+    - #### Graphics: 3D <a name="C-Graphics-3D"></a>
         - :tada: [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) [:octocat:](https://github.com/floooh/sokol) : Cross platform, single header file graphics abstraction api, part of the larger, amazing [Sokol](https://floooh.github.io/sokol-html5/) library. [[Examples](https://floooh.github.io/sokol-html5) | [Learn OpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
         - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - #### Gui <a name="C-Gui"></a>
@@ -300,9 +298,9 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) : Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
     - #### Scripting <a name="C-Scripting"></a>
         - :tada: [Duktape](https://github.com/svaarala/duktapev) : Embeddable Javascript engine with a focus on portability and compact footprint.
-    - #### Vector Graphics <a name="C-Vector-Graphics"></a>
-        - :tada: [NanoVG](https://github.com/memononen/nanovg) : Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
-        - :tada: [par_streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) : Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
+        - :tada: [JerryScript](https://jerryscript.net) [:octocat:](https://github.com/jerryscript-project/jerryscript) : Ultra-lightweight JavaScript engine for the Internet of Things.
+        - :tada: [Lua](https://www.lua.org) [:octocat:](https://github.com/lua/lua) : Powerful, efficient, lightweight, embeddable scripting language.
+        - :tada: [QuickJS](https://bellard.org/quickjs/) [:octocat:](https://github.com/bellard/quickjs) : Small and embeddable Javascript engine.
     
 <br>
 
@@ -310,6 +308,9 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Awesome Collections - <a name="Cpp-Language-Awesome"></a>
         - :books: [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - :books: [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) : Curated list of awesome C++ (mainly) things for Game Development.
+        - :tada: [Boost Libraries](https://www.boost.org) [:octocat:](https://github.com/boostorg) : Free peer-reviewed portable C++ source libraries, that work well with the C++ Standard Library. Basically an extension of the STL, many Boost libaries go on to become part of the STL.
+    - #### App Framework <a name="Cpp-App-Framework"></a>
+        - :tada: [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) : Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
     - #### Animation <a name="Cpp-Animation"><a/>
         - :question: [Easing Functions](https://github.com/nicolausYes/easing-functions) : Easing functions implemented in C++.
         - :tada: [ozz-animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) : Open source skeletal animation library and toolset.
@@ -322,6 +323,9 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Entity Component System <a name="Cpp-Entity-Component-System"></a>
         - :tada: [EntityX](https://github.com/alecthomas/entityx) : Fast, type-safe C++ Entity-Component system.
         - :tada: [Entt](https://github.com/skypjack/entt) : Gaming meets modern C++, a fast and reliable entity component system.
+    - #### Fonts <a name="Cpp-Fonts"></a>
+        - :tada: [HarfBuzz](https://harfbuzz.github.io) [:octocat:](https://github.com/harfbuzz/harfbuzz) : Text shaping library, allows programs to convert a sequence of Unicode input into properly formatted and positioned glyph output—for any writing system and language.
+        - :moneybag: [Slug](http://sluglibrary.com) : For rendering high-quality, resolution-independent text and vector graphics in 3D applications on the GPU.
     - #### File Loading <a name="Cpp-File-Loading"></a>
         - :tada: [C++ Bitmap Library](http://www.partow.net/programming/bitmap/index.html) [:octocat:](https://github.com/ArashPartow/bitmap) : Incredible bitmap loading and manipulation library.
         - :star: [jpeg-compressor](https://github.com/richgel999/jpeg-compressor) : Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
@@ -330,38 +334,105 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [tinygltf](https://github.com/syoyo/tinygltf) : Header only C++11 tiny glTF 2.0 library.
         - :tada: [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
+        - :tada: [Ethereal Engine](https://github.com/volcoma/EtherealEngine) : Cross-platform C++ game engine and editor.
         - :tada: [Esenthel](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
+        - :tada: [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) : Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+        - :tada: [Lumix Engine](https://github.com/nem0/LumixEngine) : Yet another C++ open source 3D game engine with an [Dear ImGui](https://github.com/ocornut/imgui) based editor.
+        - :lock: [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) : Cross-platform GPU-oriented C++ application / game framework.
         - :tada: [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) : Cross-platform framework for creative code. Nice editor.
-        - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine.
+        - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine built on [Forge](https://github.com/ConfettiFX/The-Forge).
         - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
     - #### Game Framework <a name="Cpp-Game-Framework"></a>
+        - :tada: [Acid](https://github.com/EQMG/Acid) : Open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular.
         - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, gui, audio, network, physics, user input, etc. Widely used in game development and application construction.
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
+        - :lock: [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) : Lightweight sandbox game engine using OpenGL for additional customisation and quick prototyping.
+        - :tada: [Halley](https://github.com/amzeratul/halley) : Lightweight game engine written in C++17. It has been used to ship Wargroove, a turn-based strategy game, on desktop and consoles.
         - :tada: [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) : LÖVE is an awesome 2D game framework for writing game code with Lua.
         - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
+        - :tada: [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) : Small, portable and extensible C++ 3D coding framework.
+        - :star: [Ouzel](https://github.com/elnormous/ouzel) : Public domain C++ game engine mainly targeted for development of 2D games.
         - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
         - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (Previously known as Corona) Focus on ease of iterations and usage.
+        - :tada: [two](https://github.com/hugoam/two) : C++ toolkit for rapid development of live graphical apps and games.
+        - :tada: [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) : Free lightweight, cross-platform 2D and 3D game engine.
+        - :money_with_wings: [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) : The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
     - #### Geometry <a name="Cpp-Geometry"></a>
+        - :tada: [CinoLib](https://github.com/mlivesu/cinolib) : Header only C++ library for processing polygonal and polyhedral meshes.
         - :tada: [Delabella](https://github.com/msokalski/delabella) : Super stable 2D delaunay triangulation.
+        - :tada: [delaunator-cpp](https://github.com/soerendd/delaunator-cpp) : Really fast C++ library for Delaunay triangulation of 2D points.
+        - :lock: [Easy3D](https://github.com/LiangliangNan/Easy3D) : Easy-to-use and efficient library for 3D modeling, geometry processing, and rendering.
         - :tada: [Extrude](https://github.com/stevinz/extrude) : Converts 2D images into 3D extruded meshes.
         - :tada: [Geometric Tools](https://www.geometrictools.com/index.html) : Collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics written in C++ 14.
+        - :tada: [GeometronLib](https://github.com/LukasBanana/GeometronLib) : Generates meshes for basic 3D geometric shapes (cube / sphere / cylinder / capsule and more) and handles ray / geometry intersection.
         - :lock: [libigl](https://libigl.github.io) [:octocat:](https://github.com/libigl/libigl) : Simple C++ geometry processing library.
+        - :tada: [meshoptimizer](https://github.com/zeux/meshoptimizer) : Mesh optimization library that makes meshes smaller and faster to render.
+        - :tada: [Polygon Mesh Processing Library](http://www.pmp-library.org) [:octocat:](https://github.com/pmp-library/pmp-library) : Modern C++ open-source library for processing and visualizing polygon surface meshes.
+        - :tada: [PolyPartition](https://github.com/ivanfratric/polypartition) : Lightweight C++ library for 2D polygon partition and triangulation.
+        - :star: [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - 2D implementation of the Ramer-Douglas-Peucker algorithm (reduces number of points in a line).
+        - :tada: [Recast & Detour](https://github.com/recastnavigation/recastnavigation) : Navigation-mesh toolset for games.
+        - :tada: [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) : Simplifies a mesh while preserving its UV's boundary, based on this paper, [Seamless](https://cragl.cs.gmu.edu/seamless/).
+        - :tada: [Spheres](https://github.com/caosdoar/spheres) : Four methods to create a sphere mesh.
         - :lock: [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) : Library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
-    - #### Graphics <a name="Cpp-Graphics"></a>
+        - :tada: [V-HACD](https://github.com/kmammou/v-hacd) : Decomposes a 3D surface into a set of "near" convex parts.
+    - #### Graphics: 2D <a name="Cpp-Graphics-2D"></a>
+        - :tada: [Skia](https://skia.org) [:octocat:](https://github.com/google/skia) : Complete 2D graphic library for drawing Text, Geometries, and Images by [Google](https://www.google.com).
+    - #### Graphics: 3D <a name="Cpp-Graphics-3D"></a>
         - :tada: [Bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, rendering library.
+        - :tada: [Diligent Engine](http://diligentgraphics.com/diligent-engine/) [:octocat:](https://github.com/DiligentGraphics/DiligentEngine) : Modern, lightweight cross-platform graphics API abstraction library.
+        - :tada: [Ember](https://github.com/strah19/Ember) : Open source graphics framework for C++ using SDL2 and OpenGL.
+        - :tada: [Filament](https://google.github.io/filament/) [:octocat:](https://github.com/google/filament) : Real-time physically-based renderer by [Google](www.google.com). It is mobile-first, but also multi-platform.
+        - :tada: [Forge](https://github.com/ConfettiFX/The-Forge) : Cross-platform rendering framework supporting all major platforms and consoles.
         - :tada: [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) : 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
+        - :tada: [LLGL](https://github.com/LukasBanana/LLGL) : Thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
+        - :tada: [magnum engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) : Lightweight and modular C++11 graphics middleware for games and data visualization.
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
         - :tada: [Tungsten](https://github.com/tunabrain/tungsten) : High performance physically based renderer in C++11.
+        - :tada: [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) : Open-source C++ engine focusing on modern rendering techniques and performance.
+    - #### Gui <a name="Cpp-Gui"></a>
+        - :tada: [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) : Versatile, multi-platform library for creating graphical user interfaces for games and rendering applications.
+        - :tada: [Dear ImGui](https://github.com/ocornut/imgui) : :fire: Bloat-free graphical user interface for C++ with minimal dependencies, compatible with nearly any 3D rednering library.
+        - :lock: [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) : Cross-platform C++ GUI toolkit for Linux, Windows, and MacOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
+        - :lock: [GTK](https://www.gtk.org) : The [GIMP](https://www.gimp.org) Toolkit, a multi-platform toolkit for creating graphical user interfaces. [[Repo](https://gitlab.gnome.org/GNOME/gtk/)] 
+        - :books: [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) : Excellent list of C++ gui libraries, with pictures and descriptions.
+        - :tada: [litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
+        - :tada: [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) : Cross-platform library for GUI programming in modern C++ style.
+        - :star: [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header. Works on Windows, MacOS or Linux.
+        - :lock: [Qt](https://www.qt.io) : The industry standard. Most popular c++ cross platform gui library there is. Open source and paid commercial licensing available.
+        - :star: [RmlUi](https://github.com/mikke89/RmlUi) : Takes your HTML/CSS-like source files and turns them into vertices, indices and draw commands, and then you bring your own renderer to draw them. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
+        - :star: [Turbo Badger](https://github.com/fruxo/turbobadger) : Small footprint UI library for hardware accelerated games & applications. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
+        - :lock: [Wt](https://www.webtoolkit.eu/wt/) [:octocat:](https://github.com/emweb/wt) : Web GUI library in modern C++. Quickly develop highly interactive web UIs with widgets, without having to write a single line of JavaScript.
+        - :lock: [wxWidgets](https://wxwidgets.org) [:octocat:](https://github.com/wxWidgets/wxWidgets) : Cross-platform C++ framework for writing advanced GUI applications using native controls.
+    - #### Input <a name="Cpp-Input"></a>
+        - :tada: [Gainput](http://gainput.johanneskuhlmann.de) [:octocat:](https://github.com/jkuhlmann/gainput) : Awesome C++ input library for your game. It's easy to use, open source and cross-platform.
+        - :tada: [OIS](https://github.com/wgois/OIS) : Object oriented input system. Compatiable with many systems and operating systems.
+        - :tada: [Oryol Input](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) : Input module from the [Oryol](http://floooh.github.io/oryol/) game framework.
     - #### Lighting <a name="Cpp-Lighting"></a>
         - :tada: [Thekla Atlas](https://github.com/Thekla/thekla_atlas) : Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied uv's.
         - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
+    - #### Math <a name="Cpp-Math"></a>
+        - :tada: [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html) [:octocat:](https://github.com/g-truc/glm) : Header only C++ mathematics library for graphics software.
     - #### Physics <a name="Cpp-Physics"></a>
         - :tada: [Box2D](https://box2d.org) [:octocat:](https://github.com/erincatto/box2d) : The original, classic, battle tested 2D physics engine for games. [[Docs](https://box2d.org/documentation/) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction) | [Fixed Time-Step Implementation](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d)]
         - :tada: [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) : 3D Physics simulation for games, visual effects, robotics and reinforcement learning.
         - :tada: [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) : An extension of [Box2D](https://box2d.org), it adds a particle based fluid and soft body simulation to the rigid body functionality of [Box2D](https://box2d.org).
         - :tada: [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) : Physics engine library that can be used in 3D simulations and games.
         - :tada: [qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
+    - #### Reflection <a name="Cpp-Reflection"></a>
+        - :tada: [Boost.PFR](https://www.boost.org/doc/libs/master/doc/html/boost_pfr.html) [:octocat:](https://github.com/boostorg/pfr) : Very basic reflection C++14 library. Part of the [Boost Libraries](https://www.boost.org).
+        - :tada: [Magic Enum](https://github.com/Neargye/magic_enum) : Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code.
+        - :tada: [Meta](https://github.com/skypjack/meta) : Header-only, non-intrusive and macro-free runtime reflection system in C++17.
+        - :tada: [Nameof](https://github.com/Neargye/nameof) : Header-only C++17 library provides nameof macros and functions to simply obtain the name of a variable, type, function, macro, and enum.
+        - :tada: [Ponder](https://billyquith.github.io/ponder/) [:octocat:](https://github.com/billyquith/ponder) : Expose C++17 classes and objects so they can used as data. Serialisation and Lua scripting supported.
+        - :tada: [Reflect](https://github.com/stevinz/reflect) : Small, flexible, single header library for runtime reflection and meta data in C++11.
+        - :tada: [RTTR](https://www.rttr.org) [:octocat:](https://github.com/rttrorg/rttr) : An open source library, which adds reflection to C++11.
+    - #### Scripting <a name="Cpp-Scripting"></a>
+        - :tada: [AngelScript](http://www.angelcode.com/angelscript/) []() : Cross-platform scripting library, follows the widely known syntax of C/C++, and uses common C/C++ datatypes for more efficient communication with the host application.
+        - :lock: [ArkScript](https://arkscript-lang.dev) [:octocat:](https://github.com/ArkScript-lang/Ark) : Small, fast, functional and scripting language for C++ projects.
+        - :tada: [ChaiScript](http://chaiscript.com) [:octocat:](https://github.com/ChaiScript/ChaiScript) : Embedded scripting language designed from to directly target C++17.
+        - :tada: [GameMonkey Script](http://www.gmscript.com) [:octocat:](https://github.com/publicrepo/gmscript) : Embedded scripting language for C++ apps, tools and games.
+        - :tada: [v8](https://v8.dev) [:octocat:](https://github.com/v8/v8) : Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
     - #### Terrain <a name="Cpp-Terrain"></a>
         - :tada: [Terra Forge 3D](https://jaysmito101.github.io/TerraForge3D/) [:octocat:](https://github.com/Jaysmito101/TerraForge3D) : Procedural 3D terrain generation and texturing tool.
     - #### Visual Scripting <a name="Cpp-Visual-Scripting"></a>
@@ -453,6 +524,9 @@ _Language specific game engine development libraries / frameworks / code_
 - ### Javascript
     - #### - Language - <a name="Javascript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
+    - #### - Language: Cross Platform - 
+        - :tada: [Electron](https://www.electronjs.org) [:octocat:](https://github.com/electron/electron) : Build cross-platform desktop apps with Javascript, HTML, and CSS.
+        - :money_with_wings: [Ultralight](https://ultralig.ht/) : Based on WebKit — supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable. Currently available for Windows, macOS, Linux, and Xbox.
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
         - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : Cross-Platform 2D / 3D Game Creation Tool
@@ -494,7 +568,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 
 ## Specialty Topics
-_Exploring specific game engine / game dev topics and features_
+_Exploring specialty application / game engine / game development topics and features_
 
 - ### AI / Pathfinding <a name="Topic-AI"></a>
     - :books: [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at [raywenderlich.com](https://www.raywenderlich.com).
@@ -502,6 +576,13 @@ _Exploring specific game engine / game dev topics and features_
 
 - ### Animation <a name="Topic-Animation"></a>
     - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
+
+- ### Entity Component System <a name="Topic-ECS"></a>
+    - :books: [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
+    - :books: [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) : Article that provides a solid overview of EC systems and why you should use them at [Cowboy Programming](https://cowboyprogramming.com).
+    - :books: [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) : Nice blog post about component based architecture at at [raywenderlich.com](https://www.raywenderlich.com).
+    - :books: [Nomad Game Engine](https://savas.ca/nomad) [:octocat:](https://github.com/taurheim/NomadECS) : Series of articles building a basic entity component system from the ground up in C++.
+    - :books: [What's an Entity System](http://entity-systems.wikidot.com) : Overview of component / entity systems and how they are used in game development.
 
 - ### Fluid / Smoke <a name="Topic-Fluid"></a>
     - :books: [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : GPU Gems Chapter 38 - Method for fast, stable fluid simulation that runs entirely on the GPU.
@@ -564,6 +645,8 @@ _Exploring specific game engine / game dev topics and features_
 - ### Scripting
     - :books: [Adding Languages to Game Engines](https://www.gamedeveloper.com/programming/adding-languages-to-game-engines) : How a self described "lazy programmer" built the powerful scripting language used in making Jedi Knight: Dark Forces 2.
     - :books: [Implementing a Scripting Engine](https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml) : In depth series of articles about writting a scripting engine from scratch.
+    - :books: [Embedded Scripting Languages](https://caiorss.github.io/C-Cpp-Notes/index.html) : Selection of embedded scripting languages and engines available as libraries.
+    - :books: [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) : List of reasonably mature open source embedded scripting languages to use in your application.
     - :books: [Scriptorium](https://github.com/r-lyeh-archived/scriptorium) : Game scripting languages benchmarked.
 
 - ### Shaders <a name="Topic-Shaders"></a>
