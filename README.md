@@ -810,7 +810,12 @@ _Software to help with game engine / video game development_
     - #### Sound Effects <a name="Tools-Audio-Sound-Effects"></a>
         - :free: [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) : The classic program of choice for many people looking to make sound effects for computer games.
         - :free: [ChipTone](https://sfbgames.itch.io/chiptone) : Excellent tool for generating sound effects.
+
 - ### Color <a name="Tools-Color"></a>
+    - :earth_americas: [Colormind](http://colormind.io) : Color scheme generator that can learn color styles from photographs, movies and popluar art.
+    - :earth_americas: [COLOURlovers](https://www.colourlovers.com) : Creative community where people from around the world create and share colors, palettes and patterns.
+    - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
+    - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
 
 - ### Drawing / Vector Editors <a name="Tools-Drawing"></a>
 
@@ -840,16 +845,36 @@ _Software to help with game engine / video game development_
 _Resources to help bring video games and game engines alive_
 
 - ### Graphics <a name="Assets-Graphics"></a>
+    - :money_with_wings: [Flaticon](https://www.flaticon.com) : Nice vector icons and stickers.
+    - :money_with_wings: [Freepik](https://www.freepik.com) : High quality illustrations, photos, icons and presentation templates.
+    - :free: [Kenny](https://www.kenney.nl/assets) : Amazing 2D and 3D CC0 1.0 game graphics and other assets.
+    - :money_with_wings: [Mobile Game Graphics](https://mobilegamegraphics.com) : Nice collection of a mix of free and paid original 2D game graphics.
+    - :free: [Open Game Art](https://opengameart.org) : Leading portal for free / public domain game art online.
+    - :moneybag: [Shutterstock](https://www.shutterstock.com) : Millions of images, videos and music tracks.
+    - :free: [Top Free Game Assets](https://itch.io/game-assets/free) : Top free game assets listed on [itch.io](https://itch.io).
 
 - ### Materials <a name="Assets-Materials"></a>
+    - :free: [ambientCG](https://ambientcg.com) : Public domain materials for physically based rendering.
+    - :free: [pmndrs materials](https://market.pmnd.rs/materials) : Nice collection of public domain materials.
 
 - ### Models <a name="Assets-Models"></a>
-    - :star: [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
+    - :free: [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
+    - :free: [pmndrs market](https://market.pmnd.rs) : Nice collection of public domain models.
+    - :free: [Poly Pizza](https://poly.pizza) : Build something beautiful with thousands of free low poly models.
+    - :books: [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3d graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
+    - :money_with_wings: [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
 
 - ### Music <a name="Assets-Music"></a>
+    - :money_with_wings: [Bensound](https://www.bensound.com/royalty-free-music) : Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
+    - :money_with_wings: [Incompetech](https://incompetech.com/wordpress/) : Nice collection of tracks. Use music for free with attribution or buy once and use forever.
+    - :money_with_wings: [Melody Loops](https://www.melodyloops.com/music/free/) : Great mix of free and affordable music loops.
+    - :money_with_wings: [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) : Huge collection of free and paid royalty free music tracks.
+    - :money_with_wings: [Soundimage](https://soundimage.org/looping-music/) : Looping music tracks intended for videogame developers. All are free to use with attribution.
 
 - ### Sound Effects <a name="Assets-Sound-Effects"></a>
-
+    - :free: [freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
+    - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com) : Large collection of sound effects.
+    - :moneybag: [Soundsnap](https://www.soundsnap.com) : Professional sound effects library with hundreds of thousands of sounds, subscription based.
 
 <br><br>
 
