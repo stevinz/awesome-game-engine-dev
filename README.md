@@ -228,7 +228,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language - <a name="Basic-Language"></a>
         - :tada: [Basics Page](http://basic.mindteq.com/index.php?i=popular) : Comprehensive list of BASIC languages.
     - #### App Framework <a name="Basic-App-Framework"></a>
-        - :money_bag: [Basic for Qt](https://www.q7basic.org/index.html) : (formerly Q7Basic) Multi-platform BASIC programming language and environment, built on top of [Qt](https://www.qt.io).
+        - :moneybag: [Basic for Qt](https://www.q7basic.org/index.html) : (formerly Q7Basic) Multi-platform BASIC programming language and environment, built on top of [Qt](https://www.qt.io).
         - :tada: [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) : Modern extended BASIC + OpenGL language that retains QB4.5 / QBasic compatibility and compiles native binaries for Windows, Linux and macOS.
         - :books: [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) : Object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
     - #### Game Framework <a name="Basic-Game-Framework"></a>
@@ -528,7 +528,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### File Formats <a name="Dart-File-Formats"></a>
         - :tada: [image](https://github.com/brendan-duncan/image) : Library for decoding / encoding image formats, and image processing.
     - #### Game Framework <a name="Dart-Game-Framework"></a>
-        - -:tada: [Flame](https://flame-engine.org) [:octocat:](https://github.com/flame-engine/flame) : Minimalist Flutter based 2D game engine. [[Awesome Flame](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/)]
+        - :tada: [Flame](https://flame-engine.org) [:octocat:](https://github.com/flame-engine/flame) : Minimalist Flutter based 2D game engine. [[Awesome Flame](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/)]
 
 <br>
 
@@ -642,7 +642,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 - ### Python
     - #### - Language - <a name="Python-Language"></a>
-        - :earth_americas: [Python.org]() : 
+        - :earth_americas: [Python.org](https://www.python.org) : Programming language that lets you work quickly and integrate systems more effectively. [[Docs](https://www.python.org/doc/)]
     - #### - Language: Awesome Collections - <a name="Python-Language-Awesome"></a>
         - :books: [Awesome Python](https://github.com/vinta/awesome-python) : Curated list of awesome Python frameworks, libraries, software and resources.
     - #### - Language: Cross-Platform - <a name="Python-Language-Cross-Platform"></a>
