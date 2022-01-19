@@ -47,6 +47,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [C](#C)
     - [C++](#Cpp)
     - [C#](#CSharp)
+    - [Dart](#Dart)
     - [Haxe](#Haxe)
     - [Java](#Java)
     - [Javascript](#Javascript)
@@ -206,9 +207,12 @@ _Info on topics necessary for designing and developing game engines_
 
 - ### Programming
     - :books: [Big-O Cheat Sheet](https://www.bigocheatsheet.com) : This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.
+    - :earth_americas: [Deadlock Empire](https://deadlockempire.github.io/#menu) : Interactive tutorial to master threads and concurrency.
     - :books: [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) : Collection of (mostly) technical things every software developer should know.
     - :books: [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) : Awesome list of games that teach you a programming language.
+    - :earth_americas: [Geeks for Geeks](https://www.geeksforgeeks.org) : Free tutorials, articles, online and classroom courses, coding competitions, job opportunities and more.
     - :books: [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) : Educational resources to learn to program.
+    - :books: [TIOBE Index](https://www.tiobe.com/tiobe-index/) : Indicator of the popularity of programming languages. The index is updated once a month.
 
 - ### Topics
     _see [Specialty Topics](#Specialty-Topics)_        
@@ -219,6 +223,18 @@ _Info on topics necessary for designing and developing game engines_
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code_
+
+- ### Basic
+    - #### - Language - <a name="Basic-Language"></a>
+        - :tada: [Basics Page](http://basic.mindteq.com/index.php?i=popular) : Comprehensive list of BASIC languages.
+    - #### App Framework <a name="Basic-App-Framework"></a>
+        - :money_bag: [Basic for Qt](https://www.q7basic.org/index.html) : (formerly Q7Basic) Multi-platform BASIC programming language and environment, built on top of [Qt](https://www.qt.io).
+        - :tada: [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) : Modern extended BASIC + OpenGL language that retains QB4.5 / QBasic compatibility and compiles native binaries for Windows, Linux and macOS.
+        - :books: [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) : Object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
+    - #### Game Framework <a name="Basic-Game-Framework"></a>
+        - :tada: [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) : Open source BASIC programming language for creating Windows applications and games.
+
+<br>
 
 - ### C
     - #### - Language - <a name="C-Language"></a>
@@ -241,7 +257,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud)
     - #### Entity Component System <a name="C-Entity-Component-System"></a>
         - :tada: [flecs](https://github.com/SanderMertens/flecs) : Fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
-    - #### File Loading <a name="C-File-Loading"></a>
+    - #### File Formats <a name="C-File-Formats"></a>
         - :tada: [assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) : The Open Asset Importer Library. Loads 40+ 3D file formats into one unified and clean data structure.
         - :tada: [cgltf](https://github.com/jkuhlmann/cgltf) : Single-file glTF 2.0 loader and writer written in C99.
         - :star: [dr_libs](https://github.com/mackron/dr_libs) : Single file audio decoding libraries for C/C++.
@@ -333,7 +349,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Fonts <a name="Cpp-Fonts"></a>
         - :tada: [HarfBuzz](https://harfbuzz.github.io) [:octocat:](https://github.com/harfbuzz/harfbuzz) : Text shaping library, allows programs to convert a sequence of Unicode input into properly formatted and positioned glyph output—for any writing system and language.
         - :moneybag: [Slug](http://sluglibrary.com) : For rendering high-quality, resolution-independent text and vector graphics in 3D applications on the GPU.
-    - #### File Loading <a name="Cpp-File-Loading"></a>
+    - #### File Formats <a name="Cpp-File-Formats"></a>
         - :star: [jpeg-compressor](https://github.com/richgel999/jpeg-compressor) : Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
         - :tada: [tinydng](https://github.com/syoyo/tinydng) : Header only DNG / TIFF loader and writer.
         - :tada: [tinyexr](https://github.com/syoyo/tinyexr) : Tiny OpenEXR image loader/saver library.
@@ -403,12 +419,12 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Gui <a name="Cpp-Gui"></a>
         - :tada: [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) : Versatile, multi-platform library for creating graphical user interfaces for games and rendering applications.
         - :tada: [Dear ImGui](https://github.com/ocornut/imgui) : :fire: Bloat-free graphical user interface for C++ with minimal dependencies, compatible with nearly any 3D rednering library.
-        - :lock: [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) : Cross-platform C++ GUI toolkit for Linux, Windows, and MacOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
+        - :lock: [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) : Cross-platform C++ GUI toolkit for Linux, Windows, and macOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
         - :lock: [GTK](https://www.gtk.org) : The [GIMP](https://www.gimp.org) Toolkit, a multi-platform toolkit for creating graphical user interfaces. [[Repo](https://gitlab.gnome.org/GNOME/gtk/)] 
         - :books: [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) : Excellent list of C++ gui libraries, with pictures and descriptions.
         - :tada: [litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
         - :tada: [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) : Cross-platform library for GUI programming in modern C++ style.
-        - :star: [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header. Works on Windows, MacOS or Linux.
+        - :star: [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header. Works on Windows, macOS or Linux.
         - :lock: [Qt](https://www.qt.io) : The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available.
         - :star: [RmlUi](https://github.com/mikke89/RmlUi) : Takes your HTML/CSS-like source files and turns them into vertices, indices and draw commands, and then you bring your own renderer to draw them. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
         - :star: [Turbo Badger](https://github.com/fruxo/turbobadger) : Small footprint UI library for hardware accelerated games & applications. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
@@ -502,6 +518,20 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
+- ### Dart
+    - #### - Language - <a name="Dart-Language"></a>
+        - :tada: [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) : Official site. Client-optimized language for fast apps on any platform.
+    - #### - Language: Awesome Collections - <a name="Dart-Language-Awesome"></a>
+        - :books: [Awesome Dart](https://github.com/yissachar/awesome-dart) : Curated list of awesome Dart frameworks, libraries, and software.
+    - #### App Framework <a name="Dart-App-Framework"></a>
+        - :tada: [Flutter](https://flutter.dev) [:octocat:](https://github.com/flutter) : Open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase. [[Awesome Flutter](https://github.com/Solido/awesome-flutter)]
+    - #### File Formats <a name="Dart-File-Formats"></a>
+        - :tada: [image](https://github.com/brendan-duncan/image) : Library for decoding / encoding image formats, and image processing.
+    - #### Game Framework <a name="Dart-Game-Framework"></a>
+        - -:tada: [Flame](https://flame-engine.org) [:octocat:](https://github.com/flame-engine/flame) : Minimalist Flutter based 2D game engine. [[Awesome Flame](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/)]
+
+<br>
+
 - ### Haxe
     - #### - Language - <a name="Haxe-Language"></a>
         - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
@@ -566,6 +596,8 @@ _Language specific game engine development libraries / frameworks / code_
 - ### Java
     - #### - Language - <a name="Java-Language"></a>
         - :earth_americas: [Java](https://dev.java) [:octocat:](https://github.com/openjdk) : Official site. General-purpose programming language typically compiled to bytecode that can run on any [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
+    - #### - Language: Awesome Collections - <a name="Java-Language-Awesome"></a>
+        - :books: [Awesome Java](https://github.com/akullpp/awesome-java) : Curated list of awesome frameworks, libraries and software for the Java programming language.
     - #### - Language: Tutorials - <a name="Java-Language-Tutorials"></a>
         - :books: [Learn Java](https://dev.java/learn/) : Official docs and tutorials.
         - :books: [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) : OpenGL / GLSL tutorials written for LWJGL and libGDX.
@@ -609,15 +641,35 @@ _Language specific game engine development libraries / frameworks / code_
 <br>
 
 - ### Python
+    - #### - Language - <a name="Python-Language"></a>
+        - :earth_americas: [Python.org]() : 
+    - #### - Language: Awesome Collections - <a name="Python-Language-Awesome"></a>
+        - :books: [Awesome Python](https://github.com/vinta/awesome-python) : Curated list of awesome Python frameworks, libraries, software and resources.
+    - #### - Language: Cross-Platform - <a name="Python-Language-Cross-Platform"></a>
+        - :money_with_wings: [Anvil](https://anvil.works) : Full stack web apps with nothing but Python.
+    - #### Game Framework <a name="Python-Game-Framework"></a>
+        - :tada: [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) : Easy to use Python library for creating 2D arcade games.
+        - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
+        - :lock: [Pygame](https://www.pygame.org) [:octocat:](https://github.com/pygame/pygame) : Library for making multimedia applications (like games) using Python, built on top of the excellent [SDL](https://libsdl.org) library.
+        - :tada: [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) : [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module that can display a grid of text characters in a [Pygame](https://www.pygame.org) Surface Object. Provides an easy way to create text adventures, roguelikes, and console-style applications in Python.
     - #### Gui <a name="Python-Gui"></a>
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
 <br>
 
 - ### Rust
+    - #### - Language - <a name="Rust-Language"></a>
+        - :earth_americas: [Rust](https://www.rust-lang.org) [:octocat:](https://github.com/rust-lang) : Language empowering everyone to build reliable and efficient software. [[Docs](https://www.rust-lang.org/learn)]
+    - #### - Language: Awesome Collections - <a name="Rust-Language-Awesome"></a>
+        - :books: [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) : Curated list of Rust code and resources.
+    - #### App Framework <a name="Rust-App-Framework"></a>
+        - :tada: [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) : Cross-platform, creative software development platform and native-rendering UI framework for Rust.
     - #### Game Framework <a name="Rust-Game-Framework"></a>
-        - :tada: [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) : :fire: Refreshingly simple data-driven game engine built in Rust.
+        - :tada: [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) : Data-driven and data-oriented 2D / 3D game engine aiming to be fast and as configurable as possible.
+        - :tada: [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) : :fire: Refreshingly simple data-driven 2D / 3D game engine built in Rust.
         - :tada: [macroquad](https://github.com/not-fl3/macroquad) : Simple and easy to use game library for Rust programming language, heavily inspired by [raylib](https://www.raylib.com).
+    - #### Graphics: 3D <a name="Rust-Graphics-3D"></a>
+        - :tada: [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) : Keep it simple, stupid 3d graphics engine for Rust.
     - #### Physics <a name="Rust-Physics"></a>
         - :tada: [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) : 2D and 3D physics engines focused on performance.
 
@@ -801,6 +853,9 @@ _Resources to help bring video games and game engines alive_
 
 <br><br>
 
+## Contributing
+
+<br>
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
