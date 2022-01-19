@@ -67,7 +67,7 @@ This list currently favors (but is not limited to) programming the core engine i
         - <sub><sup>[Platformer](#Platformer) | [Ropes / Chains](#Topics-Physics-Ropes) | [Soft Body](#Soft-Body) | [Verlet](#Verlet-Physics) | [Water](#Topics-Physics-Water)</sup></sub>
     - [Scripting](#Scripting)
     - [Shaders](#Topic-Shaders)
-         - <sub><sup>[Bloom](#Bloom) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
+         - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [Animation](#Tools-Animation)
@@ -76,12 +76,10 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Color](#Tools-Color)
     - [Game Dev](#Tools-Game-Dev)
     - [Image Editors](#Tools-Image)
-    - [Materials](#Tools-Materials)
+    - [Materials / Textures](#Tools-Materials)
     - [Modeling](#Tools-Modeling)
     - [Particles](#Tools-Particles)
     - [Pixel Art](#Tools-Pixel-Art)
-    - [Sound](#Tools-Sound)
-    - [Textures](#Tools-Textures)
     - [Vector Drawing](#Tools-Vector-Drawing)
     - [Voxel](#Voxel)
 - [Video Game Assets](#Video-Game-Assets)
@@ -108,11 +106,11 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :tada: [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) : Free, open source AAA game engine deeply integrated with AWS and Twitch.
     - :moneybag: [C4 Engine](http://c4engine.com) : Modern console engine.
     - :money_with_wings: [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) : Powerful real-time game development platform created by Crytek.
-    - :free: [Evergine](https://evergine.com) : (previously known as Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
+    - :free: [Evergine](https://evergine.com) : (previously Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
     - :money_with_wings: [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) : Modern 3D game engine written in C++ and C#. Stunning graphics, powerful scripts.
     - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (by Electronic Arts) Cutting-Edge Games and Experiences.
     - :moneybag: [Gamebryo](http://www.gamebryo.com) : Complete toolset, flexible workflow, rapid prototyping.
-    - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (Successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
+    - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
     - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (by Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
     - :money_with_wings: [Unigine](https://unigine.com) : Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
@@ -125,10 +123,10 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :money_with_wings: [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) : Versatile real-time platform for making 2D / 3D games and apps.
-    - :money_with_wings: [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (Repo for  runtime only) : Popular (Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
+    - :money_with_wings: [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for  runtime only) : Popular (used for Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
     - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [[Developer Website](http://fireflytech.org)]
-    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (Repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 - ### Specialty
     - :moneybag: [3dSen](https://geod.itch.io/3dnes) : Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
@@ -154,6 +152,7 @@ _Info on topics necessary for designing and developing game engines_
         - :books: [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) : Programming techniques, tips, and tricks for real-time graphics hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) : Programming techniques for high-performance graphics and general-purpose computation hosted by [NVIDIA](https://www.nvidia.com/).
         - :books: [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) : Collection of state-of-the-art GPU programming examples hosted by [NVIDIA](https://www.nvidia.com/).
+        - :books: [Physically Based Rendering](https://www.pbrt.org) : The Academy Award winning authority on PBR. Describes both the mathematical theory behind a modern photorealistic rendering system as well as its practical implementation.
     - #### Education Portals <a name="Graphics-Education"></a>
         - :books: [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) : Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
         - :books: [Scratchapixel](https://www.scratchapixel.com) : Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
@@ -332,14 +331,14 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) : Comprehensive list of open source C++ libraries from [cppreference.com](https://en.cppreference.com/w/).
         - :books: [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) : NVIDIA Technologies for game and application developers.
     - #### - Language: Cross-Platform - <a name="Cpp-Language-Cross-Platform"></a>
-        - :earth_americas: [emscripten](https://emscripten.org) [:octocat:](https://github.com/emscripten-core/emscripten) : The C/C++ to Javascript (WebAssembly) compiler.
+        - :earth_americas: [emscripten](https://emscripten.org) [:octocat:](https://github.com/emscripten-core/emscripten) : The C/C++ to Javascript (as WebAssembly) compiler.
     - #### App Framework <a name="Cpp-App-Framework"></a>
         - :tada: [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) : Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
     - #### Animation <a name="Cpp-Animation"><a/>
         - :tada: [ozz-animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) : Open source skeletal animation library and toolset.
         - :tada: [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) : Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
     - #### Audio <a name="Cpp-Audio"><a/>
-        - :moneybag: [irrKlang](https://www.ambiera.com/irrklang/) : High level 2D and 3D cross-platform (Windows, macOS, Linux) sound engine and audio library.
+        - :moneybag: [irrKlang](https://www.ambiera.com/irrklang/) : High level 2D and 3D cross-platform desktop sound engine and audio library.
         - :moneybag: [Juce](https://juce.com) : The leading framework for multi-platform audio applications.
         - :lock: [OpenAL Soft](https://github.com/kcat/openal-soft) : Software implementation of the OpenAL 3D audio API.
         - :tada: [PortAudio](http://www.portaudio.com) [:octocat:](https://github.com/PortAudio/portaudio) : Free, cross-platform, open-source, audio I/O library.
@@ -376,7 +375,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) : Small, portable and extensible C++ 3D coding framework.
         - :star: [Ouzel](https://github.com/elnormous/ouzel) : Public domain C++ game engine mainly targeted for development of 2D games.
         - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
-        - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (Previously known as Corona) Focus on ease of iterations and usage.
+        - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (previously Corona) Focus on ease of iterations and usage.
         - :tada: [two](https://github.com/hugoam/two) : C++ toolkit for rapid development of live graphical apps and games.
         - :tada: [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) : Free lightweight, cross-platform 2D and 3D game engine.
         - :money_with_wings: [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) : The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
@@ -486,7 +485,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language - <a name="CSharp-Language"></a>
         - :books: [Dot Net Perls](https://www.dotnetperls.com) : Amazing reference for the C# language.
     - #### - Language: Cross-Platform - <a name="CSharp-Language-Cross-Platform"></a>
-        - :earth_americas: [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) [:octocat:](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) : Microsoft's C# to Javascript (WebAssembly) technology.
+        - :earth_americas: [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) [:octocat:](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) : Microsoft's C# to Javascript (as WebAssembly) technology.
         - :tada: [Mono](https://www.mono-project.com) [:octocat:](https://github.com/mono/mono) : Open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
     - #### Audio <a name="CSharp-Audio"><a/>
         - :tada: [NAudio](https://github.com/naudio/NAudio) : Audio and MIDI library for .NET.
@@ -562,7 +561,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
         - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
         - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : :fire: Very cool modern, lightweight and efficient 2D level editor.
-        - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular (Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
+        - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular (used for Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
     - #### Game Framework <a name="Haxe-Game-Framework"></a>
         - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
         - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2d game framework.
@@ -574,6 +573,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Sparkler](https://github.com/AndreiRudenko/sparkler) : Modular Macro-powered Particle System.
     - #### Gui <a name="Haxe-Gui"></a>
         - :tada: [HaxeUI](http://haxeui.org) [:octocat:](https://github.com/haxeui/haxeui-core) : Cross-platform set of styleable application centric, rich UI components.
+        - :tada: [zui](https://github.com/armory3d/zui) : Immediate mode user interface, used in [ArmorPaint](https://armorpaint.org).
     - #### Physics <a name="Haxe-Physics"></a>
         - :tada: [Haxe Bullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
         - :tada: [HeapsIO/bullet](https://github.com/HeapsIO/bullet) : Bullet 3D Physics for Heaps (Haxe's native low-level game framework).
@@ -612,7 +612,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
     - #### - Language: Cross-Platform - <a name="Javascript-Language-Cross-Platform"></a>
         - :tada: [Electron](https://www.electronjs.org) [:octocat:](https://github.com/electron/electron) : Build cross-platform desktop apps with Javascript, HTML, and CSS.
-        - :tada: [NW.js](https://nwjs.io) [:octocat:](https://github.com/nwjs/nw.js) : (previously known as node-webkit) Build cross-platform desktop apps with Javascript, HTML, and CSS. Lets you call all Node.js modules directly from DOM.
+        - :tada: [NW.js](https://nwjs.io) [:octocat:](https://github.com/nwjs/nw.js) : (previously Node-Webkit) Build cross-platform desktop apps with Javascript, HTML, and CSS. Lets you call all Node.js modules directly from DOM.
         - :tada: [React Native](https://reactnative.dev) [:octocat:](https://github.com/facebook/react-native) : Framework for building native applications using [React](https://reactjs.org).
         - :money_with_wings: [Ultralight](https://ultralig.ht/) : Based on WebKit — supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable. Currently available for Windows, macOS, Linux, and Xbox.
         - :tada: [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) : Microsoft Edge WebView2 control allows you to embed web technologies (HTML, CSS, and JavaScript) in your native apps. [[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
@@ -770,6 +770,8 @@ _Exploring specialty application / game engine / game development topics and fea
         - :books: [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
         - :earth_americas: [Three.js Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect postprocessing example in [Three.js](https://threejs.org).
         - :books: [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
+    - #### Displacement
+        - :books: [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) : Excellent tutorial that introduces the construction of a basic vertex displacement shader in [Three.js](https://threejs.org).
     - #### Fire
         - :books: [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
         - :earth_americas: [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) : Simplex noise fire simulation shader at [ShaderToy](https://www.shadertoy.com).
@@ -816,7 +818,7 @@ _Software to help with game engine / video game development_
         - :free: [Bosca Ceoil](https://boscaceoil.net) : Free easy to use tool for creating music.
         - :free: [Cakewalk](https://www.bandlab.com/products/cakewalk) : Incredible, complete music production package.
         - :free: [FamiStudio](https://famistudio.org) [:octocat:](https://github.com/BleuBleu/FamiStudio) : Open source, simple music editor targeted at both chiptune artists and NES homebrewers.
-        - :money_with_wings: [fmod](https://www.fmod.com) : Very popular (Hades, Celeste, Untitled Goose Game, etc) audio software for games. Fast, fluid, flexible, end-to-end solution for adding sound and music to any game.
+        - :money_with_wings: [fmod](https://www.fmod.com) : Very popular (used for Hades, Celeste, Untitled Goose Game, etc.) audio software for games. Fast, fluid, flexible, end-to-end solution for adding sound and music to any game.
         - :free: [LMMS](https://lmms.io) [:octocat:](https://github.com/lmms/lmms) : Free, cross-platform music production software. Includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples.
         - :free: [PixiTracker](https://warmplace.ru/soft/pixitracker/) : Simple, fun tool to quickly create musical sketches, chiptunes and sound experiments - without requiring a lot of musical knowledge.
         - :free: [SunVox](https://warmplace.ru/soft/sunvox/) : Small, fast, free and powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
@@ -833,28 +835,55 @@ _Software to help with game engine / video game development_
     - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
 
 - ### Game Dev <a name="Tools-Game-Dev"></a>
-    
-- ### Image / Photo Editors <a name="Tools-Image"></a>
+    - :moneybag: [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) : Create stunning light effects with 2D sprites in your game engine.
+    - :moneybag: [Texture Packer](https://www.codeandweb.com/texturepacker) : Create sprite sheets and optimize your game graphics.
+    - :free: [Tiled](https://www.mapeditor.org) [:octocat:](https://github.com/mapeditor/tiled) : General purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
 
-- ### Materials <a name="Tools-Materials"></a>
+- ### Image Editors <a name="Tools-Image"></a>
+    - :free: [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) : GNU Image Manipulation Program, free and open-source cross-platform image editor.
+    - :free: [Photopea](https://www.photopea.com) : Very capable online photo editor.
+
+- ### Materials / Textures <a name="Tools-Materials"></a>
+    - :free: [ArmorLab](https://armorlab.org) [:octocat:](https://github.com/armory3d/armorlab) : Software designed for AI-powered texture authoring. Generate PBR materials by drag & dropping your photos.
+    - :moneybag: [Filter Forge](https://www.filterforge.com) : Desktop app that gives you access to over 13500 artistic photo effects and realistic textures – and a visual editor to create your own filters.
+    - :free: [JSplacement](https://windmillart.net/?p=jsplacement) : Cross-platform pseudo-random 8K displacement map generator.
+    - :free: [Material Maker](https://www.materialmaker.org) [:octocat:](https://github.com/RodZill4/material-maker) : Procedural PBR ([Physically Based Rendering](https://en.wikipedia.org/wiki/Physically_based_rendering)) materials authoring tool.
+    - :free: [Materialize](http://boundingboxsoftware.com/materialize/) [:octocat:](https://github.com/BoundingBoxSoftware/Materialize) : Stand alone tool for creating materials from images to be used in games.
+    - :money_with_wings: [PixPlant](https://www.pixplant.com/index.php) : Tool to allow simple creation of tiling 3D materials.
+    - :free: [TexaTool](https://kronbits.itch.io/texatool) : Free online too to generate tileable textures by just moving sliders.
+    - :free: [Texgen.js](https://texgenjs.org) [:octocat:](https://github.com/mrdoob/texgen.js) : JavaScript texture generator tool.
 
 - ### Modeling <a name="Tools-Modeling"></a>
+    - :moneybag: [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) : One of the oldest professional software programs for 3D modeling and rendering. Suitable for design visualization, games, and animation.
+    - :free: [ArmorPaint](https://armorpaint.org) [:octocat:](https://github.com/armory3d/armorpaint) : Software designed for physically-based texture painting. Drop in your 3D models and start painting.
+    - :moneybag: [Asset Forge](https://assetforge.io) : Allows anyone to create 3D models and 2D sprites using building blocks.
+    - :free: [Blender](https://www.blender.org) [:octocat:](https://github.com/blender/blender) : :fire: Free and open source 3D creation suite. Supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
+    - :free: [Meshroom](https://alicevision.org/#meshroom) [:octocat:](https://github.com/alicevision/meshroom) : Free, open-source 3D Reconstruction Software based on the [AliceVision](https://alicevision.org/#) framework.
+    - :money_with_wings: [ZBrush Core Mini](https://zbrushcore.com/mini/index.php) : Simple and easy to use 3D sculpting tool.
 
 - ### Particles <a name="Tools-Particles"></a>
+    - :money_with_wings: [Particle Designer](https://www.71squared.com/particledesigner) : Powerful particle effects editor designed specifically for macOS.
+    - :money_with_wings: [TimelineFX](https://www.rigzsoft.co.uk) : Create amazing particle effects for your games, applications and web pages.
 
 - ### Pixel Art <a name="Tools-Pixel-Art"></a>
-
-- ### Sound <a name="Tools-Sound"></a>
-
-- ### Textures <a name="Tools-Textures"></a>
+    - :money_with_wings: [aseprite](https://www.aseprite.org) [:octocat:](https://github.com/aseprite/aseprite) : Animated sprite editor and pixel art tool.
+    - :moneybag: [Fluid FX](https://codemanu.itch.io/fluid-fx) : Tool that relies on a fluid / pressure simulation to achieve different kind of animations like explosions, blood, smoke, dust, magic effects, etc.
+    - :moneybag: [Juice FX](https://codemanu.itch.io/juicefx) : Add style to your sprites and animations with ease.
+    - :free: [Piskel](https://www.piskelapp.com) [:octocat:](https://github.com/piskelapp/piskel) : Free online editor for animated sprites & pixel art.
+    - :moneybag: [PixaTool](https://kronbits.itch.io/pixatool) : Create pixel art by converting your images, sprites or videos.
+    - :moneybag: [Pixel FX](https://codemanu.itch.io/particle-fx-designer) : Create awesome pixelart particle effects and render them to .png sprite sheets or .gifs.
+    - :moneybag: [Smear FX](https://codemanu.itch.io/smear-fx) : Make your 2D animations extra juicy by adding some smearing to them.
 
 - ### Vector Drawing <a name="Tools-Vector-Drawing"></a>
     - :free: [Inkscape](https://inkscape.org) [:octocat:](https://github.com/inkscape/inkscape) : Free and open source vector graphics editor for Linux, Windows and macOS.
     - :free: [Krita](https://krita.org/en/) [:octocat:](https://github.com/KDE/krita) : Professional free and open source painting program.
     - :moneybag: [Vec Maker](https://kronbits.itch.io/vecmaker) : Easy to use vector design.
-    
-- ### Voxel <a name="Tools-Voxel"></a>
 
+- ### Voxel <a name="Tools-Voxel"></a>
+    - :moneybag: [Ken Shape](https://tools.kenney.nl/kenshape/) : Draw in 2D, set the depth for each pixel and generate 3D models!
+    - :tada: [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) : Generates isometric pixel art from [MagicaVoxel](https://ephtracy.github.io) .vox files.
+    - :free: [MagicaVoxel](https://ephtracy.github.io) : Free lightweight GPU-based voxel art editor.
+    - :moneybag: [Qubicle](https://www.getqubicle.com) : Professional (used for Crossy Road, Pacman 256, etc.) voxel editor optimized for the easy creation of 3D models.
 
 <br><br>
 
