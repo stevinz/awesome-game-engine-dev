@@ -74,7 +74,6 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Audio](#Tools-Audio)
         - <sub><sup>[Music](#Tools-Audio-Music) | [Sound Effects](#Tools-Audio-Sound-Effects)</sup></sub>
     - [Color](#Tools-Color)
-    - [Drawing](#Tools-Drawing)
     - [Game Dev](#Tools-Game-Dev)
     - [Image Editors](#Tools-Image)
     - [Materials](#Tools-Materials)
@@ -83,6 +82,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Pixel Art](#Tools-Pixel-Art)
     - [Sound](#Tools-Sound)
     - [Textures](#Tools-Textures)
+    - [Vector Drawing](#Tools-Vector-Drawing)
     - [Voxel](#Voxel)
 - [Video Game Assets](#Video-Game-Assets)
     - [Graphics](#Assets-Graphics)
@@ -620,6 +620,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
         - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : Cross-Platform 2D / 3D Game Creation Tool
+        - :tada: [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) : HTML5 game engine, provides modules to handle common game development tasks such as 2D and 3D rendering, GUI systems, and audio and resource management. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
         - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
     - #### Game Framework <a name="Javascript-Game-Framework"></a>
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : Full-featured, open source 2D game development software platform.
@@ -803,13 +804,27 @@ _Exploring specialty application / game engine / game development topics and fea
 _Software to help with game engine / video game development_
 
 - ### Animation <a name="Tools-Animation"></a>
+    - :money_with_wings: [Cascadeur](https://cascadeur.com) : 3D animation software for physics-based character animation.
+    - :free: [DragonBones](https://dragonbones.github.io/en/index.html) [:octocat:](https://github.com/DragonBones/) : Open source and free 2D game skeletal animation solution.
+    - :money_with_wings: [Mixamo](https://www.mixamo.com/#/) : Animate 3D characters for games, films and more by [Adobe](https://www.adobe.com).
+    - :money_with_wings: [Spine](http://esotericsoftware.com) : 2D animation for games.
 
 - ### Audio Creation <a name="Tools-Audio"></a>
     - #### Music <a name="Tools-Audio-Music"></a>
+        - :free: [Ardour](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) : Free, open source, very capable. Record, edit, and mix on Linux, macOS and Windows.
+        - :free: [Audacity](https://www.audacityteam.org) [:octocat:](https://github.com/audacity/audacity) : Free, open source multi-track audio editor and recorder for Linux, macOS and Windows.
+        - :free: [Bosca Ceoil](https://boscaceoil.net) : Free easy to use tool for creating music.
+        - :free: [Cakewalk](https://www.bandlab.com/products/cakewalk) : Incredible, complete music production package.
+        - :free: [FamiStudio](https://famistudio.org) [:octocat:](https://github.com/BleuBleu/FamiStudio) : Open source, simple music editor targeted at both chiptune artists and NES homebrewers.
+        - :money_with_wings: [fmod](https://www.fmod.com) : Very popular (Hades, Celeste, Untitled Goose Game, etc) audio software for games. Fast, fluid, flexible, end-to-end solution for adding sound and music to any game.
+        - :free: [LMMS](https://lmms.io) [:octocat:](https://github.com/lmms/lmms) : Free, cross-platform music production software. Includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples.
+        - :free: [PixiTracker](https://warmplace.ru/soft/pixitracker/) : Simple, fun tool to quickly create musical sketches, chiptunes and sound experiments - without requiring a lot of musical knowledge.
+        - :free: [SunVox](https://warmplace.ru/soft/sunvox/) : Small, fast, free and powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
 
     - #### Sound Effects <a name="Tools-Audio-Sound-Effects"></a>
         - :free: [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) : The classic program of choice for many people looking to make sound effects for computer games.
         - :free: [ChipTone](https://sfbgames.itch.io/chiptone) : Excellent tool for generating sound effects.
+        - :money_with_wings: [sfxia](https://rxi.itch.io/sfxia) : Tiny sound generator.
 
 - ### Color <a name="Tools-Color"></a>
     - :earth_americas: [Colormind](http://colormind.io) : Color scheme generator that can learn color styles from photographs, movies and popluar art.
@@ -817,10 +832,8 @@ _Software to help with game engine / video game development_
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
     - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
 
-- ### Drawing / Vector Editors <a name="Tools-Drawing"></a>
-
 - ### Game Dev <a name="Tools-Game-Dev"></a>
-
+    
 - ### Image / Photo Editors <a name="Tools-Image"></a>
 
 - ### Materials <a name="Tools-Materials"></a>
@@ -835,6 +848,11 @@ _Software to help with game engine / video game development_
 
 - ### Textures <a name="Tools-Textures"></a>
 
+- ### Vector Drawing <a name="Tools-Vector-Drawing"></a>
+    - :free: [Inkscape](https://inkscape.org) [:octocat:](https://github.com/inkscape/inkscape) : Free and open source vector graphics editor for Linux, Windows and macOS.
+    - :free: [Krita](https://krita.org/en/) [:octocat:](https://github.com/KDE/krita) : Professional free and open source painting program.
+    - :moneybag: [Vec Maker](https://kronbits.itch.io/vecmaker) : Easy to use vector design.
+    
 - ### Voxel <a name="Tools-Voxel"></a>
 
 
@@ -865,6 +883,7 @@ _Resources to help bring video games and game engines alive_
     - :money_with_wings: [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
 
 - ### Music <a name="Assets-Music"></a>
+    - :free: [BandLab Sounds](https://www.bandlab.com/sounds/home) : Download unlimited high-quality loops and packs used for music creation.
     - :money_with_wings: [Bensound](https://www.bensound.com/royalty-free-music) : Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
     - :money_with_wings: [Incompetech](https://incompetech.com/wordpress/) : Nice collection of tracks. Use music for free with attribution or buy once and use forever.
     - :money_with_wings: [Melody Loops](https://www.melodyloops.com/music/free/) : Great mix of free and affordable music loops.
