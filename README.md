@@ -73,14 +73,14 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Animation](#Tools-Animation)
     - [Audio](#Tools-Audio)
         - <sub><sup>[Music](#Tools-Audio-Music) | [Sound Effects](#Tools-Audio-Sound-Effects)</sup></sub>
-    - [Color](#Tools-Color)
+    - [Color / Palettes](#Tools-Color)
     - [Game Dev](#Tools-Game-Dev)
     - [Image Editors](#Tools-Image)
     - [Materials / Textures](#Tools-Materials)
     - [Modeling](#Tools-Modeling)
     - [Particles](#Tools-Particles)
     - [Pixel Art](#Tools-Pixel-Art)
-    - [Vector Drawing](#Tools-Vector-Drawing)
+    - [Vector Editors](#Tools-Vector)
     - [Voxel](#Voxel)
 - [Video Game Assets](#Video-Game-Assets)
     - [Graphics](#Assets-Graphics)
@@ -499,7 +499,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Framework <a name="CSharp-Game-Framework"></a>
         - :tada: [FNA](https://fna-xna.github.io) [:octocat:](https://github.com/FNA-XNA/FNA) : Accuracy-focused reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
         - :tada: [Monofoxe](https://github.com/Martenfur/Monofoxe) : Game engine designed to simplify working with, and built on [MonoGame](https://www.monogame.net).
-        - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : Framework for creating powerful cross-platform games in C#. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms.
+        - :tada: [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) : :fire: Framework for creating powerful cross-platform games in C#. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms.
         - :tada: [Nez](https://github.com/prime31/Nez) : Feature-rich 2D framework that sits on top of [MonoGame](https://www.monogame.net). Provides a solid base for you to build a 2D game on.
         - :tada: [Protogame](https://github.com/RedpointGames/Protogame) : Cross-platform 2D / 3D game engine for C#, built on top of MonoGame.
     - #### Graphics: 3D <a name="CSharp-Graphics-3D"></a>
@@ -828,7 +828,7 @@ _Software to help with game engine / video game development_
         - :free: [ChipTone](https://sfbgames.itch.io/chiptone) : Excellent tool for generating sound effects.
         - :money_with_wings: [sfxia](https://rxi.itch.io/sfxia) : Tiny sound generator.
 
-- ### Color <a name="Tools-Color"></a>
+- ### Color / Palettes <a name="Tools-Color"></a>
     - :earth_americas: [Colormind](http://colormind.io) : Color scheme generator that can learn color styles from photographs, movies and popluar art.
     - :earth_americas: [COLOURlovers](https://www.colourlovers.com) : Creative community where people from around the world create and share colors, palettes and patterns.
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
@@ -874,7 +874,7 @@ _Software to help with game engine / video game development_
     - :moneybag: [Pixel FX](https://codemanu.itch.io/particle-fx-designer) : Create awesome pixelart particle effects and render them to .png sprite sheets or .gifs.
     - :moneybag: [Smear FX](https://codemanu.itch.io/smear-fx) : Make your 2D animations extra juicy by adding some smearing to them.
 
-- ### Vector Drawing <a name="Tools-Vector-Drawing"></a>
+- ### Vector Editors <a name="Tools-Vector-Drawing"></a>
     - :free: [Inkscape](https://inkscape.org) [:octocat:](https://github.com/inkscape/inkscape) : Free and open source vector graphics editor for Linux, Windows and macOS.
     - :free: [Krita](https://krita.org/en/) [:octocat:](https://github.com/KDE/krita) : Professional free and open source painting program.
     - :moneybag: [Vec Maker](https://kronbits.itch.io/vecmaker) : Easy to use vector design.
