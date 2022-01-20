@@ -362,6 +362,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Esenthel](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
         - :tada: [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) : Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+        - :tada: [Lina Engine](https://github.com/inanevin/LinaEngine) : Modular C++ game engine, aimed to develop 3D desktop games.
         - :tada: [Lumix Engine](https://github.com/nem0/LumixEngine) : Yet another C++ open source 3D game engine with an [Dear ImGui](https://github.com/ocornut/imgui) based editor.
         - :lock: [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) : Cross-platform GPU-oriented C++ application / game framework.
         - :tada: [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) : Cross-platform framework for creative code. Nice editor.
@@ -416,6 +417,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [LLGL](https://github.com/LukasBanana/LLGL) : Thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
         - :tada: [magnum engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) : Lightweight and modular C++11 graphics middleware for games and data visualization.
         - :tada: [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
+        - :tada: [Threepp](https://github.com/markaren/threepp) : Cross-platform C++17 port of the popular Javascript 3D library [Three.js](https://threejs.org) (r129). 
         - :tada: [Tungsten](https://github.com/tunabrain/tungsten) : High performance physically based renderer in C++11.
         - :tada: [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) : Open-source C++ engine focusing on modern rendering techniques and performance.
     - #### Gui <a name="Cpp-Gui"></a>
