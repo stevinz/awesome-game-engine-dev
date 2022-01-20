@@ -42,6 +42,7 @@ This list currently favors (but is not limited to) programming the core engine i
         - <sub><sup>[DirectX](#Graphics-DirectX) | [Metal](#Graphics-Metal) | [OpenGL](#Graphics-OpenGL) | [Vulkan](#Graphics-Vulkan) | [WebGL](#Graphics-WebGL) | [WebGPU](#Graphics-WebGPU) | [XNA](#Graphics-XNA) </sup></sub>
     - [Engine Development](#Engine-Development)
     - [Game Development](#Game-Development)
+    - [Graphical User Interface](#Graphical-User-Interface)
     - [Programming](#Programming)
 - [Libraries](#Libraries)
     - [C](#C)
@@ -205,6 +206,9 @@ _Info on topics necessary for designing and developing game engines_
         - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
         - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
+
+- ### Graphical User Interface
+    - :books: [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) : Nice list of gui frameworks across the full spectrum of platforms and languages at [Wikipedia](https://en.wikipedia.org).
 
 - ### Programming
     - :books: [Big-O Cheat Sheet](https://www.bigocheatsheet.com) : This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.
@@ -623,6 +627,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Cross-Platform - <a name="Javascript-Language-Cross-Platform"></a>
         - :tada: [Apache Cordova](https://cordova.apache.org) [:octocat:](https://github.com/apache) : Build mobile apps (iOS / Android) with with Javascript, HTML, and CSS.
         - :tada: [Electron](https://www.electronjs.org) [:octocat:](https://github.com/electron/electron) : Build cross-platform desktop apps with Javascript, HTML, and CSS.
+        - :books: [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) : Cross platform gui app development options.
         - :tada: [Ejecta](https://impactjs.com/ejecta) [:octocat:](https://github.com/phoboslab/Ejecta) : Fast, open source JavaScript, Canvas & Audio implementation for iOS and tvOS. App store compatible.
         - :tada: [NW.js](https://nwjs.io) [:octocat:](https://github.com/nwjs/nw.js) : (previously Node-Webkit) Build cross-platform desktop apps with Javascript, HTML, and CSS. Lets you call all Node.js modules directly from DOM.
         - :books: [Progressive Web Apps](https://web.dev/progressive-web-apps/) : Design document from Google, using web technologies to transform web applications into an experience that feels like a platform-specific application.
