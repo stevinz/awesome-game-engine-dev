@@ -614,6 +614,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language - <a name="Javascript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
     - #### - Language: Awesome Collections - <a name="Javascript-Language-Awesome"></a>
+        - :books: [Collection of WebGL and WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) :  List of WebGL and WebGPU frameworks and libraries, some of the libraries listed are wip/outdated/not maintained anymore.
         - :books: [Javascript Game Engines](https://github.com/collections/javascript-game-engines) : Github Collection. Learn or level up your 1337 gamedev skills and build amazing games together for web, desktop, or mobile using these HTML5 / JavaScript game engines.
         - :books: [Javascript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) : This table contains primarily HTML5 based game engines and frameworks.
         - :books: [List of WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) : List of WebGL frameworks compiled on [Wikipedia](https://en.wikipedia.org).
@@ -658,11 +659,13 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Vue](http://vuejs.org/) [:octocat:](https://github.com/vuejs/vue) : Progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
-        - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : Cross-Platform 2D / 3D Game Creation Tool
+        - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : Cross-Platform 2D / 3D game creation tool.
+        - :tada: [ct.js](https://ctjs.rocks) [:octocat:](https://github.com/ct-js/ct-js) : Desktop 2D game engine that makes learning programming fun and game development easy, built on [PixiJS](http://pixijs.com/).
         - :tada: [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) : HTML5 game engine, provides modules to handle common game development tasks such as 2D and 3D rendering, GUI systems, and audio and resource management. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : Full-featured, open source 2D game development software platform.
         - :tada: [Impact](https://impactjs.com) [:octocat:](https://github.com/phoboslab/impact) : Game engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
         - :tada: [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) : Modern, open source HTML5 2D game engine that empowers developers and designers to focus on content. Uses for [Tiled](https://www.mapeditor.org) level editing. [[Examples](https://melonjs.github.io/examples/)]
+        - :tada: [microStudio](https://microstudio.dev/) [:octocat:](https://github.com/pmgl/microstudio/) : Free, open source game engine online. It is also a platform to learn and practise programming.
         - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
         - :tada: [Superpowers](http://superpowers-html5.com/index.en.html) [:octocat:](https://github.com/superpowers) : Free and open source 2D and 3D game making for indies.
     - #### Game Framework <a name="Javascript-Game-Framework"></a>
@@ -674,16 +677,26 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Delaunator](https://mapbox.github.io/delaunator/) [:octocat:](https://github.com/mapbox/delaunator) : Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
         - :tada: [Earcut](https://github.com/mapbox/earcut) : The fastest and smallest JavaScript polygon triangulation library for your WebGL apps.
         - :tada: [poly-decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
-        
-    - ####
-        - :tada: []() [:octocat:]() : 
-
     - #### Graphics: 2D <a name="Javascript-Graphics-2D"></a>
-
+        - :tada: [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) : WebAssembly build of Google's [Skia](https://skia.org), a mobile-first 2D graphics library.
+        - :tada: [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) : Powerful and simple Javascript HTML5 canvas library.
+        - :tada: [Konva](https://konvajs.org) [:octocat:](https://github.com/konvajs/konva) : Canvas framework that extends the 2D context by enabling canvas interactivity for desktop and mobile applications.
+        - :tada: [p5.js](https://p5js.org) [:octocat:](https://github.com/processing/p5.js) : Library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
+        - :tada: [Paper.js](http://paperjs.orghttp://paperjs.org) [:octocat:](https://github.com/paperjs/paper.js) : The swiss army knife of vector graphics.
+        - :tada: [Pencil.js](https://pencil.js.org) [:octocat:](https://github.com/pencil-js/pencil.js) : Nice modular interactive 2D drawing library.
+        - :tada: [PixiJS](http://pixijs.com/) [:octocat:](https://github.com/pixijs/pixijs) : :fire: Fast, lightweight 2D library that works across all devices. [[Awesome PixiJS](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor)]
+        - :tada: [Pts](https://ptsjs.org) [:octocat:](https://github.com/williamngan/pts) : Library for visualization and creative-coding.
+        - :tada: [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk) [:octocat:](https://github.com/KaliedaRik/Scrawl-canvas) : Library for working with the HTML5 Canvas element.
+        - :tada: [Stage.js](https://piqnt.com/stage.js/) [:octocat:](https://github.com/shakiba/stage.js) : 2D HTML5 rendering and layout engine for game development, from the maintainer of [Planck.js](http://piqnt.com/planck.js/).
+        - :tada: [Two.js](https://two.js.org/) [:octocat:](https://github.com/jonobr1/two.js) : Renderer agnostic 2D drawing api for the web.
+        - :tada: [ZIM](https://zimjs.com/index.html) [:octocat:](https://github.com/danzen/zimjs) : Canvas framework for code creativity.
     - #### Graphics: 3D <a name="Javascript-Graphics-3D"></a>
         - :tada: [Babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
         - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [[CopperCube Editor](http://ambiera.com/coppercube/index.html)]
+        - :tada: [Filament for Web](https://google.github.io/filament/webgl/) [:octocat:](https://github.com/google/filament/tree/main/web/filament-js) : WebAssembly build of Google's [Filament](https://google.github.io/filament/), a mobile-first 3D physically based rendering library.
+        - :tada: [litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
+        - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - #### Three.js Reference <a name="Javascript-Three-Reference"></a>
             - :earth_americas: [Discover Three.js](https://discoverthreejs.com) : Everything you need to know to create stunning 3D web applications using [Three.js](https://threejs.org).
@@ -692,6 +705,8 @@ _Language specific game engine development libraries / frameworks / code_
             - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) : Great collection of resources for [Three.js](https://threejs.org).
             - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
             - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
+    - #### Physics <a name="Javascript-Physics"></a>
+        - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of Box2D physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
 
 <br>
 
