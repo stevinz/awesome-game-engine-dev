@@ -70,12 +70,13 @@ This list currently favors (but is not limited to) programming the core engine i
          - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
+    - [2D Game Dev](#Tools-2D-Game-Dev)
     - [Animation](#Tools-Animation)
     - [Audio](#Tools-Audio)
         - <sub><sup>[Music](#Tools-Audio-Music) | [Sound Effects](#Tools-Audio-Sound-Effects)</sup></sub>
     - [Color / Palettes](#Tools-Color)
-    - [Game Dev](#Tools-Game-Dev)
     - [Image Editors](#Tools-Image)
+    - [Level Editors](#Tools-Level)
     - [Materials / Textures](#Tools-Materials)
     - [Modeling](#Tools-Modeling)
     - [Particles](#Tools-Particles)
@@ -83,12 +84,12 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Vector Editors](#Tools-Vector)
     - [Voxel](#Voxel)
 - [Video Game Assets](#Video-Game-Assets)
+    - [Audio](#Assets-Audio)
+        - <sub><sup>[Music](#Assets-Music) | [Sound Effects](#Assets-Sound-Effects)</sup></sub>
     - [Graphics](#Assets-Graphics)
     - [Materials](#Assets-Materials)
     - [Models](#Assets-Models)
-    - [Music](#Assets-Music)
-    - [Sound Effects](#Assets-Sound-Effects)
-
+    
 
 <br><br>
 
@@ -123,6 +124,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :money_with_wings: [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
     - :money_with_wings: [MANU](https://manu.co) : Unique animation system helps you create games without coding.
     - :money_with_wings: [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) : Versatile real-time platform for making 2D / 3D games and apps.
+    - :moneybag: [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) : Commercial, web based editor for [Phaser](https://phaser.io).
     - :money_with_wings: [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for  runtime only) : Popular (used for Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
     - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [[Developer Website](http://fireflytech.org)]
@@ -264,6 +266,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [miniz](https://github.com/richgel999/miniz) : Single C source file drop-in replacement for zlib's most used API's (libpng and libzip).
         - :tada: [OBJ GL Loader v2](https://github.com/karolek471/objgl) : Quite fast wavefront OBJ loader for OpenGL.
         - :tada: [PL_MPEG](https://github.com/phoboslab/pl_mpeg) : Single file C library for decoding MPEG1 Video and MP2 Audio.
+        - :tada: [QOI](https://github.com/phoboslab/qoi) : The “Quite OK Image Format” for fast, lossless image compression.
         - :star: [stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) : Ogg Vorbis audio decoder.
     - #### File System <a name="C-File-System"></a>
         - :tada: [hexembed](https://github.com/codeplea/hexembed) : Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
@@ -610,9 +613,14 @@ _Language specific game engine development libraries / frameworks / code_
 - ### Javascript
     - #### - Language - <a name="Javascript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
+    - #### - Language: Awesome Collections - <a name="Javascript-Language-Awesome"></a>
+        - :books: [Javascript Game Engines](https://github.com/collections/javascript-game-engines) : Github Collection. Learn or level up your 1337 gamedev skills and build amazing games together for web, desktop, or mobile using these HTML5 / JavaScript game engines.
+        - :books: [Javascript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) : This table contains primarily HTML5 based game engines and frameworks.
+        - :books: [List of WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) : List of WebGL frameworks compiled on [Wikipedia](https://en.wikipedia.org).
     - #### - Language: Cross-Platform - <a name="Javascript-Language-Cross-Platform"></a>
         - :tada: [Apache Cordova](https://cordova.apache.org) [:octocat:](https://github.com/apache) : Build mobile apps (iOS / Android) with with Javascript, HTML, and CSS.
         - :tada: [Electron](https://www.electronjs.org) [:octocat:](https://github.com/electron/electron) : Build cross-platform desktop apps with Javascript, HTML, and CSS.
+        - :tada: [Ejecta](https://impactjs.com/ejecta) [:octocat:](https://github.com/phoboslab/Ejecta) : Fast, open source JavaScript, Canvas & Audio implementation for iOS and tvOS. App store compatible.
         - :tada: [NW.js](https://nwjs.io) [:octocat:](https://github.com/nwjs/nw.js) : (previously Node-Webkit) Build cross-platform desktop apps with Javascript, HTML, and CSS. Lets you call all Node.js modules directly from DOM.
         - :books: [Progressive Web Apps](https://web.dev/progressive-web-apps/) : Design document from Google, using web technologies to transform web applications into an experience that feels like a platform-specific application.
         - :tada: [React Native](https://reactnative.dev) [:octocat:](https://github.com/facebook/react-native) : Framework for building native applications using [React](https://reactjs.org).
@@ -622,6 +630,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Animation <a name="Javascript-Animation"></a>
         - :tada: [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) : Ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
         - :money_with_wings: [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) : Robust JavaScript toolset that turns developers into animation superheroes.
+        - :tada: [react-spring](http://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) : Spring physics based [React](https://reactjs.org) animation library.
         - :tada: [Scene.js](https://daybrush.com/scenejs) [:octocat:](https://github.com/daybrush/scenejs) : JavaScript & CSS timeline-based animation library.
         - :tada: [tween.js](http://tweenjs.github.io/tween.js) [:octocat:](https://github.com/tweenjs/tween.js) : Tweening engine for easy animations, incorporating optimised Robert Penner's equations.
         - :tada: [TweenJS](https://createjs.com/tweenjs) [:octocat:](https://github.com/CreateJS/TweenJS) : Simple but powerful tweening / animation library for Javascript, part of the [CreateJS](http://createjs.com/) suite of libraries.
@@ -629,12 +638,15 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [howler.js](https://howlerjs.com) [:octocat:](https://github.com/goldfire/howler.js) : Makes working with audio in JavaScript easy and reliable across all platforms.
         - :tada: [PixiJS Sound](https://pixijs.io/sound/examples/) [:octocat:](https://github.com/pixijs/sound) : WebAudio API playback library, with filters. Modern audio playback for modern browsers. Built on, and requires [PixiJS](https://pixijs.com).
         - :tada: [SoundJS](https://createjs.com/soundjs) [:octocat:](https://github.com/CreateJS/SoundJS) : Simple API and powerful features to make working with audio a breeze, part of the [CreateJS](http://createjs.com/) suite of libraries.
+        - :tada: [Sonant-X](https://github.com/nicolas-van/sonant-x) : Very small JavaScript synthesizer library, suitable for small JavaScript demos or video games. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
         - :tada: [Tone.js](https://tonejs.github.io) [:octocat:](https://github.com/Tonejs/Tone.js) : WebAudio framework for creating interactive music in the browser.
         - :tada: [tuna](https://github.com/Theodeus/tuna) : Audio effects library for the WebAudio API.
     - #### Entity Component System <a name="Javascript-Entity-Component-System"></a>
         - :tada: [Becsy](https://github.com/LastOliveGames/becsy) : Multithreaded Entity Component System (ECS) for TypeScript and JavaScript, and guided by ideas from [Flecs](https://github.com/SanderMertens/flecs).
         - :lock: [bitECS](https://github.com/NateTheGreatt/bitECS) : Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript.
         - :tada: [ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance.
+    - #### File Formats <a name="Javascript-File-Formats"></a>
+        - :tada: [JSMpeg](https://github.com/phoboslab/jsmpeg) : MPEG1 Video Decoder in JavaScript.
     - #### Frameworks <a name="Javascript-Frameworks"></a>
         - :tada: [Alpine](https://alpinejs.dev) [:octocat:](https://github.com/alpinejs/alpine) : Rugged, minimal framework for composing JavaScript behavior in your markup.
         - :tada: [Angular](https://angular.io) [:octocat:](https://github.com/angular/angular) : The modern web developer’s platform.
@@ -644,19 +656,28 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [React](https://reactjs.org) [:octocat:](https://github.com/facebook/react/) : Declarative, efficient, and flexible JavaScript library for building user interfaces.
         - :tada: [Svelte](https://svelte.dev) [:octocat:](https://github.com/sveltejs/svelte) : New way to buil web apps, a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
         - :tada: [Vue](http://vuejs.org/) [:octocat:](https://github.com/vuejs/vue) : Progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-
-    - ####
-        - :tada: []() [:octocat:]() : 
-
     - #### Game Engine w/Editor <a name="Javascript-Game-Engine"></a>
         - :tada: [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) : Web framework for building 3D virtual reality (VR) experiences.
         - :tada: [Cocos Creator](https://www.cocos.com/en/creator) [:octocat:](https://github.com/cocos-creator/engine) : Cross-Platform 2D / 3D Game Creation Tool
         - :tada: [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) : HTML5 game engine, provides modules to handle common game development tasks such as 2D and 3D rendering, GUI systems, and audio and resource management. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
-        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
-    - #### Game Framework <a name="Javascript-Game-Framework"></a>
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : Full-featured, open source 2D game development software platform.
+        - :tada: [Impact](https://impactjs.com) [:octocat:](https://github.com/phoboslab/impact) : Game engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
+        - :tada: [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) : Modern, open source HTML5 2D game engine that empowers developers and designers to focus on content. Uses for [Tiled](https://www.mapeditor.org) level editing. [[Examples](https://melonjs.github.io/examples/)]
+        - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
+        - :tada: [Superpowers](http://superpowers-html5.com/index.en.html) [:octocat:](https://github.com/superpowers) : Free and open source 2D and 3D game making for indies.
+    - #### Game Framework <a name="Javascript-Game-Framework"></a>
+        - :tada: [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) : Game library that can help you create 2D games in a structured way.
         - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
         - :tada: [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) : Modular 2D / 3D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+    - #### Geometry <a name="Javascript-Geometry"></a>
+        - :tada: [Convexhull.js](https://github.com/indy256/convexhull-js) : Tiny high-performance JavaScript 2D convex hull library.
+        - :tada: [Delaunator](https://mapbox.github.io/delaunator/) [:octocat:](https://github.com/mapbox/delaunator) : Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
+        - :tada: [Earcut](https://github.com/mapbox/earcut) : The fastest and smallest JavaScript polygon triangulation library for your WebGL apps.
+        - :tada: [poly-decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
+        
+    - ####
+        - :tada: []() [:octocat:]() : 
+
     - #### Graphics: 2D <a name="Javascript-Graphics-2D"></a>
 
     - #### Graphics: 3D <a name="Javascript-Graphics-3D"></a>
@@ -838,6 +859,12 @@ _Exploring specialty application / game engine / game development topics and fea
 ## Tools / Software <a name="Tools"></a>
 _Software to help with game engine / video game development_
 
+- ### 2D Game Dev <a name="Tools-2D-Game-Dev"></a>
+    - :free: [ShoeBox](http://renderhjs.net/shoebox/) : Desktop (Windows / macOS) app with drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+    - :moneybag: [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) : Create stunning light effects with 2D sprites in your game engine.
+    - :moneybag: [Texture Packer](https://www.codeandweb.com/texturepacker) : Create sprite sheets and optimize your game graphics.
+    - :free: [Tiled](https://www.mapeditor.org) [:octocat:](https://github.com/mapeditor/tiled) : General purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
+
 - ### Animation <a name="Tools-Animation"></a>
     - :money_with_wings: [Cascadeur](https://cascadeur.com) : 3D animation software for physics-based character animation.
     - :free: [DragonBones](https://dragonbones.github.io/en/index.html) [:octocat:](https://github.com/DragonBones/) : Open source and free 2D game skeletal animation solution.
@@ -856,11 +883,13 @@ _Software to help with game engine / video game development_
         - :free: [PixiTracker](https://warmplace.ru/soft/pixitracker/) : Simple, fun tool to quickly create musical sketches, chiptunes and sound experiments - without requiring a lot of musical knowledge.
         - :free: [Sound Box](https://sb.bitsnbites.eu) [:octocat:](https://github.com/mbitsnbites/soundbox) : Tool for composing synthetic music, in your browser. Suitable for creating music for small JavaScript demos.
         - :free: [SunVox](https://warmplace.ru/soft/sunvox/) : Small, fast, free and powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
+        - :free: [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) [:octocat:](https://github.com/keithclark/ZzFXM) : Music generator for use in tiny JavaScript productions.
 
     - #### Sound Effects <a name="Tools-Audio-Sound-Effects"></a>
         - :free: [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) : The classic program of choice for many people looking to make sound effects for computer games.
         - :free: [ChipTone](https://sfbgames.itch.io/chiptone) : Excellent tool for generating sound effects.
         - :money_with_wings: [sfxia](https://rxi.itch.io/sfxia) : Tiny sound generator.
+        - :free: [ZzFX](https://killedbyapixel.github.io/ZzFX/) [:octocat:](https://github.com/KilledByAPixel/ZzFX) : Tiny JavaScript Sound FX System / Zuper Zmall Zound Zynth.
 
 - ### Color / Palettes <a name="Tools-Color"></a>
     - :earth_americas: [Colormind](http://colormind.io) : Color scheme generator that can learn color styles from photographs, movies and popluar art.
@@ -868,14 +897,13 @@ _Software to help with game engine / video game development_
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
     - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
 
-- ### Game Dev <a name="Tools-Game-Dev"></a>
-    - :moneybag: [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) : Create stunning light effects with 2D sprites in your game engine.
-    - :moneybag: [Texture Packer](https://www.codeandweb.com/texturepacker) : Create sprite sheets and optimize your game graphics.
-    - :free: [Tiled](https://www.mapeditor.org) [:octocat:](https://github.com/mapeditor/tiled) : General purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
-
 - ### Image Editors <a name="Tools-Image"></a>
     - :free: [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) : GNU Image Manipulation Program, free and open-source cross-platform image editor.
     - :free: [Photopea](https://www.photopea.com) : Very capable online photo editor.
+
+- ### Level Editors <a name="Tools-Level"></a>
+    - :free: [Radiant](https://icculus.org/gtkradiant/) [:octocat:](https://github.com/TTimo/GtkRadiant) : Open source, cross platform level editor for [idtech](https://en.wikipedia.org/wiki/Id_Tech) games.
+    - :free: [TrenchBroom](https://trenchbroom.github.io) [:octocat:](https://github.com/TrenchBroom/TrenchBroom) : Free (GPLv3+), cross platform level editor for Quake-engine based games. Easy to use and provides many simple and advanced tools to create complex and interesting levels with ease.
 
 - ### Materials / Textures <a name="Tools-Materials"></a>
     - :free: [ArmorLab](https://armorlab.org) [:octocat:](https://github.com/armory3d/armorlab) : Software designed for AI-powered texture authoring. Generate PBR materials by drag & dropping your photos.
@@ -886,6 +914,7 @@ _Software to help with game engine / video game development_
     - :money_with_wings: [PixPlant](https://www.pixplant.com/index.php) : Tool to allow simple creation of tiling 3D materials.
     - :free: [TexaTool](https://kronbits.itch.io/texatool) : Free online too to generate tileable textures by just moving sliders.
     - :free: [Texgen.js](https://texgenjs.org) [:octocat:](https://github.com/mrdoob/texgen.js) : JavaScript texture generator tool.
+    - :free: [TexTools for Blender](http://www.renderhjs.net/?doc=texToolsBlender) : Free addon for [Blender](https://www.blender.org) with a set of professional UV and Texturing tools. [[Repo](https://bitbucket.org/renderhjs/textools-blender/src/master/)]
 
 - ### Modeling <a name="Tools-Modeling"></a>
     - :moneybag: [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) : One of the oldest professional software programs for 3D modeling and rendering. Suitable for design visualization, games, and animation.
@@ -925,6 +954,19 @@ _Software to help with game engine / video game development_
 ## Video Game Assets
 _Resources to help bring video games and game engines alive_
 
+- ### Audio <a name="Assets-Audio"></a>
+    - #### Music <a name="Assets-Music"></a>
+        - :free: [BandLab Sounds](https://www.bandlab.com/sounds/home) : Download unlimited high-quality loops and packs used for music creation.
+        - :money_with_wings: [Bensound](https://www.bensound.com/royalty-free-music) : Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
+        - :money_with_wings: [Incompetech](https://incompetech.com/wordpress/) : Nice collection of tracks. Use music for free with attribution or buy once and use forever.
+        - :money_with_wings: [Melody Loops](https://www.melodyloops.com/music/free/) : Great mix of free and affordable music loops.
+        - :money_with_wings: [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) : Huge collection of free and paid royalty free music tracks.
+        - :money_with_wings: [Soundimage](https://soundimage.org/looping-music/) : Looping music tracks intended for videogame developers. All are free to use with attribution.
+    - #### Sound Effects <a name="Assets-Sound-Effects"></a>
+        - :free: [freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
+        - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com) : Large collection of sound effects.
+        - :moneybag: [Soundsnap](https://www.soundsnap.com) : Professional sound effects library with hundreds of thousands of sounds, subscription based.
+
 - ### Graphics <a name="Assets-Graphics"></a>
     - :money_with_wings: [Flaticon](https://www.flaticon.com) : Nice vector icons and stickers.
     - :money_with_wings: [Freepik](https://www.freepik.com) : High quality illustrations, photos, icons and presentation templates.
@@ -945,18 +987,6 @@ _Resources to help bring video games and game engines alive_
     - :books: [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3d graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
     - :money_with_wings: [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
 
-- ### Music <a name="Assets-Music"></a>
-    - :free: [BandLab Sounds](https://www.bandlab.com/sounds/home) : Download unlimited high-quality loops and packs used for music creation.
-    - :money_with_wings: [Bensound](https://www.bensound.com/royalty-free-music) : Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
-    - :money_with_wings: [Incompetech](https://incompetech.com/wordpress/) : Nice collection of tracks. Use music for free with attribution or buy once and use forever.
-    - :money_with_wings: [Melody Loops](https://www.melodyloops.com/music/free/) : Great mix of free and affordable music loops.
-    - :money_with_wings: [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) : Huge collection of free and paid royalty free music tracks.
-    - :money_with_wings: [Soundimage](https://soundimage.org/looping-music/) : Looping music tracks intended for videogame developers. All are free to use with attribution.
-
-- ### Sound Effects <a name="Assets-Sound-Effects"></a>
-    - :free: [freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
-    - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com) : Large collection of sound effects.
-    - :moneybag: [Soundsnap](https://www.soundsnap.com) : Professional sound effects library with hundreds of thousands of sounds, subscription based.
 
 <br><br>
 
