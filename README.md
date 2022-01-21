@@ -861,6 +861,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :earth_americas: [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) : Quickly drawing an outline on the alpha channel of a 2D image at [ShaderToy](https://www.shadertoy.com).
         - :books: [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) : Fantastic article with shader code on dynamically adding outlines to characters.
         - :tada: [Outline Shader](https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/) [:octocat:](https://github.com/steincodes/godot-shader-tutorials) : Reddit post and github repo of nice outline shader.
+        - :books: [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) : Truly excellent article on producing a sketchy outline look.
     - #### Pixelation
         - :books: [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
         - :earth_americas: [Three.js Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
