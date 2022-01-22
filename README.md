@@ -919,6 +919,7 @@ _Software to help with game engine / video game development_
     - :earth_americas: [COLOURlovers](https://www.colourlovers.com) : Creative community where people from around the world create and share colors, palettes and patterns.
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
     - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
+    - :books: [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article with code explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
 
 - ### Image Editors <a name="Tools-Image"></a>
     - :free: [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) : GNU Image Manipulation Program, free and open-source cross-platform image editor.
