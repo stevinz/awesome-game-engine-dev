@@ -57,6 +57,7 @@ This list currently favors (but is not limited to) programming the core engine i
 - [Specialty Topics](#Specialty-Topics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
+    - [Color](#Topic-Color)
     - [Entity Component System](#Topic-ECS")
     - [Fluid / Smoke](#Topic-Fluid)
     - [Geometry](#Geometry)
@@ -300,6 +301,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross-platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - #### Gui <a name="C-Gui"></a>
         - :tada: [cimgui](https://github.com/cimgui/cimgui) : Thin c-api wrapper programmatically generated for the excellent C++ immediate mode gui [Dear ImGui](https://github.com/ocornut/imgui).
+        - :tada: [lvgl](https://lvgl.io/) [:octocat:](https://github.com/lvgl/lvgl) : Embedded GUI library with many widgets and advanced visual effects.
         - :tada: [NAppGUI](https://nappgui.com/en/home/web/home.html) [:octocat:](https://github.com/frang75/nappgui_src) : Professional, well documented SDK to build cross-platform desktop applications using C.
         - :tada: [Native File Dialog](https://github.com/mlabbe/nativefiledialog) : Tiny, neat library that portably invokes cross-platform native file open and save dialogs.
         - :tada: [Nuklear](https://immediate-mode-ui.github.io/Nuklear/doc/index.html) [:octocat:](https://github.com/Immediate-Mode-UI/Nuklear) : Single-header ANSI C immediate mode cross-platform GUI library.
@@ -637,6 +639,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Window.js](https://windowjs.org) [:octocat:](https://github.com/windowjs/windowjs) : Open-source Javascript runtime for desktop graphics programming.
     - #### Animation <a name="Javascript-Animation"></a>
         - :tada: [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) : Ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+        - :tada: [D3.js](https://d3js.org) [:octocat:](https://github.com/d3/d3) : Data-Driven Documents. Bring data to life with SVG, Canvas and HTML. [[Examples](https://observablehq.com/@d3/gallery)]
         - :money_with_wings: [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) : Robust JavaScript toolset that turns developers into animation superheroes.
         - :tada: [react-spring](http://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) : Spring physics based [React](https://reactjs.org) animation library.
         - :tada: [Scene.js](https://daybrush.com/scenejs) [:octocat:](https://github.com/daybrush/scenejs) : JavaScript & CSS timeline-based animation library.
@@ -649,6 +652,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Sonant-X](https://github.com/nicolas-van/sonant-x) : Very small JavaScript synthesizer library, suitable for small JavaScript demos or video games. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
         - :tada: [Tone.js](https://tonejs.github.io) [:octocat:](https://github.com/Tonejs/Tone.js) : WebAudio framework for creating interactive music in the browser.
         - :tada: [tuna](https://github.com/Theodeus/tuna) : Audio effects library for the WebAudio API.
+    - #### Color <a name="Javascript-Color"></a>
+        - :tada: [Chroma.js](https://vis4.net/chromajs/) [:octocat:](https://github.com/gka/chroma.js) : Library for all kinds of color manipulations.
     - #### Entity Component System <a name="Javascript-Entity-Component-System"></a>
         - :tada: [Becsy](https://github.com/LastOliveGames/becsy) : Multithreaded Entity Component System (ECS) for TypeScript and JavaScript, and guided by ideas from [Flecs](https://github.com/SanderMertens/flecs).
         - :lock: [bitECS](https://github.com/NateTheGreatt/bitECS) : Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript.
@@ -704,7 +709,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
         - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
-        - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
+        - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - #### Three.js Reference <a name="Javascript-Three-Reference"></a>
             - :earth_americas: [Discover Three.js](https://discoverthreejs.com) : Everything you need to know to create stunning 3D web applications using [Three.js](https://threejs.org).
             - :earth_americas: [SBcode Three.js Tutorials](https://sbcode.net/threejs/) : Fantastic examples with code and explanations of topics from beginner to advanced.
@@ -712,8 +717,18 @@ _Language specific game engine development libraries / frameworks / code_
             - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) : Great collection of resources for [Three.js](https://threejs.org).
             - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
             - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
+    
+    - #### Gui: 3D <a name="Javascript-Gui"></a>
+    
     - #### Physics <a name="Javascript-Physics"></a>
         - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of Box2D physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
+
+    - #### Utility <a name="Javascript-Utility"></a>
+
+    - #### Timeline <a name="Javascript-Timeline"></a>
+
+    - #### Visual Scripting <a name="Javascript-Visual-Scripting"></a>
+        - :tada: [litegraph.js](https://github.com/jagenjo/litegraph.js) : Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor)]
 
 <br>
 
@@ -763,6 +778,10 @@ _Exploring specialty application / game engine / game development topics and fea
 
 - ### Animation <a name="Topic-Animation"></a>
     - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
+
+- ### Color / Palettes <a name="Topic-Color"></a>
+    - :books: [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) : Nice info about the use of procedural palettes and how to generate them.
+    - :books: [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article (with example javascript project) explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
 
 - ### Entity Component System <a name="Topic-ECS"></a>
     - :books: [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
@@ -919,8 +938,7 @@ _Software to help with game engine / video game development_
     - :earth_americas: [COLOURlovers](https://www.colourlovers.com) : Creative community where people from around the world create and share colors, palettes and patterns.
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
     - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
-    - :books: [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article with code explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
-
+    
 - ### Image Editors <a name="Tools-Image"></a>
     - :free: [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) : GNU Image Manipulation Program, free and open-source cross-platform image editor.
     - :free: [Photopea](https://www.photopea.com) : Very capable online photo editor.
