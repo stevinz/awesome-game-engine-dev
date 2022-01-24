@@ -691,6 +691,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Poly-Decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
     - #### Graphics: 2D <a name="Javascript-Graphics-2D"></a>
         - :tada: [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) : WebAssembly build of Google's [Skia](https://skia.org), a mobile-first 2D graphics library.
+        - :tada: [EaselJS](https://createjs.com/easeljs) [:octocat:](https://github.com/CreateJS/EaselJS) : Makes working with the HTML5 Canvas element easy, part of the [CreateJS](http://createjs.com/) suite of libraries.
         - :tada: [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) : Powerful and simple Javascript HTML5 canvas library.
         - :tada: [Konva](https://konvajs.org) [:octocat:](https://github.com/konvajs/konva) : Canvas framework that extends the 2D context by enabling canvas interactivity for desktop and mobile applications.
         - :tada: [p5.js](https://p5js.org) [:octocat:](https://github.com/processing/p5.js) : Library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
@@ -717,9 +718,26 @@ _Language specific game engine development libraries / frameworks / code_
             - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) : Great collection of resources for [Three.js](https://threejs.org).
             - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
             - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
-    
     - #### Gui <a name="Javascript-Gui"></a>
-    
+        - :tada: [Bootstrap](https://getbootstrap.com) [:octocat:](https://github.com/twbs/bootstrap) : The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+        - :tada: [dat.GUI](https://github.com/dataarts/dat.gui) : Lightweight graphical user interface for changing variables in JavaScript.
+        - :tada: [Dojo](https://widgets.dojo.io/) [:octocat:](https://github.com/dojo/widgets) : UI widgets for a progressive framework for modern web applications built with TypeScript.
+        - :tada: [Inferno](https://infernojs.org/) [:octocat:](https://github.com/infernojs/inferno) : Insanely fast, React-like library for building high-performance user interfaces on both the client and server.
+        - :tada: [jQuery UI](https://jqueryui.com/) [:octocat:](https://github.com/jquery/jquery-ui) : The official [jQuery](https://jquery.com) user interface library.
+        - :tada: [Leva](https://leva.pmnd.rs/) [:octocat:](https://github.com/pmndrs/leva) : React-first components GUI.
+        - :tada: [PCUI](http://playcanvas.github.io/pcui) [:octocat:](https://github.com/playcanvas/pcui) : UI component library for the web, made for [PlayCanvas](https://playcanvas.com).
+        - :tada: [uil](http://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) : Simple javascript ui.
+        - :tada: [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) : UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
+        - :tada: [Zebkit](https://zebkit.org/dark/about.html) [:octocat:](https://github.com/barmalei/zebkit) : Canvas rendered UI component libary, very cool.
+
+        
+        
+        - :tada: []() [:octocat:]() : 
+        - :tada: []() [:octocat:]() : 
+        - :tada: []() [:octocat:]() : 
+        - :tada: []() [:octocat:]() : 
+        - :tada: []() [:octocat:]() : 
+        - :tada: []() [:octocat:]() : 
     - #### Physics <a name="Javascript-Physics"></a>
         - :tada: [Ammo.js](https://github.com/kripken/ammo.js) : Direct port of the 3D [Bullet Physics](https://pybullet.org/wordpress/) engine to JavaScript (as WebAssembly) using Emscripten.
         - :tada: [Box2d.js](https://github.com/kripken/box2d.js/) : Port of [Box2D](https://box2d.org) to JavaScript (as WebAssembly).
@@ -732,9 +750,14 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Rapier](https://rapier.rs/docs/user_guides/javascript/getting_started_js) [:octocat:](https://github.com/dimforge/rapier) : Awesome Rust physics libary with 2D and 3D physics engines focused on performance, ported to Javascript (as WebAssembly).
         - :tada: [Verly.js](https://anuraghazra.dev/Verly.js/) [:octocat:](https://github.com/anuraghazra/Verly.js) : Easy to integrate verlet physics engine.
     - #### Utility <a name="Javascript-Utility"></a>
-
+        - :tada: [Clipboard.js](https://clipboardjs.com/) [:octocat:](https://github.com/zenorocha/clipboard.js) : Modern copy to clipboard. No Flash. Just 3kb gzipped.
+        - :tada: [Day.js](https://day.js.org/) [:octocat:](https://github.com/iamkun/dayjs) : Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) with the same modern API.
+        - :tada: [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) : Popular internationalization framework for browser or any other javascript environment.
+        - :tada: [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) : Fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) much simpler.
+        - :tada: [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) : Makes preloading assets & getting aggregate progress events easier in JavaScript, part of the [CreateJS](http://createjs.com/) suite of libraries.
     - #### Timeline <a name="Javascript-Timeline"></a>
-
+        - :tada: [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) : JavaScript sequence editor.
+        - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for javascript.
     - #### Visual Programming / Nodes <a name="Javascript-Nodes"></a>
         - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by Alibaba) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
         - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple javascript flow library.
