@@ -111,7 +111,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :money_with_wings: [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) : Powerful real-time game development platform created by Crytek.
     - :free: [Evergine](https://evergine.com) : (previously Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
     - :money_with_wings: [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) : Modern 3D game engine written in C++ and C#. Stunning graphics, powerful scripts.
-    - :moneybag: [FROSTBITE](https://www.ea.com/frostbite) : (by Electronic Arts) Cutting-Edge Games and Experiences.
+    - :moneybag: [Frostbite](https://www.ea.com/frostbite) : (by Electronic Arts) Cutting-Edge Games and Experiences.
     - :moneybag: [Gamebryo](http://www.gamebryo.com) : Complete toolset, flexible workflow, rapid prototyping.
     - :tada: [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) : (successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
     - :moneybag: [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) : (by Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
@@ -130,7 +130,7 @@ _Production game engines to tinker with, explore, learn and inspire_
     - :money_with_wings: [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for  runtime only) : Popular (used for Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
     - :money_with_wings: [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
     - :money_with_wings: [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [[Developer Website](http://fireflytech.org)]
-    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo for  runtime only) : Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+    - :money_with_wings: [Stencyl](http://www.stencyl.com) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo for  runtime only) : Quick and easy game making. Visual scripting implementation similar to [Scratch](https://scratch.mit.edu).
 
 - ### Specialty
     - :moneybag: [3dSen](https://geod.itch.io/3dnes) : Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
@@ -247,35 +247,35 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
     - #### - Language: Awesome Collections - <a name="C-Language-Awesome"></a>
         - :star: [Cute Headers](https://github.com/RandyGaul/cute_headers) : Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
-        - :star: [libs](https://github.com/mattiasgustavsson/libs) : Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
+        - :star: [Libs](https://github.com/mattiasgustavsson/libs) : Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
         - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C by [Empyreanx](https://github.com/empyreanx).
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries compiled from many authors.
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### App Framework <a name="C-App-Framework"></a>
-        - :tada: [entrypoint](https://github.com/jimon/entrypoint) : Lightweight entry point for games.
+        - :tada: [Entrypoint](https://github.com/jimon/entrypoint) : Lightweight entry point for games.
         - :tada: [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) : Cross-platform, simple API for creating windows, OpenGL / Vulkan contexts and surfaces, receiving input and events.
-        - :tada: [raylib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) : Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
+        - :tada: [Raylib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) : Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
         - :tada: [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : :fire: Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
         - :tada: [Sokol](https://floooh.github.io/sokol-html5/) [:octocat:](https://github.com/floooh/sokol) : :fire: Top notch cross-platform, single file header libraries that include a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!!        
     - #### Audio <a name="C-Audio"></a>
-        - :star: [miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
+        - :star: [Miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
         - :tada: [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) : Audio mixer that supports various file formats for [SDL](https://libsdl.org).
         - :tada: [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud)
     - #### Entity Component System <a name="C-Entity-Component-System"></a>
         - :tada: [Flecs](https://github.com/SanderMertens/flecs) : Fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
     - #### File Formats <a name="C-File-Formats"></a>
-        - :tada: [assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) : The Open Asset Importer Library. Loads 40+ 3D file formats into one unified and clean data structure.
+        - :tada: [Assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) : The Open Asset Importer Library. Loads 40+ 3D file formats into one unified and clean data structure.
         - :tada: [cgltf](https://github.com/jkuhlmann/cgltf) : Single-file glTF 2.0 loader and writer written in C99.
         - :star: [dr_libs](https://github.com/mackron/dr_libs) : Single file audio decoding libraries for C/C++.
-        - :tada: [libspng](https://github.com/randy408/libspng) : Simple, modern libpng alternative.
-        - :tada: [miniz](https://github.com/richgel999/miniz) : Single C source file drop-in replacement for zlib's most used API's (libpng and libzip).
+        - :tada: [Libspng](https://github.com/randy408/libspng) : Simple, modern libpng alternative.
+        - :tada: [Miniz](https://github.com/richgel999/miniz) : Single C source file drop-in replacement for zlib's most used API's (libpng and libzip).
         - :tada: [OBJ GL Loader v2](https://github.com/karolek471/objgl) : Quite fast wavefront OBJ loader for OpenGL.
         - :tada: [PL_MPEG](https://github.com/phoboslab/pl_mpeg) : Single file C library for decoding MPEG1 Video and MP2 Audio.
         - :tada: [QOI](https://github.com/phoboslab/qoi) : The “Quite OK Image Format” for fast, lossless image compression.
         - :star: [stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) : Ogg Vorbis audio decoder.
     - #### File System <a name="C-File-System"></a>
-        - :tada: [hexembed](https://github.com/codeplea/hexembed) : Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
-        - :star: [incbin](https://github.com/graphitemaster/incbin) : Include binary and text files in your C/C++ applications with ease.
+        - :tada: [HexEmbed](https://github.com/codeplea/hexembed) : Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
+        - :star: [Incbin](https://github.com/graphitemaster/incbin) : Include binary and text files in your C/C++ applications with ease.
         - :tada: [PhysicsFS](http://icculus.org/physfs/) [:octocat:](https://github.com/icculus/physfs) : A portable, flexible file i/o abstraction, provides abstract access to various archives.
         - :star: [Where Am I](https://github.com/gpakosz/whereami) : Drop-in, multi platform, two file library to locate the current executable and the current module on the file system.
     - #### Fonts <a name="C-Fonts"></a>
@@ -283,38 +283,38 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C, C++ headers and C# classes for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons and Fontaudio.
         - :tada: [msdf-c](https://github.com/eg-z/msdf-c) : Pure C multi-channel signed distance field generator.
         - :star: [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) : Single header file library that processes TrueType font files.
-        - :tada: [vertext](https://github.com/kevinmkchin/vertext) : Single-header C library for generating vertices for rendering text, requires [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h).
+        - :tada: [Vertext](https://github.com/kevinmkchin/vertext) : Single-header C library for generating vertices for rendering text, requires [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h).
     - #### Game Engine w/Editor <a name="C-Game-Engine"></a>
         - :star: [AVA](https://github.com/r-lyeh/AVA) : Tiny, minimalistic 3D game engine in C.
     - #### Game Framework <a name="C-Game-Framework"></a>
         - :star: [FWK](https://raw.githack.com/r-lyeh/FWK/master/art/docs/docs.html) [:octocat:](https://github.com/r-lyeh/FWK) : 3D game framework in C.        
     - #### Geometry <a name="C-Geometry"></a>
-        - :tada: [blob](https://github.com/BlockoS/blob) : Single header implementation of a contour tracing algorithm
+        - :tada: [Blob](https://github.com/BlockoS/blob) : Single header implementation of a contour tracing algorithm
         - :tada: [Marching Squares](https://prideout.net/marching-squares) [:octocat:](https://github.com/prideout/par/blob/master/par_msquares.h) : Converts grayscale images, or 8-bit color images, into triangles.
         - :tada: [Octasphere](https://prideout.net/blog/octasphere/) [:octocat:](https://github.com/prideout/par/blob/master/par_octasphere.h) : Tiny malloc-free library that generates triangle meshes for spheres, rounded boxes, and capsules.
-        - :tada: [par_shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) : Simple C library for creation and manipulation of triangle meshes including platonic solids, spheres and more.
-        - :tada: [par_streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) : Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
+        - :tada: [Par_Shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) : Simple C library for creation and manipulation of triangle meshes including platonic solids, spheres and more.
+        - :tada: [Par_Streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) : Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
     - #### Graphics: 2D <a name="C-Graphics-2D"></a>
         - :tada: [NanoVG](https://github.com/memononen/nanovg) : Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
     - #### Graphics: 3D <a name="C-Graphics-3D"></a>
         - :tada: [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) [:octocat:](https://github.com/floooh/sokol) : Cross-platform, single header file graphics abstraction api, part of the larger, amazing [Sokol](https://floooh.github.io/sokol-html5/) library. [[Examples](https://floooh.github.io/sokol-html5) | [LearnOpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
         - :tada: [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) : Minimal modern efficient cross-platform 2D graphics painter (api) in C implemented using [Sokol](https://floooh.github.io/sokol-html5/) as the backend.
     - #### Gui <a name="C-Gui"></a>
-        - :tada: [cimgui](https://github.com/cimgui/cimgui) : Thin c-api wrapper programmatically generated for the excellent C++ immediate mode gui [Dear ImGui](https://github.com/ocornut/imgui).
+        - :tada: [cImgui](https://github.com/cimgui/cimgui) : Thin c-api wrapper programmatically generated for the excellent C++ immediate mode gui [Dear ImGui](https://github.com/ocornut/imgui).
         - :tada: [lvgl](https://lvgl.io/) [:octocat:](https://github.com/lvgl/lvgl) : Embedded GUI library with many widgets and advanced visual effects.
         - :tada: [NAppGUI](https://nappgui.com/en/home/web/home.html) [:octocat:](https://github.com/frang75/nappgui_src) : Professional, well documented SDK to build cross-platform desktop applications using C.
         - :tada: [Native File Dialog](https://github.com/mlabbe/nativefiledialog) : Tiny, neat library that portably invokes cross-platform native file open and save dialogs.
         - :tada: [Nuklear](https://immediate-mode-ui.github.io/Nuklear/doc/index.html) [:octocat:](https://github.com/Immediate-Mode-UI/Nuklear) : Single-header ANSI C immediate mode cross-platform GUI library.
     - #### Input <a name="C-Input"></a>
-        - :tada: [libgamepad](https://github.com/mtwilliams/libgamepad) : Cross-platform library for gamepad input.
+        - :tada: [libGamepad](https://github.com/mtwilliams/libgamepad) : Cross-platform library for gamepad input.
         - :tada: [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) : Branch with add on support for game pads in [Sokol](https://github.com/floooh/sokol).
     - #### Lighting <a name="C-Lighting"></a>
         - :star: [Light Mapper](https://github.com/ands/lightmapper) : Single-file library for lightmap baking by using your existing OpenGL renderer.
     - #### Math <a name="C-Math"></a>
-        - :tada: [cglm](https://github.com/recp/cglm) : Highly optimized OpenGL math for C.
+        - :tada: [Cglm](https://github.com/recp/cglm) : Highly optimized OpenGL math for C.
         - :star: [Handmade Math](https://github.com/HandmadeMath/Handmade-Math) : Simple math library for games and computer graphics.
         - :tada: [Kazmath](https://github.com/Kazade/kazmathv) : Math library targeted at games.
-        - :tada: [raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) : Math library included in the [raylib](https://www.raylib.com) game framework.
+        - :tada: [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) : Math library included in the [raylib](https://www.raylib.com) game framework.
     - #### Physics <a name="C-Physics"></a>
         - :tada: [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) : Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
     - #### Scripting <a name="C-Scripting"></a>
@@ -344,7 +344,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### App Framework <a name="Cpp-App-Framework"></a>
         - :tada: [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) : Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
     - #### Animation <a name="Cpp-Animation"><a/>
-        - :tada: [ozz-animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) : Open source skeletal animation library and toolset.
+        - :tada: [Ozz-Animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) : Open source skeletal animation library and toolset.
         - :tada: [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) : Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
     - #### Audio <a name="Cpp-Audio"><a/>
         - :moneybag: [irrKlang](https://www.ambiera.com/irrklang/) : High level 2D and 3D cross-platform desktop sound engine and audio library.
@@ -358,11 +358,11 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [HarfBuzz](https://harfbuzz.github.io) [:octocat:](https://github.com/harfbuzz/harfbuzz) : Text shaping library, allows programs to convert a sequence of Unicode input into properly formatted and positioned glyph output—for any writing system and language.
         - :moneybag: [Slug](http://sluglibrary.com) : For rendering high-quality, resolution-independent text and vector graphics in 3D applications on the GPU.
     - #### File Formats <a name="Cpp-File-Formats"></a>
-        - :star: [jpeg-compressor](https://github.com/richgel999/jpeg-compressor) : Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
-        - :tada: [tinydng](https://github.com/syoyo/tinydng) : Header only DNG / TIFF loader and writer.
-        - :tada: [tinyexr](https://github.com/syoyo/tinyexr) : Tiny OpenEXR image loader/saver library.
-        - :tada: [tinygltf](https://github.com/syoyo/tinygltf) : Header only C++11 tiny glTF 2.0 library.
-        - :tada: [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader.
+        - :star: [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) : Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
+        - :tada: [TinyDNG](https://github.com/syoyo/tinydng) : Header only DNG / TIFF loader and writer.
+        - :tada: [TinyEXR](https://github.com/syoyo/tinyexr) : Tiny OpenEXR image loader/saver library.
+        - :tada: [TinyGLTF](https://github.com/syoyo/tinygltf) : Header only C++11 tiny glTF 2.0 library.
+        - :tada: [TinyOBJLoader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
         - :tada: [Ethereal Engine](https://github.com/volcoma/EtherealEngine) : Cross-platform C++ game engine and editor.
@@ -386,26 +386,26 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [Ouzel](https://github.com/elnormous/ouzel) : Public domain C++ game engine mainly targeted for development of 2D games.
         - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
         - :tada: [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (previously Corona) Focus on ease of iterations and usage.
-        - :tada: [two](https://github.com/hugoam/two) : C++ toolkit for rapid development of live graphical apps and games.
+        - :tada: [Two](https://github.com/hugoam/two) : C++ toolkit for rapid development of live graphical apps and games.
         - :tada: [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) : Free lightweight, cross-platform 2D and 3D game engine.
         - :money_with_wings: [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) : The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
     - #### Geometry <a name="Cpp-Geometry"></a>
         - :tada: [CinoLib](https://github.com/mlivesu/cinolib) : Header only C++ library for processing polygonal and polyhedral meshes.
         - :tada: [Delabella](https://github.com/msokalski/delabella) : Super stable 2D delaunay triangulation.
-        - :tada: [delaunator-cpp](https://github.com/soerendd/delaunator-cpp) : Really fast C++ library for Delaunay triangulation of 2D points.
+        - :tada: [Delaunator-Cpp](https://github.com/soerendd/delaunator-cpp) : Really fast C++ library for Delaunay triangulation of 2D points.
         - :lock: [Easy3D](https://github.com/LiangliangNan/Easy3D) : Easy-to-use and efficient library for 3D modeling, geometry processing, and rendering.
         - :tada: [Extrude](https://github.com/stevinz/extrude) : Converts 2D images into 3D extruded meshes.
         - :tada: [Geometric Tools](https://www.geometrictools.com/index.html) : Collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics written in C++ 14.
         - :tada: [GeometronLib](https://github.com/LukasBanana/GeometronLib) : Generates meshes for basic 3D geometric shapes (cube / sphere / cylinder / capsule and more) and handles ray / geometry intersection.
-        - :lock: [libigl](https://libigl.github.io) [:octocat:](https://github.com/libigl/libigl) : Simple C++ geometry processing library.
-        - :tada: [meshoptimizer](https://github.com/zeux/meshoptimizer) : Mesh optimization library that makes meshes smaller and faster to render.
+        - :lock: [Libigl](https://libigl.github.io) [:octocat:](https://github.com/libigl/libigl) : Simple C++ geometry processing library.
+        - :tada: [MeshOptimizer](https://github.com/zeux/meshoptimizer) : Mesh optimization library that makes meshes smaller and faster to render.
         - :tada: [Polygon Mesh Processing Library](http://www.pmp-library.org) [:octocat:](https://github.com/pmp-library/pmp-library) : Modern C++ open-source library for processing and visualizing polygon surface meshes.
         - :tada: [PolyPartition](https://github.com/ivanfratric/polypartition) : Lightweight C++ library for 2D polygon partition and triangulation.
         - :star: [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - 2D implementation of the Ramer-Douglas-Peucker algorithm (reduces number of points in a line).
         - :tada: [Recast & Detour](https://github.com/recastnavigation/recastnavigation) : Navigation-mesh toolset for games.
         - :tada: [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) : Simplifies a mesh while preserving its UV's boundary, based on this paper, [Seamless](https://cragl.cs.gmu.edu/seamless/).
         - :tada: [Spheres](https://github.com/caosdoar/spheres) : Four methods to create a sphere mesh.
-        - :lock: [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) : Library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
+        - :lock: [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) : Library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
         - :tada: [V-HACD](https://github.com/kmammou/v-hacd) : Decomposes a 3D surface into a set of "near" convex parts.
     - #### Graphics: 2D <a name="Cpp-Graphics-2D"></a>
         - :tada: [Blend2D](https://blend2d.com) [:octocat:](https://github.com/blend2d/blend2d) : High performance 2D vector graphics engine written in C++.
@@ -432,7 +432,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :lock: [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) : Cross-platform C++ GUI toolkit for Linux, Windows, and macOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
         - :lock: [GTK](https://www.gtk.org) : The [GIMP](https://www.gimp.org) Toolkit, a multi-platform toolkit for creating graphical user interfaces. [[Repo](https://gitlab.gnome.org/GNOME/gtk/)] 
         - :books: [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) : Excellent list of C++ gui libraries, with pictures and descriptions.
-        - :tada: [litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
+        - :tada: [Litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
         - :tada: [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) : Cross-platform library for GUI programming in modern C++ style.
         - :star: [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header. Works on Windows, macOS or Linux.
         - :lock: [Qt](https://www.qt.io) : The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available.
@@ -454,7 +454,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) : 3D Physics simulation for games, visual effects, robotics and reinforcement learning.
         - :tada: [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) : An extension of [Box2D](https://box2d.org), it adds a particle based fluid and soft body simulation to the rigid body functionality of [Box2D](https://box2d.org).
         - :tada: [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) : Physics engine library that can be used in 3D simulations and games.
-        - :tada: [qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
+        - :tada: [Qu3e](https://github.com/RandyGaul/qu3e) : Compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games.
     - #### Reflection <a name="Cpp-Reflection"></a>
         - :tada: [Boost.PFR](https://www.boost.org/doc/libs/master/doc/html/boost_pfr.html) [:octocat:](https://github.com/boostorg/pfr) : Very basic reflection C++14 library. Part of the [Boost Libraries](https://www.boost.org).
         - :tada: [Magic Enum](https://github.com/Neargye/magic_enum) : Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code.
@@ -471,7 +471,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [v8](https://v8.dev) [:octocat:](https://github.com/v8/v8) : Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
     - #### Serialization <a name="Cpp-Serialization"></a>
         - :tada: [Cap'n Proto](https://capnproto.org/capnp-tool.html) [:octocat:](https://github.com/capnproto/capnproto) : Insanely fast data interchange format and capability-based RPC (remote procedure call) system.
-        - :tada: [cereal](https://github.com/USCiLab/cereal) : Header-only C++11 serialization library. Takes arbitrary data types and reversibly turns them into different representations, such as compact binary encodings, XML, or JSON.
+        - :tada: [Cereal](https://github.com/USCiLab/cereal) : Header-only C++11 serialization library. Takes arbitrary data types and reversibly turns them into different representations, such as compact binary encodings, XML, or JSON.
         - :tada: [Cista++](https://cista.rocks) [:octocat:](https://github.com/felixguendling/cista) : Simple, high-performance, zero-copy C++ serialization & reflection library.
         - :tada: [FlatBuffers](https://google.github.io/flatbuffers/) [:octocat:](https://github.com/google/flatbuffers) : Efficient cross-platform serialization library for C, C++, C#, Go, Java, Kotlin, JavaScript, Lua, PHP, Python, Rust, Swift and more. It was originally created at Google for game development and other performance-critical applications.
         - :tada: [JSON for Modern C++](https://json.nlohmann.me) [:octocat:](https://github.com/nlohmann/json) : JSON for Modern C++.
@@ -480,13 +480,13 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Terrain <a name="Cpp-Terrain"></a>
         - :tada: [Terra Forge 3D](https://jaysmito101.github.io/TerraForge3D/) [:octocat:](https://github.com/Jaysmito101/TerraForge3D) : Procedural 3D terrain generation and texturing tool.
     - #### Utility <a name="C-Utility"></a>
-        - :tada: [any-lite](https://github.com/martinmoene/any-lite) : A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library.
+        - :tada: [Any-Lite](https://github.com/martinmoene/any-lite) : A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library.
         - :tada: [EASTL](https://github.com/electronicarts/EASTL/) : Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
         - :tada: [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) : Family of header-only, very fast and memory-friendly hashmap and btree containers.
-        - :tada: [spdlog](https://github.com/gabime/spdlog) : Fast C++ logging library.
-        - :tada: [tiny-process-library](https://gitlab.com/eidheim/tiny-process-library) [:octocat:](https://github.com/eidheim/tiny-process-library) : Small, platform independent library making it simple to create and stop new processes in C++.
+        - :tada: [Spdlog](https://github.com/gabime/spdlog) : Fast C++ logging library.
+        - :tada: [Tiny-Process-Library](https://gitlab.com/eidheim/tiny-process-library) [:octocat:](https://github.com/eidheim/tiny-process-library) : Small, platform independent library making it simple to create and stop new processes in C++.
         - :tada: [TinyXML-2](https://github.com/leethomason/tinyxml2) : Simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
-    - #### Visual Scripting <a name="Cpp-Visual-Scripting"></a>
+    - #### Visual Programming / Nodes <a name="Cpp-Nodes"></a>
         - :tada: [NodeEditor](https://github.com/paceholder/nodeeditor) : General-purpose [Qt](https://www.qt.io)-based node editor library aimed at graph-controlled data processing.
         - :tada: [QuickQanava](http://cneben.github.io/QuickQanava/index.html) [:octocat:](https://github.com/cneben/QuickQanava) : Library written in C++ 14 designed to display graphs and relational content in a [QtQuick](https://www.qt.io) application.
 
@@ -548,8 +548,8 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Awesome Collections - <a name="Haxe-Language-Awesome"></a>
         - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
         - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
-        - :books: [Haxelibs](https://lib.haxe.org/all) : List of every library uploaded to Haxe's website.
-        - :books: [haxetink](https://github.com/haxetink) : Various add-on libraries for Haxe.
+        - :books: [HaxeLibs](https://lib.haxe.org/all) : List of every library uploaded to Haxe's website.
+        - :books: [HaxeTink](https://github.com/haxetink) : Various add-on libraries for Haxe.
         - :earth_americas: [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) : Collective of Haxe developers.
     - #### - Language: Blog Articles - <a name="Haxe-Language-Blog-Articles"></a>
         - :books: [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
@@ -559,17 +559,17 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Animation <a name="Haxe-Animation"></a>
         - :tada: [Actuate](https://github.com/jgranick/actuate) : Flexible, fast "tween" library.
         - :tada: [DragonBones](https://github.com/openfl/dragonbones) : Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
-        - :tada: [spine-hx](https://github.com/jeremyfa/spine-hx) : [Spine](https://esotericsoftware.com) runtime for Haxe.
+        - :tada: [Spine-Hx](https://github.com/jeremyfa/spine-hx) : [Spine](https://esotericsoftware.com) runtime for Haxe.
     - #### App Framework <a name="Haxe-App-Framework"></a>
         - :tada: [Lime](https://lime.software) [:octocat:](https://github.com/haxelime/lime) : Flexible, lightweight layer for Haxe cross-platform developers.
         - :tada: [nme](https://github.com/haxenme/nme) : Cross-platform native backend for Haxe projects.
     - #### Entity Component System <a name="Haxe-Entity-Component-System"></a>
-        - :tada: [ecx](https://github.com/eliasku/ecx) : Entity Component System framework for Haxe.
+        - :tada: [Ecx](https://github.com/eliasku/ecx) : Entity Component System framework for Haxe.
         - :tada: [GASM](https://github.com/HacksawStudios/GASM) : Framework agnostic Entity Component System for Haxe.
     - #### Game Engine w/Editor <a name="Haxe-Game-Engine"></a>
         - :tada: [Armory](https://armory3d.org) [:octocat:](https://github.com/armory3d/armory) : 3D game engine with full Blender integration.
         - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
-        - :tada: [flixel-studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
+        - :tada: [Flixel-Studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
         - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
         - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : :fire: Very cool modern, lightweight and efficient 2D level editor.
         - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular (used for Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
@@ -584,7 +584,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Sparkler](https://github.com/AndreiRudenko/sparkler) : Modular Macro-powered Particle System.
     - #### Gui <a name="Haxe-Gui"></a>
         - :tada: [HaxeUI](http://haxeui.org) [:octocat:](https://github.com/haxeui/haxeui-core) : Cross-platform set of styleable application centric, rich UI components.
-        - :tada: [zui](https://github.com/armory3d/zui) : Immediate mode user interface, used in [ArmorPaint](https://armorpaint.org).
+        - :tada: [Zui](https://github.com/armory3d/zui) : Immediate mode user interface, used in [ArmorPaint](https://armorpaint.org).
     - #### Physics <a name="Haxe-Physics"></a>
         - :tada: [Haxe Bullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
         - :tada: [HeapsIO/bullet](https://github.com/HeapsIO/bullet) : Bullet 3D Physics for Heaps (Haxe's native low-level game framework).
@@ -596,11 +596,11 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [HxBit](https://github.com/HeapsIO/hxbit) : Binary serialization and network synchronization library.
     - #### Utility <a name="Haxe-Utility"></a>
         - :tada: [hexMachina](http://hexmachina.org) [:octocat:](https://github.com/DoclerLabs/hexCore) : Powerful modular MVC framework written in Haxe.
-        - :tada: [hxColorToolkit](https://github.com/andyli/hxColorToolkit) : Library for color conversion and color scheme generation.
+        - :tada: [HxColorToolkit](https://github.com/andyli/hxColorToolkit) : Library for color conversion and color scheme generation.
         - :tada: [HxMath](https://github.com/tbrosman/hxmath) : Game-oriented math library for the Haxe language.
         - :tada: [SteamWrap](https://github.com/larsiusprime/SteamWrap) : Haxe native extension for the Steam API.
-    - #### Visual Scripting <a name="Haxe-Visual-Scripting"></a>
-        - :tada: [haxe-blockly](https://github.com/nickmain/haxe-blockly) : Haxe wrapper for [Blockly](https://developers.google.com/blockly)
+    - #### Visual Programming / Nodes <a name="Haxe-Nodes"></a>
+        - :tada: [Haxe-Blockly](https://github.com/nickmain/haxe-blockly) : Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
 <br>
 
@@ -641,12 +641,12 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) : Ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
         - :tada: [D3.js](https://d3js.org) [:octocat:](https://github.com/d3/d3) : Data-Driven Documents. Bring data to life with SVG, Canvas and HTML. [[Examples](https://observablehq.com/@d3/gallery)]
         - :money_with_wings: [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) : Robust JavaScript toolset that turns developers into animation superheroes.
-        - :tada: [react-spring](http://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) : Spring physics based [React](https://reactjs.org) animation library.
+        - :tada: [React-Spring](http://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) : Spring physics based [React](https://reactjs.org) animation library.
         - :tada: [Scene.js](https://daybrush.com/scenejs) [:octocat:](https://github.com/daybrush/scenejs) : JavaScript & CSS timeline-based animation library.
-        - :tada: [tween.js](http://tweenjs.github.io/tween.js) [:octocat:](https://github.com/tweenjs/tween.js) : Tweening engine for easy animations, incorporating optimised Robert Penner's equations.
+        - :tada: [Tween.js](http://tweenjs.github.io/tween.js) [:octocat:](https://github.com/tweenjs/tween.js) : Tweening engine for easy animations, incorporating optimised Robert Penner's equations.
         - :tada: [TweenJS](https://createjs.com/tweenjs) [:octocat:](https://github.com/CreateJS/TweenJS) : Simple but powerful tweening / animation library for Javascript, part of the [CreateJS](http://createjs.com/) suite of libraries.
     - #### Audio <a name="Javascript-Audio"></a>
-        - :tada: [howler.js](https://howlerjs.com) [:octocat:](https://github.com/goldfire/howler.js) : Makes working with audio in JavaScript easy and reliable across all platforms.
+        - :tada: [Howler.js](https://howlerjs.com) [:octocat:](https://github.com/goldfire/howler.js) : Makes working with audio in JavaScript easy and reliable across all platforms.
         - :tada: [PixiJS Sound](https://pixijs.io/sound/examples/) [:octocat:](https://github.com/pixijs/sound) : WebAudio API playback library, with filters. Modern audio playback for modern browsers. Built on, and requires [PixiJS](https://pixijs.com).
         - :tada: [SoundJS](https://createjs.com/soundjs) [:octocat:](https://github.com/CreateJS/SoundJS) : Simple API and powerful features to make working with audio a breeze, part of the [CreateJS](http://createjs.com/) suite of libraries.
         - :tada: [Sonant-X](https://github.com/nicolas-van/sonant-x) : Very small JavaScript synthesizer library, suitable for small JavaScript demos or video games. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
@@ -657,7 +657,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Entity Component System <a name="Javascript-Entity-Component-System"></a>
         - :tada: [Becsy](https://github.com/LastOliveGames/becsy) : Multithreaded Entity Component System (ECS) for TypeScript and JavaScript, and guided by ideas from [Flecs](https://github.com/SanderMertens/flecs).
         - :lock: [bitECS](https://github.com/NateTheGreatt/bitECS) : Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript.
-        - :tada: [ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance.
+        - :tada: [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance.
     - #### File Formats <a name="Javascript-File-Formats"></a>
         - :tada: [JSMpeg](https://github.com/phoboslab/jsmpeg) : MPEG1 Video Decoder in JavaScript.
     - #### Frameworks <a name="Javascript-Frameworks"></a>
@@ -688,7 +688,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Convexhull.js](https://github.com/indy256/convexhull-js) : Tiny high-performance JavaScript 2D convex hull library.
         - :tada: [Delaunator](https://mapbox.github.io/delaunator/) [:octocat:](https://github.com/mapbox/delaunator) : Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
         - :tada: [Earcut](https://github.com/mapbox/earcut) : The fastest and smallest JavaScript polygon triangulation library for your WebGL apps.
-        - :tada: [poly-decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
+        - :tada: [Poly-Decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
     - #### Graphics: 2D <a name="Javascript-Graphics-2D"></a>
         - :tada: [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) : WebAssembly build of Google's [Skia](https://skia.org), a mobile-first 2D graphics library.
         - :tada: [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) : Powerful and simple Javascript HTML5 canvas library.
@@ -718,17 +718,30 @@ _Language specific game engine development libraries / frameworks / code_
             - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
             - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
     
-    - #### Gui: 3D <a name="Javascript-Gui"></a>
+    - #### Gui <a name="Javascript-Gui"></a>
     
     - #### Physics <a name="Javascript-Physics"></a>
-        - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of Box2D physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
-
+        - :tada: [Ammo.js](https://github.com/kripken/ammo.js) : Direct port of the 3D [Bullet Physics](https://pybullet.org/wordpress/) engine to JavaScript (as WebAssembly) using Emscripten.
+        - :tada: [Box2d.js](https://github.com/kripken/box2d.js/) : Port of [Box2D](https://box2d.org) to JavaScript (as WebAssembly).
+        - :tada: [Cannon-es](https://pmndrs.github.io/cannon-es/) [:octocat:](https://github.com/pmndrs/cannon-es) : This is a maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js), a lightweight 3D physics engine written in JavaScript.
+        - :tada: [Matter.js](https://brm.io/matter-js/) [:octocat:](https://github.com/liabru/matter-js) : Amazing, full featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/demo/)]
+        - :tada: [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) : Lightweight 3d physics engine for javascript.
+        - :tada: [p2.js](https://github.com/schteppe/p2.js) : Javascript 2D rigid body physics engine, by the creator of the Javascript 3D physics engine [Cannon.js](https://github.com/schteppe/cannon.js).
+        - :tada: [Particulate.js](https://github.com/jpweeks/particulate-js) : Particle physics library designed to be simple, fast and stable.
+        - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of [Box2D](https://box2d.org) physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
+        - :tada: [Rapier](https://rapier.rs/docs/user_guides/javascript/getting_started_js) [:octocat:](https://github.com/dimforge/rapier) : Awesome Rust physics libary with 2D and 3D physics engines focused on performance, ported to Javascript (as WebAssembly).
+        - :tada: [Verly.js](https://anuraghazra.dev/Verly.js/) [:octocat:](https://github.com/anuraghazra/Verly.js) : Easy to integrate verlet physics engine.
     - #### Utility <a name="Javascript-Utility"></a>
 
     - #### Timeline <a name="Javascript-Timeline"></a>
 
-    - #### Visual Scripting <a name="Javascript-Visual-Scripting"></a>
-        - :tada: [litegraph.js](https://github.com/jagenjo/litegraph.js) : Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor)]
+    - #### Visual Programming / Nodes <a name="Javascript-Nodes"></a>
+        - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by Alibaba) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
+        - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple javascript flow library.
+        - :tada: [Flow](https://github.com/sunag/flow) : Node-Graph, lightweight, cross-browser UI library.
+        - :tada: [Litegraph.js](https://github.com/jagenjo/litegraph.js) : Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor)]
+        - :tada: [Node-RED](http://nodered.org/) [:octocat:](https://github.com/node-red/node-red) : Low-code programming for event-driven applications.
+        - :tada: [Rete.js](https://rete.js.org/) [:octocat:](https://github.com/retejs/rete) : Framework for visual programming and creating a node editor.
 
 <br>
 
@@ -759,7 +772,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Framework <a name="Rust-Game-Framework"></a>
         - :tada: [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) : Data-driven and data-oriented 2D / 3D game engine aiming to be fast and as configurable as possible.
         - :tada: [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) : :fire: Refreshingly simple data-driven 2D / 3D game engine built in Rust.
-        - :tada: [macroquad](https://github.com/not-fl3/macroquad) : Simple and easy to use game library for Rust programming language, heavily inspired by [raylib](https://www.raylib.com).
+        - :tada: [Macroquad](https://github.com/not-fl3/macroquad) : Simple and easy to use game library for Rust programming language, heavily inspired by [raylib](https://www.raylib.com).
     - #### Graphics: 3D <a name="Rust-Graphics-3D"></a>
         - :tada: [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) : Keep it simple, stupid 3d graphics engine for Rust.
     - #### Physics <a name="Rust-Physics"></a>
@@ -873,7 +886,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Noise
         - :books: [Book of Shaders - Noise](https://thebookofshaders.com/11/) : Excellent GLSL noise article by [Book of Shaders](https://thebookofshaders.com).
         - :tada: [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) [:octocat:](https://github.com/ashima/webgl-noise/) : Research paper responsible for the 2D simplex noise function (MIT Licesnse) many games use in their GLSL code.
-        - :tada: [psrdnoise](https://github.com/stegu/psrdnoise/) : Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
+        - :tada: [Psrdnoise](https://github.com/stegu/psrdnoise/) : Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
         - :books: [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) [:octocat:](https://gist.github.com/Flafla2/f0260a861be0ebdeef76) : Presents an easy-to-understand analysis of Ken Perlin's Improved Perlin Noise, written in C#.
         - :tada: [WebGL Noise](https://github.com/stegu/webgl-noise/) : Maintained branch of the original Ashima Arts 2D, 3D and 4D noise functions.
     - #### Outlines
@@ -937,7 +950,7 @@ _Software to help with game engine / video game development_
     - :earth_americas: [Colormind](http://colormind.io) : Color scheme generator that can learn color styles from photographs, movies and popluar art.
     - :earth_americas: [COLOURlovers](https://www.colourlovers.com) : Creative community where people from around the world create and share colors, palettes and patterns.
     - :earth_americas: [Coolors](https://coolors.co) : Super fast color palette generator.
-    - :earth_americas: [paletton](https://paletton.com) : Explore complementary colors on the color wheel.
+    - :earth_americas: [Paletton](https://paletton.com) : Explore complementary colors on the color wheel.
     
 - ### Image Editors <a name="Tools-Image"></a>
     - :free: [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) : GNU Image Manipulation Program, free and open-source cross-platform image editor.
@@ -1005,7 +1018,7 @@ _Resources to help bring video games and game engines alive_
         - :money_with_wings: [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) : Huge collection of free and paid royalty free music tracks.
         - :money_with_wings: [Soundimage](https://soundimage.org/looping-music/) : Looping music tracks intended for videogame developers. All are free to use with attribution.
     - #### Sound Effects <a name="Assets-Sound-Effects"></a>
-        - :free: [freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
+        - :free: [Freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
         - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com) : Large collection of sound effects.
         - :moneybag: [Soundsnap](https://www.soundsnap.com) : Professional sound effects library with hundreds of thousands of sounds, subscription based.
 
@@ -1019,12 +1032,12 @@ _Resources to help bring video games and game engines alive_
     - :free: [Top Free Game Assets](https://itch.io/game-assets/free) : Top free game assets listed on [itch.io](https://itch.io).
 
 - ### Materials <a name="Assets-Materials"></a>
-    - :free: [ambientCG](https://ambientcg.com) : Public domain materials for physically based rendering.
-    - :free: [pmndrs materials](https://market.pmnd.rs/materials) : Nice collection of public domain materials.
+    - :free: [AmbientCG](https://ambientcg.com) : Public domain materials for physically based rendering.
+    - :free: [Pmndrs Materials](https://market.pmnd.rs/materials) : Nice collection of public domain materials.
 
 - ### Models <a name="Assets-Models"></a>
     - :free: [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
-    - :free: [pmndrs market](https://market.pmnd.rs) : Nice collection of public domain models.
+    - :free: [Pmndrs Market](https://market.pmnd.rs) : Nice collection of public domain models.
     - :free: [Poly Pizza](https://poly.pizza) : Build something beautiful with thousands of free low poly models.
     - :books: [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3d graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
     - :money_with_wings: [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
