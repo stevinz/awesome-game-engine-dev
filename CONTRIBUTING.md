@@ -11,4 +11,4 @@ Thanks for your interest in contributing. This list aims to provide excellent re
 
 ## Existing Links
 
-If you are the maintainer of a project or website already in the list and would like to the description of link changed feel free to submit a pull request to do so.
+If you are the maintainer of a project or website already in this list and would like the description changed, feel free to submit a pull request to do so.
