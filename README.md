@@ -221,7 +221,7 @@ _Info on topics necessary for designing and developing game engines_
     - :books: [TIOBE Index](https://www.tiobe.com/tiobe-index/) : Indicator of the popularity of programming languages. The index is updated once a month.
 
 - ### Topics
-    _see [Specialty Topics](#Specialty-Topics)_        
+    _see [Specialty Topics](#Specialty-Topics)_
 
 
 <br><br>
@@ -372,7 +372,9 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Lina Engine](https://github.com/inanevin/LinaEngine) : Modular C++ game engine, aimed to develop 3D desktop games.
         - :tada: [Lumix Engine](https://github.com/nem0/LumixEngine) : Yet another C++ open source 3D game engine with an [Dear ImGui](https://github.com/ocornut/imgui) based editor.
         - :lock: [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) : Cross-platform GPU-oriented C++ application / game framework.
+        - :tada: [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) : Highly documented alternative 3D game engine, inspired by industry standards.
         - :tada: [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) : Cross-platform framework for creative code. Nice editor.
+        - :tada: [Rootex](https://rootex.readthedocs.io/) [:octocat:](https://github.com/sdslabs/rootex) : Advanced C++ 3D game engine powering an in-production game yet to be announced.
         - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine built on [Forge](https://github.com/ConfettiFX/The-Forge).
         - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
     - #### Game Framework <a name="Cpp-Game-Framework"></a>
@@ -1060,6 +1062,8 @@ _Resources to help bring video games and game engines alive_
 <br><br>
 
 ## Contributing
+
+_see [Contribution Guide](CONTRIBUTING.md)_      
 
 <br>
 
