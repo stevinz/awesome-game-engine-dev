@@ -69,7 +69,7 @@ This list currently favors (but is not limited to) programming the core engine i
         - <sub><sup>[Platformer](#Platformer) | [Ropes / Chains](#Topics-Physics-Ropes) | [Soft Body](#Soft-Body) | [Verlet](#Verlet-Physics) | [Water](#Topics-Physics-Water)</sup></sub>
     - [Scripting](#Scripting)
     - [Shaders](#Topic-Shaders)
-         - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
+         - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Upscaling](#Upscaling) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [2D Game Dev](#Tools-2D-Game-Dev)
@@ -913,6 +913,9 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Pixelation
         - :books: [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
         - :earth_americas: [Three.js Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
+    - #### Upscaling
+        - :books: [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) : Great post with shader code demonstrating upscaling.
+        - :books: [hqx](https://en.wikipedia.org/wiki/Hqx) : Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
     - #### Water <a name="Topics-Shaders-Water"></a>
         - :books: [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) : GLSL fragment shader to simulate 2D water surface in [libGDX](https://libgdx.com).
     - #### Wireframe
