@@ -363,6 +363,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [TinyEXR](https://github.com/syoyo/tinyexr) : Tiny OpenEXR image loader/saver library.
         - :tada: [TinyGLTF](https://github.com/syoyo/tinygltf) : Header only C++11 tiny glTF 2.0 library.
         - :tada: [TinyOBJLoader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader.
+    - #### File System <a name="Cpp-File-System"></a>
+        - :tada: [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) : Header only file browser implementation for [Dear ImGui](https://github.com/ocornut/imgui). C++17 is required.
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
         - :tada: [Ethereal Engine](https://github.com/volcoma/EtherealEngine) : Cross-platform C++ game engine and editor.
