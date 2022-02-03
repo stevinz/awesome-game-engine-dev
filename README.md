@@ -4,7 +4,9 @@
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Awesome list of assets, libraries, and tools for Game Engine Development. Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines / app or game frameworks / graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scipting support, physics integration, asset management, special effects, etc. 
+Awesome list of articles, assets, libraries, and tools for Game Engine Development.
+
+Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines / app or game frameworks / graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or Javascript.
 
@@ -204,7 +206,7 @@ _Info on topics necessary for designing and developing game engines_
     - #### Books <a name="Game-Development-Books"></a>
         - :books: [Game Programming Patterns](https://gameprogrammingpatterns.com) : Book that features a collection of patterns found in games that make code cleaner, easier to understand, and faster.
     - #### Developer Portals <a name="Game-Development-Portals"></a>
-        - :earth_americas: [GameDev.net](https://www.gamedev.net) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
+        - :earth_americas: [GameDev.net](https://www.gamedev.net/) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
         - :earth_americas: [GameFromScratch.com](https://gamefromscratch.com) : Game development news, tutorials and so much more.
         - :earth_americas: [itch.io](https://itch.io) : Platform to host, showcase, promote, buy and sell games and game development resources.
 
@@ -573,7 +575,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [GASM](https://github.com/HacksawStudios/GASM) : Framework agnostic Entity Component System for Haxe.
     - #### Game Engine w/Editor <a name="Haxe-Game-Engine"></a>
         - :tada: [Armory](https://armory3d.org) [:octocat:](https://github.com/armory3d/armory) : 3D game engine with full Blender integration.
-        - :tada: [Away3D](https://www.away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
+        - :tada: [Away3D](http://away3d.com) [:octocat:](https://github.com/openfl/away3d) : Real-time 3D engine for OpenFL.
         - :tada: [Flixel-Studio](https://github.com/Dovyski/flixel-studio) : Embeddable, in-game editor for [HaxeFlixel](https://haxeflixel.com).
         - :tada: [Hide](https://github.com/heapsio/hide) : Extensible IDE for [Heaps](https://heaps.io).
         - :tada: [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) : :fire: Very cool modern, lightweight and efficient 2D level editor.
@@ -585,7 +587,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
     - #### Graphics <a name="Haxe-Graphics"></a>
         - :tada: [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) : :fire: High-performance cross-platform 2D and 3D graphics engine by the creators of [Haxe](https://haxe.org).
-        - :tada: [Kha](https://kha.tech) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
+        - :tada: [Kha](http://kha.tech/) [:octocat:](https://github.com/Kode/Kha) : Ultra-portable, high performance, open source multimedia framework.
         - :tada: [Sparkler](https://github.com/AndreiRudenko/sparkler) : Modular Macro-powered Particle System.
     - #### Gui <a name="Haxe-Gui"></a>
         - :tada: [HaxeUI](http://haxeui.org) [:octocat:](https://github.com/haxeui/haxeui-core) : Cross-platform set of styleable application centric, rich UI components.
@@ -700,7 +702,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) : Powerful and simple Javascript HTML5 canvas library.
         - :tada: [Konva](https://konvajs.org) [:octocat:](https://github.com/konvajs/konva) : Canvas framework that extends the 2D context by enabling canvas interactivity for desktop and mobile applications.
         - :tada: [p5.js](https://p5js.org) [:octocat:](https://github.com/processing/p5.js) : Library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
-        - :tada: [Paper.js](http://paperjs.orghttp://paperjs.org) [:octocat:](https://github.com/paperjs/paper.js) : The swiss army knife of vector graphics.
+        - :tada: [Paper.js](http://paperjs.org/) [:octocat:](https://github.com/paperjs/paper.js) : The swiss army knife of vector graphics.
         - :tada: [Pencil.js](https://pencil.js.org) [:octocat:](https://github.com/pencil-js/pencil.js) : Nice modular interactive 2D drawing library.
         - :tada: [PixiJS](http://pixijs.com/) [:octocat:](https://github.com/pixijs/pixijs) : :fire: Fast, lightweight 2D library that works across all devices. [[Awesome PixiJS](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor)]
         - :tada: [Pts](https://ptsjs.org) [:octocat:](https://github.com/williamngan/pts) : Library for visualization and creative-coding.
@@ -712,6 +714,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) : One of the most powerful, beautiful, and simple Web rendering engines in the world.
         - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [[CopperCube Editor](http://ambiera.com/coppercube/index.html)]
         - :tada: [Filament for Web](https://google.github.io/filament/webgl/) [:octocat:](https://github.com/google/filament/tree/main/web/filament-js) : WebAssembly build of Google's [Filament](https://google.github.io/filament/), a mobile-first 3D physically based rendering library.
+        - :tada: [Hilo3d](https://hilo3d.js.org/docs/index.html) [:octocat:](https://github.com/hiloteam/Hilo3d) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) WebGL 3D rendering engine.
         - :tada: [litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
         - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
@@ -755,7 +758,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) : JavaScript sequence editor.
         - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for javascript.
     - #### Visual Programming / Nodes <a name="Javascript-Nodes"></a>
-        - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by Alibaba) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
+        - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
         - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple javascript flow library.
         - :tada: [Flow](https://github.com/sunag/flow) : Node-Graph, lightweight, cross-browser UI library.
         - :tada: [Litegraph.js](https://github.com/jagenjo/litegraph.js) : Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor)]
@@ -806,7 +809,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 - ### AI / Pathfinding <a name="Topic-AI"></a>
     - :books: [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at [raywenderlich.com](https://www.raywenderlich.com).
-    - :books: [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) : Introduction to a range of concepts used in artificial intelligence for games at [gamedev.net](https://www.gamedev.net).
+    - :books: [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) : Introduction to a range of concepts used in artificial intelligence for games at [gamedev.net](https://www.gamedev.net/).
 
 - ### Animation <a name="Topic-Animation"></a>
     - :books: [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
@@ -944,9 +947,9 @@ _Software to help with game engine / video game development_
 
 - ### Animation <a name="Tools-Animation"></a>
     - :money_with_wings: [Cascadeur](https://cascadeur.com) : 3D animation software for physics-based character animation.
-    - :free: [DragonBones](https://dragonbones.github.io/en/index.html) [:octocat:](https://github.com/DragonBones/) : Open source and free 2D game skeletal animation solution.
+    - :free: [DragonBones](https://docs.egret.com/dragonbones/en) [:octocat:](https://github.com/DragonBones/) : Open source and free 2D game skeletal animation solution.
     - :money_with_wings: [Mixamo](https://www.mixamo.com/#/) : Animate 3D characters for games, films and more by [Adobe](https://www.adobe.com).
-    - :money_with_wings: [Spine](http://esotericsoftware.com) : 2D animation for games.
+    - :money_with_wings: [Spine](http://esotericsoftware.com/) : 2D animation for games.
 
 - ### Audio Creation <a name="Tools-Audio"></a>
     - #### Music <a name="Tools-Audio-Music"></a>
@@ -1041,7 +1044,7 @@ _Resources to help bring video games and game engines alive_
         - :money_with_wings: [Soundimage](https://soundimage.org/looping-music/) : Looping music tracks intended for videogame developers. All are free to use with attribution.
     - #### Sound Effects <a name="Assets-Sound-Effects"></a>
         - :free: [Freesound](https://freesound.org/browse/) : Community based archive of free sound effects.
-        - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com) : Large collection of sound effects.
+        - :money_with_wings: [Free Sound Effects](https://www.freesoundeffects.com/) : Large collection of sound effects.
         - :moneybag: [Soundsnap](https://www.soundsnap.com) : Professional sound effects library with hundreds of thousands of sounds, subscription based.
 
 - ### Graphics <a name="Assets-Graphics"></a>
