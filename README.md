@@ -63,7 +63,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Entity Component System](#Topic-ECS")
     - [Fluid / Smoke](#Topic-Fluid)
     - [Geometry](#Geometry)
-        - <sub><sup>[Algorithms](#Algorithms) | [Meshes](#Meshes) | [Smoothing](#Smoothing)</sup></sub>
+        - <sub><sup>[Algorithms](#Algorithms) | [CSG](#CSG) | [Meshes](#Meshes) | [Smoothing](#Smoothing)</sup></sub>
     - [Lighting / Shadows](#Lighting)
         - <sub><sup>[Lighting](#Lighting-2D) | [Shadows](#Shadows-2D)</sup></sub>
     - [Particles](#Particles)
@@ -72,6 +72,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Scripting](#Scripting)
     - [Shaders](#Topic-Shaders)
          - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Upscaling](#Upscaling) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
+    - [Signed Distance Fields](#SDF)
     - [Tiling](#Tiling)
 - [Tools / Software](#Tools)
     - [2D Game Dev](#Tools-2D-Game-Dev)
@@ -582,7 +583,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) : Popular (used for Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
     - #### Game Framework <a name="Haxe-Game-Framework"></a>
         - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
-        - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2d game framework.
+        - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2D game framework.
         - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
         - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
     - #### Graphics <a name="Haxe-Graphics"></a>
@@ -744,7 +745,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Cannon-es](https://pmndrs.github.io/cannon-es/) [:octocat:](https://github.com/pmndrs/cannon-es) : This is a maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js), a lightweight 3D physics engine written in JavaScript.
         - :tada: [Goblin Physics](http://www.goblinphysics.com) [:octocat:](https://github.com/chandlerprall/GoblinPhysics) : Open source 3D physics engine written from the ground up in JavaScript.
         - :tada: [Matter.js](https://brm.io/matter-js/) [:octocat:](https://github.com/liabru/matter-js) : Amazing, full featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/demo/)]
-        - :tada: [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) : Lightweight 3d physics engine for javascript.
+        - :tada: [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) : Lightweight 3D physics engine for javascript.
         - :tada: [p2.js](https://github.com/schteppe/p2.js) : Javascript 2D rigid body physics engine, by the creator of the Javascript 3D physics engine [Cannon.js](https://github.com/schteppe/cannon.js).
         - :tada: [Particulate.js](https://github.com/jpweeks/particulate-js) : Particle physics library designed to be simple, fast and stable.
         - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of [Box2D](https://box2d.org) physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
@@ -798,7 +799,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) : :fire: Refreshingly simple data-driven 2D / 3D game engine built in Rust.
         - :tada: [Macroquad](https://github.com/not-fl3/macroquad) : Simple and easy to use game library for Rust programming language, heavily inspired by [raylib](https://www.raylib.com).
     - #### Graphics: 3D <a name="Rust-Graphics-3D"></a>
-        - :tada: [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) : Keep it simple, stupid 3d graphics engine for Rust.
+        - :tada: [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) : Keep it simple, stupid 3D graphics engine for Rust.
     - #### Gui <a name="Rust-Gui"></a>
         - :tada: [Druid](https://linebender.org/druid/) [:octocat:](https://github.com/linebender/druid) : Data-first Rust-native UI design toolkit.
         - :tada: [egui](https://github.com/emilk/egui) : Awesome, easy to use, immediate mode GUI in Rust that runs on both web and native. [[Demo](https://www.egui.rs/)]
@@ -839,6 +840,10 @@ _Exploring specialty application / game engine / game development topics and fea
 - ### Geometry
     - #### Algorithms
         - :books: [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) : Online book that covers algorithms for fundamental geometric objects, computing bounding containers, convex hulls, polyline simplification and more.
+    - #### CSG (Constructive Solid Geometry) <a name="CSG"></a>
+        - :books: [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) : In depth explantion on [Wikipedia](https://en.m.wikipedia.org) of Constructive Solid Geometry, a techique used to build models using boolean operations to combine primitive objects.
+        - :tada: [csg.js](https://evanw.github.io/csg.js/) [:octocat:](https://github.com/evanw/csg.js/) : Javacsript library implementing CSG (Constructive Solid Geometry) operations on meshes using BSP trees, meant to serve as an easily understandable implementation of the algorithm.
+        - :tada: [Three-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) : Conversion of the [csg.js](https://evanw.github.io/csg.js/) library for use with modern [Three.js](https://threejs.org).
     - #### Meshes
         - :books: [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) : Interesting info on Apple's private API that allows manipulation of the mesh of any UIView.
     - #### Smoothing
@@ -937,6 +942,11 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Wireframe
         - :books: [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) : Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
         - :books: [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) : This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+
+- ### Signed Distance Fields (SDF) <a name="SDF"></a>
+    - :books: [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) : Amazing list of signed distance functions for basic 2D primitives.
+    - :books: [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) : Amazing list of signed distance functions for basic 3D primitives.
+    - :books: [CSG w/ Signed Distance Fields](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) : Introductory exploration of signed distance fields and using circular SDF's to build 3D objects with CSG (Constructive Solid Geometry).
 
 - ### Tiling
     - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
@@ -1074,7 +1084,7 @@ _Resources to help bring video games and game engines alive_
     - :free: [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
     - :free: [Pmndrs Market](https://market.pmnd.rs) : Nice collection of public domain models.
     - :free: [Poly Pizza](https://poly.pizza) : Build something beautiful with thousands of free low poly models.
-    - :books: [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3d graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
+    - :books: [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3D graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
     - :money_with_wings: [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
 
 
