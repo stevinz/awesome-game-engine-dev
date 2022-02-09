@@ -47,6 +47,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Graphical User Interface](#Graphical-User-Interface)
     - [Programming](#Programming)
 - [Libraries](#Libraries)
+    - [BASIC](#Basic)
     - [C](#C)
     - [C++](#Cpp)
     - [C#](#CSharp)
@@ -56,6 +57,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Javascript](#Javascript)
     - [Python](#Python)
     - [Rust](#Rust)
+    - [Zig](#Zig)
 - [Specialty Topics](#Specialty-Topics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
@@ -814,6 +816,23 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Physics <a name="Rust-Physics"></a>
         - :tada: [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) : 2D and 3D physics engines focused on performance.
 
+<br>
+
+- ### Zig
+    - #### - Language - <a name="Zig-Language"></a>
+        - :earth_americas: [Zig](https://ziglang.org/)) [:octocat:](https://github.com/michal-z/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [[Docs](https://ziglang.org/documentation/master/)]
+        - :earth_americas: [Zig Learn](https://ziglearn.org/) : Excellent Zig language resource.
+        - :books: [Ziglings](https://github.com/ratfactor/ziglings) : Learn the Zig programming language by fixing tiny broken programs.
+    - #### - Language: Awesome Collections - <a name="Zig-Language-Awesome"></a>
+        - :books: [Awesome Zig](https://github.com/nrdmn/awesome-zig) : Curated list of Zig code and resources.
+    - #### App Framework <a name="Zig-App-Framework"></a>
+        - :tada: [Upaya](https://github.com/prime31/zig-upaya) : Zig-based framework for creating game tools and helper apps.
+    - #### File System <a name="Zig-File-System"></a>
+        - :tada: [Known Folders](https://github.com/ziglibs/known-folders) : Provides access to well-known folders across several operating systems.
+    - #### Game Framework <a name="Zig-Game-Framework"></a>
+        - :tada: [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) : Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
+    - #### Graphics: 2D <a name="Zig-Graphics-2D"></a>
+        - :lock: [Pixi](https://github.com/foxnne/pixi) : Pixel art editor made with Zig.
 
 <br><br>
 
