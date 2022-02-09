@@ -453,6 +453,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Gainput](http://gainput.johanneskuhlmann.de) [:octocat:](https://github.com/jkuhlmann/gainput) : Awesome C++ input library for your game. It's easy to use, open source and cross-platform.
         - :tada: [OIS](https://github.com/wgois/OIS) : Object oriented input system. Compatiable with many systems and operating systems.
         - :tada: [Oryol Input](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) : Input module from the [Oryol](http://floooh.github.io/oryol/) game framework.
+    - #### Layout <a name="Cpp-Layout"></a>
+        - :tada: [Yoga](https://yogalayout.com/) [:octocat:](https://github.com/facebook/yoga) : (by Facebook) Cross-platform layout engine which implements [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).
     - #### Lighting <a name="Cpp-Lighting"></a>
         - :tada: [Thekla Atlas](https://github.com/Thekla/thekla_atlas) : Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied uv's.
         - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
@@ -742,6 +744,9 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [uil](http://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) : Simple javascript ui.
         - :tada: [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) : UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
         - :tada: [Zebkit](https://zebkit.org/dark/about.html) [:octocat:](https://github.com/barmalei/zebkit) : Canvas rendered UI component libary, very cool.
+    - #### Materials <a name="Javascript-Materials"></a>
+        - :tada: [three-projected-material](https://marcofugaro.github.io/three-projected-material/) [:octocat:](https://github.com/marcofugaro/three-projected-material) : Three.js material which lets you do Texture Projection on a 3D model.
+        - :tada: [Troika JS - Derived Material](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/) [:octocat:](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) : Utility class to extend existing Three.js materials with custom shader code.
     - #### Physics <a name="Javascript-Physics"></a>
         - :tada: [Ammo.js](https://github.com/kripken/ammo.js) : Direct port of the 3D [Bullet Physics](https://pybullet.org/wordpress/) engine to JavaScript (as WebAssembly) using Emscripten.
         - :tada: [Box2d.js](https://github.com/kripken/box2d.js/) : Port of [Box2D](https://box2d.org) to JavaScript (as WebAssembly).
