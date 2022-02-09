@@ -820,7 +820,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 - ### Zig
     - #### - Language - <a name="Zig-Language"></a>
-        - :earth_americas: [Zig](https://ziglang.org/)) [:octocat:](https://github.com/michal-z/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [[Docs](https://ziglang.org/documentation/master/)]
+        - :earth_americas: [Zig](https://ziglang.org/) [:octocat:](https://github.com/michal-z/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [[Docs](https://ziglang.org/documentation/master/)]
         - :earth_americas: [Zig Learn](https://ziglearn.org/) : Excellent Zig language resource.
         - :books: [Ziglings](https://github.com/ratfactor/ziglings) : Learn the Zig programming language by fixing tiny broken programs.
     - #### - Language: Awesome Collections - <a name="Zig-Language-Awesome"></a>
@@ -829,6 +829,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Upaya](https://github.com/prime31/zig-upaya) : Zig-based framework for creating game tools and helper apps.
     - #### File System <a name="Zig-File-System"></a>
         - :tada: [Known Folders](https://github.com/ziglibs/known-folders) : Provides access to well-known folders across several operating systems.
+    - #### Game Engine w/Editor <a name="Zig-Game-Engine"></a>
+        - :tada: [Mach](https://hexops.com/mach/) [:octocat:](https://github.com/hexops/mach) : Still in early developemnt, Mach is a game engine & graphics toolkit with large ambitions.
     - #### Game Framework <a name="Zig-Game-Framework"></a>
         - :tada: [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) : Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
     - #### Graphics: 2D <a name="Zig-Graphics-2D"></a>
