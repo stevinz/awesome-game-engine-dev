@@ -56,6 +56,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Java](#Java)
     - [Javascript](#Javascript)
     - [Python](#Python)
+    - [Ruby](#Ruby)
     - [Rust](#Rust)
     - [Zig](#Zig)
 - [Specialty Topics](#Specialty-Topics)
@@ -673,7 +674,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance.
     - #### File Formats <a name="Javascript-File-Formats"></a>
         - :tada: [JSMpeg](https://github.com/phoboslab/jsmpeg) : MPEG1 Video Decoder in JavaScript.
-    - #### Frameworks <a name="Javascript-Frameworks"></a>
+    - #### Framework <a name="Javascript-Framework"></a>
         - :tada: [Alpine](https://alpinejs.dev) [:octocat:](https://github.com/alpinejs/alpine) : Rugged, minimal framework for composing JavaScript behavior in your markup.
         - :tada: [Angular](https://angular.io) [:octocat:](https://github.com/angular/angular) : The modern web developer’s platform.
         - :tada: [Aurelia](https://aurelia.io) [:octocat:](https://github.com/aurelia/framework) : Modern, front-end JavaScript framework for building browser, mobile, and desktop applications.
@@ -794,7 +795,23 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) : [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module that can display a grid of text characters in a [Pygame](https://www.pygame.org) Surface Object. Provides an easy way to create text adventures, roguelikes, and console-style applications in Python.
     - #### Gui <a name="Python-Gui"></a>
         - :tada: [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-        - :lock: [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) : (formerly SixtyFPS) Gui toolkit to efficiently develop fluid displays for embedded devices and desktop applications, supports Rust, C++ or JavaScript.
+
+<br>
+
+- ### Ruby
+    - #### - Language - <a name="Ruby-Language"></a>
+        - :earth_americas: [Ruby](https://www.ruby-lang.org/en/) [:octocat:](https://github.com/ruby/ruby) : Dynamic, open source programming language with a focus on simplicity and productivity.
+    - #### - Language: Awesome Collections - <a name="Ruby-Language-Awesome"></a>
+        - :books: [Awesome Ruby](https://github.com/markets/awesome-ruby) : Collection of awesome Ruby libraries, tools, frameworks and software.
+    - #### Framework <a name="Ruby-Framework"></a>
+        - :tada: [Ruby on Rails](https://rubyonrails.org) [:octocat:](https://github.com/rails/rails) : Web application framework designed to make programming web applications easier.
+    - #### Game Framework <a name="Ruby-Game-Framework"></a>
+        - :tada: [Ruby 2D](http://ruby2d.com/) [:octocat:](https://github.com/ruby2d/ruby2d) : Make cross-platform 2D applications in Ruby.
+    - #### Graphics: 3D <a name="Ruby-Graphics-3D"></a>
+        - :tada: [Mittsu](https://github.com/danini-the-panini/mittsu) : 3D Graphics Library for Ruby based heavily on [Three.js](https://threejs.org).
+    - #### Gui <a name="Ruby-Gui"></a>
+        - :tada: [Glimmer](https://github.com/andyobtiva/glimmer) : GUI library and DSL (domain specific language) framework.
+        - :tada: [Shoes](http://shoesrb.com/) [:octocat:](https://github.com/shoes/shoes4) : Cross platform GUI library for Ruby.
 
 <br>
 
@@ -814,6 +831,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Gui <a name="Rust-Gui"></a>
         - :tada: [Druid](https://linebender.org/druid/) [:octocat:](https://github.com/linebender/druid) : Data-first Rust-native UI design toolkit.
         - :tada: [egui](https://github.com/emilk/egui) : Awesome, easy to use, immediate mode GUI in Rust that runs on both web and native. [[Demo](https://www.egui.rs/)]
+        - :lock: [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) : (formerly SixtyFPS) Gui toolkit to efficiently develop fluid displays for embedded devices and desktop applications, supports Rust, C++ or JavaScript.
     - #### Physics <a name="Rust-Physics"></a>
         - :tada: [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) : 2D and 3D physics engines focused on performance.
 
