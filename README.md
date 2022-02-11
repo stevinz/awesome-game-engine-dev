@@ -725,6 +725,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Hilo3d](https://hilo3d.js.org/docs/index.html) [:octocat:](https://github.com/hiloteam/Hilo3d) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) WebGL 3D rendering engine.
         - :tada: [litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
+        - :star: [OGL](oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) : Very fast and powerful minimal WebGL library.
         - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - #### Three.js Reference <a name="Javascript-Three-Reference"></a>
