@@ -47,18 +47,21 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Graphical User Interface](#Graphical-User-Interface)
     - [Programming](#Programming)
 - [Libraries](#Libraries)
-    - [BASIC](#Basic)
-    - [C](#C)
-    - [C++](#Cpp)
-    - [C#](#CSharp)
-    - [Dart](#Dart)
-    - [Haxe](#Haxe)
-    - [Java](#Java)
-    - [Javascript](#Javascript)
-    - [Python](#Python)
-    - [Ruby](#Ruby)
-    - [Rust](#Rust)
-    - [Zig](#Zig)
+    - [BASIC](#Libraries-Basic)
+    - [C](#Libraries-C)
+    - [C++](#Libraries-Cpp)
+    - [C#](#Libraries-CSharp)
+    - [Dart](#Libraries-Dart)
+    - [Haxe](#Libraries-Haxe)
+    - [Java](#Libraries-Java)
+    - [Javascript](#Libraries-Javascript)
+    - [Python](#Libraries-Python)
+    - [Ruby](#Libraries-Ruby)
+    - [Rust](#Libraries-Rust)
+    - [Zig](#Libraries-Zig)
+- [Open Source Games](#Open-Source-Games)
+    - [C](#Open-Source-C)
+    - [C++](#Open-Source-Cpp)
 - [Specialty Topics](#Specialty-Topics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
@@ -208,6 +211,7 @@ _Info on topics necessary for designing and developing game engines_
         - :books: [Magictools](https://github.com/ellisonleao/magictools#readme) : List of Game Development resources to make magic happen.
         - :earth_americas: [Open Source Libraries](https://opensourcelibs.com) : Massive collection of the world's best open source software.
     - #### Books <a name="Game-Development-Books"></a>
+        - :books: [Art of Game Design](https://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/) : Book that uses many different perspectives to teach game design in an accessible manner.
         - :books: [Game Programming Patterns](https://gameprogrammingpatterns.com) : Book that features a collection of patterns found in games that make code cleaner, easier to understand, and faster.
     - #### Developer Portals <a name="Game-Development-Portals"></a>
         - :earth_americas: [GameDev.net](https://www.gamedev.net/) : Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
@@ -236,7 +240,7 @@ _Info on topics necessary for designing and developing game engines_
 ## Libraries
 _Language specific game engine development libraries / frameworks / code_
 
-- ### Basic
+- ### Basic <a name="Libraries-Basic"></a>
     - #### - Language - <a name="Basic-Language"></a>
         - :tada: [Basics Page](http://basic.mindteq.com/index.php?i=popular) : Comprehensive list of BASIC languages.
     - #### App Framework <a name="Basic-App-Framework"></a>
@@ -248,7 +252,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### C
+- ### C <a name="Libraries-C"></a>
     - #### - Language - <a name="C-Language"></a>
         - :books: [Learn C Programming](https://www.programiz.com/c-programming) : Excellent C tutorials that will guide you to learn C programming one step at a time.
     - #### - Language: Awesome Collections - <a name="C-Language-Awesome"></a>
@@ -332,7 +336,7 @@ _Language specific game engine development libraries / frameworks / code_
     
 <br>
 
-- ### C++ <a name="Cpp"></a>
+- ### C++ <a name="Libraries-Cpp"></a>
     - #### - Language - <a name="Cpp-Language"></a>
         - :earth_americas: [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) : Exploring C++ basic and advanced concepts and also modern C++ features with both small and reproducible C++ sample programs and interactive examples.
         - :earth_americas: [cppreference.com](https://en.cppreference.com/w/cpp) : Provide programmers with a complete online reference for the C and C++ languages and standard libraries.
@@ -506,7 +510,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### C# <a name="CSharp"></a>
+- ### C# <a name="Libraries-CSharp"></a>
     - #### - Language - <a name="CSharp-Language"></a>
         - :books: [Dot Net Perls](https://www.dotnetperls.com) : Amazing reference for the C# language.
     - #### - Language: Cross-Platform - <a name="CSharp-Language-Cross-Platform"></a>
@@ -542,7 +546,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Dart
+- ### Dart <a name="Libraries-Dart"></a>
     - #### - Language - <a name="Dart-Language"></a>
         - :tada: [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) : Official site. Client-optimized language for fast apps on any platform.
     - #### - Language: Awesome Collections - <a name="Dart-Language-Awesome"></a>
@@ -556,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Haxe
+- ### Haxe <a name="Libraries-Haxe"></a>
     - #### - Language - <a name="Haxe-Language"></a>
         - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
     - #### - Language: Awesome Collections - <a name="Haxe-Language-Awesome"></a>
@@ -618,7 +622,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Java
+- ### Java <a name="Libraries-Java"></a>
     - #### - Language - <a name="Java-Language"></a>
         - :earth_americas: [Java](https://dev.java) [:octocat:](https://github.com/openjdk) : Official site. General-purpose programming language typically compiled to bytecode that can run on any [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
     - #### - Language: Awesome Collections - <a name="Java-Language-Awesome"></a>
@@ -632,7 +636,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Javascript
+- ### Javascript <a name="Libraries-Javascript"></a>
     - #### - Language - <a name="Javascript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern Javascript programming, with examples.
     - #### - Language: Awesome Collections - <a name="Javascript-Language-Awesome"></a>
@@ -782,7 +786,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Python
+- ### Python <a name="Libraries-Python"></a>
     - #### - Language - <a name="Python-Language"></a>
         - :earth_americas: [Python.org](https://www.python.org) : Programming language that lets you work quickly and integrate systems more effectively. [[Docs](https://www.python.org/doc/)]
     - #### - Language: Awesome Collections - <a name="Python-Language-Awesome"></a>
@@ -799,7 +803,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Ruby
+- ### Ruby <a name="Libraries-Ruby"></a>
     - #### - Language - <a name="Ruby-Language"></a>
         - :earth_americas: [Ruby](https://www.ruby-lang.org/en/) [:octocat:](https://github.com/ruby/ruby) : Dynamic, open source programming language with a focus on simplicity and productivity.
     - #### - Language: Awesome Collections - <a name="Ruby-Language-Awesome"></a>
@@ -816,7 +820,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Rust
+- ### Rust <a name="Libraries-Rust"></a>
     - #### - Language - <a name="Rust-Language"></a>
         - :earth_americas: [Rust](https://www.rust-lang.org) [:octocat:](https://github.com/rust-lang) : Language empowering everyone to build reliable and efficient software. [[Docs](https://www.rust-lang.org/learn)]
     - #### - Language: Awesome Collections - <a name="Rust-Language-Awesome"></a>
@@ -838,7 +842,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-- ### Zig
+- ### Zig <a name="Libraries-Zig"></a>
     - #### - Language - <a name="Zig-Language"></a>
         - :earth_americas: [Zig](https://ziglang.org/) [:octocat:](https://github.com/michal-z/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [[Docs](https://ziglang.org/documentation/master/)]
         - :earth_americas: [Zig Learn](https://ziglearn.org/) : Excellent Zig language resource.
@@ -858,6 +862,22 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br><br>
 
+## Open Source Games
+_Successful video games to pick apart and gain knowledge_
+
+- ### C <a name="Open-Source-C"></a>
+    - :lock: [Doom](https://github.com/id-Software/DOOM) : The original 1993 3D masterpiece by id Software.
+    - :lock: [Gish](https://store.steampowered.com/app/9500/Gish/) [:octocat:](https://github.com/blinry/gish) : Open Source version of the award-winning physics platformer.
+    - :money_with_wings: [Handmade Hero](https://handmadehero.org/) : Huge collection of youtube videos on making a video game from start to finish, along with the option to access the source code for $15.
+
+- ### C++ <a name="Open-Source-Cpp"></a>
+    - :lock: [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) : Classic roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.
+    - :tada: [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat:](https://github.com/Soverance/EtherealLegends) : Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
+    - :tada: [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) : Classic Tomb Raider open-source engine.
+    - :tada: [TeeWorlds](https://teeworlds.com/) [:octocat:](https://github.com/teeworlds/teeworlds) : Retro multiplayer shooter.
+    - :lock: [zDoom](https://zdoom.org/index) [:octocat:](https://github.com/coelckers/gzdoom) : Modern, feature centric port for all Doom engine games, adding an OpenGL renderer and powerful scripting capabilities.
+
+<br><br>
 
 ## Specialty Topics
 _Exploring specialty application / game engine / game development topics and features_
