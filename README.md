@@ -324,12 +324,12 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Math <a name="C-Math"></a>
         - :tada: [Cglm](https://github.com/recp/cglm) : Highly optimized OpenGL math for C.
         - :star: [Handmade Math](https://github.com/HandmadeMath/Handmade-Math) : Simple math library for games and computer graphics.
-        - :tada: [Kazmath](https://github.com/Kazade/kazmathv) : Math library targeted at games.
+        - :tada: [Kazmath](https://github.com/Kazade/kazmath) : Math library targeted at games.
         - :tada: [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) : Math library included in the [raylib](https://www.raylib.com) game framework.
     - #### Physics <a name="C-Physics"></a>
         - :tada: [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) : Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
     - #### Scripting <a name="C-Scripting"></a>
-        - :tada: [Duktape](https://github.com/svaarala/duktapev) : Embeddable JavaScript engine with a focus on portability and compact footprint.
+        - :tada: [Duktape](https://github.com/svaarala/duktape) : Embeddable JavaScript engine with a focus on portability and compact footprint.
         - :tada: [JerryScript](https://jerryscript.net) [:octocat:](https://github.com/jerryscript-project/jerryscript) : Ultra-lightweight JavaScript engine for the Internet of Things.
         - :tada: [Lua](https://www.lua.org) [:octocat:](https://github.com/lua/lua) : Powerful, efficient, lightweight, embeddable scripting language.
         - :tada: [QuickJS](https://bellard.org/quickjs/) [:octocat:](https://github.com/bellard/quickjs) : Small and embeddable JavaScript engine.
@@ -858,6 +858,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Framework <a name="Zig-Game-Framework"></a>
         - :tada: [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) : Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
     - #### Graphics: 2D <a name="Zig-Graphics-2D"></a>
+        - :tada: [Mini Pixel](https://fabioarnold.itch.io/mini-pixel) [:octocat:](https://github.com/fabioarnold/MiniPixel) : Tiny pixel art editor.
         - :lock: [Pixi](https://github.com/foxnne/pixi) : Pixel art editor made with Zig.
 
 <br><br>
