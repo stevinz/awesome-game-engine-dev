@@ -732,6 +732,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [OGL](oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) : Very fast and powerful minimal WebGL library.
         - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
+        - :tada: [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) : Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed.
         - #### Three.js Reference <a name="JavaScript-Three-Reference"></a>
             - :earth_americas: [Discover Three.js](https://discoverthreejs.com) : Everything you need to know to create stunning 3D web applications using [Three.js](https://threejs.org).
             - :earth_americas: [SBcode Three.js Tutorials](https://sbcode.net/threejs/) : Fantastic examples with code and explanations of topics from beginner to advanced.
