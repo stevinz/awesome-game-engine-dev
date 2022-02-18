@@ -52,6 +52,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [C++](#Libraries-Cpp)
     - [C#](#Libraries-CSharp)
     - [Dart](#Libraries-Dart)
+    - [Go](#Libraries-Go)
     - [Haxe](#Libraries-Haxe)
     - [Java](#Libraries-Java)
     - [JavaScript](#Libraries-JavaScript)
@@ -548,7 +549,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 - ### Dart <a name="Libraries-Dart"></a>
     - #### - Language - <a name="Dart-Language"></a>
-        - :tada: [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) : Official site. Client-optimized language for fast apps on any platform.
+        - :earth_americas: [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) : Official site. Client-optimized language for fast apps on any platform.
     - #### - Language: Awesome Collections - <a name="Dart-Language-Awesome"></a>
         - :books: [Awesome Dart](https://github.com/yissachar/awesome-dart) : Curated list of awesome Dart frameworks, libraries, and software.
     - #### App Framework <a name="Dart-App-Framework"></a>
@@ -560,9 +561,24 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
+- ### Go <a name="Libraries-Go"></a>
+    - #### - Language - <a name="Go-Language"></a>
+        - :earth_americas: [Go](https://go.dev/) [:octocat:](https://github.com/golang) : Official site. Statically typed, compiled programming language designed at Google. Syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+    - #### - Language: Awesome Collections - <a name="Go-Language-Awesome"></a>
+        - :books: [Awesome Go](https://github.com/avelino/awesome-go) : Curated list of awesome Go frameworks, libraries and software.
+    - #### Audio <a name="Go-Audio"><a/>
+        - :tada: [Beep](https://github.com/faiface/beep) : Bring sound to any Go application. Suitable for playback and audio-processing.
+    - #### Game Engine w/Editor <a name="Go-Game-Engine"></a>
+        - :tada: [G3N](http://g3n.rocks/) [:octocat:](https://github.com/g3n/engine) : OpenGL 3D Game Engine written in Go.
+    - #### Game Framework <a name="Go-Game-Framework"></a>
+        - :tada: [Engo](https://engoengine.github.io/) [:octocat:](https://github.com/EngoEngine/engo) : Open-source 2D game framework written in Go.
+        - :tada: [Pixel](https://github.com/faiface/pixel) : Hand-crafted 2D game library in Go. [[Examples](https://github.com/faiface/pixel-examples)]
+
+<br>
+
 - ### Haxe <a name="Libraries-Haxe"></a>
     - #### - Language - <a name="Haxe-Language"></a>
-        - :tada: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
+        - :earth_americas: [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
     - #### - Language: Awesome Collections - <a name="Haxe-Language-Awesome"></a>
         - :books: [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) : Awesome curated list of useful Haxe links.
         - :books: [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) : Awesome list of game dev resources for Haxe.
