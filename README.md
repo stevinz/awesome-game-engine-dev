@@ -794,6 +794,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Awesome Python](https://github.com/vinta/awesome-python) : Curated list of awesome Python frameworks, libraries, software and resources.
     - #### - Language: Cross-Platform - <a name="Python-Language-Cross-Platform"></a>
         - :money_with_wings: [Anvil](https://anvil.works) : Full stack web apps with nothing but Python.
+    - #### App Framework <a name="Python-App-Framework"></a>
+        - :tada: [Pyglet](http://pyglet.org/) [:octocat:](https://github.com/pyglet/pyglet) : Cross-platform windowing and multimedia library for Python, intended for developing games and other visually rich applications.
     - #### Game Framework <a name="Python-Game-Framework"></a>
         - :tada: [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) : Easy to use Python library for creating 2D arcade games.
         - :tada: [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
