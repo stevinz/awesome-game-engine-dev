@@ -573,6 +573,10 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Framework <a name="Go-Game-Framework"></a>
         - :tada: [Engo](https://engoengine.github.io/) [:octocat:](https://github.com/EngoEngine/engo) : Open-source 2D game framework written in Go.
         - :tada: [Pixel](https://github.com/faiface/pixel) : Hand-crafted 2D game library in Go. [[Examples](https://github.com/faiface/pixel-examples)]
+    - #### Geometry <a name="Go-Geometry"></a>
+        - :tada: [3D Mesh Simplification](https://github.com/fogleman/simplify) : 3D mesh simplification in Go.
+    - #### Graphics <a name="Go-Graphics"></a>
+        - :tada: [ln](https://github.com/fogleman/ln) : The 3D Line Art Engine, a vector-based 3D renderer written in Go. It is used to produce 2D vector graphics depicting 3D scenes. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
 <br>
 
@@ -1035,10 +1039,13 @@ _Exploring specialty application / game engine / game development topics and fea
     - :books: [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) : Amazing list of signed distance functions for basic 2D primitives.
     - :books: [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) : Amazing list of signed distance functions for basic 3D primitives.
     - :books: [CSG w/ Signed Distance Fields](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) : Introductory exploration of signed distance fields and using circular SDF's to build 3D objects with CSG (Constructive Solid Geometry).
+    - :tada: [SDF Mesh Generation](https://github.com/fogleman/sdf) : Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 
 - ### Tiling
     - :books: [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) : How to use tile bitmasking to auto-tile your level layouts.
     - :books: [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) : Great tutorial on 2D edge and corner matched tilesets.
+    - :books: [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) : Wikipedia article on uniform tiling, space-filling polygons.
+    - :books: [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) : Info on 3D polygons that can be used to fill space. [[Wikipedia List](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [Five Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
 
 
 <br><br>
