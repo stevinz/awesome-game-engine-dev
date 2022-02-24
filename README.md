@@ -1006,6 +1006,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :books: [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : :fire: Collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
         - :books: [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) : :fire: This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
         - :earth_americas: [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) : Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
+        - :earth_americas: [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) : Lightweight, cross-platform & full-featured shader IDE. Written in C++, open source and MIT licensed. [[Online Editor](https://shadered.org/app)]
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
         - :books: [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
