@@ -468,6 +468,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [UVAtlas](https://github.com/Microsoft/UVAtlas) : DirectX library for creating and packing an isochart texture atlases.
     - #### Math <a name="Cpp-Math"></a>
         - :tada: [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html) [:octocat:](https://github.com/g-truc/glm) : Header only C++ mathematics library for graphics software.
+    - #### Network <a name="Cpp-Network"></a>
+        - :tada: [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib) : Single header file HTTP / HTTPS server and client library in C++11.
     - #### Physics <a name="Cpp-Physics"></a>
         - :tada: [Box2D](https://box2d.org) [:octocat:](https://github.com/erincatto/box2d) : The original, classic, battle tested 2D physics engine for games. [[Docs](https://box2d.org/documentation/) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction) | [Fixed Time-Step Implementation](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d)]
         - :tada: [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) : 3D Physics simulation for games, visual effects, robotics and reinforcement learning.
