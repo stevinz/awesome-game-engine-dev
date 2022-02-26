@@ -694,6 +694,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Sonant-X](https://github.com/nicolas-van/sonant-x) : Very small JavaScript synthesizer library, suitable for small JavaScript demos or video games. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
         - :tada: [Tone.js](https://tonejs.github.io) [:octocat:](https://github.com/Tonejs/Tone.js) : WebAudio framework for creating interactive music in the browser.
         - :tada: [tuna](https://github.com/Theodeus/tuna) : Audio effects library for the WebAudio API.
+        - :tada: [Waveform Playlist](https://naomiaro.github.io/waveform-playlist/) [:octocat:](https://github.com/naomiaro/waveform-playlist) : Multitrack web audio editor and player with canvas waveform preview.
     - #### Color <a name="JavaScript-Color"></a>
         - :tada: [Chroma.js](https://vis4.net/chromajs/) [:octocat:](https://github.com/gka/chroma.js) : Library for all kinds of color manipulations.
     - #### Entity Component System <a name="JavaScript-Entity-Component-System"></a>
