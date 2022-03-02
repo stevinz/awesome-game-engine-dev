@@ -354,6 +354,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### - Language: Cross-Platform - <a name="Cpp-Language-Cross-Platform"></a>
         - :earth_americas: [emscripten](https://emscripten.org) [:octocat:](https://github.com/emscripten-core/emscripten) : The C/C++ to JavaScript (as WebAssembly) compiler.
     - #### App Framework <a name="Cpp-App-Framework"></a>
+        - :tada: [Cross Window](https://alain.xyz/libraries/crosswindow) [:octocat:](https://github.com/alaingalvan/CrossWindow) : Cross platform system abstraction library written in C++ for managing windows and performing OS tasks.
         - :tada: [Cute Framework](https://github.com/RandyGaul/cute_framework) : Simple and consise framework for making 2D games in C++.
         - :tada: [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) : Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
     - #### Animation <a name="Cpp-Animation"><a/>
@@ -759,14 +760,15 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) : :fire: Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - :tada: [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) : Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed.
         - #### Three.js Reference <a name="JavaScript-Three-Reference"></a>
-            - :earth_americas: [Discover Three.js](https://discoverthreejs.com) : Everything you need to know to create stunning 3D web applications using [Three.js](https://threejs.org).
+            - :books: [Discover Three.js](https://discoverthreejs.com) : Everything you need to know to create stunning 3D web applications using Three.js.
             - :earth_americas: [SBcode Three.js Tutorials](https://sbcode.net/threejs/) : Fantastic examples with code and explanations of topics from beginner to advanced.
-            - :tada: [Sketchbook](jblaha.art/sketchbook/latest) [:octocat:](https://github.com/swift502/Sketchbook) : 3D playground built on [Three.js](https://threejs.org) and [Cannon.js](https://github.com/schteppe/cannon.js).
+            - :tada: [Sketch Three.js](https://ykob.github.io/sketch-threejs/) [:octocat:](https://github.com/ykob/sketch-threejs) : Interactive sketches made with Three.js.
+            - :tada: [Sketchbook](jblaha.art/sketchbook/latest) [:octocat:](https://github.com/swift502/Sketchbook) : 3D playground built on Three.js and [Cannon.js](https://github.com/schteppe/cannon.js).
             - :earth_americas: [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) : Excellent set of instructive examples with well commented source code.
-            - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) : Great collection of resources for [Three.js](https://threejs.org).
-            - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the [Three.js](https://threejs.org) forum
-            - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on [Three.js](https://threejs.org) and 3D engines and how they work in general.
-            - :books: [THREEx](http://www.threejsgames.com/extensions/) : Nice collection of open source game extensions for [Three.js](https://threejs.org).
+            - :books: [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) : Great collection of resources for Three.js.
+            - :books: [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) : Yearly collection of all examples with source posted on the Three.js forum
+            - :books: [Three.js Manual](https://threejs.org/manual/#en/fundamentals) : (formerly ThreeJsFundamentals) Great info on Three.js and 3D engines and how they work in general.
+            - :books: [THREEx](http://www.threejsgames.com/extensions/) : Nice collection of open source game extensions for Three.js.
     - #### Gui <a name="JavaScript-Gui"></a>
         - :tada: [Bootstrap](https://getbootstrap.com) [:octocat:](https://github.com/twbs/bootstrap) : The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
         - :tada: [dat.GUI](https://github.com/dataarts/dat.gui) : Lightweight graphical user interface for changing variables in JavaScript.
@@ -973,7 +975,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - :books: [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
 - ### Physics
-    - #### General Resources
+    - #### - General Resources -
         - :books: [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - Article about the technique needed to keep stable the numerical integration performed by the physics simulation while running your video game with a variable frame-rate.
         - :books: [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) : If you're a game developer interested in learning about physics engines, these resources are a good place to start.
         - :books: [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) : Video Game Physics Tutorial - Part I: An Introduction to Rigid Body Dynamics.
@@ -1006,7 +1008,9 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### - General Resources -
         - :books: [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : :fire: Collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
         - :books: [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) : :fire: This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
+        - :earth_americas: [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat:](https://github.com/alaingalvan/CrossShader) : Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
         - :earth_americas: [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) : Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
+        - :books: [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) : Review of shading languages and compilers, differences between HLSL, GLSL, MSL, and WGSL and ways to transpile shaders.
         - :earth_americas: [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) : Lightweight, cross-platform & full-featured shader IDE. Written in C++, open source and MIT licensed. [[Online Editor](https://shadered.org/app)]
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
@@ -1032,6 +1036,8 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Pixelation
         - :books: [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
         - :earth_americas: [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
+    - #### Postprocessing
+        - :books: [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) [:octocat:](https://github.com/alaingalvan/image-editor-effects) : WebGL example of image adjustment / effects shaders found in Photoshop, other image editors and game engines.
     - #### Upscaling
         - :books: [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) : Great post with shader code demonstrating upscaling.
         - :books: [hqx](https://en.wikipedia.org/wiki/Hqx) : Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
@@ -1045,6 +1051,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - :books: [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) : Amazing list of signed distance functions for basic 2D primitives.
     - :books: [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) : Amazing list of signed distance functions for basic 3D primitives.
     - :books: [CSG w/ Signed Distance Fields](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) : Introductory exploration of signed distance fields and using circular SDF's to build 3D objects with CSG (Constructive Solid Geometry).
+    - :books: [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) : Collection of resources (tutorials, papers, software, demos, discussions, etc.) related to Signed Distance Fields.
     - :tada: [SDF Mesh Generation](https://github.com/fogleman/sdf) : Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 
 - ### Tiling
