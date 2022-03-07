@@ -683,6 +683,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) : Ready-to-use, pure CSS, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
         - :tada: [D3.js](https://d3js.org) [:octocat:](https://github.com/d3/d3) : Data-Driven Documents. Bring data to life with SVG, Canvas and HTML. [[Examples](https://observablehq.com/@d3/gallery)]
         - :money_with_wings: [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) : Robust JavaScript toolset that turns developers into animation superheroes.
+        - :tada: [Ossos](https://github.com/sketchpunklabs/ossos) : Webbased character animation system.
         - :tada: [React-Spring](http://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) : Spring physics based [React](https://reactjs.org) animation library.
         - :tada: [Scene.js](https://daybrush.com/scenejs) [:octocat:](https://github.com/daybrush/scenejs) : JavaScript & CSS timeline-based animation library.
         - :tada: [Theatre](https://www.theatrejs.com/) [:octocat:](https://github.com/theatre-js/theatre) : Motion design editor for the web.
@@ -804,6 +805,8 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Timeline <a name="JavaScript-Timeline"></a>
         - :tada: [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) : JavaScript sequence editor.
         - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for javascript.
+    - #### Video <a name="JavaScript-Video"></a>
+        - :money_with_wings: [Remotion](https://www.remotion.dev/) [:octocat:](https://github.com/remotion-dev/remotion) : Create videos programmatically in React.
     - #### Visual Programming / Nodes <a name="JavaScript-Nodes"></a>
         - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
         - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple javascript flow library.
