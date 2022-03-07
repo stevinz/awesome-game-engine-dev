@@ -6,7 +6,7 @@
 
 > Awesome list of articles, assets, examples, libraries, and tools for Game Engine Development.
 
-Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines / app or game frameworks / graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
+Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
 
@@ -618,6 +618,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Framework <a name="Haxe-Game-Framework"></a>
         - :tada: [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) : 2D and 3D ActionScript 3 based engine.
         - :tada: [Clay](https://github.com/clay2d/clay) : Cross-platform 2D game framework.
+        - :tada: [gameBase](https://github.com/deepnight/gameBase) : Base structure for Haxe games, using Heaps graphics framework and the Haxe language. [[Tutorial](https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/)]
         - :tada: [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) : Cross-platform 2D game engine powered by Haxe and OpenFL.
         - :tada: [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) : For creative expression on the web, desktop, mobile and consoles.
     - #### Graphics <a name="Haxe-Graphics"></a>
@@ -663,6 +664,8 @@ _Language specific game engine development libraries / frameworks / code_
 - ### JavaScript <a name="Libraries-JavaScript"></a>
     - #### - Language - <a name="JavaScript-Language"></a>
         - :books: [Eloquent JavaScript](https://eloquentjavascript.net) : Well written online book about modern JavaScript programming, with examples.
+        - :earth_americas: [MDN](https://developer.mozilla.org/en-US/) : The Mozilla Developer Network, a documentation repository and learning resource for web developers. Amazing resource!
+        - :earth_americas: [W3 Schools](https://www.w3schools.com/default.asp) : Learn to code with the world's largest web developer site.
     - #### - Language: Awesome Collections - <a name="JavaScript-Language-Awesome"></a>
         - :books: [Collection of WebGL and WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) :  List of WebGL and WebGPU frameworks and libraries, some of the libraries listed are wip/outdated/not maintained anymore.
         - :books: [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) : Github Collection. Learn or level up your 1337 gamedev skills and build amazing games together for web, desktop, or mobile using these HTML5 / JavaScript game engines.
