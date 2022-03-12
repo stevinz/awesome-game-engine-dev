@@ -1017,6 +1017,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :earth_americas: [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat:](https://github.com/alaingalvan/CrossShader) : Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
         - :earth_americas: [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) : Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
         - :books: [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) : Review of shading languages and compilers, differences between HLSL, GLSL, MSL, and WGSL and ways to transpile shaders.
+        - :earth_americas: [Shader Park](https://shaderpark.com/) [:octocat:](https://github.com/shader-park/shader-park-core) : Explore shader programming through a JavaScript interface without the complexity of GLSL.
         - :earth_americas: [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) : Lightweight, cross-platform & full-featured shader IDE. Written in C++, open source and MIT licensed. [[Online Editor](https://shadered.org/app)]
         - :earth_americas: [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
     - #### Bloom
