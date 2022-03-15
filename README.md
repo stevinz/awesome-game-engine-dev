@@ -398,6 +398,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, gui, audio, network, physics, user input, etc. Widely used in game development and application construction.
         - :lock: [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) : Lightweight sandbox game engine using OpenGL for additional customisation and quick prototyping.
         - :tada: [Halley](https://github.com/amzeratul/halley) : Lightweight game engine written in C++17. It has been used to ship Wargroove, a turn-based strategy game, on desktop and consoles.
+        - :tada: [Kruger](https://github.com/BobbyAnguelov/KRG) : Protoype game engine, without a renderer. Handles resource management, serialization, basic reflection, a AAA-level animation system and more.
         - :tada: [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) : LÖVE is an awesome 2D game framework for writing game code with Lua.
         - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
         - :tada: [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) : Small, portable and extensible C++ 3D coding framework.
