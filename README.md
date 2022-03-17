@@ -706,7 +706,15 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Entity Component System <a name="JavaScript-Entity-Component-System"></a>
         - :tada: [Becsy](https://github.com/LastOliveGames/becsy) : Multithreaded Entity Component System (ECS) for TypeScript and JavaScript, and guided by ideas from [Flecs](https://github.com/SanderMertens/flecs).
         - :lock: [bitECS](https://github.com/NateTheGreatt/bitECS) : Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript.
-        - :tada: [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance.
+        - :tada: [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) : Experimental Entity Component System framework implemented in JavaScript, aiming to be lightweight, easy to use and with good performance.
+    - #### Docking <a name="JavaScript-Docking"></a>
+        - :tada: [Dock Spawn TS](https://node-projects.github.io/dock-spawn-ts/) [:octocat:](https://github.com/node-projects/dock-spawn-ts) : Maintained, TypeScript version of [Dock Spawn](https://github.com/coderespawn/dock-spawn), a html docking framework.
+        - :tada: [FlexLayout](https://github.com/caplin/FlexLayout) : Multi-tab layout manager.
+        - :tada: [Golden Layout](https://golden-layout.github.io/golden-layout/) [:octocat:](https://github.com/golden-layout/golden-layout) : Multi window layout manager for webapps.
+        - :tada: [PhosphorJS](https://github.com/phosphorjs/phosphor) : High-performance, pluggable, desktop-style web applications (project retired) in TypeScript.
+        - :tada: [React Mosaic](https://nomcopter.github.io/react-mosaic/) [:octocat:](https://github.com/nomcopter/react-mosaic) : React tiling window manager.
+        - :tada: [RC-Dock](https://ticlo.github.io/rc-dock/examples/) [:octocat:](https://github.com/ticlo/rc-dock) : Dock Layout for React Component.
+        - :tada: [wcDocker](http://docker.webcabin.org/) [:octocat:](https://github.com/WebCabin/wcDocker) : Window layout system with a responsive and interactive design.
     - #### File Formats <a name="JavaScript-File-Formats"></a>
         - :tada: [JSMpeg](https://github.com/phoboslab/jsmpeg) : MPEG1 Video Decoder in JavaScript.
     - #### Framework <a name="JavaScript-Framework"></a>
@@ -782,7 +790,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [jQuery UI](https://jqueryui.com/) [:octocat:](https://github.com/jquery/jquery-ui) : The official [jQuery](https://jquery.com) user interface library.
         - :tada: [Leva](https://leva.pmnd.rs/) [:octocat:](https://github.com/pmndrs/leva) : React-first components GUI.
         - :tada: [PCUI](http://playcanvas.github.io/pcui) [:octocat:](https://github.com/playcanvas/pcui) : UI component library for the web, made for [PlayCanvas](https://playcanvas.com).
-        - :tada: [uil](http://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) : Simple javascript ui.
+        - :tada: [uil](http://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) : Simple JavaScript UI.
         - :tada: [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) : UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
         - :tada: [Zebkit](https://zebkit.org/dark/about.html) [:octocat:](https://github.com/barmalei/zebkit) : Canvas rendered UI component libary, very cool.
     - #### Materials <a name="JavaScript-Materials"></a>
@@ -794,7 +802,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Cannon-es](https://pmndrs.github.io/cannon-es/) [:octocat:](https://github.com/pmndrs/cannon-es) : This is a maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js), a lightweight 3D physics engine written in JavaScript.
         - :tada: [Goblin Physics](http://www.goblinphysics.com) [:octocat:](https://github.com/chandlerprall/GoblinPhysics) : Open source 3D physics engine written from the ground up in JavaScript.
         - :tada: [Matter.js](https://brm.io/matter-js/) [:octocat:](https://github.com/liabru/matter-js) : Amazing, full featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/demo/)]
-        - :tada: [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) : Lightweight 3D physics engine for javascript.
+        - :tada: [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) : Lightweight 3D physics engine for JavaScript.
         - :tada: [p2.js](https://github.com/schteppe/p2.js) : JavaScript 2D rigid body physics engine, by the creator of the JavaScript 3D physics engine [Cannon.js](https://github.com/schteppe/cannon.js).
         - :tada: [Particulate.js](https://github.com/jpweeks/particulate-js) : Particle physics library designed to be simple, fast and stable.
         - :tada: [Planck.js](http://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) : JavaScript (TypeScript) rewrite of [Box2D](https://box2d.org) physics engine for cross-platform HTML5 game development, from the maintainer of [Stage.js](https://piqnt.com/stage.js/).
@@ -803,17 +811,17 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Utility <a name="JavaScript-Utility"></a>
         - :tada: [Clipboard.js](https://clipboardjs.com/) [:octocat:](https://github.com/zenorocha/clipboard.js) : Modern copy to clipboard. No Flash. Just 3kb gzipped.
         - :tada: [Day.js](https://day.js.org/) [:octocat:](https://github.com/iamkun/dayjs) : Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) with the same modern API.
-        - :tada: [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) : Popular internationalization framework for browser or any other javascript environment.
+        - :tada: [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) : Popular internationalization framework for browser or any other JavaScript environment.
         - :tada: [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) : Fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) much simpler.
         - :tada: [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) : Makes preloading assets & getting aggregate progress events easier in JavaScript, part of the [CreateJS](http://createjs.com/) suite of libraries.
     - #### Timeline <a name="JavaScript-Timeline"></a>
         - :tada: [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) : JavaScript sequence editor.
-        - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for javascript.
+        - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for JavaScript.
     - #### Video <a name="JavaScript-Video"></a>
         - :money_with_wings: [Remotion](https://www.remotion.dev/) [:octocat:](https://github.com/remotion-dev/remotion) : Create videos programmatically in React.
     - #### Visual Programming / Nodes <a name="JavaScript-Nodes"></a>
         - :tada: [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
-        - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple javascript flow library.
+        - :tada: [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) : Simple JavaScript flow library.
         - :tada: [Flow](https://github.com/sunag/flow) : Node-Graph, lightweight, cross-browser UI library.
         - :tada: [Litegraph.js](https://github.com/jagenjo/litegraph.js) : Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor)]
         - :tada: [Node-RED](http://nodered.org/) [:octocat:](https://github.com/node-red/node-red) : Low-code programming for event-driven applications.
@@ -929,7 +937,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 - ### Color / Palettes <a name="Topic-Color"></a>
     - :books: [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) : Nice info about the use of procedural palettes and how to generate them.
-    - :books: [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article (with example javascript project) explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
+    - :books: [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article (with example JavaScript project) explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
 
 - ### Entity Component System <a name="Topic-ECS"></a>
     - :books: [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
@@ -995,7 +1003,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - :books: [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) : Tutorial on ledge grabbing in 2D platformer physics.
     - #### Ropes / Chains <a name="Topics-Physics-Ropes"></a>
         - :books: [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) : Short discussion about how to implement the physics of ropes in Contraption Maker.
-        - :earth_americas: [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) : Chains demo using the javascript library [Matter.js](https://brm.io/matter-js/).
+        - :earth_americas: [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) : Chains demo using the JavaScript library [Matter.js](https://brm.io/matter-js/).
     - #### Soft Body
         - :books: [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) : Using verlet physics to simulate 2D blobs.
         - :books: [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) : Step by step creation of a Box2D soft body blob.
