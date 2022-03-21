@@ -525,6 +525,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Audio <a name="CSharp-Audio"><a/>
         - :tada: [NAudio](https://github.com/naudio/NAudio) : Audio and MIDI library for .NET.
     - #### Entity Component System <a name="CSharp-Entity-Component-System"></a>
+        - :tada: [DefaultEcs](https://github.com/Doraku/DefaultEcs) : Entity Component System framework which aims to be accessible with little constraints, while retaining as much performance as possible for game development.
         - :tada: [LeoECS](https://github.com/Leopotam/ecs) : Fast ECS Framework powered by C# with optional integration to Unity.
     - #### Game Engine w/Editor <a name="CSharp-Game-Engine"></a>
         - :tada: [Duality](https://www.duality2d.net) [:octocat:](https://github.com/AdamsLair/duality) : Modular 2D game engine that provides its own visual editor. Built on C# and [OpenTK](https://opentk.net).
