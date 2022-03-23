@@ -262,6 +262,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :star: [Pico Headers](https://github.com/empyreanx/pico_headers) : Single-header, cross-platform libraries for game development, written in C by [Empyreanx](https://github.com/empyreanx).
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries compiled from many authors.
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
+    - #### - Language: Cross-Platform - <a name="C-Language-Cross-Platform"></a>
+        -:tada: [Cosmopolitan](https://github.com/jart/cosmopolitan) : Build-once run-anywhere C library.
     - #### App Framework <a name="C-App-Framework"></a>
         - :tada: [Entrypoint](https://github.com/jimon/entrypoint) : Lightweight entry point for games.
         - :tada: [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) : Cross-platform, simple API for creating windows, OpenGL / Vulkan contexts and surfaces, receiving input and events.
@@ -740,6 +742,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Superpowers](http://superpowers-html5.com/index.en.html) [:octocat:](https://github.com/superpowers) : Free and open source 2D and 3D game making for indies.
     - #### Game Framework <a name="JavaScript-Game-Framework"></a>
         - :tada: [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) : Game library that can help you create 2D games in a structured way.
+        - :tada: [Meep](https://github.com/Usnul/meep) : Entity component system game engine framework.
         - :tada: [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) : Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
         - :tada: [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) : Modular 2D / 3D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
     - #### Geometry <a name="JavaScript-Geometry"></a>
