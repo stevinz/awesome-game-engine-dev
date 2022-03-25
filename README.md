@@ -515,6 +515,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Visual Programming / Nodes <a name="Cpp-Nodes"></a>
         - :tada: [NodeEditor](https://github.com/paceholder/nodeeditor) : General-purpose [Qt](https://www.qt.io)-based node editor library aimed at graph-controlled data processing.
         - :tada: [QuickQanava](http://cneben.github.io/QuickQanava/index.html) [:octocat:](https://github.com/cneben/QuickQanava) : Library written in C++ 14 designed to display graphs and relational content in a [QtQuick](https://www.qt.io) application.
+        - :tada: [Visual Script Engine](https://github.com/kovacsv/VisualScriptEngine) : Visual scripting engine designed for embedding.
 
 <br>
 
