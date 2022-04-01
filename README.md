@@ -263,7 +263,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :books: [Single File Libs](https://github.com/nothings/single_file_libs) : Amazing collection of single file C/C++ libraries compiled from many authors.
         - :star: [stb](https://github.com/nothings/stb) : :fire: The original and amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### - Language: Cross-Platform - <a name="C-Language-Cross-Platform"></a>
-        -:tada: [Cosmopolitan](https://github.com/jart/cosmopolitan) : Build-once run-anywhere C library.
+        - :tada: [Cosmopolitan](https://github.com/jart/cosmopolitan) : Build-once run-anywhere C library.
     - #### App Framework <a name="C-App-Framework"></a>
         - :tada: [Entrypoint](https://github.com/jimon/entrypoint) : Lightweight entry point for games.
         - :tada: [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) : Cross-platform, simple API for creating windows, OpenGL / Vulkan contexts and surfaces, receiving input and events.
@@ -274,7 +274,7 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Audio <a name="C-Audio"></a>
         - :star: [Miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
         - :tada: [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) : Audio mixer that supports various file formats for [SDL](https://libsdl.org).
-        - :tada: [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud)
+        - :tada: [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud) - :fire: Free, easy, portable audio engine for games.
     - #### Entity Component System <a name="C-Entity-Component-System"></a>
         - :tada: [Flecs](https://github.com/SanderMertens/flecs) : Fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
     - #### File Formats <a name="C-File-Formats"></a>
