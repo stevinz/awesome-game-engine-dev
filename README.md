@@ -798,6 +798,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [uil](http://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) : Simple JavaScript UI.
         - :tada: [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) : UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
         - :tada: [Zebkit](https://zebkit.org/dark/about.html) [:octocat:](https://github.com/barmalei/zebkit) : Canvas rendered UI component libary, very cool.
+    - #### Layout <a name="JavaScript-Layout"></a>
+        - :books: [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : Comprehensive guide to CSS flexbox layout.
     - #### Materials <a name="JavaScript-Materials"></a>
         - :tada: [three-projected-material](https://marcofugaro.github.io/three-projected-material/) [:octocat:](https://github.com/marcofugaro/three-projected-material) : Three.js material which lets you do Texture Projection on a 3D model.
         - :tada: [Troika JS - Derived Material](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/) [:octocat:](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) : Utility class to extend existing Three.js materials with custom shader code.
