@@ -459,7 +459,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
         - :tada: [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) : Cross-platform library for GUI programming in modern C++ style.
         - :star: [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header. Works on Windows, macOS or Linux.
-        - :lock: [Qt](https://www.qt.io) : The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available.
+        - :lock: [Qt](https://www.qt.io) : The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available. [[Awesome Qt Guide](https://github.com/mikeroyal/Qt-Guide)]
         - :star: [RmlUi](https://github.com/mikke89/RmlUi) : Takes your HTML/CSS-like source files and turns them into vertices, indices and draw commands, and then you bring your own renderer to draw them. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
         - :star: [Turbo Badger](https://github.com/fruxo/turbobadger) : Small footprint UI library for hardware accelerated games & applications. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
         - :lock: [Wt](https://www.webtoolkit.eu/wt/) [:octocat:](https://github.com/emweb/wt) : Web GUI library in modern C++. Quickly develop highly interactive web UIs with widgets, without having to write a single line of JavaScript.
