@@ -396,6 +396,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) : Cross-platform framework for creative code. Nice editor.
         - :tada: [Rootex](https://rootex.readthedocs.io/) [:octocat:](https://github.com/sdslabs/rootex) : Advanced C++ 3D game engine powering an in-production game yet to be announced.
         - :tada: [SGEEngine](https://github.com/ongamex/SGEEngine) : Game engine with an editor usable as a sandbox.
+        - :tada: [Skylicht](https://github.com/skylicht-lab/skylicht-engine) : Based on [Irrlicht](https://irrlicht.sourceforge.io), with upgraded features including audio, physics and particles.
         - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine built on [Forge](https://github.com/ConfettiFX/The-Forge).
         - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
     - #### Game Framework <a name="Cpp-Game-Framework"></a>
@@ -405,6 +406,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Halley](https://github.com/amzeratul/halley) : Lightweight game engine written in C++17. It has been used to ship Wargroove, a turn-based strategy game, on desktop and consoles.
         - :tada: [Kruger](https://github.com/BobbyAnguelov/KRG) : Protoype game engine, without a renderer. Handles resource management, serialization, basic reflection, a AAA-level animation system and more.
         - :tada: [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) : LÖVE is an awesome 2D game framework for writing game code with Lua.
+        - :tada: [Lumino](https://github.com/LuminoEngine/Lumino) : Framework for building real-time graphics applications.
         - :tada: [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
         - :tada: [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) : Small, portable and extensible C++ 3D coding framework.
         - :star: [Ouzel](https://github.com/elnormous/ouzel) : Public domain C++ game engine mainly targeted for development of 2D games.
