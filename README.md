@@ -384,7 +384,6 @@ _Language specific game engine development libraries / frameworks / code_
     - #### Game Engine w/Editor <a name="Cpp-Game-Engine"></a>
         - :tada: [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) : Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
         - :tada: [Ethereal Engine](https://github.com/volcoma/EtherealEngine) : Cross-platform C++ game engine and editor.
-        - :tada: [Esenthel](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
         - :tada: [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) : Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - :tada: [FIFE](http://www.fifengine.net/) [:octocat:](https://github.com/fifengine/fifengine) : Multi-platform isometric game engine.
         - :tada: [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) : Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
@@ -397,6 +396,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Rootex](https://rootex.readthedocs.io/) [:octocat:](https://github.com/sdslabs/rootex) : Advanced C++ 3D game engine powering an in-production game yet to be announced.
         - :tada: [SGEEngine](https://github.com/ongamex/SGEEngine) : Game engine with an editor usable as a sandbox.
         - :tada: [Skylicht](https://github.com/skylicht-lab/skylicht-engine) : Based on [Irrlicht](https://irrlicht.sourceforge.io), with upgraded features including audio, physics and particles.
+        - :tada: [Titan Engine](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : (formerly Esenthel Engine) Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
         - :tada: [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine built on [Forge](https://github.com/ConfettiFX/The-Forge).
         - :lock: [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
     - #### Game Framework <a name="Cpp-Game-Framework"></a>
@@ -742,10 +742,12 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) : HTML5 game engine, provides modules to handle common game development tasks such as 2D and 3D rendering, GUI systems, and audio and resource management. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
         - :tada: [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : Full-featured, open source 2D game development software platform.
         - :tada: [Impact](https://impactjs.com) [:octocat:](https://github.com/phoboslab/impact) : Game engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
+        - :tada: [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) : Game engine with advanced multiplayer based on Valve’s Source Engine multiplayer system.
         - :tada: [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) : Modern, open source HTML5 2D game engine that empowers developers and designers to focus on content. Uses for [Tiled](https://www.mapeditor.org) level editing. [[Examples](https://melonjs.github.io/examples/)]
         - :tada: [microStudio](https://microstudio.dev/) [:octocat:](https://github.com/pmgl/microstudio/) : Free, open source game engine online. It is also a platform to learn and practise programming.
         - :tada: [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript. [[Editor](https://pixwlk.itch.io/pixelbox)]
         - :tada: [Superpowers](http://superpowers-html5.com/index.en.html) [:octocat:](https://github.com/superpowers) : Free and open source 2D and 3D game making for indies.
+        - :tada: [Taro](https://www.modd.io) [:octocat:](https://github.com/moddio/taro) : Multiplayer game engine with Box2D physics.
     - #### Game Framework <a name="JavaScript-Game-Framework"></a>
         - :tada: [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) : Game library that can help you create 2D games in a structured way.
         - :tada: [Meep](https://github.com/Usnul/meep) : Entity component system game engine framework.
@@ -827,6 +829,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) : Popular internationalization framework for browser or any other JavaScript environment.
         - :tada: [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) : Fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) much simpler.
         - :tada: [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) : Makes preloading assets & getting aggregate progress events easier in JavaScript, part of the [CreateJS](http://createjs.com/) suite of libraries.
+        - :tada: [Struct Vec](https://github.com/moomoolive/struct-vec) : JavaScript array-like containers for multithreading.
     - #### Timeline <a name="JavaScript-Timeline"></a>
         - :tada: [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) : JavaScript sequence editor.
         - :tada: [Neo](http://lo-th.github.io/neo) [:octocat:](https://github.com/lo-th/neo) : Lightweight timeline for JavaScript.
