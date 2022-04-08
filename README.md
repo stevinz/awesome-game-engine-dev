@@ -457,6 +457,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Dear ImGui](https://github.com/ocornut/imgui) : :fire: Bloat-free graphical user interface for C++ with minimal dependencies, compatible with nearly any 3D rednering library.
         - :lock: [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) : Cross-platform C++ GUI toolkit for Linux, Windows, and macOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
         - :lock: [GTK](https://www.gtk.org) : The [GIMP](https://www.gimp.org) Toolkit, a multi-platform toolkit for creating graphical user interfaces. [[Repo](https://gitlab.gnome.org/GNOME/gtk/)] 
+        - :tada: [GuiLite](https://github.com/idea4good/GuiLite) : Tiny, cross platform, header only gui library.
         - :books: [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) : Excellent list of C++ gui libraries, with pictures and descriptions.
         - :tada: [Litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) : Lightweight HTML/CSS rendering engine.
         - :tada: [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) : Cross-platform library for GUI programming in modern C++ style.
@@ -778,7 +779,7 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [CopperLicht](http://ambiera.com/copperlicht/) : Commercial grade open source 3D JavaScript library for WebGL. [[CopperCube Editor](http://ambiera.com/coppercube/index.html)]
         - :tada: [Filament for Web](https://google.github.io/filament/webgl/) [:octocat:](https://github.com/google/filament/tree/main/web/filament-js) : WebAssembly build of Google's [Filament](https://google.github.io/filament/), a mobile-first 3D physically based rendering library.
         - :tada: [Hilo3d](https://hilo3d.js.org/docs/index.html) [:octocat:](https://github.com/hiloteam/Hilo3d) : (by [Alibaba](https://www.alibabagroup.com/en/global/home)) WebGL 3D rendering engine.
-        - :tada: [litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
+        - :tada: [Litescene.js](https://github.com/jagenjo/litescene.js) : WebGL 3D Engine library with component-based node hierarchy. Used by [WebGLStudio](https://webglstudio.org).
         - :tada: [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) : Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
         - :star: [OGL](oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) : Very fast and powerful minimal WebGL library.
         - :tada: [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) : The 3D renderer for PixiJS. Seamless integration with 2D applications.
