@@ -6,7 +6,7 @@
 
 > Awesome list of articles, assets, examples, libraries, and tools for Game Engine Development.
 
-Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://www.godotengine.org) / [Unity](https://www.unity.com)). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., [MonoGame](https://monogame.net) / [SDL](https://libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
+Specifically, this list is geared toward development of high-level, fully featured game engines (e.g. Godot / Unity). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g. [MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
 
@@ -14,7 +14,7 @@ This list currently favors (but is not limited to) programming the core engine i
 <br><br>
 
 
-### License Legend
+<b>License Legend</b>
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
