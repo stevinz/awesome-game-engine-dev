@@ -107,7 +107,7 @@ This list currently favors (but is not limited to) programming the core engine i
 <br><br>
 
 
-## Game Engines
+## Game Engines <a name="Game-Engines"></a>
 _Production game engines to tinker with, explore, learn and inspire_
 
 - ### Popular
@@ -233,7 +233,7 @@ _Info on topics necessary for designing and developing game engines_
     - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) : Indicator of the popularity of programming languages. The index is updated once a month.
 
 - ### Topics
-    _see [Specialty Topics](#Specialty-Topics)_
+    _see [Specialty Topics](#Specialty-Topics-2)_
 
 
 <br><br>
@@ -946,7 +946,7 @@ _Successful video games to pick apart and gain knowledge_
 
 <br><br>
 
-## Specialty Topics
+## Specialty Topics <a name="Specialty-Topics"></a><a name="Specialty-Topics-2"></a>
 _Exploring specialty application / game engine / game development topics and features_
 
 - ### AI / Pathfinding <a name="Topic-AI"></a>
