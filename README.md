@@ -6,7 +6,7 @@
 
 > Awesome list of articles, assets, examples, libraries, and tools for Game Engine Development.
 
-Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://godotengine.org) / [Unity](https://unity.com)). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., [MonoGame](https://www.monogame.net) / [SDL](https://www.libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
+Specifically, this list is geared toward development of high-level, fully featured game engines (e.g., [Godot](https://www.godotengine.org) / [Unity](https://www.unity.com)). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., [MonoGame](https://monogame.net) / [SDL](https://libsdl.org)). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
 
@@ -33,7 +33,8 @@ This list currently favors (but is not limited to) programming the core engine i
 <br><br>
 
 
-## Table of Contents
+## Contents
+
 - [Game Engines](#Game-Engines)
     - [Popular](#Popular)
     - [AAA](#AAA)
@@ -1239,10 +1240,5 @@ _Resources to help bring video games and game engines alive_
 ## Contributing
 
 _see [Contribution Guide](CONTRIBUTING.md)_      
-
-<br>
-
-## License
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <br>
