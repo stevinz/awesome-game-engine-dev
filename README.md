@@ -800,6 +800,8 @@ _Language specific game engine development libraries / frameworks / code_
         - :tada: [Bootstrap](https://getbootstrap.com) [:octocat:](https://github.com/twbs/bootstrap) : The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
         - :tada: [dat.GUI](https://github.com/dataarts/dat.gui) : Lightweight graphical user interface for changing variables in JavaScript.
         - :tada: [Dojo](https://widgets.dojo.io/) [:octocat:](https://github.com/dojo/widgets) : UI widgets for a progressive framework for modern web applications built with TypeScript.
+        - :tada: [Guify](https://github.com/colejd/guify) : Simple GUI for inspecting and changing JavaScript variables. [[Demo](https://jons.website/projects/guify/)]
+        - :tada: [GuiGui](https://github.com/superguigui/guigui) : GUI for tweaking stuff in JavaScript. [[Demo](https://superguigui.github.io/guigui/)]
         - :tada: [Inferno](https://infernojs.org/) [:octocat:](https://github.com/infernojs/inferno) : Insanely fast, React-like library for building high-performance user interfaces on both the client and server.
         - :tada: [jQuery UI](https://jqueryui.com/) [:octocat:](https://github.com/jquery/jquery-ui) : The official [jQuery](https://jquery.com) user interface library.
         - :tada: [Leva](https://leva.pmnd.rs/) [:octocat:](https://github.com/pmndrs/leva) : React-first components GUI.
