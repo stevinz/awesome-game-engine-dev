@@ -189,7 +189,7 @@ _Info on topics necessary for designing and developing game engines_
 - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) : Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
 - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) : 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
 #### Shader
-- _see [Topic: Shaders](#shader-link)_
+- _see Specialty Topic: Shaders_
 
 ### Engine Development
 #### Blog Articles
@@ -1019,8 +1019,6 @@ _Exploring specialty application / game engine / game development topics and fea
 - 📚 [Embedded Scripting Languages](https://caiorss.github.io/C-Cpp-Notes/embedded_scripting_languages.html) : Selection of embedded scripting languages and engines available as libraries.
 - 📚 [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) : List of reasonably mature open source embedded scripting languages to use in your application.
 - 📚 [Scriptorium](https://github.com/r-lyeh-archived/scriptorium) : Game scripting languages benchmarked.
-
-<a name='shader-link'></a>
 
 ### Shaders
 - 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : 🔥 Collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
