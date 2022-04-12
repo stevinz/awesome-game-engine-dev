@@ -10,9 +10,7 @@ Specifically, this list is geared toward development of high-level, fully featur
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
 
-
-<br><br>
-
+<br>
 
 <b>License Legend</b>
 - Open Source Software
@@ -29,13 +27,11 @@ This list currently favors (but is not limited to) programming the core engine i
 - :octocat: - Link to Repository. Click on it to see Source Code!
 - 🔥 - Hot, Amazing Resource!
 
-
 <br><br>
-
 
 ## Contents
 
-- [Game Engines](#Game-Engines)
+- [Game Engines](#GameEngines)
     - [Popular](#Popular)
     - [AAA](#AAA)
     - [Commercial](#Commercial)
@@ -64,7 +60,7 @@ This list currently favors (but is not limited to) programming the core engine i
 - [Open Source Games](#Open-Source-Games)
     - [C](#Open-Source-C)
     - [C++](#Open-Source-Cpp)
-- [Specialty Topics](#Specialty-Topics)
+- [Specialty Topics](#SpecialtyTopics)
     - [AI / Pathfinding](#Topic-AI)
     - [Animation](#Topic-Animation)
     - [Color](#Topic-Color)
@@ -78,7 +74,7 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Physics](#Physics)
         - <sub><sup>[Platformer](#Platformer) | [Ropes / Chains](#Topics-Physics-Ropes) | [Soft Body](#Soft-Body) | [Verlet](#Verlet-Physics) | [Water](#Topics-Physics-Water)</sup></sub>
     - [Scripting](#Scripting)
-    - [Shaders](#Topic-Shaders)
+    - [Shaders](#TopicShaders)
          - <sub><sup>[Bloom](#Bloom) | [Displacement](#Displacement) | [Fire](#Fire) | [Noise](#Noise) | [Outlines](#Outlines) | [Pixelation](#Pixelation) | [Upscaling](#Upscaling) | [Water](#Topics-Shaders-Water) | [Wireframe](#Wireframe)</sup></sub>
     - [Signed Distance Fields](#SDF)
     - [Tiling](#Tiling)
@@ -107,7 +103,7 @@ This list currently favors (but is not limited to) programming the core engine i
 <br><br>
 
 
-## Game Engines <a name="Game-Engines"></a>
+## Game Engines <a name="GameEngines"></a>
 _Production game engines to tinker with, explore, learn and inspire_
 
 - ### Popular
@@ -197,7 +193,7 @@ _Info on topics necessary for designing and developing game engines_
         - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) : Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
         - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) : 🔥 Required visit for [MonoGame](https://www.monogame.net) / [FNA](https://fna-xna.github.io) developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
     - #### Shaders <a name="Graphics-Shaders"></a>
-        _see [Shaders](#Topic-Shaders)_
+        _see [Shaders](#TopicShaders2)_
 
 - ### Engine Development
     - #### Blog Articles <a name="Engine-Blog-Articles"></a>
@@ -233,7 +229,7 @@ _Info on topics necessary for designing and developing game engines_
     - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) : Indicator of the popularity of programming languages. The index is updated once a month.
 
 - ### Topics
-    _see [Specialty Topics](#Specialty-Topics-2)_
+    _see [Specialty Topics](#SpecialtyTopics2)_
 
 
 <br><br>
@@ -946,7 +942,7 @@ _Successful video games to pick apart and gain knowledge_
 
 <br><br>
 
-## Specialty Topics <a name="Specialty-Topics"></a><a name="Specialty-Topics-2"></a>
+## Specialty Topics <a name="SpecialtyTopics"></a><a name="SpecialtyTopics2"></a>
 _Exploring specialty application / game engine / game development topics and features_
 
 - ### AI / Pathfinding <a name="Topic-AI"></a>
@@ -1042,7 +1038,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) : List of reasonably mature open source embedded scripting languages to use in your application.
     - 📚 [Scriptorium](https://github.com/r-lyeh-archived/scriptorium) : Game scripting languages benchmarked.
 
-- ### Shaders <a name="Topic-Shaders"></a>
+- ### Shaders <a name="TopicShaders"></a><a name="TopicShaders2"></a>
     - #### - General Resources -
         - 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) : 🔥 Collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
         - 📚 [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) : 🔥 This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
