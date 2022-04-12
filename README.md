@@ -100,7 +100,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 
 ## Game Engines
-_Production game engines to tinker with, explore, learn and inspire_
+_Production game engines to tinker with, explore, learn and inspire._
 
 ### Popular
 - 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
@@ -148,7 +148,7 @@ _Production game engines to tinker with, explore, learn and inspire_
 
 
 ## Learning
-_Info on topics necessary for designing and developing game engines_
+_Info on topics necessary for designing and developing game engines._
 
 ### Computer Graphics
 #### Awesome Collections
@@ -229,7 +229,7 @@ _see Specialty Topic: Shaders_
 
 
 ## Libraries
-_Language specific game engine development libraries / frameworks / code_
+_Language specific game engine development libraries / frameworks / code._
 
 <br>
 
@@ -907,7 +907,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 
 ## Open Source Games
-_Successful video games to pick apart and gain knowledge_
+_Successful video games to pick apart and gain knowledge._
 
 ### Coded in C
 - 🔒 [Doom](https://github.com/id-Software/DOOM) - The original 1993 3D masterpiece by id Software.
@@ -926,7 +926,7 @@ _Successful video games to pick apart and gain knowledge_
 
 
 ## Specialty Topics
-_Exploring specialty application / game engine / game development topics and features_
+_Exploring specialty application / game engine / game development topics and features._
 
 ### AI / Pathfinding
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Introduction to AI Programming for Games at RayWenderlich.com.
@@ -1081,7 +1081,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 
 ## Tools / Software
-_Software to help with game engine / video game development_
+_Software to help with game engine / video game development._
 
 ### 2D Game Dev
 - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Desktop (Windows / macOS) app with drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
@@ -1176,7 +1176,7 @@ _Software to help with game engine / video game development_
 
 
 ## Video Game Assets
-_Resources to help bring video games and game engines alive_
+_Resources to help bring video games and game engines alive._
 
 ### Audio Assets
 #### Music
