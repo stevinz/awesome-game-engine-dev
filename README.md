@@ -41,8 +41,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Commercial](#commercial)
     - [Specialty](#specialty)
 - [Learning](#learning)
-    - [Computer Graphics](#computer-graphics)
-        - <sub><sup>DirectX | Metal | OpenGL | Vulkan | WebGL | WebGPU | XNA </sup></sub>
+    - [Computer Graphics](#computer-graphics) <sub><sup>( DirectX | Metal | OpenGL | Vulkan | WebGL | WebGPU | XNA )</sup></sub>
     - [Engine Development](#engine-development)
     - [Game Development](#game-development)
     - [Graphical User Interface](#graphical-user-interface)
@@ -62,45 +61,40 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Rust](#rust)
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
-    - [C](#open-source-c)
-    - [C++](#open-source-cpp)
+    - [C Games](#c-games)
+    - [C++ Games](#cpp-games)
 - [Specialty Topics](#specialty-topics)
-    - [AI / Pathfinding](#ai-pathfinding)
-    - [Animation](#animation)
+    - [AI / Pathfinding](#ai--pathfinding)
+    - [Animation Info](#animation-info)
     - [Color](#color)
-    - [Entity Component System](#entity-component-system")
-    - [Fluid / Smoke](#fluid-smoke)
-    - [Geometry](#geometry)
-        - <sub><sup>Algorithms | CSG | Meshes | Smoothing</sup></sub>
-    - [Lighting / Shadows](#lighting)
-    - [Particles](#particles)
-    - [Physics](#physics)
-        - <sub><sup>Platformer | Ropes / Chains | Soft Body | Verlet | Water</sup></sub>
+    - [Entity Component Systems](#entity-component-systems)
+    - [Fluid / Smoke](#fluid--smoke)
+    - [Geometry Info](#geometry-info) <sub><sup>( Algorithms | CSG | Meshes | Smoothing )</sup></sub>
+    - [Lighting / Shadows](#lighting--shadows)
+    - [Particle Info](#particle-info)
+    - [Physics](#physics) <sub><sup>( Platformer | Ropes / Chains | Soft Body | Verlet | Water )</sup></sub>
     - [Scripting](#scripting)
-    - [Shaders](#shaders)
-         - <sub><sup>Bloom | Displacement | Fire | Noise | Outlines | Pixelation | Upscaling | Water | Wireframe</sup></sub>
-    - [Signed Distance Fields](#sdf)
+    - [Shaders](#shaders) <sub><sup>( Bloom | Displacement | Fire | Noise | Outlines | Pixelation | Upscaling | Water | Wireframe )</sup></sub>
+    - [Signed Distance Fields](#signed-distance-fields)
     - [Tiling](#tiling)
-- [Tools / Software](#tools-software)
+- [Tools / Software](#tools--software)
     - [2D Game Dev](#2d-game-dev)
     - [Animation Software](#animation-software)
-    - [Audio Tools](#audio-tools)
-        - <sub><sup>Music | Sound Effects</sup></sub>
-    - [Color / Palettes](#color-palettes)
+    - [Audio Tools](#audio-tools) <sub><sup>( Music | Sound Effects )</sup></sub>
+    - [Color / Palettes](#color--palettes)
     - [Image Editors](#image-editors)
     - [Level Editors](#level-editors)
-    - [Materials / Textures](#materials-textures)
+    - [Materials / Textures](#materials--textures)
     - [Modeling Tools](#modeling-tools)
     - [Particle Tools](#particle-tools)
     - [Pixel Art](#pixel-art)
     - [Vector Editors](#vector-editors)
     - [Voxel](#voxel)
 - [Video Game Assets](#video-game-assets)
-    - [Audio](#audio)
-        - <sub><sup>Music | Sound Effects</sup></sub>
-    - [Graphics](#graphics)
-    - [Materials](#materials)
-    - [Models](#models)
+    - [Audio Assets](#audio-assets) <sub><sup>( Music | Sound Effects )</sup></sub>
+    - [Graphic Assets](#graphic-assets)
+    - [Material Assets](#material-assets)
+    - [Model Assets](#model-assets)
     
 
 <br><br>
@@ -950,14 +944,14 @@ _Successful video games to pick apart and gain knowledge_
 
 <br>
 
-### C <a name="Open-Source-C"></a>
+### C Games
 - 🔒 [Doom](https://github.com/id-Software/DOOM) : The original 1993 3D masterpiece by id Software.
 - 🔒 [Gish](https://store.steampowered.com/app/9500/Gish/) [:octocat:](https://github.com/blinry/gish) : Open Source version of the award-winning physics platformer.
 - 💸 [Handmade Hero](https://handmadehero.org/) : Huge collection of YouTube videos on making a video game from start to finish, along with the option to access the source code for $15.
 
 <br>
 
-### C++ <a name="Open-Source-Cpp"></a>
+### C++ Games
 - 🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) : Classic roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.
 - 🎉 [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat:](https://github.com/Soverance/EtherealLegends) : Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
 - 🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) : Classic Tomb Raider open-source engine.
@@ -979,7 +973,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Animation
+### Animation Info
 - 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) : Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
 
 <br>
@@ -990,7 +984,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Entity Component System
+### Entity Component Systems
 - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) : Article that provides a basis for an eneity component system in C++.
 - 📚 [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) : Article that provides a solid overview of EC systems and why you should use them at [Cowboy Programming](https://cowboyprogramming.com).
 - 📚 [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) : Nice blog post about component based architecture at at RayWenderlich.com.
@@ -1007,7 +1001,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Geometry
+### Geometry Info
 #### Algorithms
 - 📚 [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) : Online book that covers algorithms for fundamental geometric objects, computing bounding containers, convex hulls, polyline simplification and more.
 #### CSG (Constructive Solid Geometry)
@@ -1046,7 +1040,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Particles
+### Particle Info
 - 📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by LearnOpenGL.
 - 📚 [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
@@ -1132,7 +1126,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Signed Distance Fields (SDF)
+### Signed Distance Fields
 - 📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) : Amazing list of signed distance functions for basic 2D primitives.
 - 📚 [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) : Amazing list of signed distance functions for basic 3D primitives.
 - 📚 [CSG w/ Signed Distance Fields](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) : Introductory exploration of signed distance fields and using circular SDFs to build 3D objects with CSG (Constructive Solid Geometry).
@@ -1275,7 +1269,7 @@ _Resources to help bring video games and game engines alive_
 
 <br>
 
-### Audio
+### Audio Assets
 #### Music
 - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) : Download unlimited high-quality loops and packs used for music creation.
 - 💸 [Bensound](https://www.bensound.com/royalty-free-music) : Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
@@ -1290,7 +1284,7 @@ _Resources to help bring video games and game engines alive_
 
 <br>
 
-### Graphics
+### Graphic Assets
 - 💸 [Flaticon](https://www.flaticon.com) : Nice vector icons and stickers.
 - 💸 [Freepik](https://www.freepik.com) : High quality illustrations, photos, icons and presentation templates.
 - 🆓 [Kenny](https://www.kenney.nl/assets) : Amazing 2D and 3D CC0 1.0 game graphics and other assets.
@@ -1301,13 +1295,13 @@ _Resources to help bring video games and game engines alive_
 
 <br>
 
-### Materials
+### Material Assets
 - 🆓 [AmbientCG](https://ambientcg.com) : Public domain materials for physically based rendering.
 - 🆓 [Pmndrs Materials](https://market.pmnd.rs/materials) : Nice collection of public domain materials.
 
 <br>
 
-### Models
+### Model Assets
 - 🆓 [3D Models CC0](https://www.3dmodelscc0.com) : Free 3D models, all the 3D assets on this site are licensed as public domain.
 - 🆓 [Pmndrs Market](https://market.pmnd.rs) : Nice collection of public domain models.
 - 🆓 [Poly Pizza](https://poly.pizza) : Build something beautiful with thousands of free low poly models.
