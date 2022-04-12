@@ -35,7 +35,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 ## Contents
 
-- <a href='GameEngines'>Game Engines</a>
+- [Game Engines](#Game-Engines)
     - [Popular](#Popular)
     - [AAA](#AAA)
     - [Commercial](#Commercial)
@@ -107,7 +107,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 <br><br>
 
 
-## Game Engines <a name="GameEngines"></a>
+## Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
 
 <br>
