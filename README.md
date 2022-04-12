@@ -14,7 +14,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 <br>
 
-<ins><b>License Legend</b></ins>
+<b>License Legend</b>
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
@@ -34,7 +34,6 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 
 # Contents
-
 - [Game Engines](#game-engines)
     - [Popular](#popular)
     - [AAA](#aaa)
