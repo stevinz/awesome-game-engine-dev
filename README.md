@@ -65,11 +65,11 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [C](#open-source-c)
     - [C++](#open-source-cpp)
 - [Specialty Topics](#specialty-topics)
-    - [AI / Pathfinding](#topic-ai)
-    - [Animation](#topic-animation)
-    - [Color](#topic-color)
-    - [Entity Component System](#topic-ecs")
-    - [Fluid / Smoke](#topic-fluid)
+    - [AI / Pathfinding](#ai-pathfinding)
+    - [Animation](#animation)
+    - [Color](#color)
+    - [Entity Component System](#entity-component-system")
+    - [Fluid / Smoke](#fluid-smoke)
     - [Geometry](#geometry)
         - <sub><sup>Algorithms | CSG | Meshes | Smoothing</sup></sub>
     - [Lighting / Shadows](#lighting)
@@ -79,28 +79,28 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Scripting](#scripting)
     - [Shaders](#shaders)
          - <sub><sup>Bloom | Displacement | Fire | Noise | Outlines | Pixelation | Upscaling | Water | Wireframe</sup></sub>
-    - [Signed Distance Fields](#SDF)
-    - [Tiling](#Tiling)
-- [Tools / Software](#Tools)
-    - [2D Game Dev](#Tools-2D-Game-Dev)
-    - [Animation](#Tools-Animation)
-    - [Audio](#Tools-Audio)
-        - <sub><sup>[Music](#Tools-Audio-Music) | [Sound Effects](#Tools-Audio-Sound-Effects)</sup></sub>
-    - [Color / Palettes](#Tools-Color)
-    - [Image Editors](#Tools-Image)
-    - [Level Editors](#Tools-Level)
-    - [Materials / Textures](#Tools-Materials)
-    - [Modeling](#Tools-Modeling)
-    - [Particles](#Tools-Particles)
-    - [Pixel Art](#Tools-Pixel-Art)
-    - [Vector Editors](#Tools-Vector)
-    - [Voxel](#Voxel)
-- [Video Game Assets](#Video-Game-Assets)
-    - [Audio](#Assets-Audio)
-        - <sub><sup>[Music](#Assets-Music) | [Sound Effects](#Assets-Sound-Effects)</sup></sub>
-    - [Graphics](#Assets-Graphics)
-    - [Materials](#Assets-Materials)
-    - [Models](#Assets-Models)
+    - [Signed Distance Fields](#sdf)
+    - [Tiling](#tiling)
+- [Tools / Software](#tools-software)
+    - [2D Game Dev](#2d-game-dev)
+    - [Animation Software](#animation-software)
+    - [Audio Tools](#audio-tools)
+        - <sub><sup>Music | Sound Effects</sup></sub>
+    - [Color / Palettes](#color-palettes)
+    - [Image Editors](#image-editors)
+    - [Level Editors](#level-editors)
+    - [Materials / Textures](#materials-textures)
+    - [Modeling Tools](#modeling-tools)
+    - [Particle Tools](#particle-tools)
+    - [Pixel Art](#pixel-art)
+    - [Vector Editors](#vector-editors)
+    - [Voxel](#voxel)
+- [Video Game Assets](#video-game-assets)
+    - [Audio](#audio)
+        - <sub><sup>Music | Sound Effects</sup></sub>
+    - [Graphics](#graphics)
+    - [Materials](#materials)
+    - [Models](#models)
     
 
 <br><br>
@@ -206,7 +206,7 @@ _Info on topics necessary for designing and developing game engines_
 - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) : Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
 - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) : 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
 #### Shader
-_see [Shaders](#shaders)_
+_see Specialty Topics: Shaders_
 
 <br>
 
@@ -258,7 +258,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-### Basic
+### BASIC
 #### - Language -
 - 🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) : Comprehensive list of BASIC languages.
 #### App Framework
@@ -1164,7 +1164,7 @@ _Software to help with game engine / video game development_
 
 <br>
 
-### Animation
+### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) : 3D animation software for physics-based character animation.
 - 🆓 [DragonBones](https://docs.egret.com/dragonbones/en) [:octocat:](https://github.com/DragonBones/) : Open source and free 2D game skeletal animation solution.
 - 💸 [Mixamo](https://www.mixamo.com/#/) : Animate 3D characters for games, films and more by [Adobe](https://www.adobe.com).
@@ -1172,7 +1172,7 @@ _Software to help with game engine / video game development_
 
 <br>
 
-### Audio Creation
+### Audio Tools
 #### Music
 - 🆓 [Ardour](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) : Free, open source, very capable. Record, edit, and mix on Linux, macOS and Windows.
 - 🆓 [Audacity](https://www.audacityteam.org) [:octocat:](https://github.com/audacity/audacity) : Free, open source multi-track audio editor and recorder for Linux, macOS and Windows.
@@ -1226,7 +1226,7 @@ _Software to help with game engine / video game development_
 
 <br>
 
-### Modeling
+### Modeling Tools
 - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) : One of the oldest professional software programs for 3D modeling and rendering. Suitable for design visualization, games, and animation.
 - 🆓 [ArmorPaint](https://armorpaint.org) [:octocat:](https://github.com/armory3d/armorpaint) : Software designed for physically-based texture painting. Drop in your 3D models and start painting.
 - 💰 [Asset Forge](https://assetforge.io) : Allows anyone to create 3D models and 2D sprites using building blocks.
@@ -1236,7 +1236,7 @@ _Software to help with game engine / video game development_
 
 <br>
 
-### Particles
+### Particle Tools
 - 💸 [Particle Designer](https://www.71squared.com/particledesigner) : Powerful particle effects editor designed specifically for macOS.
 - 💸 [TimelineFX](https://www.rigzsoft.co.uk) : Create amazing particle effects for your games, applications and web pages.
 
