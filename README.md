@@ -860,7 +860,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-### Python <a name="Libraries-Python"></a>
+### Python
 #### - Language -
 - 🌎 [Python.org](https://www.python.org) : Programming language that lets you work quickly and integrate systems more effectively. [[Docs](https://www.python.org/doc/)]
 #### - Language: Awesome Collections -
