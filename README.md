@@ -137,7 +137,7 @@ _Production game engines to tinker with, explore, learn and inspire_
 - 💸 [GameSalad](https://gamesalad.com) : Sophisticated visual programming interface.
 - 💸 [MANU](https://manu.co) : Unique animation system helps you create games without coding.
 - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) : Versatile real-time platform for making 2D / 3D games and apps.
-- 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) : Commercial, web based editor for [Phaser](https://phaser.io).
+- 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) : Commercial, web based editor for Phaser.
 - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for  runtime only) : Popular (used for Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
 - 💸 [ShiVa](https://shiva-engine.com) : 3D game and application development suite.
 - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) : Supports the creation of simple interactive 3D applications across a range of platforms and devices. [[Developer Website](http://fireflytech.org)]
@@ -145,7 +145,7 @@ _Production game engines to tinker with, explore, learn and inspire_
 
 ### Specialty
 - 💰 [3dSen](https://geod.itch.io/3dnes) : Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
-- 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) : Full GML Doom/Heretic map loading system for [GameMaker Studio](https://www.yoyogames.com/en/gamemaker).
+- 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) : Full GML Doom/Heretic map loading system for GameMaker Studio.
 - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) : Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
 - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) : Everything you need to create your very own platforming game for GameMaker Studio.
 - 💰 [RPG Maker](https://www.rpgmakerweb.com) : Lets you create an original role-playing game without any specialized knowledge or training.
@@ -329,7 +329,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [Cglm](https://github.com/recp/cglm) : Highly optimized OpenGL math for C.
     - ⭐ [Handmade Math](https://github.com/HandmadeMath/Handmade-Math) : Simple math library for games and computer graphics.
     - 🎉 [Kazmath](https://github.com/Kazade/kazmath) : Math library targeted at games.
-    - 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) : Math library included in the [raylib](https://www.raylib.com) game framework.
+    - 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) : Math library included in the Raylib game framework.
 - #### Physics <a name="C-Physics"></a>
     - 🎉 [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) : Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
 - #### Scripting <a name="C-Scripting"></a>
@@ -399,7 +399,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) : Based on [Irrlicht](https://irrlicht.sourceforge.io), with upgraded features including audio, physics and particles.
     - 🎉 [Titan Engine](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) : (formerly Esenthel Engine) Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
     - 🎉 [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) : High performance 3D engine built on [Forge](https://github.com/ConfettiFX/The-Forge).
-    - 🔒 [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Forked from [Blender](https://www.blender.org).
+    - 🔒 [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) : Blender game engine. Originally forked from Blender.
 - #### Game Framework <a name="Cpp-Game-Framework"></a>
     - 🎉 [Acid](https://github.com/EQMG/Acid) : Open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular.
     - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) : Provides rendering, gui, audio, network, physics, user input, etc. Widely used in game development and application construction.
@@ -411,7 +411,6 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) : Orx is a 2.5D data-driven game development engine.
     - 🎉 [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) : Small, portable and extensible C++ 3D coding framework.
     - ⭐ [Ouzel](https://github.com/elnormous/ouzel) : Public domain C++ game engine mainly targeted for development of 2D games.
-    - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
     - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) : (previously Corona) Focus on ease of iterations and usage.
     - 🎉 [Two](https://github.com/hugoam/two) : C++ toolkit for rapid development of live graphical apps and games.
     - 🎉 [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) : Free lightweight, cross-platform 2D and 3D game engine.
@@ -450,7 +449,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) : Thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [magnum engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) : Lightweight and modular C++11 graphics middleware for games and data visualization.
     - 🎉 [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) : Scene-oriented, flexible 3D engine.
-    - 🎉 [Threepp](https://github.com/markaren/threepp) : Cross-platform C++17 port of the popular JavaScript 3D library [Three.js](https://threejs.org) (r129). 
+    - 🎉 [Threepp](https://github.com/markaren/threepp) : Cross-platform C++17 port of the popular JavaScript 3D library  Three.js (r129). 
     - 🎉 [Tungsten](https://github.com/tunabrain/tungsten) : High performance physically based renderer in C++11.
     - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) : Open-source C++ engine focusing on modern rendering techniques and performance.
 - #### Gui <a name="Cpp-Gui"></a>
@@ -640,7 +639,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [Sparkler](https://github.com/AndreiRudenko/sparkler) : Modular Macro-powered Particle System.
 - #### Gui <a name="Haxe-Gui"></a>
     - 🎉 [HaxeUI](http://haxeui.org) [:octocat:](https://github.com/haxeui/haxeui-core) : Cross-platform set of styleable application centric, rich UI components.
-    - 🎉 [Zui](https://github.com/armory3d/zui) : Immediate mode user interface, used in [ArmorPaint](https://armorpaint.org).
+    - 🎉 [Zui](https://github.com/armory3d/zui) : Immediate mode user interface, used in ArmorPaint.
 - #### Physics <a name="Haxe-Physics"></a>
     - 🎉 [Haxe Bullet](https://github.com/armory3d/haxebullet) : Bullet 3D Physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet](https://github.com/HeapsIO/bullet) : Bullet 3D Physics for Heaps (Haxe's native low-level game framework).
@@ -761,7 +760,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [Delaunator](https://mapbox.github.io/delaunator/) [:octocat:](https://github.com/mapbox/delaunator) : Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
     - 🎉 [Earcut](https://github.com/mapbox/earcut) : The fastest and smallest JavaScript polygon triangulation library for your WebGL apps.
     - 🎉 [Poly-Decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) : Decompose 2D polygons into convex pieces.
-    - 🎉 [Three-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) : Conversion of the [csg.js](https://evanw.github.io/csg.js/) library for use with modern [Three.js](https://threejs.org).
+    - 🎉 [Three-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) : Conversion of the [csg.js](https://evanw.github.io/csg.js/) library for use with modern Three.js.
 - #### Graphics: 2D <a name="JavaScript-Graphics-2D"></a>
     - 🎉 [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) : WebAssembly build of Google's [Skia](https://skia.org), a mobile-first 2D graphics library.
     - 🎉 [EaselJS](https://createjs.com/easeljs) [:octocat:](https://github.com/CreateJS/EaselJS) : Makes working with the HTML5 Canvas element easy, part of the [CreateJS](http://createjs.com/) suite of libraries.
@@ -863,7 +862,7 @@ _Language specific game engine development libraries / frameworks / code_
     - 🎉 [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) : Easy to use Python library for creating 2D arcade games.
     - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) : Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
     - 🔒 [Pygame](https://www.pygame.org) [:octocat:](https://github.com/pygame/pygame) : Library for making multimedia applications (like games) using Python, built on top of the excellent [SDL](https://libsdl.org) library.
-    - 🎉 [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) : [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module that can display a grid of text characters in a [Pygame](https://www.pygame.org) Surface Object. Provides an easy way to create text adventures, roguelikes, and console-style applications in Python.
+    - 🎉 [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) : [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module that can display a grid of text characters in a Pygame Surface Object. Provides an easy way to create text adventures, roguelikes, and console-style applications in Python.
 - #### Gui <a name="Python-Gui"></a>
     - 🎉 [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) : Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
@@ -879,7 +878,7 @@ _Language specific game engine development libraries / frameworks / code_
 - #### Game Framework <a name="Ruby-Game-Framework"></a>
     - 🎉 [Ruby 2D](http://ruby2d.com/) [:octocat:](https://github.com/ruby2d/ruby2d) : Make cross-platform 2D applications in Ruby.
 - #### Graphics: 3D <a name="Ruby-Graphics-3D"></a>
-    - 🎉 [Mittsu](https://github.com/danini-the-panini/mittsu) : 3D Graphics Library for Ruby based heavily on [Three.js](https://threejs.org).
+    - 🎉 [Mittsu](https://github.com/danini-the-panini/mittsu) : 3D Graphics Library for Ruby based heavily on Three.js.
 - #### Gui <a name="Ruby-Gui"></a>
     - 🎉 [Glimmer](https://github.com/andyobtiva/glimmer) : GUI library and DSL (domain specific language) framework.
     - 🎉 [Shoes](http://shoesrb.com/) [:octocat:](https://github.com/shoes/shoes4) : Cross platform GUI library for Ruby.
@@ -973,7 +972,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 ### Fluid / Smoke <a name="Topic-Fluid"></a>
 - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) : GPU Gems Chapter 38 - Method for fast, stable fluid simulation that runs entirely on the GPU.
-- 🔒 [Fluids-2D](http://www.csc.kth.se/~mathar/fluids-2d/) [:octocat:](https://github.com/mharrys/fluids-2d) : Real-time fluid dynamics running on the GPU with the help of WebGL and [Three.js](https://threejs.org).
+- 🔒 [Fluids-2D](http://www.csc.kth.se/~mathar/fluids-2d/) [:octocat:](https://github.com/mharrys/fluids-2d) : Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js.
 - 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) [:octocat:](https://github.com/haxiomic/GPU-Fluid-Experiments) : Cross-platform GPU fluid simulation.
 - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) [:octocat:](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) : Play with fluids in your browser (works even on mobile).
 
@@ -1009,8 +1008,8 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) : Great exploration of screen space shadows.
     - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) : In depth explantion on [Wikipedia](https://en.m.wikipedia.org) of shadow mapping and the techniques used to acheive it.
 - #### Volumetric
-    - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) : Great example of volumetric lighting with [Three.js](https://threejs.org).
-    - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) : Article covering a technique of volumetric light approximation (godrays) implemented in [Three.js](https://threejs.org).
+    - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) : Great example of volumetric lighting with Three.js.
+    - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) : Article covering a technique of volumetric light approximation (godrays) implemented using Three.js.
 
 ### Particles
 - 📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by [LearnOpenGL](https://learnopengl.com).
@@ -1033,7 +1032,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) : Using verlet physics to simulate 2D blobs.
     - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) : Step by step creation of a Box2D soft body blob.
     - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) [:octocat:](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc) : Example of using [Bullet Physics](https://pybullet.org/wordpress/) to implement a 3D cloth in the [Oryol](http://floooh.github.io/oryol/) game framework.
-    - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) : Demo of 3D soft body volumes using [Ammo.js](https://github.com/kripken/ammo.js) physics library implemented in [Three.js](https://threejs.org).
+    - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) : Demo of 3D soft body volumes using [Ammo.js](https://github.com/kripken/ammo.js) physics library implemented using Three.js.
 - #### Verlet Physics
     - 📚 [Making a Verlet Physics Engine in JavaScript](https://betterprogramming.pub/making-a-verlet-physics-engine-in-javascript-1dff066d7bc5) : Taking a look under the hood of a 2D physics engine in JavaScript.
 - #### Water <a name="Topics-Physics-Water"></a>
@@ -1058,10 +1057,10 @@ _Exploring specialty application / game engine / game development topics and fea
     - 🌎 [Shadertoy](https://www.shadertoy.com) : Build and share shaders online.
 - #### Bloom
     - 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) : Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
-    - 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect postprocessing example in [Three.js](https://threejs.org).
+    - 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) : WebGL bloom effect postprocessing example using Three.js.
     - 📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) : Covers how to add support for a bloom effect to a camera.
 - #### Displacement
-    - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) : Excellent tutorial that introduces the construction of a basic vertex displacement shader in [Three.js](https://threejs.org).
+    - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) : Excellent tutorial that introduces the construction of a basic vertex displacement shader using Three.js.
 - #### Fire
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) : Great fire intro shader using noise textures and masking.
     - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) : Simplex noise fire simulation shader at [ShaderToy](https://www.shadertoy.com).
@@ -1078,7 +1077,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) : Truly excellent article on producing a sketchy outline look.
 - #### Pixelation
     - 📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) : Useful GLSL postprocessing shaders for pixel art games.
-    - 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example in [Three.js](https://threejs.org).
+    - 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) : WebGL pixelation postprocessing example using Three.js.
 - #### Postprocessing
     - 📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) [:octocat:](https://github.com/alaingalvan/image-editor-effects) : WebGL example of image adjustment / effects shaders found in Photoshop, other image editors and game engines.
 - #### Upscaling
@@ -1088,7 +1087,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) : GLSL fragment shader to simulate 2D water surface in [libGDX](https://libgdx.com).
 - #### Wireframe
     - 📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) : Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
-    - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) : This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+    - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) : This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using Barycentric Coordinates.
 
 ### Signed Distance Fields (SDF) <a name="SDF"></a>
 - 📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) : Amazing list of signed distance functions for basic 2D primitives.
@@ -1165,14 +1164,14 @@ _Software to help with game engine / video game development_
 - 💸 [PixPlant](https://www.pixplant.com/index.php) : Tool to allow simple creation of tiling 3D materials.
 - 🆓 [TexaTool](https://kronbits.itch.io/texatool) : Free online too to generate tileable textures by just moving sliders.
 - 🆓 [Texgen.js](https://texgenjs.org) [:octocat:](https://github.com/mrdoob/texgen.js) : JavaScript texture generator tool.
-- 🆓 [TexTools for Blender](http://www.renderhjs.net/?doc=texToolsBlender) : Free addon for [Blender](https://www.blender.org) with a set of professional UV and Texturing tools. [[Repo](https://bitbucket.org/renderhjs/textools-blender/src/master/)]
+- 🆓 [TexTools for Blender](http://www.renderhjs.net/?doc=texToolsBlender) : Free addon for Blender with a set of professional UV and Texturing tools. [[Repo](https://bitbucket.org/renderhjs/textools-blender/src/master/)]
 
 ### Modeling <a name="Tools-Modeling"></a>
 - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) : One of the oldest professional software programs for 3D modeling and rendering. Suitable for design visualization, games, and animation.
 - 🆓 [ArmorPaint](https://armorpaint.org) [:octocat:](https://github.com/armory3d/armorpaint) : Software designed for physically-based texture painting. Drop in your 3D models and start painting.
 - 💰 [Asset Forge](https://assetforge.io) : Allows anyone to create 3D models and 2D sprites using building blocks.
 - 🆓 [Blender](https://www.blender.org) [:octocat:](https://github.com/blender/blender) : 🔥 Free and open source 3D creation suite. Supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
-- 🆓 [Meshroom](https://alicevision.org/#meshroom) [:octocat:](https://github.com/alicevision/meshroom) : Free, open-source 3D Reconstruction Software based on the [AliceVision](https://alicevision.org/#) framework.
+- 🆓 [Meshroom](https://alicevision.org/#meshroom) [:octocat:](https://github.com/alicevision/meshroom) : Free, open-source 3D Reconstruction Software based on the AliceVision framework.
 - 💸 [ZBrush Core Mini](https://zbrushcore.com/mini/index.php) : Simple and easy to use 3D sculpting tool.
 
 ### Particles <a name="Tools-Particles"></a>
@@ -1195,7 +1194,7 @@ _Software to help with game engine / video game development_
 
 ### Voxel <a name="Tools-Voxel"></a>
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) : Draw in 2D, set the depth for each pixel and generate 3D models!
-- 🎉 [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) : Generates isometric pixel art from [MagicaVoxel](https://ephtracy.github.io) .vox files.
+- 🎉 [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) : Generates isometric pixel art from MagicaVoxel .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) : Free lightweight GPU-based voxel art editor.
 - 💰 [Qubicle](https://www.getqubicle.com) : Professional (used for Crossy Road, Pacman 256, etc.) voxel editor optimized for the easy creation of 3D models.
 
@@ -1226,7 +1225,7 @@ _Resources to help bring video games and game engines alive_
 - 💸 [Mobile Game Graphics](https://mobilegamegraphics.com) : Nice collection of a mix of free and paid original 2D game graphics.
 - 🆓 [Open Game Art](https://opengameart.org) : Leading portal for free / public domain game art online.
 - 💰 [Shutterstock](https://www.shutterstock.com) : Millions of images, videos and music tracks.
-- 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) : Top free game assets listed on [itch.io](https://itch.io).
+- 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) : Top free game assets listed on itch.io.
 
 ### Materials <a name="Assets-Materials"></a>
 - 🆓 [AmbientCG](https://ambientcg.com) : Public domain materials for physically based rendering.
@@ -1241,10 +1240,3 @@ _Resources to help bring video games and game engines alive_
 
 
 <br><br>
-
-
-## Contributing
-
-_see [Contribution Guide](CONTRIBUTING.md)_      
-
-<br>
