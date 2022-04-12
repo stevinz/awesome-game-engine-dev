@@ -35,7 +35,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 ## Contents
 
-- [Game Engines](#GameEngines)
+- [Game Engines](#Game-Engines)
     - [Popular](#Popular)
     - [AAA](#AAA)
     - [Commercial](#Commercial)
@@ -107,7 +107,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 <br><br>
 
 
-## Game Engines <a name="GameEngines"></a>
+## Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
 
 <br>
@@ -186,7 +186,7 @@ _Info on topics necessary for designing and developing game engines_
 - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) : Older resource with lots of tutorials on DirectX versions 9 & 11.
 #### Graphics API: Metal <a name="Graphics-Metal"></a>
 - 🌎 [Metal](https://developer.apple.com/metal/) : Metal provides a platform-optimized, low-overhead API for developing the latest 3D applications and amazing games on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
-- 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) : Learn how to get started with Apple’s 3D graphics API at RayWenderlich.com.
+- 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) : Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
 #### Graphics API: OpenGL <a name="Graphics-OpenGL"></a>
 - 📚 [LearnOpenGL](https://learnopengl.com) : 🔥 Incredible resource! Teaches you everything you need to do modern graphics programming!
 - 🌎 [OpenGL](https://www.opengl.org/) : The industrys foundation for high performance graphics.
@@ -293,7 +293,7 @@ _Language specific game engine development libraries / frameworks / code_
 - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) : Header-only c99 framework for multimedia applications, includes platform, graphics and audio layer functionality.
 - 🎉 [RayLib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) : Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
 - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) : 🔥 Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
-- 🎉 [Sokol](https://github.com/floooh/sokol) : 🔥 Top notch cross-platform, single file header libraries that include a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!!        
+- 🎉 [Sokol](https://github.com/floooh/sokol) : 🔥 Top notch cross-platform, single file header libraries that include a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!     
 #### Audio <a name="C-Audio"></a>
 - ⭐ [Miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) : Single file audio playback and capture library written in C.
 - 🎉 [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) : Audio mixer that supports various file formats for SDL.
@@ -366,7 +366,7 @@ _Language specific game engine development libraries / frameworks / code_
 #### - Language - <a name="Cpp-Language"></a>
 - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) : Exploring C++ basic and advanced concepts and also modern C++ features with both small and reproducible C++ sample programs and interactive examples.
 - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) : Provide programmers with a complete online reference for the C and C++ languages and standard libraries.
-- 📚 [Learn C++](https://www.learncpp.com) : 🔥 Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
+- 📚 [Learn C++](https://www.learncpp.com) : 🔥 Whether you've had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
 - 📚 [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) : Cheatsheet of modern C++ language and library features.
 #### - Language: Awesome Collections - <a name="Cpp-Language-Awesome"></a>
 - 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) : Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
@@ -523,7 +523,7 @@ _Language specific game engine development libraries / frameworks / code_
 - 🔒 [ArkScript](https://arkscript-lang.dev) [:octocat:](https://github.com/ArkScript-lang/Ark) : Small, fast, functional and scripting language for C++ projects.
 - 🎉 [ChaiScript](http://chaiscript.com) [:octocat:](https://github.com/ChaiScript/ChaiScript) : Embedded scripting language designed from to directly target C++17.
 - 🎉 [GameMonkey Script](http://www.gmscript.com) [:octocat:](https://github.com/publicrepo/gmscript) : Embedded scripting language for C++ apps, tools and games.
-- 🎉 [v8](https://v8.dev) [:octocat:](https://github.com/v8/v8) : Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
+- 🎉 [v8](https://v8.dev) [:octocat:](https://github.com/v8/v8) : Google's open source high-performance JavaScript and WebAssembly engine, written in C++.
 #### Serialization <a name="Cpp-Serialization"></a>
 - 🎉 [Captain (Capn) Proto](https://capnproto.org/capnp-tool.html) [:octocat:](https://github.com/capnproto/capnproto) : Insanely fast data interchange format and capability-based RPC (remote procedure call) system.
 - 🎉 [Cereal](https://github.com/USCiLab/cereal) : Header-only C++11 serialization library. Takes arbitrary data types and reversibly turns them into different representations, such as compact binary encodings, XML, or JSON.
@@ -751,7 +751,7 @@ _Language specific game engine development libraries / frameworks / code_
 - 🎉 [JSMpeg](https://github.com/phoboslab/jsmpeg) : MPEG1 Video Decoder in JavaScript.
 #### Framework <a name="JavaScript-Framework"></a>
 - 🎉 [Alpine](https://alpinejs.dev) [:octocat:](https://github.com/alpinejs/alpine) : Rugged, minimal framework for composing JavaScript behavior in your markup.
-- 🎉 [Angular](https://angular.io) [:octocat:](https://github.com/angular/angular) : The modern web developer’s platform.
+- 🎉 [Angular](https://angular.io) [:octocat:](https://github.com/angular/angular) : The modern web developer's platform.
 - 🎉 [Aurelia](https://aurelia.io) [:octocat:](https://github.com/aurelia/framework) : Modern, front-end JavaScript framework for building browser, mobile, and desktop applications.
 - 🎉 [Ember](https://emberjs.com) [:octocat:](https://github.com/emberjs/ember.js) : Framework for ambitious web developers.
 - 🎉 [Preact](https://preactjs.com) [:octocat:](https://github.com/preactjs/preact) : Fast 3kB React alternative with the same modern API.
@@ -765,7 +765,7 @@ _Language specific game engine development libraries / frameworks / code_
 - 🎉 [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) : HTML5 game engine, provides modules to handle common game development tasks such as 2D and 3D rendering, GUI systems, and audio and resource management. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
 - 🎉 [GDevelop](https://gdevelop-app.com) [:octocat:](https://github.com/4ian/GDevelop) : Full-featured, open source 2D game development software platform.
 - 🎉 [Impact](https://impactjs.com) [:octocat:](https://github.com/phoboslab/impact) : Game engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
-- 🎉 [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) : Game engine with advanced multiplayer based on Valve’s Source Engine multiplayer system.
+- 🎉 [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) : Game engine with advanced multiplayer based on Valve's Source Engine multiplayer system.
 - 🎉 [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) : Modern, open source HTML5 2D game engine that empowers developers and designers to focus on content. Uses Tiled for level editing. [[Examples](https://melonjs.github.io/examples/)]
 - 🎉 [microStudio](https://microstudio.dev/) [:octocat:](https://github.com/pmgl/microstudio/) : Free, open source game engine online. It is also a platform to learn and practise programming.
 - 🎉 [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) : Sandbox framework to fast-prototype 2D tile-based games in HTML5 and JavaScript.
