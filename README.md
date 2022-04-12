@@ -14,7 +14,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 <br>
 
-<b>License Legend</b>
+<span style="font-size: 150%;">License Legend</span>
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
@@ -61,8 +61,8 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Rust](#rust)
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
-    - [C Games](#c-games)
-    - [C++ Games](#c-games-1)
+    - [Coded in C](#coded-in-c)
+    - [Coded in C++](#coded-in-c-1)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
     - [Animation Info](#animation-info)
@@ -71,7 +71,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Fluid / Smoke](#fluid--smoke)
     - [Geometry Info](#geometry-info) <sub><sup>( Algorithms | CSG | Meshes | Smoothing )</sup></sub>
     - [Lighting / Shadows](#lighting--shadows)
-    - [Particle Info](#particle-info)
+    - [Particles](#particles)
     - [Physics](#physics) <sub><sup>( Platformer | Ropes / Chains | Soft Body | Verlet | Water )</sup></sub>
     - [Scripting](#scripting)
     - [Shaders](#shaders) <sub><sup>( Bloom | Displacement | Fire | Noise | Outlines | Pixelation | Upscaling | Water | Wireframe )</sup></sub>
@@ -102,8 +102,6 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 # Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
-
-<br>
 
 ## Popular
 - 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
@@ -153,8 +151,6 @@ _Production game engines to tinker with, explore, learn and inspire_
 # Learning
 _Info on topics necessary for designing and developing game engines_
 
-<br>
-
 ## Computer Graphics
 #### Awesome Collections
 - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) : Awesome curated list of 3D graphics libraries and resources.
@@ -194,7 +190,7 @@ _Info on topics necessary for designing and developing game engines_
 - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) : Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
 - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) : 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
 #### Shader
-_see Specialty Topics: Shaders_
+_see [Topic: Shaders](#shader-link)_
 
 <br>
 
@@ -243,8 +239,6 @@ _see Specialty Topics: Shaders_
 
 # Libraries
 _Language specific game engine development libraries / frameworks / code_
-
-<br>
 
 ## BASIC
 #### - Language -
@@ -936,14 +930,12 @@ _Language specific game engine development libraries / frameworks / code_
 # Open Source Games
 _Successful video games to pick apart and gain knowledge_
 
-<br>
-
-## C Games
+## Coded in C
 - 🔒 [Doom](https://github.com/id-Software/DOOM) : The original 1993 3D masterpiece by id Software.
 - 🔒 [Gish](https://store.steampowered.com/app/9500/Gish/) [:octocat:](https://github.com/blinry/gish) : Open Source version of the award-winning physics platformer.
 - 💸 [Handmade Hero](https://handmadehero.org/) : Huge collection of YouTube videos on making a video game from start to finish, along with the option to access the source code for $15.
 
-## C++ Games
+## Coded in C++
 - 🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) : Classic roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.
 - 🎉 [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat:](https://github.com/Soverance/EtherealLegends) : Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
 - 🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) : Classic Tomb Raider open-source engine.
@@ -956,8 +948,6 @@ _Successful video games to pick apart and gain knowledge_
 
 # Specialty Topics
 _Exploring specialty application / game engine / game development topics and features_
-
-<br>
 
 ## AI / Pathfinding
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at RayWenderlich.com.
@@ -1032,7 +1022,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-## Particle Info
+## Particles
 - 📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) : Excellent particle article by LearnOpenGL.
 - 📚 [Soft Particles](https://keaukraine.medium.com/implementing-soft-particles-in-webgl-and-opengl-es-b968d61133b0) : Implementing soft particles in WebGL and OpenGL ES.
 
@@ -1070,7 +1060,7 @@ _Exploring specialty application / game engine / game development topics and fea
 - 📚 [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) : List of reasonably mature open source embedded scripting languages to use in your application.
 - 📚 [Scriptorium](https://github.com/r-lyeh-archived/scriptorium) : Game scripting languages benchmarked.
 
-<br>
+<br><a name='shader-link'></a>
 
 ## Shaders
 #### - General Resources -
@@ -1139,8 +1129,6 @@ _Exploring specialty application / game engine / game development topics and fea
 
 # Tools / Software
 _Software to help with game engine / video game development_
-
-<br>
 
 ## 2D Game Dev
 - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) : Desktop (Windows / macOS) app with drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
@@ -1258,8 +1246,6 @@ _Software to help with game engine / video game development_
 
 # Video Game Assets
 _Resources to help bring video games and game engines alive_
-
-<br>
 
 ## Audio Assets
 #### Music
