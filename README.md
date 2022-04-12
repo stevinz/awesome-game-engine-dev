@@ -14,7 +14,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 
 <br>
 
-<ins><b>License Legend</b></ins>
+<ins>**License Legend**</ins>
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
@@ -151,44 +151,44 @@ _Production game engines to tinker with, explore, learn and inspire_
 _Info on topics necessary for designing and developing game engines_
 
 ### Computer Graphics
-- #### Awesome Collections
+- **Awesome Collections**
     - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
-- #### Blog Articles
+- **Blog Articles**
     - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
-- #### Books
+- **Books**
     - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics hosted by NVIDIA.
     - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics and general-purpose computation hosted by NVIDIA.
     - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by NVIDIA.
     - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR. Describes both the mathematical theory behind a modern photorealistic rendering system as well as it's practical implementation.
-- #### Education Portals
+- **Education Portals**
     - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
-- #### Graphics API: DirectX
+- **Graphics API: DirectX**
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft DirectX provides a set of APIs that you can use to create 2D / 3D games and other high-performance multimedia apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
     - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
-- #### Graphics API: Metal
+- **Graphics API: Metal**
     - 🌎 [Metal](https://developer.apple.com/metal/) - Metal provides a platform-optimized, low-overhead API for developing the latest 3D applications and amazing games on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
-- #### Graphics API: OpenGL
+- **Graphics API: OpenGL**
     - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! Teaches you everything you need to do modern graphics programming!
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Excellent collection of OpenGL tutorials with full source covering lots of topics.
-- #### Graphics API: Vulkan
+- **Graphics API: Vulkan**
     - 🌎 [Vulkan](https://www.vulkan.org) - Vulkan is a cross-platform industry standard enabling developers to target a wide range of devices with the same graphics API. [[Sample Code](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - This tutorial will teach you the basics of using the Vulkan graphics and compute API.
-- #### Graphics API: WebGL
+- **Graphics API: WebGL**
     - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Cross-platform open web standard for a low-level 3D graphics API based on OpenGL ES, exposed to ECMAScript (JavaScript) via the HTML5 Canvas element.
     - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Set of articles that teach WebGL from basic principles, bringing you to a full understanding of what WebGL really is and how it really works.
     - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - WebGL Fundamentals tutorials updated to use / take advantage of / explain WebGL2.
     - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - This Mozilla tutorial describes how to use the canvas element to draw WebGL graphics, starting with the basics.
-- #### Graphics API: WebGPU
+- **Graphics API: WebGPU**
     - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
     - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web API that exposes modern computer graphics capabilities, specifically Direct3D 12, Metal, and Vulkan, for performing rendering and computation operations on the GPU.
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's a collection of simple WebGPU examples. They should work in the latest WebKit builds and Safari Technology Preview release.
-- #### Platform: XNA
+- **Platform: XNA**
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
     - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
-- #### Shader
+- **Shader**
     - _see Specialty Topic: Shaders_
 
 ### Engine Development
