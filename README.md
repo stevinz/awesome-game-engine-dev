@@ -30,7 +30,9 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 - 🔥 - Hot, Amazing Resource!
 
 
+
 <br><br>
+
 
 
 ## Contents
@@ -62,7 +64,7 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
     - [C Games](#c-games)
-    - [C++ Games](#c-games-2)
+    - [C++ Games](#c-games-1)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
     - [Animation Info](#animation-info)
@@ -97,13 +99,13 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Model Assets](#model-assets)
     
 
+
 <br><br>
+
 
 
 ## Game Engines
 _Production game engines to tinker with, explore, learn and inspire_
-
-<br>
 
 ### Popular
 - 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) : 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
@@ -153,13 +155,13 @@ _Production game engines to tinker with, explore, learn and inspire_
 - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) : Tool for telling interactive, nonlinear stories.
 
 
+
 <br><br>
+
 
 
 ## Learning
 _Info on topics necessary for designing and developing game engines_
-
-<br>
 
 ### Computer Graphics
 #### Awesome Collections
@@ -244,13 +246,13 @@ _see Specialty Topics: Shaders_
 - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) : Indicator of the popularity of programming languages. The index is updated once a month.
 
 
+
 <br><br>
+
 
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code_
-
-<br>
 
 ### BASIC
 #### - Language -
@@ -605,7 +607,7 @@ _Language specific game engine development libraries / frameworks / code_
 
 <br>
 
-### Haxe <a name="Libraries-Haxe"></a>
+### Haxe
 #### - Language -
 - 🌎 [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) : Official site. Very cool programming language used to produce cross-platform native code.
 #### - Language: Awesome Collections -
@@ -936,13 +938,13 @@ _Language specific game engine development libraries / frameworks / code_
 - 🔒 [Pixi](https://github.com/foxnne/pixi) : Pixel art editor made with Zig.
 
 
+
 <br><br>
+
 
 
 ## Open Source Games
 _Successful video games to pick apart and gain knowledge_
-
-<br>
 
 ### C Games
 - 🔒 [Doom](https://github.com/id-Software/DOOM) : The original 1993 3D masterpiece by id Software.
@@ -959,13 +961,13 @@ _Successful video games to pick apart and gain knowledge_
 - 🔒 [zDoom](https://zdoom.org/index) [:octocat:](https://github.com/coelckers/gzdoom) : Modern, feature centric port for all Doom engine games, adding an OpenGL renderer and powerful scripting capabilities.
 
 
+
 <br><br>
+
 
 
 ## Specialty Topics
 _Exploring specialty application / game engine / game development topics and features_
-
-<br>
 
 ### AI / Pathfinding
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) : Introduction to AI Programming for Games at RayWenderlich.com.
@@ -1142,13 +1144,13 @@ _Exploring specialty application / game engine / game development topics and fea
 - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) : Info on 3D polygons that can be used to fill space. [[Wikipedia List](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [Five Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
 
 
+
 <br><br>
+
 
 
 ## Tools / Software
 _Software to help with game engine / video game development_
-
-<br>
 
 ### 2D Game Dev
 - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) : Desktop (Windows / macOS) app with drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
@@ -1261,13 +1263,13 @@ _Software to help with game engine / video game development_
 - 💰 [Qubicle](https://www.getqubicle.com) : Professional (used for Crossy Road, Pacman 256, etc.) voxel editor optimized for the easy creation of 3D models.
 
 
+
 <br><br>
+
 
 
 ## Video Game Assets
 _Resources to help bring video games and game engines alive_
-
-<br>
 
 ### Audio Assets
 #### Music
@@ -1307,6 +1309,7 @@ _Resources to help bring video games and game engines alive_
 - 🆓 [Poly Pizza](https://poly.pizza) : Build something beautiful with thousands of free low poly models.
 - 📚 [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) : Compilation of game-ready retro style 3D graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
 - 💸 [Sketchfab](https://sketchfab.com) : Huge library of 3D assets.
+
 
 
 <br><br>
