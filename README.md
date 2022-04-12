@@ -49,8 +49,8 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
 - [Libraries](#libraries)
     - [BASIC](#basic)
     - [C](#c)
-    - [C++](#cpp)
-    - [C#](#c#)
+    - [C++](#c--)
+    - [C#](#c--2)
     - [Dart](#dart)
     - [Go](#go)
     - [Haxe](#haxe)
@@ -62,11 +62,11 @@ Contributions welcome! Please, read the [contribution guidelines](CONTRIBUTING.m
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
     - [C Games](#c-games)
-    - [C++ Games](#cpp-games)
+    - [C++ Games](#c---games)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
     - [Animation Info](#animation-info)
-    - [Color](#color)
+    - [Color Info](#color-info)
     - [Entity Component Systems](#entity-component-systems)
     - [Fluid / Smoke](#fluid--smoke)
     - [Geometry Info](#geometry-info) <sub><sup>( Algorithms | CSG | Meshes | Smoothing )</sup></sub>
@@ -978,7 +978,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 <br>
 
-### Color / Palettes
+### Color Info
 - 📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) : Nice info about the use of procedural palettes and how to generate them.
 - 📚 [Red, Yellow, and Blue](http://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) : Great article (with example JavaScript project) explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
 
