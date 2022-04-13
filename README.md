@@ -37,7 +37,8 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Commercial](#commercial)
     - [Specialty](#specialty)
 - [Learning](#learning)
-    - [Computer Graphics](#computer-graphics) <sub><sup>( DirectX | Metal | OpenGL | Vulkan | WebGL | WebGPU | XNA )</sup></sub>
+    - [Computer Graphics](#computer-graphics)
+        - <sub><sup>[DirectX](#graphics-api-directx) | [Metal](#graphics-api-metal) | [OpenGL](#graphics-api-opengl) | [Vulkan](#graphics-api-vulkan) | [WebGL](#graphics-api-webgl) | [WebGPU](#graphics-api-webgpu) | [XNA](#platform-xna) </sup></sub>
     - [Engine Development](#engine-development)
     - [Game Development](#game-development)
     - [Graphical User Interface](#graphical-user-interface)
@@ -65,12 +66,16 @@ This list currently favors (but is not limited to) programming the core engine i
     - [Color Manipulation](#color-manipulation)
     - [Entity Component Systems](#entity-component-systems)
     - [Fluid / Smoke](#fluid--smoke)
-    - [Geometry](#geometry) <sub><sup>( Algorithms | CSG | Meshes | Smoothing )</sup></sub>
+    - [Geometry](#geometry)
+        - <sub><sup>[Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing)</sup></sub>
     - [Lighting / Shadows](#lighting--shadows)
+        - <sub><sup>[Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric)</sup></sub>
     - [Particles](#particles)
-    - [Physics](#physics) <sub><sup>( Platformer | Ropes / Chains | Soft Body | Verlet | Water )</sup></sub>
+    - [Physics](#physics)
+        - <sub><sup>[Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy)</sup></sub>
     - [Scripting](#scripting)
-    - [Shaders](#shaders) <sub><sup>( Bloom | Displacement | Fire | Noise | Outlines | Pixelation | Upscaling | Water | Wireframe )</sup></sub>
+    - [Shaders](#shaders)
+        - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
     - [Signed Distance Fields](#signed-distance-fields)
     - [Tiling](#tiling)
 - [Tools / Software](#tools--software)
@@ -105,7 +110,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Thorough list of game engines along with their platforms and licenses.
 
 - ### AAA
-    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - Free, open source AAA game engine deeply integrated with AWS and Twitch.
+    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - Free, open source AAA game engine deeply integrated with AWS and Twitch. Originally forked from CRYENGINE.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
     - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
     - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
@@ -184,7 +189,7 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
         - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
     - #### Shader
-        - _see Specialty Topic: Shaders_
+        - _see [Specialty Topic: Shaders](#shaders)_
 
 - ### Engine Development
     - #### Blog Articles
@@ -225,8 +230,6 @@ _Info on topics necessary for designing and developing game engines._
 ## Libraries
 _Language specific game engine development libraries / frameworks / code._
 
-<br />
-
 - ### BASIC
     - #### - General -
         - 🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
@@ -236,8 +239,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
     - #### BASIC: Game Framework
         - 🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) - Open source BASIC programming language for creating Windows applications and games.
-
-<br />
 
 - ### C
     - #### - General -
@@ -294,9 +295,9 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Octasphere](https://prideout.net/blog/octasphere/) [:octocat:](https://github.com/prideout/par/blob/master/par_octasphere.h) - Tiny malloc-free library that generates triangle meshes for spheres, rounded boxes, and capsules.
         - 🎉 [Par_Shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) - Simple C library for creation and manipulation of triangle meshes including platonic solids, spheres and more.
         - 🎉 [Par_Streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) - Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
-    - #### C: Graphics: 2D
+    - #### C: Graphics - 2D
         - 🎉 [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
-    - #### C: Graphics: 3D
+    - #### C: Graphics - 3D
         - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single header file graphics abstraction api, part of the larger, amazing Sokol library. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
         - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross-platform 2D graphics painter (api) in C implemented using Sokol.
     - #### C: Gui
@@ -323,8 +324,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Lua](https://www.lua.org) [:octocat:](https://github.com/lua/lua) - Powerful, efficient, lightweight, embeddable scripting language.
         - 🎉 [QuickJS](https://bellard.org/quickjs/) [:octocat:](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
     
-<br />
-
 - ### C++
     - #### - General -
         - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Exploring C++ basic and advanced concepts and also modern C++ features with both small and reproducible C++ sample programs and interactive examples.
@@ -418,13 +417,13 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Spheres](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
         - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
         - 🎉 [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
-    - #### C++: Graphics: 2D
+    - #### C++: Graphics - 2D
         - 🎉 [Blend2D](https://blend2d.com) [:octocat:](https://github.com/blend2d/blend2d) - High performance 2D vector graphics engine written in C++.
         - 🎉 [C++ Bitmap Library](http://www.partow.net/programming/bitmap/index.html) [:octocat:](https://github.com/ArashPartow/bitmap) - Incredible bitmap loading and manipulation library.
         - 🎉 [QNanoPainter](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated C++ vector drawing library for Qt, powered by NanoVG.
         - 🎉 [Skia](https://skia.org) [:octocat:](https://github.com/google/skia) - Complete 2D graphic library for drawing Text, Geometries, and Images by Google.
         - 🎉 [vg-renderer](https://github.com/jdryg/vg-renderer) - Vector graphics renderer for Bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGui).
-    - #### C++: Graphics: 3D
+    - #### C++: Graphics - 3D
         - 🎉 [Bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
         - 🎉 [Diligent Engine](http://diligentgraphics.com/diligent-engine/) [:octocat:](https://github.com/DiligentGraphics/DiligentEngine) - Modern, lightweight cross-platform graphics API abstraction library.
         - 🎉 [Ember](https://github.com/strah19/Ember) - Open source graphics framework for C++ using SDL2 and OpenGL.
@@ -509,8 +508,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [QuickQanava](http://cneben.github.io/QuickQanava/index.html) [:octocat:](https://github.com/cneben/QuickQanava) - Library written in C++ 14 designed to display graphs and relational content in a QtQuick application.
         - 🎉 [Visual Script Engine](https://github.com/kovacsv/VisualScriptEngine) - Visual scripting engine designed for embedding.
 
-<br />
-
 - ### C#
     - #### - General -
         - 📚 [Dot Net Perls](https://www.dotnetperls.com) - Amazing reference for the C# language.
@@ -533,7 +530,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [MonoGame](https://www.monogame.net) [:octocat:](https://github.com/MonoGame/MonoGame) - 🔥 Framework for creating powerful cross-platform games in C#. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms.
         - 🎉 [Nez](https://github.com/prime31/Nez) - Feature-rich 2D framework that sits on top of MonoGame. Provides a solid base for you to build a 2D game on.
         - 🎉 [Protogame](https://github.com/RedpointGames/Protogame) - Cross-platform 2D / 3D game engine for C#, built on top of MonoGame.
-    - #### C#: Graphics: 3D
+    - #### C#: Graphics - 3D
         - 🎉 [OpenTK](https://opentk.net) [:octocat:](https://github.com/opentk/opentk) - Fast, portable, low-level C# bindings for OpenGL, OpenGL ES, OpenAL, and OpenCL. Runs on all major platforms and powers hundreds of apps, games, and scientific research programs. [[LearnOpenGL Examples, ported to OpenTK](https://github.com/opentk/LearnOpenTK)]
         - 🎉 [Veldrid](https://veldrid.dev) [:octocat:](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
     - #### C#: Gui
@@ -546,8 +543,6 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C#: Utility
         - 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - C# Steamworks implementation.
 
-<br />
-
 - ### Dart
     - #### - General -
         - 🌎 [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) - Official site. Client-optimized language for fast apps on any platform.
@@ -559,8 +554,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [image](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats, and image processing.
     - #### Dart: Game Framework
         - 🎉 [Flame](https://flame-engine.org) [:octocat:](https://github.com/flame-engine/flame) - Minimalist Flutter based 2D game engine. [[Awesome Flame](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/)]
-
-<br />
 
 - ### Go
     - #### - General -
@@ -579,12 +572,10 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Go: Graphics
         - 🎉 [ln](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer written in Go. It is used to produce 2D vector graphics depicting 3D scenes. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
-<br />
-
 - ### Haxe
     - #### - General -
         - 🌎 [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) - Official site. Very cool programming language used to produce cross-platform native code.
-        - #### Awesome Collections
+    - #### Awesome Collections
         - 📚 [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
         - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
         - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to Haxe's website.
@@ -642,8 +633,6 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Haxe: Visual Programming / Nodes
         - 🎉 [Haxe-Blockly](https://github.com/nickmain/haxe-blockly) - Haxe wrapper for [Blockly](https://developers.google.com/blockly)
 
-<br />
-
 - ### Java
     - #### - General -
         - 🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose programming language typically compiled to bytecode that can run on any [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
@@ -654,8 +643,6 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Java: Game Framework
         - 🎉 [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) - Cross-platform Java game development framework that is built on and adds functionality to LWJGL. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
         - 🎉 [LWJGL](https://www.lwjgl.org) [:octocat:](https://github.com/LWJGL/lwjgl3) - Library that enables cross-platform access to popular native APIs useful in the development of graphics, audio, parallel computing and XR applications.
-
-<br />
 
 - ### JavaScript
     - #### - General -
@@ -745,7 +732,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps.
         - 🎉 [Poly-Decomp.js](http://schteppe.github.io/poly-decomp.js/) [:octocat:](https://github.com/schteppe/poly-decomp.js) - Decompose 2D polygons into convex pieces.
         - 🎉 [Three-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with modern Three.js.
-    - #### JavaScript: Graphics: 2D
+    - #### JavaScript: Graphics - 2D
         - 🎉 [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) - WebAssembly build of Google's Skia, a mobile-first 2D graphics library.
         - 🎉 [EaselJS](https://createjs.com/easeljs) [:octocat:](https://github.com/CreateJS/EaselJS) - Makes working with the HTML5 Canvas element easy, part of the [CreateJS](https://createjs.com/) suite of libraries.
         - 🎉 [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) - Powerful and simple JavaScript HTML5 canvas library.
@@ -759,7 +746,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Stage.js](https://piqnt.com/stage.js/) [:octocat:](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development, from the maintainer of Planck.js.
         - 🎉 [Two.js](https://two.js.org/) [:octocat:](https://github.com/jonobr1/two.js) - Renderer agnostic 2D drawing api for the web.
         - 🎉 [ZIM](https://zimjs.com/index.html) [:octocat:](https://github.com/danzen/zimjs) - Canvas framework for code creativity.
-    - #### JavaScript: Graphics: 3D
+    - #### JavaScript: Graphics - 3D
         - 🎉 [Babylon.js](https://www.babylonjs.com) [:octocat:](https://github.com/BabylonJS/Babylon.js) - One of the most powerful, beautiful, and simple Web rendering engines in the world.
         - 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - Commercial grade open source 3D JavaScript library for WebGL. [[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
         - 🎉 [Filament for Web](https://google.github.io/filament/webgl/) [:octocat:](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's Filament, a mobile-first 3D physically based rendering library.
@@ -770,7 +757,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - 🎉 [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed.
-    - #### JavaScript: Graphics: Three.js Reference
+    - #### JavaScript: Graphics - Three.js Reference
         - 📚 [Discover Three.js](https://discoverthreejs.com) - Everything you need to know to create stunning 3D web applications using Three.js.
         - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics from beginner to advanced.
         - 🎉 [Sketch Three.js](https://ykob.github.io/sketch-threejs/) [:octocat:](https://github.com/ykob/sketch-threejs) - Interactive sketches made with Three.js.
@@ -831,8 +818,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Node-RED](https://nodered.org/) [:octocat:](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
         - 🎉 [Rete.js](https://rete.js.org/) [:octocat:](https://github.com/retejs/rete) - Framework for visual programming and creating a node editor.
 
-<br />
-
 - ### Python
     - #### - General -
         - 🌎 [Python.org](https://www.python.org) - Programming language that lets you work quickly and integrate systems more effectively. [[Docs](https://www.python.org/doc/)]
@@ -850,8 +835,6 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Python: Gui
         - 🎉 [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
-<br />
-
 - ### Ruby
     - #### - General -
         - 🌎 [Ruby](https://www.ruby-lang.org/en/) [:octocat:](https://github.com/ruby/ruby) - Dynamic, open source programming language with a focus on simplicity and productivity.
@@ -861,13 +844,11 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Ruby on Rails](https://rubyonrails.org) [:octocat:](https://github.com/rails/rails) - Web application framework designed to make programming web applications easier.
     - #### Ruby: Game Framework
         - 🎉 [Ruby 2D](https://www.ruby2d.com/) [:octocat:](https://github.com/ruby2d/ruby2d) - Make cross-platform 2D applications in Ruby.
-    - #### Ruby: Graphics: 3D
+    - #### Ruby: Graphics - 3D
         - 🎉 [Mittsu](https://github.com/danini-the-panini/mittsu) - 3D Graphics Library for Ruby based heavily on Three.js.
     - #### Ruby: Gui
         - 🎉 [Glimmer](https://github.com/andyobtiva/glimmer) - GUI library and DSL (domain specific language) framework.
         - 🎉 [Shoes](http://shoesrb.com/) [:octocat:](https://github.com/shoes/shoes4) - Cross platform GUI library for Ruby.
-
-<br />
 
 - ### Rust
     - #### - General -
@@ -880,7 +861,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) - Data-driven and data-oriented 2D / 3D game engine aiming to be fast and as configurable as possible.
         - 🎉 [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D / 3D game engine built in Rust.
         - 🎉 [Macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by RayLib.
-    - #### Rust: Graphics: 3D
+    - #### Rust: Graphics - 3D
         - 🎉 [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine for Rust.
     - #### Rust: Gui
         - 🎉 [Druid](https://linebender.org/druid/) [:octocat:](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit.
@@ -888,8 +869,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🔒 [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) - (formerly SixtyFPS) Gui toolkit to efficiently develop fluid displays for embedded devices and desktop applications, supports Rust, C++ or JavaScript.
     - #### Rust: Physics
         - 🎉 [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
-
-<br />
 
 - ### Zig
     - #### - General -
@@ -906,7 +885,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Mach](https://hexops.com/mach/) [:octocat:](https://github.com/hexops/mach) - Still in early developemnt, Mach is a game engine & graphics toolkit with large ambitions.
     - #### Zig: Game Framework
         - 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) - Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
-    - #### Zig: Graphics: 2D
+    - #### Zig: Graphics - 2D
         - 🎉 [Mini Pixel](https://fabioarnold.itch.io/mini-pixel) [:octocat:](https://github.com/fabioarnold/MiniPixel) - Tiny pixel art editor.
         - 🔒 [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 
@@ -1017,7 +996,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) - Demo of 3D soft body volumes using Ammo.js and Three.js.
     - #### Verlet Physics
         - 📚 [Making a Verlet Physics Engine in JavaScript](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5) - Taking a look under the hood of a 2D physics engine in JavaScript.
-    - #### Water
+    - #### Water / Buoyancy
         - 📚 [2D Water](https://prime31.github.io/water2d-part1/) - Modeling 2D water with springs.
 
 - ### Scripting
@@ -1065,7 +1044,7 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Upscaling
         - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Great post with shader code demonstrating upscaling.
         - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
-    - #### Water
+    - #### Water / Refraction
         - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
     - #### Wireframe
         - 📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) - Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
