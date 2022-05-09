@@ -60,7 +60,7 @@ This list currently favors (but is not limited to) programming the core engine i
 - [Open Source Games](#open-source-games)
     - [C](#c-3)
     - [C++](#c-4)
-    - [Java](#java-2)
+    - [Java](#java-1)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
     - [Animation Info](#animation-info)
