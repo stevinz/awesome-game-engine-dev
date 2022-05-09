@@ -60,6 +60,7 @@ This list currently favors (but is not limited to) programming the core engine i
 - [Open Source Games](#open-source-games)
     - [C](#c-3)
     - [C++](#c-4)
+    - [Java](#java-2)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
     - [Animation Info](#animation-info)
@@ -339,6 +340,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries from [cppreference.com](https://en.cppreference.com/w/).
         - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - NVIDIA Technologies for game and application developers.
     - #### C++: App Framework
+        - 🎉 [Cinder](https://libcinder.org/about) [:octocat:](https://github.com/cinder/Cinder) - Awesome cross-platform general purpose C++ app and graphics library, with official support for macOS, Windows, Linux, iOS, and Windows UWP.
         - 🎉 [Cross Window](https://alain.xyz/libraries/crosswindow) [:octocat:](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks.
         - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
         - 🎉 [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) - Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
@@ -906,6 +908,9 @@ _Successful video games to pick apart and gain knowledge._
     - 🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
     - 🎉 [TeeWorlds](https://teeworlds.com/) [:octocat:](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter.
     - 🔒 [zDoom](https://zdoom.org/index) [:octocat:](https://github.com/coelckers/gzdoom) - Modern, feature centric port for all Doom engine games, adding an OpenGL renderer and powerful scripting capabilities.
+
+- ### Java
+    - 🔒 [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 
 <br />
 <br />
