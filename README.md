@@ -317,6 +317,8 @@ _Language specific game engine development libraries / frameworks / code._
         - ⭐ [Handmade Math](https://github.com/HandmadeMath/Handmade-Math) - 🔥 Simple, public domain math library for games and computer graphics.
         - 🎉 [Kazmath](https://github.com/Kazade/kazmath) - Math library targeted at games.
         - 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the RayLib game framework.
+    - #### C: Network
+        - 🎉 [librg](https://github.com/zpl-c/librg) - Library that serves as a middleware between data-transferring libraries (networking, file-streaming, etc.) and core application / game logic.
     - #### C: Physics
         - 🎉 [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
     - #### C: Scripting
@@ -334,6 +336,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Awesome Collections
         - 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) - Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
         - 📚 [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) - Curated list of awesome C++ (mainly) things for Game Development.
+        - 📚 [Awesome Hpp](https://github.com/p-ranav/awesome-hpp) - Curated list of awesome header-only C++ libraries.
         - 🎉 [Boost Libraries](https://www.boost.org) [:octocat:](https://github.com/boostorg) - Free peer-reviewed portable C++ source libraries, that work well with the C++ Standard Library. Basically an extension of the STL, many Boost libaries go on to become part of the STL.
         - 📚 [Gamedev Libraries](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
         - 📚 [Inqlude](https://inqlude.org) - Comprehensive listing of all existing libraries for developers of applications using the Qt toolkit.
