@@ -372,6 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C++: File System
         - 🎉 [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) - Header only file browser implementation for Dear ImGui. C++17 is required.
     - #### C++: Game Engine w/Editor
+        - 🎉 [AnKi 3D Engine](https://anki3d.org/) [:octocat:](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
         - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
         - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform C++ game engine and editor.
         - 🎉 [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) - Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
@@ -383,6 +384,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🔒 [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
         - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented alternative 3D game engine, inspired by industry standards.
         - 🎉 [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
+        - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.
         - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game yet to be announced.
         - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
         - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Based on Irrlicht, with upgraded features including audio, physics and particles.
@@ -516,6 +518,8 @@ _Language specific game engine development libraries / frameworks / code._
 - ### C#
     - #### - General -
         - 📚 [Dot Net Perls](https://www.dotnetperls.com) - Amazing reference for the C# language.
+    - #### C#: App Framework
+        - 🎉 [ATF](https://github.com/SonyWWS/ATF) - Components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005.
     - #### C#: Audio
         - 🎉 [NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
     - #### C#: Cross-Platform
