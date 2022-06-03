@@ -71,6 +71,7 @@ This list currently favors (but is not limited to) programming the core engine i
         - <sub><sup>[Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing)</sup></sub>
     - [Lighting / Shadows](#lighting--shadows)
         - <sub><sup>[Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric)</sup></sub>
+    - [Network](#network)
     - [Particles](#particles)
     - [Physics](#physics)
         - <sub><sup>[Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy)</sup></sub>
@@ -795,6 +796,9 @@ _Language specific game engine development libraries / frameworks / code._
     - #### JavaScript: Materials
         - 🎉 [three-projected-material](https://marcofugaro.github.io/three-projected-material/) [:octocat:](https://github.com/marcofugaro/three-projected-material) - Three.js material which lets you do Texture Projection on a 3D model.
         - 🎉 [Troika JS - Derived Material](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/) [:octocat:](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) - Utility class to extend existing Three.js materials with custom shader code.
+    - #### JavaScript: Networking
+        - 🎉 [Socket.io](https://socket.io/) [:octocat:](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
+        - 🎉 [WebRTC](https://webrtc.org/) - Supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice and video communication solutions.
     - #### JavaScript: Physics
         - 🎉 [Ammo.js](https://github.com/kripken/ammo.js) - Direct port of the 3D Bullet Physics engine to JavaScript (as WebAssembly) using Emscripten.
         - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) - Port of Box2D to JavaScript (as WebAssembly).
@@ -983,6 +987,9 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Volumetric
         - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) - Great example of volumetric lighting with Three.js.
         - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Article covering a technique of volumetric light approximation (godrays) implemented using Three.js.
+
+- ### Network
+    - 📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve’s Source Engine multiplayer system.
 
 - ### Particles
     - 📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) - Excellent particle article by LearnOpenGL.
