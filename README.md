@@ -108,7 +108,10 @@ _Production game engines to tinker with, explore, learn and inspire._
 - ### Popular
     - 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
     - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
-    - 💸 [Unreal Engine](https://www.unrealengine.com) - AAA game capable, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
+    - 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
+
+- ### Awesome Collections
+    - 📚 [CoolEngines](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
     - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Thorough list of game engines along with their platforms and licenses.
 
 - ### AAA
