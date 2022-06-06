@@ -142,6 +142,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💰 [3dSen](https://geod.itch.io/3dnes) - Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
     - 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
     - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
+    - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua and Go.
     - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your very own platforming game for GameMaker Studio.
     - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Lets you create an original role-playing game without any specialized knowledge or training.
     - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
