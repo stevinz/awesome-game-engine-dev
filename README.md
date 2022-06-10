@@ -696,7 +696,8 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [NW.js](https://nwjs.io) [:octocat:](https://github.com/nwjs/nw.js) - (previously Node-Webkit) Build cross-platform desktop apps with JavaScript, HTML, and CSS. Lets you call all Node.js modules directly from DOM.
         - 📚 [Progressive Web Apps](https://web.dev/progressive-web-apps/) - Design document from Google, using web technologies to transform web applications into an experience that feels like a platform-specific application.
         - 🎉 [React Native](https://reactnative.dev) [:octocat:](https://github.com/facebook/react-native) - Framework for building native applications using React.
-        - 💸 [Ultralight](https://ultralig.ht/) - Based on WebKit — supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable. Currently available for Windows, macOS, Linux, and Xbox.
+        - 🎉 [Tauri](https://tauri.studio/) [:octocat:](https://github.com/tauri-apps/tauri) - Smaller, faster, and more secure desktop applications.
+        - 💸 [Ultralight](https://ultralig.ht/) - Based on WebKit — supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable. Available for Windows, macOS, Linux, and Xbox.
         - 🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge WebView2 control allows you to embed web technologies (HTML, CSS, and JavaScript) in your native apps. [[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
         - 🎉 [Window.js](https://windowjs.org) [:octocat:](https://github.com/windowjs/windowjs) - Open-source JavaScript runtime for desktop graphics programming.
     - #### JavaScript: Entity Component System
@@ -873,16 +874,17 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Awesome Collections
         - 📚 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
     - #### Rust: App Framework
-        - 🎉 [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) - Cross-platform, creative software development platform and native-rendering UI framework for Rust.
+        - 🎉 [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) - Cross-platform software development platform and native-rendering UI framework.
+        - 🎉 [Tao](https://docs.rs/tao/latest/tao/) [:octocat:](https://github.com/tauri-apps/tao) - Cross-platform windowing.
     - #### Rust: Game Framework
-        - 🎉 [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) - Data-driven and data-oriented 2D / 3D game engine aiming to be fast and as configurable as possible.
+        - 🎉 [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) - Data-driven 2D / 3D game engine aiming to be fast and configurable.
         - 🎉 [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D / 3D game engine built in Rust.
-        - 🎉 [Macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by RayLib.
+        - 🎉 [Macroquad](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
     - #### Rust: Graphics - 3D
         - 🎉 [Kiss3D](http://kiss3d.org) [:octocat:](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine for Rust.
     - #### Rust: Gui
         - 🎉 [Druid](https://linebender.org/druid/) [:octocat:](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit.
-        - 🎉 [egui](https://github.com/emilk/egui) - Awesome, easy to use, immediate mode GUI in Rust that runs on both web and native. [[Demo](https://www.egui.rs/)]
+        - 🎉 [egui](https://github.com/emilk/egui) - Awesome, easy to use, immediate mode GUI, runs on both web and native. [[Demo](https://www.egui.rs/)]
         - 🔒 [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) - (formerly SixtyFPS) Gui toolkit to efficiently develop fluid displays for embedded devices and desktop applications, supports Rust, C++ or JavaScript.
     - #### Rust: Physics
         - 🎉 [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
