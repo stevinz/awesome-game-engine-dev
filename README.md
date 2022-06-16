@@ -115,7 +115,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
 
 - ### AAA
-    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - Free, open source AAA game engine deeply integrated with AWS and Twitch. Originally forked from CRYENGINE.
+    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine deeply integrated with AWS and Twitch.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
     - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
     - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality cross-platform 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
@@ -123,7 +123,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
     - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
     - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
-    - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling relatively small teams to create ambitious AAA games.
+    - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling relatively small teams to create AAA games.
     - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
 - ### Commercial
@@ -136,10 +136,10 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
     - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
     - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
-    - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for runtime only) - Popular (used for Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
+    - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
     - 💸 [ShiVa](https://shiva-engine.com) - 3D game and application development suite.
     - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
-    - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo for runtime only) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+    - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 - ### Specialty
     - 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [Developer Website](http://www.geodstudio.net)
