@@ -112,14 +112,14 @@ _Production game engines to tinker with, explore, learn and inspire._
 
 - ### Awesome Collections
     - 📚 [CoolEngines](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
-    - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Thorough list of game engines along with their platforms and licenses.
+    - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
 
 - ### AAA
     - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - Free, open source AAA game engine deeply integrated with AWS and Twitch. Originally forked from CRYENGINE.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
     - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
-    - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) The graphics development engine for business and industry. Build high-quality 3D and 2D solutions and deploy to any platform. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
-    - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#. Stunning graphics, powerful scripts.
+    - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality cross-platform 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
+    - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
     - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
     - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
@@ -136,18 +136,18 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
     - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
     - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
-    - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo is for runtime only) - Popular (used for Flappy Bird), fast and lightweight JavaScript game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
+    - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) (repo for runtime only) - Popular (used for Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
     - 💸 [ShiVa](https://shiva-engine.com) - 3D game and application development suite.
-    - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Supports the creation of simple interactive 3D applications across a range of platforms and devices. [[Developer Website](http://fireflytech.org)]
-    - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo is for runtime only) - Quick and easy game making. Visual scripting implementation similar to [Scratch](https://scratch.mit.edu).
+    - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
+    - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) (repo for runtime only) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 - ### Specialty
-    - 💰 [3dSen](https://geod.itch.io/3dnes) - Unique NES emulator that converts NES games into full 3D experiences and let you play them in realtime. [Developer Website](http://www.geodstudio.net)
+    - 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [Developer Website](http://www.geodstudio.net)
     - 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
     - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
     - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
-    - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your very own platforming game for GameMaker Studio.
-    - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Lets you create an original role-playing game without any specialized knowledge or training.
+    - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in GameMaker.
+    - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
     - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
 
 <br />
