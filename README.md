@@ -118,12 +118,12 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine deeply integrated with AWS and Twitch.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
     - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
-    - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality cross-platform 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
+    - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
     - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
     - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
-    - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Amazon Lumberyard) Multi-platform AAA-capable 3D engine to build cinema-quality 3D worlds, and high-fidelity simulations.
-    - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling relatively small teams to create AAA games.
+    - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA-capable engine. Cinema-quality 3D worlds.
+    - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling small teams to create AAA games.
     - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
 - ### Commercial
