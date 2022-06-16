@@ -115,14 +115,14 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
 
 - ### AAA
-    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine deeply integrated with AWS and Twitch.
+    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
     - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
     - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
     - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
     - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
-    - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA-capable engine. Cinema-quality 3D worlds.
+    - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
     - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling small teams to create AAA games.
     - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
@@ -142,7 +142,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 - ### Specialty
-    - 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [Developer Website](http://www.geodstudio.net)
+    - 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [[Developer Website](http://www.geodstudio.net)]
     - 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
     - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
     - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
@@ -248,17 +248,17 @@ _Language specific game engine development libraries / frameworks / code._
 
 - ### C
     - #### - General -
-        - 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent C tutorials that will guide you to learn C programming one step at a time.
+        - 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent C tutorials that will guide you to learn C programming.
     - #### Awesome Libraries
         - ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
         - ⭐ [Libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
         - ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) - Single-header, cross-platform libraries for game development, written in C by [Empyreanx](https://github.com/empyreanx).
         - 📚 [Single File Libs](https://github.com/nothings/single_file_libs) - Amazing collection of single file C/C++ libraries compiled from many authors.
-        - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The original and amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
+        - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### C: App Framework
         - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
-        - 🎉 [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) - Cross-platform, simple API for creating windows, OpenGL / Vulkan contexts and surfaces, receiving input and events.
-        - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only c99 framework for multimedia applications, includes platform, graphics and audio layer functionality.
+        - 🎉 [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) - Cross-platform, simple API for windowing, graphics contexts, input and events.
+        - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only c99 framework for multimedia apps.
         - 🎉 [RayLib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
         - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) - 🔥 Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
         - 🎉 [Sokol](https://github.com/floooh/sokol) - 🔥 Top notch cross-platform, single file header libraries that include a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!
@@ -271,7 +271,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: Entity Component System
         - 🎉 [Flecs](https://github.com/SanderMertens/flecs) - Fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
     - #### C: File Formats
-        - 🎉 [Assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) - The Open Asset Importer Library. Loads 40+ 3D file formats into one unified and clean data structure.
+        - 🎉 [Assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) - The Open Asset Importer Library. Loads 40+ 3D file formats.
         - 🎉 [cgltf](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer written in C99.
         - ⭐ [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C/C++.
         - 🎉 [Libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
@@ -283,10 +283,10 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: File System
         - 🎉 [HexEmbed](https://github.com/codeplea/hexembed) - Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
         - ⭐ [Incbin](https://github.com/graphitemaster/incbin) - Include binary and text files in your C/C++ applications with ease.
-        - 🎉 [PhysicsFS](http://icculus.org/physfs/) [:octocat:](https://github.com/icculus/physfs) - A portable, flexible file i/o abstraction, provides abstract access to various archives.
-        - ⭐ [Where Am I](https://github.com/gpakosz/whereami) - Drop-in, multi platform, two file library to locate the current executable and the current module on the file system.
+        - 🎉 [PhysicsFS](http://icculus.org/physfs/) [:octocat:](https://github.com/icculus/physfs) - Portable, flexible file i/o abstraction, provides access to various archives.
+        - ⭐ [Where Am I](https://github.com/gpakosz/whereami) - Locates the current path on the local file system.
     - #### C: Fonts
-        - 🎉 [Font Stash](https://github.com/memononen/fontstash) - Light-weight library that uses stb_truetype to render fonts on demand to a texture atlas.
+        - 🎉 [Font Stash](https://github.com/memononen/fontstash) - Light-weight library that uses stb_truetype to render fonts to a texture atlas.
         - 🎉 [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C, C++ headers and C# classes for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons and Fontaudio.
         - 🎉 [msdf-c](https://github.com/solenum/msdf-c) - Pure C multi-channel signed distance field generator.
         - ⭐ [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single header file library that processes TrueType font files.
@@ -307,10 +307,10 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single header file graphics abstraction api, part of the larger, amazing Sokol library. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
         - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross-platform 2D graphics painter (api) in C implemented using Sokol.
     - #### C: Gui
-        - 🎉 [cImgui](https://github.com/cimgui/cimgui) - Thin c-api wrapper programmatically generated for the excellent C++ immediate mode gui library Dear ImGui.
+        - 🎉 [cImgui](https://github.com/cimgui/cimgui) - Thin c-api wrapper generated for th gui library Dear ImGui.
         - 🎉 [lvgl](https://lvgl.io/) [:octocat:](https://github.com/lvgl/lvgl) - Embedded GUI library with many widgets and advanced visual effects.
-        - 🎉 [NAppGUI](https://nappgui.com/en/home/web/home.html) [:octocat:](https://github.com/frang75/nappgui_src) - Professional, well documented SDK to build cross-platform desktop applications using C.
-        - 🎉 [Native File Dialog](https://github.com/mlabbe/nativefiledialog) - Tiny, neat library that portably invokes cross-platform native file open and save dialogs.
+        - 🎉 [NAppGUI](https://nappgui.com/en/home/web/home.html) [:octocat:](https://github.com/frang75/nappgui_src) - Professional, well documented SDK to build desktop applications using C.
+        - 🎉 [Native File Dialog](https://github.com/mlabbe/nativefiledialog) - Portably invoke native file open/save dialogs.
         - 🎉 [Nuklear](https://immediate-mode-ui.github.io/Nuklear/doc/index.html) [:octocat:](https://github.com/Immediate-Mode-UI/Nuklear) - Single-header ANSI C immediate mode cross-platform GUI library.
     - #### C: Input
         - 🎉 [libGamepad](https://github.com/mtwilliams/libgamepad) - Cross-platform library for gamepad input.
@@ -339,13 +339,13 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [Learn C++](https://www.learncpp.com) - 🔥 Whether you've had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
         - 📚 [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
     - #### Awesome Collections
-        - 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) - Curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
-        - 📚 [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) - Curated list of awesome C++ (mainly) things for Game Development.
-        - 📚 [Awesome Hpp](https://github.com/p-ranav/awesome-hpp) - Curated list of awesome header-only C++ libraries.
+        - 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) - List of awesome C++ frameworks, libraries, and resources.
+        - 📚 [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) - List of awesome C++ things for Game Development.
+        - 📚 [Awesome Hpp](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
         - 🎉 [Boost Libraries](https://www.boost.org) [:octocat:](https://github.com/boostorg) - Free peer-reviewed portable C++ source libraries, that work well with the C++ Standard Library. Basically an extension of the STL, many Boost libaries go on to become part of the STL.
         - 📚 [Gamedev Libraries](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
-        - 📚 [Inqlude](https://inqlude.org) - Comprehensive listing of all existing libraries for developers of applications using the Qt toolkit.
-        - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries from [cppreference.com](https://en.cppreference.com/w/).
+        - 📚 [Inqlude](https://inqlude.org) - Comprehensive listing of libraries for developers of applications using the Qt toolkit.
+        - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
         - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - NVIDIA Technologies for game and application developers.
     - #### C++: App Framework
         - 🎉 [Cinder](https://libcinder.org/about) [:octocat:](https://github.com/cinder/Cinder) - Awesome cross-platform general purpose C++ app and graphics library, with official support for macOS, Windows, Linux, iOS, and Windows UWP.
