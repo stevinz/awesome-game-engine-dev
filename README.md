@@ -160,75 +160,75 @@ _Info on topics necessary for designing and developing game engines._
     - #### Awesome Collections
         - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
     - #### Blog Articles
-        - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Review of modern graphics APIs and how they compare with older graphics APIs in their design and data structures.
+        - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
     - #### Books
-        - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics hosted by NVIDIA.
-        - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics and general-purpose computation hosted by NVIDIA.
+        - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
+        - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
         - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by NVIDIA.
-        - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR. Describes both the mathematical theory behind a modern photorealistic rendering system as well as it's practical implementation.
+        - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
     - #### Education Portals
-        - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Great collection of tutorials on OpenGL, GLSL and many other computer graphics topics.
-        - 📚 [Scratchapixel](https://www.scratchapixel.com) - Very in depth coverage of topics ranging from mathematics and physics for computer graphics, 3D rendering and many more advanced techniques.
+        - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
+        - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of many computer graphics topics.
     - #### Graphics API: DirectX
-        - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft DirectX provides a set of APIs that you can use to create 2D / 3D games and other high-performance multimedia apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
+        - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D / 3D games and apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
         - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
     - #### Graphics API: Metal
-        - 🌎 [Metal](https://developer.apple.com/metal/) - Metal provides a platform-optimized, low-overhead API for developing the latest 3D applications and amazing games on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
+        - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
         - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
     - #### Graphics API: OpenGL
-        - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! Teaches you everything you need to do modern graphics programming!
+        - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! In depth tutorials for modern graphics programming.
         - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high performance graphics.
-        - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Excellent collection of OpenGL tutorials with full source covering lots of topics.
+        - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
     - #### Graphics API: Vulkan
-        - 🌎 [Vulkan](https://www.vulkan.org) - Vulkan is a cross-platform industry standard enabling developers to target a wide range of devices with the same graphics API. [[Sample Code](https://github.com/khronosGroup/Vulkan-samples)]
-        - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - This tutorial will teach you the basics of using the Vulkan graphics and compute API.
+        - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Sample Code](https://github.com/khronosGroup/Vulkan-samples)]
+        - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
     - #### Graphics API: WebGL
-        - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Cross-platform open web standard for a low-level 3D graphics API based on OpenGL ES, exposed to ECMAScript (JavaScript) via the HTML5 Canvas element.
-        - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Set of articles that teach WebGL from basic principles, bringing you to a full understanding of what WebGL really is and how it really works.
-        - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - WebGL Fundamentals tutorials updated to use / take advantage of / explain WebGL2.
-        - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - This Mozilla tutorial describes how to use the canvas element to draw WebGL graphics, starting with the basics.
+        - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Open web standard 3D graphics API.
+        - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Full understanding of what WebGL really is and how it works.
+        - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - Updated to use the WebGL2 standard.
+        - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - How to use the canvas element to draw WebGL graphics.
     - #### Graphics API: WebGPU
         - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
-        - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web API that exposes modern computer graphics capabilities, specifically Direct3D 12, Metal, and Vulkan, for performing rendering and computation operations on the GPU.
-        - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's a collection of simple WebGPU examples. They should work in the latest WebKit builds and Safari Technology Preview release.
+        - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web 3D graphics API.
+        - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's collection of simple WebGPU examples.
     - #### Platform: XNA
-        - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Great C# learning resource, amazing [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
-        - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA developers. Amazing [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) resource. Contains the XNA Educational Library, Shawn Hargreave's blog, the Ziggyware tutorials and the excellent Riemer's tutorial series.
+        - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - C# learning resource, [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
+        - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA / [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) developers.
     - #### Shader
         - _see [Specialty Topic: Shaders](#shaders)_
 
 - ### Engine Development
     - #### Blog Articles
         - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
-        - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Short and simple starting point on game engine development. 
+        - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development. 
     - #### Books
-        - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Covers both the theory and practice of game engine software development, bringing together complete coverage of a wide range of topics.
+        - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 
 - ### Game Development
     - #### Awesome Collections
-        - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free culture resources for making amazing games.
+        - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
         - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
         - 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
         - 🌎 [Open Source Libraries](https://opensourcelibs.com) - Massive collection of the world's best open source software.
     - #### Books
-        - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Book that uses many different perspectives to teach game design in an accessible manner.
-        - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Book that features a collection of patterns found in games that make code cleaner, easier to understand, and faster.
+        - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
+        - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
     - #### Developer Portals
-        - 🌎 [GameDev.net](https://www.gamedev.net/) - Huge resource for game development with forums, tutorials, blogs, projects, portfolios, news, and more.
+        - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
         - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
-        - 🌎 [itch.io](https://itch.io) - Platform to host, showcase, promote, buy and sell games and game development resources.
+        - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 
 - ### Graphical User Interface
-    - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - Nice list of gui frameworks across the full spectrum of platforms and languages at Wikipedia.
+    - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
 
 - ### Programming
-    - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.
+    - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
     - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
-    - 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Collection of (mostly) technical things every software developer should know.
-    - 📚 [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Awesome list of games that teach you a programming language.
-    - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Free tutorials, articles, online and classroom courses, coding competitions, job opportunities and more.
+    - 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
+    - 📚 [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+    - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
     - 📚 [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-    - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Indicator of the popularity of programming languages. The index is updated once a month.
+    - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated once a month.
 
 <br />
 <br />
@@ -240,9 +240,9 @@ _Language specific game engine development libraries / frameworks / code._
     - #### - General -
         - 🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
     - #### BASIC: App Framework
-        - 💰 [Basic for Qt](https://www.q7basic.org/index.html) - (formerly Q7Basic) Multi-platform BASIC programming language and environment, built on top of Qt.
-        - 🎉 [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) - Modern extended BASIC + OpenGL language that retains QB4.5 / QBasic compatibility and compiles native binaries for Windows, Linux and macOS.
-        - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
+        - 💰 [Basic for Qt](https://www.q7basic.org/index.html) - (formerly Q7Basic) BASIC language and environment built on top of Qt.
+        - 🎉 [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) - Modern BASIC + OpenGL language, retains QB4.5 / QBasic compatibility.
+        - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language developed by Microsoft.
     - #### BASIC: Game Framework
         - 🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) - Open source BASIC programming language for creating Windows applications and games.
 
@@ -250,9 +250,9 @@ _Language specific game engine development libraries / frameworks / code._
     - #### - General -
         - 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent C tutorials that will guide you to learn C programming.
     - #### Awesome Libraries
-        - ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
+        - ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) - Single-file libraries primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
         - ⭐ [Libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
-        - ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) - Single-header, cross-platform libraries for game development.
+        - ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) - Single-file, cross-platform libraries for game development.
         - 📚 [Single File Libs](https://github.com/nothings/single_file_libs) - Amazing collection of single file C/C++ libraries compiled from many authors.
         - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### C: App Framework
@@ -260,8 +260,8 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) - Cross-platform, simple API for windowing, graphics contexts, input and events.
         - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only c99 framework for multimedia apps.
         - 🎉 [RayLib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
-        - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) - 🔥 Classic, cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Metal.
-        - 🎉 [Sokol](https://github.com/floooh/sokol) - 🔥 Top notch cross-platform, single file header libraries that include a phenomenal graphics abstraction api, windowing, file handling, audio and more. Excellent!
+        - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) - 🔥 Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
+        - 🎉 [Sokol](https://github.com/floooh/sokol) - 🔥 Single-file libraries for graphics, windowing, file handling, audio and more. Excellent!
     - #### C: Audio
         - ⭐ [Miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C.
         - 🎉 [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) - Audio mixer that supports various file formats for SDL.
@@ -269,7 +269,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: Cross-Platform
         - 🎉 [Cosmopolitan](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library.
     - #### C: Entity Component System
-        - 🎉 [Flecs](https://github.com/SanderMertens/flecs) - Fast and lightweight Entity Component System that lets you build games and simulations with millions of entities written in C99.
+        - 🎉 [Flecs](https://github.com/SanderMertens/flecs) - Fast and lightweight entity component system in C99.
     - #### C: File Formats
         - 🎉 [Assimp](https://www.assimp.org) [:octocat:](https://github.com/assimp/assimp) - The Open Asset Importer Library. Loads 40+ 3D file formats.
         - 🎉 [cgltf](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer written in C99.
@@ -287,10 +287,10 @@ _Language specific game engine development libraries / frameworks / code._
         - ⭐ [Where Am I](https://github.com/gpakosz/whereami) - Locates the current path on the local file system.
     - #### C: Fonts
         - 🎉 [Font Stash](https://github.com/memononen/fontstash) - Light-weight library that uses stb_truetype to render fonts to a texture atlas.
-        - 🎉 [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C, C++ headers and C# classes for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons and Fontaudio.
+        - 🎉 [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C, C++ headers and C# classes for icon fonts.
         - 🎉 [msdf-c](https://github.com/solenum/msdf-c) - Pure C multi-channel signed distance field generator.
         - ⭐ [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single header file library that processes TrueType font files.
-        - 🎉 [Vertext](https://github.com/kevinmkchin/vertext) - Single-header C library for generating vertices for rendering text, requires stb_truetype.
+        - 🎉 [Vertext](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
     - #### C: Game Engine w/Editor
         - ⭐ [AVA](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine in C.
     - #### C: Game Framework
@@ -298,14 +298,14 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: Geometry
         - 🎉 [Blob](https://github.com/BlockoS/blob) - Single header implementation of a contour tracing algorithm
         - 🎉 [Marching Squares](https://prideout.net/marching-squares) [:octocat:](https://github.com/prideout/par/blob/master/par_msquares.h) - Converts grayscale images, or 8-bit color images, into triangles.
-        - 🎉 [Octasphere](https://prideout.net/blog/octasphere/) [:octocat:](https://github.com/prideout/par/blob/master/par_octasphere.h) - Tiny malloc-free library that generates triangle meshes for spheres, rounded boxes, and capsules.
-        - 🎉 [Par_Shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) - Simple C library for creation and manipulation of triangle meshes including platonic solids, spheres and more.
-        - 🎉 [Par_Streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) - Library for triangulating wide/thick lines, Béziers, and streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
+        - 🎉 [Octasphere](https://prideout.net/blog/octasphere/) [:octocat:](https://github.com/prideout/par/blob/master/par_octasphere.h) - Generates triangle meshes for spheres, rounded boxes, and capsules.
+        - 🎉 [Par_Shapes](https://prideout.net/shapes) [:octocat:](https://github.com/prideout/par/blob/master/par_shapes.h) - Create and manipulate of triangle meshes, including solids, spheres and more.
+        - 🎉 [Par_Streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) - Library for triangulating wide/thick lines, Béziers, streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
     - #### C: Graphics - 2D
         - 🎉 [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
     - #### C: Graphics - 3D
-        - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single header file graphics abstraction api, part of the larger, amazing Sokol library. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL Examples, ported to Sokol](https://www.geertarien.com/learnopengl-examples-html5/)]
-        - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross-platform 2D graphics painter (api) in C implemented using Sokol.
+        - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL Examples](https://www.geertarien.com/learnopengl-examples-html5/)]
+        - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented using Sokol.
     - #### C: Gui
         - 🎉 [cImgui](https://github.com/cimgui/cimgui) - Thin c-api wrapper generated for th gui library Dear ImGui.
         - 🎉 [lvgl](https://lvgl.io/) [:octocat:](https://github.com/lvgl/lvgl) - Embedded GUI library with many widgets and advanced visual effects.
@@ -323,7 +323,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Kazmath](https://github.com/Kazade/kazmath) - Math library targeted at games.
         - 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the RayLib game framework.
     - #### C: Network
-        - 🎉 [librg](https://github.com/zpl-c/librg) - Library that serves as a middleware between data-transferring libraries (networking, file-streaming, etc.) and core application / game logic.
+        - 🎉 [librg](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - #### C: Physics
         - 🎉 [Chipmunk](https://chipmunk-physics.net) [:octocat:](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library. [[Docs](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)]
     - #### C: Scripting
@@ -738,6 +738,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Taro](https://www.modd.io) [:octocat:](https://github.com/moddio/taro) - Multiplayer game engine with Box2D physics.
     - #### JavaScript: Game Framework
         - 🎉 [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) - Game library that can help you create 2D games in a structured way.
+        - 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D game engine with WebGL rendering.
         - 🎉 [Meep](https://github.com/Usnul/meep) - Entity component system game engine framework.
         - 🎉 [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) - Fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supports Canvas and WebGL.
         - 🎉 [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) - Modular 2D / 3D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
