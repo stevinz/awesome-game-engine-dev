@@ -252,7 +252,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Awesome Libraries
         - ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games by [Randy Gaul](https://github.com/RandyGaul). 
         - ⭐ [Libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++ by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
-        - ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) - Single-header, cross-platform libraries for game development, written in C by [Empyreanx](https://github.com/empyreanx).
+        - ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) - Single-header, cross-platform libraries for game development.
         - 📚 [Single File Libs](https://github.com/nothings/single_file_libs) - Amazing collection of single file C/C++ libraries compiled from many authors.
         - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### C: App Framework
@@ -378,30 +378,30 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) - Header only file browser implementation for Dear ImGui. C++17 is required.
     - #### C++: Game Engine w/Editor
         - 🎉 [AnKi 3D Engine](https://anki3d.org/) [:octocat:](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
-        - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - Open sourced by King. Free to use game engine for development of desktop, mobile and web games.
+        - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Free to use game engine for desktop, mobile and web games.
         - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform C++ game engine and editor.
         - 🎉 [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) - Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - 🎉 [FIFE](http://www.fifengine.net/) [:octocat:](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
         - 🎉 [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
         - 🎉 [Lina Engine](https://github.com/inanevin/LinaEngine) - Modular C++ game engine, aimed to develop 3D desktop games.
-        - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
+        - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine, supports both OpenGL and Vulkan.
         - 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) - Yet another C++ open source 3D game engine with an Dear ImGui based editor.
         - 🔒 [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
         - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented alternative 3D game engine, inspired by industry standards.
         - 🎉 [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
         - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.
-        - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game yet to be announced.
+        - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
         - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
         - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Based on Irrlicht, with upgraded features including audio, physics and particles.
-        - 🎉 [Titan Engine](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) - (formerly Esenthel Engine) Cross-platform feature-packed open source engine. Easy to use. In development since the year 2000.
+        - 🎉 [Titan Engine](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) - (formerly Esenthel Engine) Cross-platform engine started in the year 2000.
         - 🎉 [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) - High performance 3D engine built on The Forge.
         - 🔒 [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) - Blender game engine. Originally forked from Blender.
     - #### C++: Game Framework
-        - 🎉 [Acid](https://github.com/EQMG/Acid) - Open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular.
-        - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) - Provides rendering, gui, audio, network, physics, user input, etc. Widely used in game development and application construction.
-        - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight sandbox game engine using OpenGL for additional customisation and quick prototyping.
-        - 🎉 [Halley](https://github.com/amzeratul/halley) - Lightweight game engine written in C++17. It has been used to ship Wargroove, a turn-based strategy game, on desktop and consoles.
-        - 🎉 [Kruger](https://github.com/BobbyAnguelov/KRG) - Protoype game engine, without a renderer. Handles resource management, serialization, basic reflection, a AAA-level animation system and more.
+        - 🎉 [Acid](https://github.com/EQMG/Acid) - Written in modern C++17 and structured to be fast, simple, and modular.
+        - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
+        - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
+        - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
+        - 🎉 [Kruger](https://github.com/BobbyAnguelov/KRG) - No renderer, but handles resources, serialization, reflection, animation and more.
         - 🎉 [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for writing game code with Lua.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
         - 🎉 [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
@@ -415,7 +415,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [CinoLib](https://github.com/mlivesu/cinolib) - Header only C++ library for processing polygonal and polyhedral meshes.
         - 🎉 [Delabella](https://github.com/msokalski/delabella) - Super stable 2D delaunay triangulation.
         - 🎉 [Delaunator-Cpp](https://github.com/soerendd/delaunator-cpp) - Really fast C++ library for Delaunay triangulation of 2D points.
-        - 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) - Easy-to-use and efficient library for 3D modeling, geometry processing, and rendering.
+        - 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
         - 🎉 [Extrude](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
         - 🎉 [Geometric Tools](https://www.geometrictools.com/index.html) - Collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics written in C++ 14.
         - 🎉 [GeometronLib](https://github.com/LukasBanana/GeometronLib) - Generates meshes for basic 3D geometric shapes (cube / sphere / cylinder / capsule and more) and handles ray / geometry intersection.
@@ -434,22 +434,22 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [C++ Bitmap Library](http://www.partow.net/programming/bitmap/index.html) [:octocat:](https://github.com/ArashPartow/bitmap) - Incredible bitmap loading and manipulation library.
         - 🎉 [QNanoPainter](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated C++ vector drawing library for Qt, powered by NanoVG.
         - 🎉 [Skia](https://skia.org) [:octocat:](https://github.com/google/skia) - Complete 2D graphic library for drawing Text, Geometries, and Images by Google.
-        - 🎉 [vg-renderer](https://github.com/jdryg/vg-renderer) - Vector graphics renderer for Bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGui).
+        - 🎉 [vg-renderer](https://github.com/jdryg/vg-renderer) - Vector graphics renderer for Bgfx, based on ideas from NanoVG.
     - #### C++: Graphics - 3D
         - 🎉 [Bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
         - 🎉 [Diligent Engine](http://diligentgraphics.com/diligent-engine/) [:octocat:](https://github.com/DiligentGraphics/DiligentEngine) - Modern, lightweight cross-platform graphics API abstraction library.
         - 🎉 [Ember](https://github.com/strah19/Ember) - Open source graphics framework for C++ using SDL2 and OpenGL.
-        - 🎉 [Filament](https://google.github.io/filament/) [:octocat:](https://github.com/google/filament) - Real-time physically-based renderer by Google. It is mobile-first, but also multi-platform.
+        - 🎉 [Filament](https://google.github.io/filament/) [:octocat:](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by Google.
         - 🎉 [Forge](https://github.com/ConfettiFX/The-Forge) - 🔥 Cross-platform rendering framework supporting all major platforms and consoles.
         - 🎉 [Horde3D](http://www.horde3d.org) [:octocat:](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
-        - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
-        - 🎉 [magnum engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization.
+        - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
+        - 🎉 [Magnum Engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
         - 🎉 [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
         - 🎉 [Threepp](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular JavaScript 3D library  Three.js (r129). 
         - 🎉 [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
-        - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) - Open-source C++ engine focusing on modern rendering techniques and performance.
+        - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) - Engine focusing on modern rendering techniques and performance.
     - #### C++: Gui
-        - 🎉 [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) - Versatile, multi-platform library for creating graphical user interfaces for games and rendering applications.
+        - 🎉 [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
         - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) - 🔥 Bloat-free graphical user interface for C++ with minimal dependencies, compatible with nearly any 3D rednering library.
         - 🔒 [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) - Cross-platform C++ GUI toolkit for Linux, Windows, and macOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
         - 🔒 [GTK](https://www.gtk.org) [:octocat:](https://gitlab.gnome.org/GNOME/gtk/) - The GIMP Toolkit, a multi-platform toolkit for creating graphical user interfaces.
@@ -457,14 +457,14 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Excellent list of C++ gui libraries, with pictures and descriptions.
         - 🎉 [Litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) - Lightweight HTML/CSS rendering engine.
         - 🎉 [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) - Cross-platform library for GUI programming in modern C++ style.
-        - ⭐ [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) - Portable GUI dialogs library, C++11, single-header. Works on Windows, macOS or Linux.
+        - ⭐ [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) - C++11, single-header native dialogs on Windows, macOS or Linux.
         - 🔒 [Qt](https://www.qt.io) - The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available. [[Awesome Qt Guide](https://github.com/mikeroyal/Qt-Guide)]
         - ⭐ [RmlUi](https://github.com/mikke89/RmlUi) - Takes your HTML/CSS-like source files and turns them into vertices, indices and draw commands, and then you bring your own renderer to draw them. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
         - ⭐ [Turbo Badger](https://github.com/fruxo/turbobadger) - Small footprint UI library for hardware accelerated games & applications. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
         - 🔒 [Wt](https://www.webtoolkit.eu/wt/) [:octocat:](https://github.com/emweb/wt) - Web GUI library in modern C++. Quickly develop highly interactive web UIs with widgets, without having to write a single line of JavaScript.
         - 🔒 [wxWidgets](https://wxwidgets.org) [:octocat:](https://github.com/wxWidgets/wxWidgets) - Cross-platform C++ framework for writing advanced GUI applications using native controls.
     - #### C++: Input
-        - 🎉 [Gainput](http://gainput.johanneskuhlmann.de) [:octocat:](https://github.com/jkuhlmann/gainput) - Awesome C++ input library for your game. It is easy to use, open source and cross-platform.
+        - 🎉 [Gainput](http://gainput.johanneskuhlmann.de) [:octocat:](https://github.com/jkuhlmann/gainput) - Awesome, easy to use input library.
         - 🎉 [OIS](https://github.com/wgois/OIS) - Object oriented input system. Compatiable with many systems and operating systems.
         - 🎉 [Oryol Input](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) - Input module from the Oryol game framework.
     - #### C++: Layout
@@ -534,8 +534,8 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) - Entity Component System framework which aims to be accessible with little constraints, while retaining as much performance as possible for game development.
         - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - Fast ECS Framework powered by C# with optional integration to Unity.
     - #### C#: Game Engine w/Editor
-        - 🎉 [Duality](https://www.duality2d.net) [:octocat:](https://github.com/AdamsLair/duality) - Modular 2D game engine that provides its own visual editor. Built on C# and OpenTK.
-        - 🎉 [Flat Red Ball](https://flatredball.com) [:octocat:](https://github.com/vchelaru/FlatRedBall) - 2D game engine built on MonoGame. Various tools to help with game design. [[Gui Editor](http://vchelaru.github.io/Gum/)]
+        - 🎉 [Duality](https://www.duality2d.net) [:octocat:](https://github.com/AdamsLair/duality) - Modular 2D engine w/ visual editor. Built on C# and OpenTK.
+        - 🎉 [Flat Red Ball](https://flatredball.com) [:octocat:](https://github.com/vchelaru/FlatRedBall) - 2D engine built on MonoGame. Various tools to help with game design. [[Gui Editor](http://vchelaru.github.io/Gum/)]
         - 🎉 [Stride](https://stride3d.net) [:octocat:](https://github.com/stride3d/stride) - (formerly Xenko) C# game engine for realistic rendering and VR.
         - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
     - #### C#: Game Framework
@@ -588,7 +588,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 - ### Haxe
     - #### - General -
-        - 🌎 [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) - Official site. Very cool programming language used to produce cross-platform native code.
+        - 🌎 [Haxe](https://haxe.org) [:octocat:](https://github.com/HaxeFoundation/haxe) - Official site. Very cool language used to produce cross-platform native code.
     - #### Awesome Collections
         - 📚 [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
         - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
@@ -620,11 +620,11 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Haxe: Game Framework
         - 🎉 [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) - 2D and 3D ActionScript 3 based engine.
         - 🎉 [Clay](https://github.com/clay2d/clay) - Cross-platform 2D game framework.
-        - 🎉 [gameBase](https://github.com/deepnight/gameBase) - Base structure for Haxe games, using Heaps graphics framework and the Haxe language. [[Tutorial](https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/)]
+        - 🎉 [gameBase](https://github.com/deepnight/gameBase) - Base structure for Haxe games, using Heaps graphics framework. [[Tutorial](https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/)]
         - 🎉 [HaxeFlixel](https://haxeflixel.com) [:octocat:](https://github.com/HaxeFlixel/flixel) - Cross-platform 2D game engine powered by Haxe and OpenFL.
         - 🎉 [OpenFL](https://www.openfl.org) [:octocat:](https://github.com/openfl/openfl) - For creative expression on the web, desktop, mobile and consoles.
     - #### Haxe: Graphics
-        - 🎉 [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) - 🔥 High-performance cross-platform 2D and 3D graphics engine by the creators of Haxe.
+        - 🎉 [Heaps](https://heaps.io) [:octocat:](https://github.com/HeapsIO/heaps) - 🔥 High-performance cross-platform 2D and 3D engine (by creators of Haxe).
         - 🎉 [Kha](http://kha.tech/) [:octocat:](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
         - 🎉 [Sparkler](https://github.com/AndreiRudenko/sparkler) - Modular Macro-powered Particle System.
     - #### Haxe: Gui
@@ -717,11 +717,11 @@ _Language specific game engine development libraries / frameworks / code._
     - #### JavaScript: Framework
         - 🎉 [Alpine](https://alpinejs.dev) [:octocat:](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup.
         - 🎉 [Angular](https://angular.io) [:octocat:](https://github.com/angular/angular) - The modern web developer's platform.
-        - 🎉 [Aurelia](https://aurelia.io) [:octocat:](https://github.com/aurelia/framework) - Modern, front-end JavaScript framework for building browser, mobile, and desktop applications.
+        - 🎉 [Aurelia](https://aurelia.io) [:octocat:](https://github.com/aurelia/framework) - Modern, front-end framework for browser, mobile, and desktop apps.
         - 🎉 [Ember](https://emberjs.com) [:octocat:](https://github.com/emberjs/ember.js) - Framework for ambitious web developers.
         - 🎉 [Preact](https://preactjs.com) [:octocat:](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API.
         - 🎉 [React](https://reactjs.org) [:octocat:](https://github.com/facebook/react/) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
-        - 🎉 [Svelte](https://svelte.dev) [:octocat:](https://github.com/sveltejs/svelte) - New way to buil web apps, a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+        - 🎉 [Svelte](https://svelte.dev) [:octocat:](https://github.com/sveltejs/svelte) - Takes your declarative components and converts them into efficient JavaScript.
         - 🎉 [Vue](https://vuejs.org/) [:octocat:](https://github.com/vuejs/vue) - Progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - #### JavaScript: Game Engine w/Editor
         - 🎉 [A-Frame](https://aframe.io) [:octocat:](https://github.com/aframevr/aframe/) - Web framework for building 3D virtual reality (VR) experiences.
@@ -749,13 +749,13 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Three-CSGMesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with modern Three.js.
     - #### JavaScript: Graphics - 2D
         - 🎉 [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) [:octocat:](https://github.com/google/skia/tree/main/modules/canvaskit) - WebAssembly build of Google's Skia, a mobile-first 2D graphics library.
-        - 🎉 [EaselJS](https://createjs.com/easeljs) [:octocat:](https://github.com/CreateJS/EaselJS) - Makes working with the HTML5 Canvas element easy, part of the [CreateJS](https://createjs.com/) suite of libraries.
+        - 🎉 [EaselJS](https://createjs.com/easeljs) [:octocat:](https://github.com/CreateJS/EaselJS) - Makes working with the HTML5 Canvas element easy, part of [CreateJS](https://createjs.com/).
         - 🎉 [Fabric.js](http://fabricjs.com) [:octocat:](https://github.com/fabricjs/fabric.js) - Powerful and simple JavaScript HTML5 canvas library.
         - 🎉 [Konva](https://konvajs.org) [:octocat:](https://github.com/konvajs/konva) - Canvas framework that extends the 2D context by enabling canvas interactivity for desktop and mobile applications.
         - 🎉 [p5.js](https://p5js.org) [:octocat:](https://github.com/processing/p5.js) - Library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
         - 🎉 [Paper.js](http://paperjs.org/) [:octocat:](https://github.com/paperjs/paper.js) - The swiss army knife of vector graphics.
         - 🎉 [Pencil.js](https://pencil.js.org) [:octocat:](https://github.com/pencil-js/pencil.js) - Nice modular interactive 2D drawing library.
-        - 🎉 [PixiJS](https://pixijs.com/) [:octocat:](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library that works across all devices. [[Awesome PixiJS](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor)]
+        - 🎉 [PixiJS](https://pixijs.com/) [:octocat:](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. [[Awesome PixiJS](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor)]
         - 🎉 [Pts](https://ptsjs.org) [:octocat:](https://github.com/williamngan/pts) - Library for visualization and creative-coding.
         - 🎉 [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk) [:octocat:](https://github.com/KaliedaRik/Scrawl-canvas) - Library for working with the HTML5 Canvas element.
         - 🎉 [Stage.js](https://piqnt.com/stage.js/) [:octocat:](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development, from the maintainer of Planck.js.
@@ -821,7 +821,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Day.js](https://day.js.org/) [:octocat:](https://github.com/iamkun/dayjs) - Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) with the same modern API.
         - 🎉 [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) - Popular internationalization framework for browser or any other JavaScript environment.
         - 🎉 [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) much simpler.
-        - 🎉 [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) - Makes preloading assets & getting aggregate progress events easier in JavaScript, part of the CreateJS suite of libraries.
+        - 🎉 [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) - Makes preloading assets & getting aggregate progress events easier in JavaScript, part of CreateJS.
         - 🎉 [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
     - #### JavaScript: Timeline
         - 🎉 [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
