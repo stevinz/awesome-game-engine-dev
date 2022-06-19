@@ -1053,6 +1053,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
     - #### Noise
         - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+        - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
         - 🎉 [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) [:octocat:](https://github.com/ashima/webgl-noise/) - Research paper responsible for the 2D simplex noise function (MIT Licesnse) many games use in their GLSL code.
         - 🎉 [Psrdnoise](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
         - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) [:octocat:](https://gist.github.com/Flafla2/f0260a861be0ebdeef76) - Presents an easy-to-understand analysis of Ken Perlin's Improved Perlin Noise, written in C#.
