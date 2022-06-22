@@ -379,6 +379,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C++: Game Engine w/Editor
         - 🎉 [AnKi 3D Engine](https://anki3d.org/) [:octocat:](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
         - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Free to use game engine for desktop, mobile and web games.
+        - 🔒 [Enigma](https://enigma-dev.org/) [:octocat:](https://github.com/enigma-dev/enigma-dev) - Open source Game Maker compatible 2D engine.
         - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform C++ game engine and editor.
         - 🎉 [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) - Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - 🎉 [FIFE](http://www.fifengine.net/) [:octocat:](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
