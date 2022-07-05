@@ -1098,10 +1098,10 @@ _Exploring specialty application / game engine / game development topics and fea
 _Software to help with game engine / video game development._
 
 - ### 2D Game Dev
-    - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Desktop (Windows / macOS) app with drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+    - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
     - 💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
     - 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
-    - 🆓 [Tiled](https://www.mapeditor.org) [:octocat:](https://github.com/mapeditor/tiled) - General purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
+    - 🆓 [Tiled](https://www.mapeditor.org) [:octocat:](https://github.com/mapeditor/tiled) - General purpose tile map editor for all tile-based games.
 
 - ### Animation Software
     - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
@@ -1111,26 +1111,26 @@ _Software to help with game engine / video game development._
 
 - ### Audio Tools
     - #### Music
-        - 🆓 [Ardour](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) - Free, open source, very capable. Record, edit, and mix on Linux, macOS and Windows.
-        - 🆓 [Audacity](https://www.audacityteam.org) [:octocat:](https://github.com/audacity/audacity) - Free, open source multi-track audio editor and recorder for Linux, macOS and Windows.
+        - 🆓 [Ardour](https://ardour.org) [:octocat:](https://github.com/Ardour/ardour) - Free, open source, very capable. Record, edit, and mix.
+        - 🆓 [Audacity](https://www.audacityteam.org) [:octocat:](https://github.com/audacity/audacity) - Cross-platform, multi-track audio editor and recorder.
         - 🆓 [Bosca Ceoil](https://boscaceoil.net) - Free easy to use tool for creating music.
         - 🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Incredible, complete music production package.
-        - 🆓 [FamiStudio](https://famistudio.org) [:octocat:](https://github.com/BleuBleu/FamiStudio) - Open source, simple music editor targeted at both chiptune artists and NES homebrewers.
-        - 💸 [fmod](https://www.fmod.com) - Very popular (used for Hades, Celeste, Untitled Goose Game, etc.) audio software for games. Fast, fluid, flexible, end-to-end solution for adding sound and music to any game.
-        - 🆓 [LMMS](https://lmms.io) [:octocat:](https://github.com/lmms/lmms) - 🔥 Free, cross-platform music production software. Includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples.
-        - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Simple, fun tool to quickly create musical sketches, chiptunes and sound experiments - without requiring a lot of musical knowledge.
-        - 🆓 [Sound Box](https://sb.bitsnbites.eu) [:octocat:](https://github.com/mbitsnbites/soundbox) - Tool for composing synthetic music, in your browser. Suitable for creating music for small JavaScript demos.
-        - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Small, fast, free and powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
+        - 🆓 [FamiStudio](https://famistudio.org) [:octocat:](https://github.com/BleuBleu/FamiStudio) - Music editor targeted at chiptune artists and NES homebrewers.
+        - 💸 [fmod](https://www.fmod.com) - (used for Hades, Celeste, Untitled Goose Game) Popular audio software for games.
+        - 🆓 [LMMS](https://lmms.io) [:octocat:](https://github.com/lmms/lmms) - 🔥 Free, cross-platform music production software.
+        - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
+        - 🆓 [Sound Box](https://sb.bitsnbites.eu) [:octocat:](https://github.com/mbitsnbites/soundbox) - Compose synthetic music in your browser. Great for small JavaScript demos.
+        - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
         - 🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) [:octocat:](https://github.com/keithclark/ZzFXM) - Music generator for use in tiny JavaScript productions.
     - #### Sound Effects
-        - 🆓 [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) - The classic program of choice for many people looking to make sound effects for computer games.
+        - 🆓 [Bfxr](https://www.bfxr.net) [:octocat:](https://github.com/increpare/bfxr) - Program of choice for many people looking to make sound effects for games.
         - 🆓 [ChipTone](https://sfbgames.itch.io/chiptone) - Excellent tool for generating sound effects.
         - 💸 [sfxia](https://rxi.itch.io/sfxia) - Tiny sound generator.
         - 🆓 [ZzFX](https://killedbyapixel.github.io/ZzFX/) [:octocat:](https://github.com/KilledByAPixel/ZzFX) - Tiny JavaScript Sound FX System / Zuper Zmall Zound Zynth.
 
 - ### Color / Palettes
-    - 🌎 [Colormind](http://colormind.io) - Color scheme generator that can learn color styles from photographs, movies and popluar art.
-    - 🌎 [COLOURlovers](https://www.colourlovers.com) - Creative community where people from around the world create and share colors, palettes and patterns.
+    - 🌎 [Colormind](http://colormind.io) - Color scheme generator, can learn color styles from photographs, art, etc.
+    - 🌎 [COLOURlovers](https://www.colourlovers.com) - Share colors, palettes and patterns.
     - 🌎 [Coolors](https://coolors.co) - Super fast color palette generator.
     - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
@@ -1140,11 +1140,11 @@ _Software to help with game engine / video game development._
 
 - ### Level Editors
     - 🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat:](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
-    - 🆓 [TrenchBroom](https://trenchbroom.github.io) [:octocat:](https://github.com/TrenchBroom/TrenchBroom) - Free (GPLv3+), cross platform level editor for Quake-engine based games. Easy to use and provides many simple and advanced tools to create complex and interesting levels with ease.
+    - 🆓 [TrenchBroom](https://trenchbroom.github.io) [:octocat:](https://github.com/TrenchBroom/TrenchBroom) - Level editor for Quake-engine based games.
 
 - ### Materials / Textures
-    - 🆓 [ArmorLab](https://armorlab.org) [:octocat:](https://github.com/armory3d/armorlab) - Software designed for AI-powered texture authoring. Generate PBR materials by drag & dropping your photos.
-    - 💰 [Filter Forge](https://www.filterforge.com) - Desktop app that gives you access to over 13500 artistic photo effects and realistic textures – and a visual editor to create your own filters.
+    - 🆓 [ArmorLab](https://armorlab.org) [:octocat:](https://github.com/armory3d/armorlab) - Generate PBR materials by drag & dropping your photos.
+    - 💰 [Filter Forge](https://www.filterforge.com) - Tons of photo effects and realistic textures, and visual editor to create textures.
     - 🆓 [JSplacement](https://windmillart.net/?p=jsplacement) - Cross-platform pseudo-random 8K displacement map generator.
     - 🆓 [Material Maker](https://www.materialmaker.org) [:octocat:](https://github.com/RodZill4/material-maker) - Procedural PBR ([Physically Based Rendering](https://en.wikipedia.org/wiki/Physically_based_rendering)) materials authoring tool.
     - 🆓 [Materialize](http://boundingboxsoftware.com/materialize/) [:octocat:](https://github.com/BoundingBoxSoftware/Materialize) - Stand alone tool for creating materials from images to be used in games.
@@ -1154,11 +1154,11 @@ _Software to help with game engine / video game development._
     - 🆓 [TexTools for Blender](http://www.renderhjs.net/?doc=texToolsBlender) [:octocat:](https://bitbucket.org/renderhjs/textools-blender/src/master/) - Free addon for Blender with a set of professional UV and Texturing tools.
 
 - ### Modeling Tools
-    - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - One of the oldest professional software programs for 3D modeling and rendering. Suitable for design visualization, games, and animation.
-    - 🆓 [ArmorPaint](https://armorpaint.org) [:octocat:](https://github.com/armory3d/armorpaint) - Software designed for physically-based texture painting. Drop in your 3D models and start painting.
+    - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - One of the oldest software programs for 3D modeling and rendering.
+    - 🆓 [ArmorPaint](https://armorpaint.org) [:octocat:](https://github.com/armory3d/armorpaint) - Physically-based texture painting, drop in your 3D models and start painting.
     - 💰 [Asset Forge](https://assetforge.io) - Allows anyone to create 3D models and 2D sprites using building blocks.
-    - 🆓 [Blender](https://www.blender.org) [:octocat:](https://github.com/blender/blender) - 🔥 Free and open source 3D creation suite. Supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
-    - 🆓 [Meshroom](https://alicevision.org/#meshroom) [:octocat:](https://github.com/alicevision/meshroom) - Free, open-source 3D Reconstruction Software based on the AliceVision framework.
+    - 🆓 [Blender](https://www.blender.org) [:octocat:](https://github.com/blender/blender) - 🔥 Free and open source, supports the entirety of the 3D pipeline.
+    - 🆓 [Meshroom](https://alicevision.org/#meshroom) [:octocat:](https://github.com/alicevision/meshroom) - Free, open-source 3D reconstruction software based on the AliceVision framework.
     - 💸 [ZBrush Core Mini](https://zbrushcore.com/mini/index.php) - Simple and easy to use 3D sculpting tool.
 
 - ### Particle Tools
@@ -1166,8 +1166,8 @@ _Software to help with game engine / video game development._
     - 💸 [TimelineFX](https://www.rigzsoft.co.uk) - Create amazing particle effects for your games, applications and web pages.
 
 - ### Pixel Art
-    - 💸 [aseprite](https://www.aseprite.org) [:octocat:](https://github.com/aseprite/aseprite) - Animated sprite editor and pixel art tool.
-    - 💰 [Fluid FX](https://codemanu.itch.io/fluid-fx) - Tool that relies on a fluid / pressure simulation to achieve different kind of animations like explosions, blood, smoke, dust, magic effects, etc.
+    - 💸 [Aseprite](https://www.aseprite.org) [:octocat:](https://github.com/aseprite/aseprite) - Animated sprite editor and pixel art tool.
+    - 💰 [Fluid FX](https://codemanu.itch.io/fluid-fx) - Uses fluid simulation to achieve animations like explosions, blood, smoke, etc.
     - 💰 [Juice FX](https://codemanu.itch.io/juicefx) - Add style to your sprites and animations with ease.
     - 🆓 [Piskel](https://www.piskelapp.com) [:octocat:](https://github.com/piskelapp/piskel) - Free online editor for animated sprites & pixel art.
     - 💰 [PixaTool](https://kronbits.itch.io/pixatool) - Create pixel art by converting your images, sprites or videos.
@@ -1183,7 +1183,7 @@ _Software to help with game engine / video game development._
     - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
     - 🎉 [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files.
     - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Free lightweight GPU-based voxel art editor.
-    - 💰 [Qubicle](https://www.getqubicle.com) - Professional (used for Crossy Road, Pacman 256, etc.) voxel editor optimized for the easy creation of 3D models.
+    - 💰 [Qubicle](https://www.getqubicle.com) - (used for Crossy Road, Pacman 256) Voxel editor, easy creation of 3D models.
 
 <br />
 <br />
@@ -1194,15 +1194,15 @@ _Resources to help bring video games and game engines alive._
 - ### Audio Assets
     - #### Music
         - 🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
-        - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free to use with attribution. Perfect for use in games.
-        - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of tracks. Use music for free with attribution or buy once and use forever.
+        - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
+        - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
         - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
         - 💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
-        - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks intended for videogame developers. All are free to use with attribution.
+        - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
     - #### Sound Effects
         - 🆓 [Freesound](https://freesound.org/browse/) - Community based archive of free sound effects.
         - 💸 [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
-        - 💰 [Soundsnap](https://www.soundsnap.com) - Professional sound effects library with hundreds of thousands of sounds, subscription based.
+        - 💰 [Soundsnap](https://www.soundsnap.com) - Subscription based professional sound effects library.
 
 - ### Graphic Assets
     - 💸 [Flaticon](https://www.flaticon.com) - Nice vector icons and stickers.
@@ -1220,7 +1220,7 @@ _Resources to help bring video games and game engines alive._
     - 🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Free 3D models, all the 3D assets on this site are licensed as public domain.
     - 🆓 [Pmndrs Market](https://market.pmnd.rs) - Nice collection of public domain models.
     - 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
-    - 📚 [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - Compilation of game-ready retro style 3D graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
+    - 📚 [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
     - 💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
 <br />
