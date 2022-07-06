@@ -987,14 +987,14 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [2D Visibility](https://www.redblobgames.com/articles/visibility/) - Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, JavaScript and C#.
         - 📚 [Fast 2D shadows in Unity](https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping) - Article about adapting traditional techniques from 3D rendering to achieve fast 2D shadows for a large number of light sources in the Unity game engine.
         - 📚 [Sight & Light](https://ncase.me/sight-and-light/) [:octocat:](https://github.com/ncase/sight-and-light) - How to create 2D visibility/shadow effects for your game.
-        - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Tutorial on a common technique for calculating field of view.
+        - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
     - #### Shadows 3D
-        - 📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17 - Efficient Soft-Edged Shadows Using Pixel Shader Branching.
+        - 📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
         - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
-        - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - In depth explantion on Wikipedia of shadow mapping and the techniques used to acheive it.
+        - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
     - #### Volumetric
         - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) - Great example of volumetric lighting with Three.js.
-        - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Article covering a technique of volumetric light approximation (godrays) implemented using Three.js.
+        - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
 
 - ### Network
     - 📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve’s Source Engine multiplayer system.
@@ -1005,62 +1005,62 @@ _Exploring specialty application / game engine / game development topics and fea
 
 - ### Physics
     - #### - General -
-        - 📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - Article about the technique needed to keep stable the numerical integration performed by the physics simulation while running your video game with a variable frame-rate.
-        - 📚 [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) - If you're a game developer interested in learning about physics engines, these resources are a good place to start.
-        - 📚 [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Video Game Physics Tutorial - Part I: An Introduction to Rigid Body Dynamics.
+        - 📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - 🔥 How to keep physics stable with variable fps.
+        - 📚 [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) - Starting resource for game physics.
+        - 📚 [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Part I: An Introduction to Rigid Body Dynamics.
         - 📚 [Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines) - List of open source physics engines.
     - #### Platformer
-        - 📚 [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) - This article covers how to create a simple and robust physics system for a platformer game.
-        - 📚 [How to create 2D Physics Games](https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library) - Excellent article on how to use Box2D for 2D game topics ranging from shapes, water (metaballs), ropes, gravity, lines and vehicles.
+        - 📚 [2D Physics Games](https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library) - Using Box2D for water, ropes, gravity, lines, vehicles, etc.
+        - 📚 [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) - How to create a physics system for a platformer.
         - 📚 [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) - Tutorial on ledge grabbing in 2D platformer physics.
     - #### Ropes / Chains
-        - 📚 [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) - Short discussion about how to implement the physics of ropes in Contraption Maker.
+        - 📚 [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) - Implementing the physics of ropes in Contraption Maker.
         - 🌎 [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) - Chains demo using the JavaScript library Matter.js.
     - #### Soft Body
         - 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
         - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) - Step by step creation of a Box2D soft body blob.
-        - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) [:octocat:](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc) - Example of using Bullet Physics to implement a 3D cloth using the Oryol game framework.
+        - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) [:octocat:](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc) - Bullet Physics 3D cloth using the Oryol game framework.
         - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) - Demo of 3D soft body volumes using Ammo.js and Three.js.
     - #### Verlet Physics
-        - 📚 [Making a Verlet Physics Engine in JavaScript](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5) - Taking a look under the hood of a 2D physics engine in JavaScript.
+        - 📚 [Making a Verlet Physics Engine in JavaScript](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5) - Under the hood of a 2D physics engine in JS.
     - #### Water / Buoyancy
         - 📚 [2D Water](https://prime31.github.io/water2d-part1/) - Modeling 2D water with springs.
 
 - ### Scripting
-    - 📚 [Adding Languages to Game Engines](https://www.gamedeveloper.com/programming/adding-languages-to-game-engines) - How a self described "lazy programmer" built the powerful scripting language used in making Jedi Knight: Dark Forces 2.
-    - 📚 [Implementing a Scripting Engine](https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml) - In depth series of articles about writting a scripting engine from scratch.
-    - 📚 [Embedded Scripting Languages](https://caiorss.github.io/C-Cpp-Notes/embedded_scripting_languages.html) - Selection of embedded scripting languages and engines available as libraries.
-    - 📚 [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) - List of reasonably mature open source embedded scripting languages to use in your application.
+    - 📚 [Adding Languages to Game Engines](https://www.gamedeveloper.com/programming/adding-languages-to-game-engines) - Story of adding scripting to a game.
+    - 📚 [Implementing a Scripting Engine](https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml) - Writting a scripting engine from scratch.
+    - 📚 [Embedded Scripting Languages](https://caiorss.github.io/C-Cpp-Notes/embedded_scripting_languages.html) - Scripting languages and engines available as libraries.
+    - 📚 [List of Embedded Scripting Languages](https://github.com/dbohdan/embedded-scripting-languages) - Scripting languages to use in your app / game.
     - 📚 [Scriptorium](https://github.com/r-lyeh-archived/scriptorium) - Game scripting languages benchmarked.
 
 - ### Shaders
     - #### - General -
-        - 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) - 🔥 Collection of shading techniques that will take your game visuals to new heights. Including adding textures, lighting, shadows, normal maps, glowing objects, ambient occlusion, reflections, refractions, and more!
-        - 📚 [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) - 🔥 This is a gentle step-by-step guide through the abstract and complex universe of [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
-        - 🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat:](https://github.com/alaingalvan/CrossShader) - Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
-        - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Fantastic collection of amazing shaders including post processing, lighting, utlities and more.
-        - 📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Review of shading languages and compilers, differences between HLSL, GLSL, MSL, and WGSL and ways to transpile shaders.
-        - 🌎 [Shader Park](https://shaderpark.com/) [:octocat:](https://github.com/shader-park/shader-park-core) - Explore shader programming through a JavaScript interface without the complexity of GLSL.
-        - 🌎 [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE. Written in C++, open source and MIT licensed. [[Online Editor](https://shadered.org/app)]
+        - 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat:](https://github.com/lettier/3d-game-shaders-for-beginners) - 🔥 Wide range of shaders to improve your games.
+        - 📚 [Book of Shaders](https://thebookofshaders.com) [:octocat:](https://github.com/patriciogonzalezvivo/thebookofshaders) - 🔥 Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
+        - 🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat:](https://github.com/alaingalvan/CrossShader) - Cross compiling shaders. Convert between GLSL, HLSL, Metal and more.
+        - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Post processing, lighting, utlities and many, many more.
+        - 📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
+        - 🌎 [Shader Park](https://shaderpark.com/) [:octocat:](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
+        - 🌎 [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++, open source (MIT). [[Online Editor](https://shadered.org/app)]
         - 🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
     - #### Bloom
-        - 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Excellent presentation of the techniques used for bloom lighting presented in OpenGL.
+        - 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
         - 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) - WebGL bloom effect postprocessing example using Three.js.
         - 📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - Covers how to add support for a bloom effect to a camera.
     - #### Displacement
-        - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Excellent tutorial that introduces the construction of a basic vertex displacement shader using Three.js.
+        - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
     - #### Fire
         - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Great fire intro shader using noise textures and masking.
         - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
     - #### Noise
         - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
         - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
-        - 🎉 [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) [:octocat:](https://github.com/ashima/webgl-noise/) - Research paper responsible for the 2D simplex noise function (MIT Licesnse) many games use in their GLSL code.
-        - 🎉 [Psrdnoise](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
-        - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) [:octocat:](https://gist.github.com/Flafla2/f0260a861be0ebdeef76) - Presents an easy-to-understand analysis of Ken Perlin's Improved Perlin Noise, written in C#.
+        - 🎉 [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) [:octocat:](https://github.com/ashima/webgl-noise/) - The GLSL 2D simplex noise function many games use.
+        - 🎉 [Psrdnoise](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D and 3D.
+        - 📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) [:octocat:](https://gist.github.com/Flafla2/f0260a861be0ebdeef76) - Analysis of Perlin Noise, written in C#.
         - 🎉 [WebGL Noise](https://github.com/stegu/webgl-noise/) - Maintained branch of the original Ashima Arts 2D, 3D and 4D noise functions.
     - #### Outlines
-        - 🌎 [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) - Quickly drawing an outline on the alpha channel of a 2D image at ShaderToy.
+        - 🌎 [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) - Drawing an outline on the alpha channel of a 2D image.
         - 📚 [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) - Fantastic article with shader code on dynamically adding outlines to characters.
         - 🎉 [Outline Shader](https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/) [:octocat:](https://github.com/steincodes/godot-shader-tutorials) - Reddit post and GitHub repo of nice outline shader.
         - 📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) - Truly excellent article on producing a sketchy outline look.
@@ -1068,28 +1068,28 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
         - 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) - WebGL pixelation postprocessing example using Three.js.
     - #### Postprocessing
-        - 📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) [:octocat:](https://github.com/alaingalvan/image-editor-effects) - WebGL example of image adjustment / effects shaders found in Photoshop, other image editors and game engines.
+        - 📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) [:octocat:](https://github.com/alaingalvan/image-editor-effects) - Image filters / adjustmenta / effects shaders.
     - #### Upscaling
-        - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Great post with shader code demonstrating upscaling.
+        - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
         - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
     - #### Water / Refraction
         - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
     - #### Wireframe
-        - 📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) - Nice explanation with demo of rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
-        - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - This tutorial covers how to add support for flat shading and showing the wireframe of a mesh using Barycentric Coordinates.
+        - 📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) - Rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+        - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
 - ### Signed Distance Fields
     - 📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Amazing list of signed distance functions for basic 2D primitives.
     - 📚 [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Amazing list of signed distance functions for basic 3D primitives.
-    - 📚 [CSG w/ Signed Distance Fields](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) - Introductory exploration of signed distance fields and using circular SDFs to build 3D objects with CSG (Constructive Solid Geometry).
-    - 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) - Collection of resources (tutorials, papers, software, demos, discussions, etc.) related to Signed Distance Fields.
-    - 🎉 [SDF Mesh Generation](https://github.com/fogleman/sdf) - Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
+    - 📚 [CSG w/ SDFs](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) - Using circular SDFs to build 3D objects with Constructive Solid Geometry.
+    - 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) - Tutorials, papers, software, demos, discussions, etc.
+    - 🎉 [SDF Mesh Generation](https://github.com/fogleman/sdf) - Python API to generate 3D meshes with SDFs.
 
 - ### Tiling
     - 📚 [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
     - 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Great tutorial on 2D edge and corner matched tilesets.
     - 📚 [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) - Wikipedia article on uniform tiling, space-filling polygons.
-    - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - Info on 3D polygons that can be used to fill space. [[Wikipedia List](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [Five Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
+    - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - 3D polygons that fill space. [[Wikipedia](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [5 Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
 
 <br />
 <br />
