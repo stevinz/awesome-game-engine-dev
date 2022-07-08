@@ -53,6 +53,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Haxe](#haxe)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [Kotlin](#kotlin)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
@@ -838,6 +839,17 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) - Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor/)]
         - 🎉 [Node-RED](https://nodered.org/) [:octocat:](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
         - 🎉 [Rete.js](https://rete.js.org/) [:octocat:](https://github.com/retejs/rete) - Framework for visual programming and creating a node editor.
+
+- ### Kotlin
+    - #### - General -
+        - 🌎 [Kotlin](https://kotlinlang.org/) [:octocat:](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
+        - 📚 [Kotlin Docs](https://kotlinlang.org/docs/home.html) - Official docs.
+    - #### Awesome Collections
+        - 📚 [Awesome Kotlin](https://kotlin.link/) [:octocat:](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
+    - #### Kotlin: Game Engine w/Editor
+        - 🎉 [KorGE](https://korge.org/) [:octocat](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
+    - #### Kotlin: Game Framework
+        - 🎉 [Kool](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan/OpenGL graphics engine. [[Demos](https://fabmax.github.io/kool/kool-js/)]
 
 - ### Python
     - #### - General -
