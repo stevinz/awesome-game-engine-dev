@@ -8,7 +8,7 @@
 
 Specifically, this list is geared toward development of high-level, fully featured game engines (e.g. Godot / Unity). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g. MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
-This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
+This list currently favors (but is not limited to) programming game engines in the following languages: C, C++, C#, Haxe, JavaScript.
 
 <br />
 
@@ -244,7 +244,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) - Modern BASIC + OpenGL language, retains QB4.5 / QBasic compatibility.
         - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language developed by Microsoft.
     - #### BASIC: Game Framework
-        - 🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) - Open source BASIC programming language for creating Windows applications and games.
+        - 🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating Windows apps and games.
 
 - ### C
     - #### - General -
@@ -334,27 +334,27 @@ _Language specific game engine development libraries / frameworks / code._
     
 - ### C++
     - #### - General -
-        - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Exploring C++ basic and advanced concepts and also modern C++ features with both small and reproducible C++ sample programs and interactive examples.
-        - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Provide programmers with a complete online reference for the C and C++ languages and standard libraries.
-        - 📚 [Learn C++](https://www.learncpp.com) - 🔥 Whether you've had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
+        - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
+        - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C and C++ and standard libraries.
+        - 📚 [Learn C++](https://www.learncpp.com) - 🔥 Walks you through all the steps to write, compile, and debug C++.
         - 📚 [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
     - #### Awesome Collections
         - 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) - List of awesome C++ frameworks, libraries, and resources.
         - 📚 [Awesome C++ Game Dev](https://github.com/Caerind/AwesomeCppGameDev#readme) - List of awesome C++ things for Game Development.
         - 📚 [Awesome Hpp](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
-        - 🎉 [Boost Libraries](https://www.boost.org) [:octocat:](https://github.com/boostorg) - Free peer-reviewed portable C++ source libraries, that work well with the C++ Standard Library. Basically an extension of the STL, many Boost libaries go on to become part of the STL.
+        - 🎉 [Boost Libraries](https://www.boost.org) [:octocat:](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL.
         - 📚 [Gamedev Libraries](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
         - 📚 [Inqlude](https://inqlude.org) - Comprehensive listing of libraries for developers of applications using the Qt toolkit.
         - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
         - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - NVIDIA Technologies for game and application developers.
     - #### C++: App Framework
-        - 🎉 [Cinder](https://libcinder.org/about) [:octocat:](https://github.com/cinder/Cinder) - Awesome cross-platform general purpose C++ app and graphics library, with official support for macOS, Windows, Linux, iOS, and Windows UWP.
-        - 🎉 [Cross Window](https://alain.xyz/libraries/crosswindow) [:octocat:](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks.
+        - 🎉 [Cinder](https://libcinder.org/about) [:octocat:](https://github.com/cinder/Cinder) - App and graphics library. Supports macOS, Windows, Linux, iOS.
+        - 🎉 [Cross Window](https://alain.xyz/libraries/crosswindow) [:octocat:](https://github.com/alaingalvan/CrossWindow) - For managing windows and performing OS tasks.
         - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
-        - 🎉 [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) - Simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network.
+        - 🎉 [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) - Cross-platform access to windowing, graphics, audio and networking.
     - #### C++: Animation
         - 🎉 [Ozz-Animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) - Open source skeletal animation library and toolset.
-        - 🎉 [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) - Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
+        - 🎉 [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
     - #### C++: Audio
         - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D and 3D cross-platform desktop sound engine and audio library.
         - 💰 [Juce](https://juce.com) - The leading framework for multi-platform audio applications.
@@ -366,10 +366,10 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [EntityX](https://github.com/alecthomas/entityx) - Fast, type-safe C++ Entity-Component system.
         - 🎉 [Entt](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
     - #### C++: Fonts
-        - 🎉 [HarfBuzz](https://harfbuzz.github.io) [:octocat:](https://github.com/harfbuzz/harfbuzz) - Text shaping library, allows programs to convert a sequence of Unicode input into properly formatted and positioned glyph output—for any writing system and language.
-        - 💰 [Slug](http://sluglibrary.com) - For rendering high-quality, resolution-independent text and vector graphics in 3D applications on the GPU.
+        - 🎉 [HarfBuzz](https://harfbuzz.github.io) [:octocat:](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
+        - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D applications.
     - #### C++: File Formats
-        - ⭐ [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) - Small (~1000 lines), easy to use public domain single library that writes baseline JPEG compressed images.
+        - ⭐ [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) - Single file library that writes baseline JPEG compressed images.
         - 🎉 [TinyDNG](https://github.com/syoyo/tinydng) - Header only DNG / TIFF loader and writer.
         - 🎉 [TinyEXR](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader/saver library.
         - 🎉 [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library.
@@ -388,7 +388,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine, supports both OpenGL and Vulkan.
         - 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) - Yet another C++ open source 3D game engine with an Dear ImGui based editor.
         - 🔒 [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
-        - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented alternative 3D game engine, inspired by industry standards.
+        - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented 3D game engine, inspired by industry standards.
         - 🎉 [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
         - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.
         - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
@@ -418,23 +418,23 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Delaunator-Cpp](https://github.com/soerendd/delaunator-cpp) - Really fast C++ library for Delaunay triangulation of 2D points.
         - 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
         - 🎉 [Extrude](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
-        - 🎉 [Geometric Tools](https://www.geometrictools.com/index.html) - Collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics written in C++ 14.
-        - 🎉 [GeometronLib](https://github.com/LukasBanana/GeometronLib) - Generates meshes for basic 3D geometric shapes (cube / sphere / cylinder / capsule and more) and handles ray / geometry intersection.
+        - 🎉 [Geometric Tools](https://www.geometrictools.com/index.html) - Mathematics, geometry, graphics, image analysis and physics in C++ 14.
+        - 🎉 [GeometronLib](https://github.com/LukasBanana/GeometronLib) - Meshes for 3D shapes (cube, sphere, etc.) and ray / geometry intersection.
         - 🔒 [Libigl](https://libigl.github.io) [:octocat:](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
         - 🎉 [MeshOptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.
-        - 🎉 [Polygon Mesh Processing Library](http://www.pmp-library.org) [:octocat:](https://github.com/pmp-library/pmp-library) - Modern C++ open-source library for processing and visualizing polygon surface meshes.
+        - 🎉 [Polygon Mesh Processing Library](http://www.pmp-library.org) [:octocat:](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
         - 🎉 [PolyPartition](https://github.com/ivanfratric/polypartition) - Lightweight C++ library for 2D polygon partition and triangulation.
-        - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - 2D implementation of the Ramer-Douglas-Peucker algorithm (reduces number of points in a line).
+        - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
         - 🎉 [Recast & Detour](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
-        - 🎉 [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Simplifies a mesh while preserving it's UV boundaries, based on this paper, [Seamless](https://cragl.cs.gmu.edu/seamless/).
+        - 🎉 [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs, based on [Seamless](https://cragl.cs.gmu.edu/seamless/).
         - 🎉 [Spheres](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
-        - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
+        - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
         - 🎉 [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
     - #### C++: Graphics - 2D
         - 🎉 [Blend2D](https://blend2d.com) [:octocat:](https://github.com/blend2d/blend2d) - High performance 2D vector graphics engine written in C++.
         - 🎉 [C++ Bitmap Library](http://www.partow.net/programming/bitmap/index.html) [:octocat:](https://github.com/ArashPartow/bitmap) - Incredible bitmap loading and manipulation library.
         - 🎉 [QNanoPainter](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated C++ vector drawing library for Qt, powered by NanoVG.
-        - 🎉 [Skia](https://skia.org) [:octocat:](https://github.com/google/skia) - Complete 2D graphic library for drawing Text, Geometries, and Images by Google.
+        - 🎉 [Skia](https://skia.org) [:octocat:](https://github.com/google/skia) - Complete 2D graphic library by Google for drawing Text / Geometries / Images.
         - 🎉 [vg-renderer](https://github.com/jdryg/vg-renderer) - Vector graphics renderer for Bgfx, based on ideas from NanoVG.
     - #### C++: Graphics - 3D
         - 🎉 [Bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
@@ -451,19 +451,19 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) - Engine focusing on modern rendering techniques and performance.
     - #### C++: Gui
         - 🎉 [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
-        - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) - 🔥 Bloat-free graphical user interface for C++ with minimal dependencies, compatible with nearly any 3D rednering library.
-        - 🔒 [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) - Cross-platform C++ GUI toolkit for Linux, Windows, and macOS. Provides modern GUI functionality without the bloat and supports 3D graphics via OpenGL.
+        - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) - 🔥 Bloat-free immediate mode gui library. Ported to many other languages.
+        - 🔒 [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) - The Fast Light Toolkit. Modern, cross-platform gui.
         - 🔒 [GTK](https://www.gtk.org) [:octocat:](https://gitlab.gnome.org/GNOME/gtk/) - The GIMP Toolkit, a multi-platform toolkit for creating graphical user interfaces.
         - 🎉 [GuiLite](https://github.com/idea4good/GuiLite) - Tiny, cross platform, header only gui library.
         - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Excellent list of C++ gui libraries, with pictures and descriptions.
         - 🎉 [Litehtml](http://www.litehtml.com) [:octocat:](https://github.com/litehtml/litehtml) - Lightweight HTML/CSS rendering engine.
-        - 🎉 [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) - Cross-platform library for GUI programming in modern C++ style.
+        - 🎉 [Nana](http://nanapro.org/en-us/) [:octocat:](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
         - ⭐ [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) - C++11, single-header native dialogs on Windows, macOS or Linux.
-        - 🔒 [Qt](https://www.qt.io) - The industry standard. Most popular c++ cross-platform gui library there is. Open source and paid commercial licensing available. [[Awesome Qt Guide](https://github.com/mikeroyal/Qt-Guide)]
-        - ⭐ [RmlUi](https://github.com/mikke89/RmlUi) - Takes your HTML/CSS-like source files and turns them into vertices, indices and draw commands, and then you bring your own renderer to draw them. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
-        - ⭐ [Turbo Badger](https://github.com/fruxo/turbobadger) - Small footprint UI library for hardware accelerated games & applications. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
-        - 🔒 [Wt](https://www.webtoolkit.eu/wt/) [:octocat:](https://github.com/emweb/wt) - Web GUI library in modern C++. Quickly develop highly interactive web UIs with widgets, without having to write a single line of JavaScript.
-        - 🔒 [wxWidgets](https://wxwidgets.org) [:octocat:](https://github.com/wxWidgets/wxWidgets) - Cross-platform C++ framework for writing advanced GUI applications using native controls.
+        - 🔒 [Qt](https://www.qt.io) - Industry standard cross-platform gui library. [[Awesome Qt Guide](https://github.com/mikeroyal/Qt-Guide)]
+        - ⭐ [RmlUi](https://github.com/mikke89/RmlUi) - Turns HTML/CSS source files into vertices and draw commands. [[Docs](https://mikke89.github.io/RmlUiDoc/)]
+        - ⭐ [Turbo Badger](https://github.com/fruxo/turbobadger) - Gui library for hardware accelerated games & apps. [[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
+        - 🔒 [Wt](https://www.webtoolkit.eu/wt/) [:octocat:](https://github.com/emweb/wt) - Web gui library in modern C++.
+        - 🔒 [wxWidgets](https://wxwidgets.org) [:octocat:](https://github.com/wxWidgets/wxWidgets) - Cross-platform gui apps using native controls.
     - #### C++: Input
         - 🎉 [Gainput](http://gainput.johanneskuhlmann.de) [:octocat:](https://github.com/jkuhlmann/gainput) - Awesome, easy to use input library.
         - 🎉 [OIS](https://github.com/wgois/OIS) - Object oriented input system. Compatiable with many systems and operating systems.
@@ -471,20 +471,20 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C++: Layout
         - 🎉 [Yoga](https://yogalayout.com/) [:octocat:](https://github.com/facebook/yoga) - (by Facebook) Cross-platform layout engine which implements [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).
     - #### C++: Lighting
-        - 🎉 [Thekla Atlas](https://github.com/Thekla/thekla_atlas) - Atlas generation tool, useful when generating light maps for meshes that do not have artist-supplied UVs.
-        - 🎉 [UVAtlas](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing an isochart texture atlases.
+        - 🎉 [Thekla Atlas](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
+        - 🎉 [UVAtlas](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
     - #### C++: Math
         - 🎉 [OpenGL Mathematics](https://glm.g-truc.net/0.9.9/index.html) [:octocat:](https://github.com/g-truc/glm) - Header only C++ mathematics library for graphics software.
     - #### C++: Network
         - 🎉 [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib) - Single header file HTTP / HTTPS server and client library in C++11.
     - #### C++: Physics
-        - 🎉 [Box2D](https://box2d.org) [:octocat:](https://github.com/erincatto/box2d) - The original, classic, battle tested 2D physics engine for games. [[Docs](https://box2d.org/documentation/) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction) | [Fixed Time-Step Implementation](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d)]
-        - 🎉 [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) - 3D Physics simulation for games, visual effects, robotics and reinforcement learning.
-        - 🎉 [Edyn](https://github.com/xissburg/edyn) - Real-time physics engine organized as an Entity-Component System (using Entt). Multi-threaded and supports networked and distributed physics simulation of large dynamic worlds. [[Testbed](https://github.com/xissburg/edyn-testbed)]
+        - 🎉 [Box2D](https://box2d.org) [:octocat:](https://github.com/erincatto/box2d) - Battle tested 2D physics for games. [[Docs](https://box2d.org/documentation/) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d)]
+        - 🎉 [Bullet Physics](https://pybullet.org/wordpress/) [:octocat:](https://github.com/bulletphysics/bullet3) - Very popular 3D physics libary.
+        - 🎉 [Edyn](https://github.com/xissburg/edyn) - Multi-threaded, networked physics engine, supports large dynamic worlds. [[Testbed](https://github.com/xissburg/edyn-testbed)]
         - 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body 3D physics and collision detection library.
-        - 🎉 [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) - An extension of Box2D, it adds a particle based fluid and soft body simulation to the rigid body system.
-        - 🎉 [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) - Physics engine library that can be used in 3D simulations and games.
-        - 🎉 [Qu3e](https://github.com/RandyGaul/qu3e) - Compact, light-weight and fast 3D physics engine in C++. It has been specifically created to be used in games.
+        - 🎉 [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) - Extension of Box2D, adds particle based fluid and soft bodies.
+        - 🎉 [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
+        - 🎉 [Qu3e](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
     - #### C++: Reflection
         - 🎉 [Boost.PFR](https://www.boost.org/doc/libs/master/doc/html/boost_pfr.html) [:octocat:](https://github.com/boostorg/pfr) - Very basic reflection C++14 library. Part of the Boost Libraries.
         - 🎉 [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code.
