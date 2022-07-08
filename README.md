@@ -850,6 +850,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [KorGE](https://korge.org/) [:octocat:](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
     - #### Kotlin: Game Framework
         - 🎉 [Kool](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan/OpenGL graphics engine. [[Demos](https://fabmax.github.io/kool/kool-js/)]
+        - 🎉 [KTW](https://libktx.github.io/) [:octocat:](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework.
 
 - ### Python
     - #### - General -
