@@ -847,7 +847,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Awesome Collections
         - 📚 [Awesome Kotlin](https://kotlin.link/) [:octocat:](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
     - #### Kotlin: Game Engine w/Editor
-        - 🎉 [KorGE](https://korge.org/) [:octocat](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
+        - 🎉 [KorGE](https://korge.org/) [:octocat:](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
     - #### Kotlin: Game Framework
         - 🎉 [Kool](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan/OpenGL graphics engine. [[Demos](https://fabmax.github.io/kool/kool-js/)]
 
