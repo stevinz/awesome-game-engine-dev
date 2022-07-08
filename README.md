@@ -6,7 +6,7 @@
 
 > Awesome list of articles, assets, libraries, and tools for Game Engine Development.
 
-Specifically, this list is geared toward development of high-level, fully featured game engines (e.g. Godot / Unity). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g. [MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
+Specifically, this list is geared toward development of high-level, fully featured game engines (e.g. Godot / Unity). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g. MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
 This list currently favors (but is not limited to) programming the core engine in the following languages: C, C++, C#, Haxe, or JavaScript.
 
@@ -572,7 +572,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 - ### Go
     - #### - General -
-        - 🌎 [Go](https://go.dev/) [:octocat:](https://github.com/golang) - Official site. Statically typed, compiled programming language designed at Google. Syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+        - 🌎 [Go](https://go.dev/) [:octocat:](https://github.com/golang) - Official site. Statically typed, compiled programming language designed at Google.
     - #### Awesome Collections
         - 📚 [Awesome Go](https://github.com/avelino/awesome-go) - Curated list of awesome Go frameworks, libraries and software.
     - #### Go: Audio
@@ -585,7 +585,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Go: Geometry
         - 🎉 [3D Mesh Simplification](https://github.com/fogleman/simplify) - 3D mesh simplification in Go.
     - #### Go: Graphics
-        - 🎉 [ln](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer written in Go. It is used to produce 2D vector graphics depicting 3D scenes. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+        - 🎉 [ln](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer written in Go. [[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 
 - ### Haxe
     - #### - General -
@@ -650,40 +650,41 @@ _Language specific game engine development libraries / frameworks / code._
 
 - ### Java
     - #### - General -
-        - 🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose programming language typically compiled to bytecode that can run on any [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
+        - 🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose programming language that runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine).
         - 📚 [Learn Java](https://dev.java/learn/) - Official docs and tutorials.
         - 📚 [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) - OpenGL / GLSL tutorials written for LWJGL and libGDX.
     - #### Awesome Collections
-        - 📚 [Awesome Java](https://github.com/akullpp/awesome-java) - Curated list of awesome frameworks, libraries and software for the Java programming language.
+        - 📚 [Awesome Java](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
     - #### Java: Game Framework
-        - 🎉 [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) - Cross-platform Java game development framework that is built on and adds functionality to LWJGL. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
-        - 🎉 [LWJGL](https://www.lwjgl.org) [:octocat:](https://github.com/LWJGL/lwjgl3) - Library that enables cross-platform access to popular native APIs useful in the development of graphics, audio, parallel computing and XR applications.
+        - 🎉 [jMonkeyEngine](https://jmonkeyengine.org/) [:octocat:](https://github.com/jMonkeyEngine/jmonkeyengine) - Modern 3D game development suite for Java.
+        - 🎉 [libGDX](https://libgdx.com) [:octocat:](https://github.com/libgdx/libgdx) - Game framework built on, and adds to LWJGL. [[Awesome libGDX](https://github.com/rafaskb/awesome-libgdx#readme)]
+        - 🎉 [LWJGL](https://www.lwjgl.org) [:octocat:](https://github.com/LWJGL/lwjgl3) - Library for graphics, audio, parallel computing, XR and more.
 
 - ### JavaScript
     - #### - General -
-        - 📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Well written online book about modern JavaScript programming, with examples.
-        - 🌎 [MDN](https://developer.mozilla.org/en-US/) - The Mozilla Developer Network, a documentation repository and learning resource for web developers. Amazing resource!
+        - 📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
+        - 🌎 [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network, great documentation and learning resource.
         - 🌎 [W3 Schools](https://www.w3schools.com/default.asp) - Learn to code with the world's largest web developer site.
     - #### Awesome Collections
-        - 📚 [Collection of WebGL and WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries, some of the libraries listed are wip/outdated/not maintained anymore.
-        - 📚 [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection. Learn or level up your 1337 gamedev skills and build amazing games together for web, desktop, or mobile using these HTML5 / JavaScript game engines.
+        - 📚 [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection of HTML5 / JavaScript game engines.
         - 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) - This table contains primarily HTML5 based game engines and frameworks.
-        - 📚 [List of WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks compiled on Wikipedia.
+        - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
+        - 📚 [WebGL/WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
     - #### JavaScript: Animation
-        - 🎉 [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) - Ready-to-use, pure CSS, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+        - 🎉 [Animate.css](https://animate.style) [:octocat:](https://github.com/animate-css/animate.css) - Ready-to-use, pure CSS animations.
         - 🎉 [D3.js](https://d3js.org) [:octocat:](https://github.com/d3/d3) - Data-Driven Documents. Bring data to life with SVG, Canvas and HTML. [[Examples](https://observablehq.com/@d3/gallery)]
-        - 💸 [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) - Robust JavaScript toolset that turns developers into animation superheroes.
-        - 🎉 [Ossos](https://github.com/sketchpunklabs/ossos) - Webbased character animation system.
+        - 💸 [GreenSock](https://greensock.com) [:octocat:](https://github.com/greensock/GSAP) - Robust animation toolset.
+        - 🎉 [Ossos](https://github.com/sketchpunklabs/ossos) - Web-based character animation system.
         - 🎉 [React-Spring](https://react-spring.io/) [:octocat:](https://github.com/pmndrs/react-spring) - Spring physics based React animation library.
         - 🎉 [Scene.js](https://daybrush.com/scenejs/) [:octocat:](https://github.com/daybrush/scenejs) - JavaScript & CSS timeline-based animation library.
         - 🎉 [Theatre](https://www.theatrejs.com/) [:octocat:](https://github.com/theatre-js/theatre) - Motion design editor for the web.
-        - 🎉 [Tween.js](http://tweenjs.github.io/tween.js/) [:octocat:](https://github.com/tweenjs/tween.js) - Tweening engine for easy animations, incorporating optimised Robert Penner's equations.
-        - 🎉 [TweenJS](https://createjs.com/tweenjs) [:octocat:](https://github.com/CreateJS/TweenJS) - Simple but powerful tweening / animation library for JavaScript, part of the CreateJS suite of libraries.
+        - 🎉 [Tween.js](http://tweenjs.github.io/tween.js/) [:octocat:](https://github.com/tweenjs/tween.js) - Tweening engine for easy animations using Robert Penner's equations.
+        - 🎉 [TweenJS](https://createjs.com/tweenjs) [:octocat:](https://github.com/CreateJS/TweenJS) - Tweening / animation library, part of the CreateJS suite.
     - #### JavaScript: Audio
-        - 🎉 [Howler.js](https://howlerjs.com) [:octocat:](https://github.com/goldfire/howler.js) - Makes working with audio in JavaScript easy and reliable across all platforms.
-        - 🎉 [PixiJS Sound](https://pixijs.io/sound/examples/) [:octocat:](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Modern audio playback for modern browsers. Built on, and requires PixiJS.
-        - 🎉 [SoundJS](https://createjs.com/soundjs) [:octocat:](https://github.com/CreateJS/SoundJS) - Simple API and powerful features to make working with audio a breeze, part of the CreateJS suite of libraries.
-        - 🎉 [Sonant-X](https://github.com/nicolas-van/sonant-x) - Very small JavaScript synthesizer library, suitable for small JavaScript demos or video games. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
+        - 🎉 [Howler.js](https://howlerjs.com) [:octocat:](https://github.com/goldfire/howler.js) - Audio made easy and reliable across all platforms.
+        - 🎉 [PixiJS Sound](https://pixijs.io/sound/examples/) [:octocat:](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Built on, and requires PixiJS.
+        - 🎉 [SoundJS](https://createjs.com/soundjs) [:octocat:](https://github.com/CreateJS/SoundJS) - Simple API and powerful features, part of the CreateJS suite.
+        - 🎉 [Sonant-X](https://github.com/nicolas-van/sonant-x) - Very small JavaScript synthesizer library. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
         - 🎉 [Tone.js](https://tonejs.github.io) [:octocat:](https://github.com/Tonejs/Tone.js) - WebAudio framework for creating interactive music in the browser.
         - 🎉 [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the WebAudio API.
         - 🎉 [Waveform Playlist](https://naomiaro.github.io/waveform-playlist/) [:octocat:](https://github.com/naomiaro/waveform-playlist) - Multitrack web audio editor and player with canvas waveform preview.
