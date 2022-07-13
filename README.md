@@ -774,6 +774,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) - Toolkit that simplifies the creation of interactive 2D / 3D experiences for any device from mobile to desktop to AR/VR.
         - ⭐ [OGL](oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) - Very fast and powerful minimal WebGL library.
         - 🎉 [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
+        - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 Easy to use, lightweight, cross-browser, general purpose 3D library. [[Scene Editor](https://threejs.org/editor/) | [Official Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/fritx/awesome-threejs)]
         - 🎉 [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed.
     - #### JavaScript: Graphics - Three.js Reference
@@ -795,6 +796,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Inferno](https://www.infernojs.org/) [:octocat:](https://github.com/infernojs/inferno) - Insanely fast, React-like library for building high-performance user interfaces on both the client and server.
         - 🎉 [jQuery UI](https://jqueryui.com/) [:octocat:](https://github.com/jquery/jquery-ui) - The official GUI library for jQuery.
         - 🎉 [Leva](https://leva.pmnd.rs/) [:octocat:](https://github.com/pmndrs/leva) - React-first components GUI.
+        - 🎉 [Magic Circle](https://magic-circle.dev/) [:octocat:](https://github.com/dpwoert/magic-circle) - Multi-functional gui inspired by dat.GUI, Unity and Framer.
         - 🎉 [PCUI](https://playcanvas.github.io/pcui) [:octocat:](https://github.com/playcanvas/pcui) - UI component library for the web, made for PlayCanvas.
         - 🎉 [uil](https://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) - Simple JavaScript UI.
         - 🎉 [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
