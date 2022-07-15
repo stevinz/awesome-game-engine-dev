@@ -811,23 +811,24 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Socket.io](https://socket.io/) [:octocat:](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
         - 🎉 [WebRTC](https://webrtc.org/) - Supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice and video communication solutions.
     - #### JavaScript: Physics
-        - 🎉 [Ammo.js](https://github.com/kripken/ammo.js) - Direct port of the 3D Bullet Physics engine to JavaScript (as WebAssembly) using Emscripten.
-        - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) - Port of Box2D to JavaScript (as WebAssembly).
-        - 🎉 [Cannon-es](https://pmndrs.github.io/cannon-es/) [:octocat:](https://github.com/pmndrs/cannon-es) - This is a maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js), a lightweight 3D physics engine written in JavaScript.
+        - 🎉 [Ammo.js](https://github.com/kripken/ammo.js) - 3D Bullet Physics engine ported as WebAssembly.
+        - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) - Box2D to ported as WebAssembly.
+        - 🎉 [Cannon-es](https://pmndrs.github.io/cannon-es/) [:octocat:](https://github.com/pmndrs/cannon-es) - Maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js), a 3D physics engine written in JavaScript.
         - 🎉 [Goblin Physics](http://www.goblinphysics.com) [:octocat:](https://github.com/chandlerprall/GoblinPhysics) - Open source 3D physics engine written from the ground up in JavaScript.
         - 🎉 [Matter.js](https://brm.io/matter-js/) [:octocat:](https://github.com/liabru/matter-js) - Amazing, full featured 2D physics engine for the web.
         - 🎉 [Oimo.js](http://lo-th.github.io/Oimo.js) [:octocat:](https://github.com/lo-th/Oimo.js) - Lightweight 3D physics engine for JavaScript.
-        - 🎉 [p2.js](https://github.com/schteppe/p2.js) - JavaScript 2D rigid body physics engine, by the creator of the JavaScript 3D physics engine Cannon.js.
+        - 🎉 [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics, by the creator of Cannon.js.
         - 🎉 [Particulate.js](https://github.com/jpweeks/particulate-js) - Particle physics library designed to be simple, fast and stable.
-        - 🎉 [Planck.js](https://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) - JavaScript (TypeScript) rewrite of Box2D physics engine for cross-platform HTML5 game development, from the maintainer of Stage.js.
-        - 🎉 [Rapier](https://rapier.rs/docs/user_guides/javascript/getting_started_js) - Awesome Rust physics libary with 2D and 3D physics engines focused on performance, ported to JavaScript (as WebAssembly).
+        - 🎉 [Planck.js](https://piqnt.com/planck.js/) [:octocat:](https://github.com/shakiba/planck.js) - JavaScript rewrite of the Box2D physics engine.
+        - 🎉 [Physijs](https://github.com/chandlerprall/Physijs) - Physics plugin for Three.js
+        - 🎉 [Rapier](https://rapier.rs/docs/user_guides/javascript/getting_started_js) - Rust 2D/3D physics libary focused on performance, ported as WebAssembly.
         - 🎉 [Verly.js](https://anuraghazra.dev/Verly.js/) [:octocat:](https://github.com/anuraghazra/Verly.js) - Easy to integrate verlet physics engine.
     - #### JavaScript: Utility
         - 🎉 [Clipboard.js](https://clipboardjs.com/) [:octocat:](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped.
         - 🎉 [Day.js](https://day.js.org/) [:octocat:](https://github.com/iamkun/dayjs) - Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) with the same modern API.
-        - 🎉 [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) - Popular internationalization framework for browser or any other JavaScript environment.
-        - 🎉 [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) much simpler.
-        - 🎉 [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) - Makes preloading assets & getting aggregate progress events easier in JavaScript, part of CreateJS.
+        - 🎉 [i18next](https://www.i18next.com/) [:octocat:](https://github.com/i18next/i18next) - Popular internationalization framework.
+        - 🎉 [jQuery](https://jquery.com) [:octocat:](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library.
+        - 🎉 [PreloadJS](https://createjs.com/preloadjs) [:octocat:](https://github.com/CreateJS/PreloadJS) - Makes preloading assets w/progress events easier.
         - 🎉 [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
     - #### JavaScript: Timeline
         - 🎉 [Frame.js](https://framejs.app/) [:octocat:](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
@@ -835,10 +836,10 @@ _Language specific game engine development libraries / frameworks / code._
     - #### JavaScript: Video
         - 💸 [Remotion](https://www.remotion.dev/) [:octocat:](https://github.com/remotion-dev/remotion) - Create videos programmatically in React.
     - #### JavaScript: Visual Programming / Nodes
-        - 🎉 [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) - (by [Alibaba](https://www.alibabagroup.com/en/global/home)) JavaScript / React / Vue2 diagramming library which concentrated on flow and field layout.
+        - 🎉 [Butterfly](https://butterfly-dag.gitee.io/butterfly-dag/home) [:octocat:](https://github.com/alibaba/butterfly) - (by [Alibaba](https://www.alibabagroup.com/en/global/home)) Diagramming library concentrated on flow and field layout.
         - 🎉 [Drawflow](https://jerosoler.github.io/Drawflow/) [:octocat:](https://github.com/jerosoler/Drawflow) - Simple JavaScript flow library.
         - 🎉 [Flow](https://github.com/sunag/flow) - Node-Graph, lightweight, cross-browser UI library.
-        - 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) - Library to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs. [[Demo](https://tamats.com/projects/litegraph/editor/)]
+        - 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) - Create graphs in the browser similar to Unreal Blueprints. [[Demo](https://tamats.com/projects/litegraph/editor/)]
         - 🎉 [Node-RED](https://nodered.org/) [:octocat:](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
         - 🎉 [Rete.js](https://rete.js.org/) [:octocat:](https://github.com/retejs/rete) - Framework for visual programming and creating a node editor.
 
@@ -856,28 +857,28 @@ _Language specific game engine development libraries / frameworks / code._
 
 - ### Python
     - #### - General -
-        - 🌎 [Python.org](https://www.python.org) - Programming language that lets you work quickly and integrate systems more effectively. [[Docs](https://www.python.org/doc/)]
+        - 🌎 [Python.org](https://www.python.org) - Programming language that lets you work quickly. [[Docs](https://www.python.org/doc/)]
     - #### Awesome Collections
-        - 📚 [Awesome Python](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+        - 📚 [Awesome Python](https://github.com/vinta/awesome-python) - List of awesome Python frameworks, libraries, software and more.
     - #### Python: App Framework
-        - 🎉 [Pyglet](http://pyglet.org/) [:octocat:](https://github.com/pyglet/pyglet) - Cross-platform windowing and multimedia library for Python, intended for developing games and other visually rich applications.
+        - 🎉 [Pyglet](http://pyglet.org/) [:octocat:](https://github.com/pyglet/pyglet) - Windowing and multimedia library, intended for game dev.
     - #### Python: Cross-Platform
         - 💸 [Anvil](https://anvil.works) - Full stack web apps with nothing but Python.
     - #### Python: Game Framework
         - 🎉 [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
-        - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) - Powerful, mature cross-platform game engine for Python and C++, developed by Disney and CMU.
-        - 🔒 [Pygame](https://www.pygame.org/news) [:octocat:](https://github.com/pygame/pygame) - Library for making multimedia applications (like games) using Python, built on top of the excellent SDL library.
-        - 🎉 [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module that can display a grid of text characters in a Pygame Surface Object. Provides an easy way to create text adventures, roguelikes, and console-style applications in Python.
+        - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU.
+        - 🔒 [Pygame](https://www.pygame.org/news) [:octocat:](https://github.com/pygame/pygame) - Multimedia library, built on top of the excellent SDL library.
+        - 🎉 [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module, great for text adventures / roguelikes.
     - #### Python: Gui
-        - 🎉 [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
+        - 🎉 [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) - Gross-platform gui framework written in Python.
 
 - ### Ruby
     - #### - General -
-        - 🌎 [Ruby](https://www.ruby-lang.org/en/) [:octocat:](https://github.com/ruby/ruby) - Dynamic, open source programming language with a focus on simplicity and productivity.
+        - 🌎 [Ruby](https://www.ruby-lang.org/en/) [:octocat:](https://github.com/ruby/ruby) - Dynamic, open source programming language, focused on simplicity / productivity.
     - #### Awesome Collections
         - 📚 [Awesome Ruby](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
     - #### Ruby: Framework
-        - 🎉 [Ruby on Rails](https://rubyonrails.org) [:octocat:](https://github.com/rails/rails) - Web application framework designed to make programming web applications easier.
+        - 🎉 [Ruby on Rails](https://rubyonrails.org) [:octocat:](https://github.com/rails/rails) - Web application framework.
     - #### Ruby: Game Framework
         - 🎉 [Ruby 2D](https://www.ruby2d.com/) [:octocat:](https://github.com/ruby2d/ruby2d) - Make cross-platform 2D applications in Ruby.
     - #### Ruby: Graphics - 3D
@@ -892,7 +893,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Awesome Collections
         - 📚 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
     - #### Rust: App Framework
-        - 🎉 [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) - Cross-platform software development platform and native-rendering UI framework.
+        - 🎉 [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework.
         - 🎉 [Tao](https://docs.rs/tao/latest/tao/) [:octocat:](https://github.com/tauri-apps/tao) - Cross-platform windowing.
     - #### Rust: Game Framework
         - 🎉 [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) - Data-driven 2D / 3D game engine aiming to be fast and configurable.
@@ -903,13 +904,13 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Rust: Gui
         - 🎉 [Druid](https://linebender.org/druid/) [:octocat:](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit.
         - 🎉 [egui](https://github.com/emilk/egui) - Awesome, easy to use, immediate mode GUI, runs on both web and native. [[Demo](https://www.egui.rs/)]
-        - 🔒 [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) - (formerly SixtyFPS) Gui toolkit to efficiently develop fluid displays for embedded devices and desktop applications, supports Rust, C++ or JavaScript.
+        - 🔒 [Slint](https://slint-ui.com/) [:octocat:](https://github.com/slint-ui/slint) - (formerly SixtyFPS) Gui toolkit for embedded devices / desktop apps.
     - #### Rust: Physics
         - 🎉 [Rapier](https://rapier.rs) [:octocat:](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 
 - ### Zig
     - #### - General -
-        - 🌎 [Zig](https://ziglang.org/) [:octocat:](https://github.com/michal-z/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [[Docs](https://ziglang.org/documentation/master/)]
+        - 🌎 [Zig](https://ziglang.org/) [:octocat:](https://github.com/michal-z/zig) - General-purpose programming language and toolchain. [[Docs](https://ziglang.org/documentation/master/)]
         - 🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
         - 📚 [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
     - #### Awesome Collections
@@ -919,7 +920,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Zig: File System
         - 🎉 [Known Folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
     - #### Zig: Game Engine w/Editor
-        - 🎉 [Mach](https://hexops.com/mach/) [:octocat:](https://github.com/hexops/mach) - Still in early developemnt, Mach is a game engine & graphics toolkit with large ambitions.
+        - 🎉 [Mach](https://hexops.com/mach/) [:octocat:](https://github.com/hexops/mach) - Game engine & graphics toolkit, still in early developemnt.
     - #### Zig: Game Framework
         - 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) - Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
     - #### Zig: Graphics - 2D
@@ -935,14 +936,14 @@ _Successful video games to pick apart and gain knowledge._
 - ### C
     - 🔒 [Doom](https://github.com/id-Software/DOOM) - The original 1993 3D masterpiece by id Software.
     - 🔒 [Gish](https://store.steampowered.com/app/9500/Gish/) [:octocat:](https://github.com/blinry/gish) - Open Source version of the award-winning physics platformer.
-    - 💸 [Handmade Hero](https://handmadehero.org/) - Huge collection of YouTube videos on making a video game from start to finish, along with the option to access the source code for $15.
+    - 💸 [Handmade Hero](https://handmadehero.org/) - Videos on making a game from start to finish, source code for $15.
 
 - ### C++
-    - 🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) - Classic roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.
+    - 🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) - Classic roguelike adventure.
     - 🎉 [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat:](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
     - 🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
     - 🎉 [TeeWorlds](https://teeworlds.com/) [:octocat:](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter.
-    - 🔒 [zDoom](https://zdoom.org/index) [:octocat:](https://github.com/coelckers/gzdoom) - Modern, feature centric port for all Doom engine games, adding an OpenGL renderer and powerful scripting capabilities.
+    - 🔒 [zDoom](https://zdoom.org/index) [:octocat:](https://github.com/coelckers/gzdoom) - Modern, feature centric port for all Doom engine games.
 
 - ### Java
     - 🔒 [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
@@ -955,7 +956,7 @@ _Exploring specialty application / game engine / game development topics and fea
 
 - ### AI / Pathfinding
     - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Introduction to AI Programming for Games at RayWenderlich.com.
-    - 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Introduction to a range of concepts used in artificial intelligence for games at GameDev.net.
+    - 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in AI for games.
 
 - ### Animation Info
     - 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
