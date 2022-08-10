@@ -922,7 +922,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Zig: Game Engine w/Editor
         - 🎉 [Mach](https://hexops.com/mach/) [:octocat:](https://github.com/hexops/mach) - Game engine & graphics toolkit, still in early developemnt.
     - #### Zig: Game Framework
-        - 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) - Collection of sample applications and libraries written in Zig using DirectX 12 for rendering.
+        - 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) - Sample apps and libraries written in Zig using DirectX 12.
     - #### Zig: Graphics - 2D
         - 🎉 [Mini Pixel](https://fabioarnold.itch.io/mini-pixel) [:octocat:](https://github.com/fabioarnold/MiniPixel) - Tiny pixel art editor.
         - 🔒 [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
@@ -959,50 +959,50 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in AI for games.
 
 - ### Animation Info
-    - 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Basic and intermediate principles for using skeletons with inverse kinematics for character animation.
+    - 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with ik for animation.
 
 - ### Color Manipulation
-    - 📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) - Nice info about the use of procedural palettes and how to generate them.
-    - 📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) - Great article (with example JavaScript project) explaining a method to convert colors from the RYB (red, yellow, blue) color wheel used in painting to RGB space.
+    - 📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) - Procedural palettes and how to generate them.
+    - 📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat:](https://github.com/bahamas10/ryb) - Convert colors from the paint color wheel to RGB space.
 
 - ### Entity Component Systems
-    - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Article that provides a basis for an eneity component system in C++.
-    - 📚 [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) - Article that provides a solid overview of EC systems and why you should use them at [Cowboy Programming](https://cowboyprogramming.com).
-    - 📚 [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) - Nice blog post about component based architecture at at RayWenderlich.com.
-    - 📚 [Nomad Game Engine](https://savas.ca/nomad) [:octocat:](https://github.com/taurheim/NomadECS) - Series of articles building a basic entity component system from the ground up in C++.
-    - 📚 [What's an Entity System](http://entity-systems.wikidot.com) - Overview of component / entity systems and how they are used in game development.
+    - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an eneity component system in C++.
+    - 📚 [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) - Overview of EC systems and why to use them, at [Cowboy Programming](https://cowboyprogramming.com).
+    - 📚 [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) - Component based architecture.
+    - 📚 [Nomad Game Engine](https://savas.ca/nomad) [:octocat:](https://github.com/taurheim/NomadECS) - Articles building a basic ECS from the ground up in C++.
+    - 📚 [What's an Entity System](http://entity-systems.wikidot.com) - Overview of ECS, how they are used in game development.
 
 - ### Fluid / Smoke
-    - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Method for fast, stable fluid simulation that runs entirely on the GPU.
+    - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Fast, stable fluid simulation on the GPU.
     - 🔒 [Fluids-2D](https://www.csc.kth.se/~mathar/fluids-2d/) [:octocat:](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js.
     - 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) [:octocat:](https://github.com/haxiomic/GPU-Fluid-Experiments) - Cross-platform GPU fluid simulation.
     - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) [:octocat:](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile).
 
 - ### Geometry
     - #### Algorithms
-        - 📚 [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) - Online book that covers algorithms for fundamental geometric objects, computing bounding containers, convex hulls, polyline simplification and more.
+        - 📚 [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) - Geometries, convex hulls, polyline simplification and more.
     - #### CSG (Constructive Solid Geometry)
-        - 📚 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - In depth explantion on Wikipedia of Constructive Solid Geometry, a techique used to build models using boolean operations to combine primitive objects.
-        - 🎉 [csg.js](https://evanw.github.io/csg.js/) [:octocat:](https://github.com/evanw/csg.js/) - Javacsript library implementing CSG (Constructive Solid Geometry) operations on meshes using BSP trees, meant to serve as an easily understandable implementation of the algorithm.
+        - 📚 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Techique using boolean operations to combine primitive objects.
+        - 🎉 [csg.js](https://evanw.github.io/csg.js/) [:octocat:](https://github.com/evanw/csg.js/) - Javacsript library implementing CSG (Constructive Solid Geometry).
     - #### Meshes
-        - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) - Interesting info on Apples private API that allows manipulation of the mesh of any UIView.
+        - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) [:octocat:](https://github.com/olegtyshcneko/CAMeshTransform) - Apples private API that allows manipulation of the mesh of any UIView.
     - #### Smoothing
         - 📚 [Laplacian Smoothing](http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh) - Draft notes with c++ code for laplacian smoothing of meshes.
-        - 📚 [Subdivision at Matt's Webcorner](http://graphics.stanford.edu/~mdfisher/subdivision.html) - Subdivision is a powerful and easily implemented algorithm used, in it's simplest application, to smooth meshes.
+        - 📚 [Subdivision at Matt's Webcorner](http://graphics.stanford.edu/~mdfisher/subdivision.html) - Smoothing with subdivision surfaces.
         - 📚 [Subdivision Surfaces](http://www.holmes3d.net/graphics/subdivision/) - Explanations of different schemes used for subdividing surfaces.
 
 - ### Lighting / Shadows
     - #### Gamma
-        - 📚 [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Great writeup about gamma-correctness in image processing and light emission vs perceptual brightness.
+        - 📚 [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Light emission vs perceptual brightness.
     - #### Lighting 2D
         - 📚 [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) - Simple introduction to 2D lighting in a game with GLSL.
-        - 📚 [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) - Nice summary of techniques used in proper 2D lighting with diffuse lighting, self illumination and normal maps.
+        - 📚 [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) - Proper 2D lighting with diffuse lighting, self illumination and normal maps.
     - #### Lighting 3D
-        - 📚 [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) - Excellent basic 3D lighting article by LearnOpenGL. There are many excellent more advanced follow-up articles on this site.
+        - 📚 [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) - 3D lighting article by LearnOpenGL.
     - #### Shadows 2D
         - 📚 [2D Pixel Perfect Shadows](https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows) - An approach to 2D pixel-perfect lights/shadows using shaders.
-        - 📚 [2D Visibility](https://www.redblobgames.com/articles/visibility/) - Excellent interactive tutorial on 2D visibility. Written in Haxe and transpiled to Java, JavaScript and C#.
-        - 📚 [Fast 2D shadows in Unity](https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping) - Article about adapting traditional techniques from 3D rendering to achieve fast 2D shadows for a large number of light sources in the Unity game engine.
+        - 📚 [2D Visibility](https://www.redblobgames.com/articles/visibility/) - Excellent interactive tutorial on 2D visibility.
+        - 📚 [Fast 2D shadows in Unity](https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping) - Adapting 3D rendering techniques to achieve fast 2D shadows.
         - 📚 [Sight & Light](https://ncase.me/sight-and-light/) [:octocat:](https://github.com/ncase/sight-and-light) - How to create 2D visibility/shadow effects for your game.
         - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
     - #### Shadows 3D
