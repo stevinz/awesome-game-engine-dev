@@ -550,9 +550,11 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [OpenTK](https://opentk.net) [:octocat:](https://github.com/opentk/opentk) - C# bindings for OpenGL. [[LearnOpenGL Examples, ported to OpenTK](https://github.com/opentk/LearnOpenTK)]
         - 🎉 [Veldrid](https://veldrid.dev) [:octocat:](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
     - #### C#: Gui
+        - 🎉 [Avalonia](https://avaloniaui.net/) [:octocat:](https://github.com/AvaloniaUI/Avalonia) - Cross-platform UI framework for .NET.
         - 🎉 [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - UI system for MonoGame projects.
         - 🎉 [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) - MonoGame render window for Windows Forms.
         - 🎉 [Myra](https://github.com/rds1983/Myra) - UI Library for MonoGame, FNA, and Stride.
+        - 🎉 [Uno](https://platform.uno/) [:octocat:](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library.
     - #### C#: Physics
         - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - Great 2D physics library with continuous collision detection.
         - 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) - (formerly Farseer Physics) Original C# port of Box2D.
