@@ -584,6 +584,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Go: Game Engine w/Editor
         - 🎉 [G3N](http://g3n.rocks/) [:octocat:](https://github.com/g3n/engine) - OpenGL 3D Game Engine written in Go.
     - #### Go: Game Framework
+        - 🎉 [Ebitengine](https://ebiten.org/) [:octocat:](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library.
         - 🎉 [Engo](https://engoengine.github.io/) [:octocat:](https://github.com/EngoEngine/engo) - Open-source 2D game framework written in Go.
         - 🎉 [Pixel](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go. [[Examples](https://github.com/faiface/pixel-examples)]
     - #### Go: Geometry
