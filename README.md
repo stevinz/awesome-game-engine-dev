@@ -147,6 +147,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
     - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
     - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
+    - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
     - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in GameMaker.
     - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
     - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
