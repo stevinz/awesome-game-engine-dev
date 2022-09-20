@@ -404,6 +404,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
         - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
         - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
+        - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
         - 🎉 [Kruger](https://github.com/BobbyAnguelov/KRG) - No renderer, but handles resources, serialization, reflection, animation and more.
         - 🎉 [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for writing game code with Lua.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
