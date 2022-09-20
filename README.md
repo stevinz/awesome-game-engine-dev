@@ -899,6 +899,8 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Rust: App Framework
         - 🎉 [Makepad](https://makepad.dev) [:octocat:](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework.
         - 🎉 [Tao](https://docs.rs/tao/latest/tao/) [:octocat:](https://github.com/tauri-apps/tao) - Cross-platform windowing.
+    - #### Rust: Game Engine w/Editor
+        - 🎉 [Fyrox](https://fyrox.rs/) [:octocat:](https://github.com/FyroxEngine/Fyrox) - (formerly rg3d) 2D / 3D game engine with a scene editor.
     - #### Rust: Game Framework
         - 🎉 [Amethyst](https://amethyst.rs) [:octocat:](https://github.com/amethyst/amethyst) - Data-driven 2D / 3D game engine aiming to be fast and configurable.
         - 🎉 [Bevy](https://bevyengine.org) [:octocat:](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D / 3D game engine built in Rust.
