@@ -1030,6 +1030,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
         - 💸 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
     - #### Modeling
+        - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
         - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
         - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
 
