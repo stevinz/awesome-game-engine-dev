@@ -72,6 +72,8 @@ This list currently favors (but is not limited to) programming game engines in t
         - <sub><sup>[Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing)</sup></sub>
     - [Lighting / Shadows](#lighting--shadows)
         - <sub><sup>[Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric)</sup></sub>
+    - [Machine Learning](#machine-learning)
+        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling)</sup></sub>
     - [Network](#network)
     - [Particles](#particles)
     - [Physics](#physics)
@@ -1019,6 +1021,17 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Volumetric
         - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) - Great example of volumetric lighting with Three.js.
         - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
+
+- ### Machine Learning
+    - #### Imaging
+        - 💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
+        - 🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat:](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
+        - 💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
+        - 💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
+        - 💸 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
+    - #### Modeling
+        - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
+        - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
 
 - ### Network
     - 📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve’s Source Engine multiplayer system.
