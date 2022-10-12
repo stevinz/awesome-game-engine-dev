@@ -168,6 +168,7 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
         - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
         - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by NVIDIA.
+        - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - A top down approach to computer graphics.
         - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
     - #### Education Portals
         - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
