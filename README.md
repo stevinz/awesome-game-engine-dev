@@ -1005,7 +1005,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Subdivision Surfaces](http://www.holmes3d.net/graphics/subdivision/) - Explanations of different schemes used for subdividing surfaces.
 
 - ### Hair
-    - 📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity.
+    - 📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) [:octocat:](https://github.com/zadvorsky/three-fuzzy-mesh) - Simulating fur with cones and gravity.
 
 - ### Lighting / Shadows
     - #### Gamma
@@ -1094,8 +1094,9 @@ _Exploring specialty application / game engine / game development topics and fea
         - 🎉 [WebGL Noise](https://github.com/stegu/webgl-noise/) - Maintained branch of the original Ashima Arts 2D, 3D and 4D noise functions.
     - #### Outlines
         - 🌎 [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) - Drawing an outline on the alpha channel of a 2D image.
-        - 📚 [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) - Fantastic article with shader code on dynamically adding outlines to characters.
+        - 📚 [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) - Article with shader code on dynamically adding outlines to characters.
         - 🎉 [Outline Shader](https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/) [:octocat:](https://github.com/steincodes/godot-shader-tutorials) - Reddit post and GitHub repo of nice outline shader.
+        - 📚 [Outlines w/ Surface IDs](https://omar-shehata.medium.com/better-outline-rendering-using-surface-ids-with-webgl-e13cdab1fd94) [:octocat:](https://github.com/OmarShehata/webgl-outlines) - Technique combining depth, normals and surface IDs.
         - 📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) - Truly excellent article on producing a sketchy outline look.
     - #### Pixelation
         - 📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
