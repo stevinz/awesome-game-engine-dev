@@ -70,10 +70,9 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Fluid / Smoke](#fluid--smoke)
     - [Geometry](#geometry)
         - <sub><sup>[Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing)</sup></sub>
+    - [Hair](#hair)
     - [Lighting / Shadows](#lighting--shadows)
         - <sub><sup>[Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric)</sup></sub>
-    - [Machine Learning](#machine-learning)
-        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling)</sup></sub>
     - [Network](#network)
     - [Particles](#particles)
     - [Physics](#physics)
@@ -88,6 +87,8 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Animation Software](#animation-software)
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
+    - [Generative Art](#generative-art)
+        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling)</sup></sub>
     - [Image Editors](#image-editors)
     - [Level Editors](#level-editors)
     - [Materials / Textures](#materials--textures)
@@ -1003,6 +1004,9 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Subdivision at Matt's Webcorner](http://graphics.stanford.edu/~mdfisher/subdivision.html) - Smoothing with subdivision surfaces.
         - 📚 [Subdivision Surfaces](http://www.holmes3d.net/graphics/subdivision/) - Explanations of different schemes used for subdividing surfaces.
 
+- ### Hair
+    - 📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity.
+
 - ### Lighting / Shadows
     - #### Gamma
         - 📚 [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Light emission vs perceptual brightness.
@@ -1024,18 +1028,6 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Volumetric
         - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat:](https://github.com/jeromeetienne/threex.volumetricspotlight) - Great example of volumetric lighting with Three.js.
         - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
-
-- ### Machine Learning
-    - #### Imaging
-        - 💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
-        - 🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat:](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
-        - 💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
-        - 💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
-        - 💸 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
-    - #### Modeling
-        - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
-        - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
-        - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
 
 - ### Network
     - 📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve’s Source Engine multiplayer system.
@@ -1174,6 +1166,18 @@ _Software to help with game engine / video game development._
     - 🌎 [COLOURlovers](https://www.colourlovers.com) - Share colors, palettes and patterns.
     - 🌎 [Coolors](https://coolors.co) - Super fast color palette generator.
     - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
+
+- ### Generative Art
+    - #### Imaging
+        - 💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
+        - 🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat:](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
+        - 💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
+        - 💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
+        - 💸 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
+    - #### Modeling
+        - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
+        - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
+        - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
 
 - ### Image Editors
     - 🆓 [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) - GNU Image Manipulation Program, free and open-source cross-platform image editor.
