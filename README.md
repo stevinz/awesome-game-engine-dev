@@ -412,6 +412,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Kruger](https://github.com/BobbyAnguelov/KRG) - No renderer, but handles resources, serialization, reflection, animation and more.
         - 🎉 [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for writing game code with Lua.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
+        - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
         - 🎉 [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
         - 🎉 [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) - Small, portable and extensible C++ 3D coding framework.
         - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain C++ game engine mainly targeted for development of 2D games.
@@ -490,6 +491,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Edyn](https://github.com/xissburg/edyn) - Multi-threaded, networked physics engine, supports large dynamic worlds. [[Testbed](https://github.com/xissburg/edyn-testbed)]
         - 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body 3D physics and collision detection library.
         - 🎉 [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) - Extension of Box2D, adds particle based fluid and soft bodies.
+        - 🎉 [Newton Dynamics](http://www.newtondynamics.com/) [:octocat:](https://github.com/MADEAPPS/newton-dynamics/) - Real time simulation of 3D environments.
         - 🎉 [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
         - 🎉 [Qu3e](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
     - #### C++: Reflection
