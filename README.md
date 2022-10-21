@@ -54,6 +54,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Kotlin](#kotlin)
+    - [Pascal](#pascal)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
@@ -865,8 +866,23 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Kotlin: Game Engine w/Editor
         - 🎉 [KorGE](https://korge.org/) [:octocat:](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
     - #### Kotlin: Game Framework
+        - 🎉 [FXGL](https://github.com/AlmasB/FXGL) - Game library for 2D, experimental 3D.
         - 🎉 [Kool](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan/OpenGL graphics engine. [[Demos](https://fabmax.github.io/kool/kool-js/)]
         - 🎉 [KTW](https://libktx.github.io/) [:octocat:](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework.
+
+- ### Pascal
+    - #### - General -
+        - 🌎 [Delphi](https://www.embarcadero.com/products/delphi) - Popular IDE with cross-platform support.
+        - 🌎 [Free Pascal](https://www.freepascal.org/) - Mature, versatile, open source Pascal compiler.
+        - 📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
+    - #### Awesome Collections
+        - 📚 [Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
+    - #### Pascal: Game Engine w/Editor
+        - 🎉 [Castle](https://castle-engine.io/) [:octocat:](https://github.com/castle-engine/castle-engine) - Cross-platform 3D/2D game engine and visual editor.
+    - #### Pascal: Game Framework
+        - 🎉 [Apus](https://github.com/Cooler2/ApusGameEngine) - Cross-platform library for making 2D games.
+    - #### Pascal: Physics
+        - 🎉 [Kraft](https://github.com/BeRo1985/kraft) - Object Pascal 3D physics engine.
 
 - ### Python
     - #### - General -
