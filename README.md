@@ -83,6 +83,7 @@ This list currently favors (but is not limited to) programming game engines in t
         - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
     - [Signed Distance Fields](#signed-distance-fields)
     - [Tiling](#tiling)
+    - [Transparency](#transparency)
 - [Tools / Software](#tools--software)
     - [2D Game Dev](#2d-game-dev)
     - [Animation Software](#animation-software)
@@ -1033,6 +1034,8 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) - Proper 2D lighting with diffuse lighting, self illumination and normal maps.
     - #### Lighting 3D
         - 📚 [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) - 3D lighting article by LearnOpenGL.
+        - 📚 [Forward Rendering vs. Deferred Rendering](https://gamedevelopment.tutsplus.com/articles/forward-rendering-vs-deferred-rendering--gamedev-12342) - Techniques for handling many lights.
+        - 📚 [Forward+ Rendering](https://www.3dgep.com/forward-plus/) - (aka Tiled Forward Shading) Forward rendering with tiled light culling.
     - #### Shadows 2D
         - 📚 [2D Pixel Perfect Shadows](https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows) - An approach to 2D pixel-perfect lights/shadows using shaders.
         - 📚 [2D Visibility](https://www.redblobgames.com/articles/visibility/) - Excellent interactive tutorial on 2D visibility.
@@ -1142,6 +1145,9 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Great tutorial on 2D edge and corner matched tilesets.
     - 📚 [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) - Wikipedia article on uniform tiling, space-filling polygons.
     - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - 3D polygons that fill space. [[Wikipedia](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [5 Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
+
+- ### Transparency
+    - 📚 [Order Independent Transparency](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) - Transparency without distance sorting.
 
 <br />
 <br />
