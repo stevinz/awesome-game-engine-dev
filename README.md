@@ -15,7 +15,7 @@ This list currently favors (but is not limited to) programming game engines in t
 <ins> **License Legend** </ins>
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
-    - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries)#License) etc.)
+    - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://www.boost.org/users/license.html) etc.)
     - 🔒 - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) / [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
 - Asset / Service / Tool
     - 🆓 - Free
@@ -411,7 +411,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
         - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
         - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
-        - 🎉 [Kruger](https://github.com/BobbyAnguelov/KRG) - No renderer, but handles resources, serialization, reflection, animation and more.
         - 🎉 [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for writing game code with Lua.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
         - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
@@ -609,7 +608,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
         - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to Haxe's website.
         - 📚 [HaxeTink](https://github.com/haxetink) - Various add-on libraries for Haxe.
-        - 🌎 [Snowkit](http://snowkit.org) [:octocat:](https://github.com/snowkit) - Collective of Haxe developers.
+        - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
     - #### Blog Articles
         - 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
         - 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
@@ -861,7 +860,7 @@ _Language specific game engine development libraries / frameworks / code._
 - ### Kotlin
     - #### - General -
         - 🌎 [Kotlin](https://kotlinlang.org/) [:octocat:](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
-        - 📚 [Kotlin Docs](https://kotlinlang.org/docs/home.html) - Official docs.
+        - 📚 [Kotlin Docs](https://kotlinlang.org/docs/) - Official docs.
     - #### Awesome Collections
         - 📚 [Awesome Kotlin](https://kotlin.link/) [:octocat:](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
     - #### Kotlin: Game Engine w/Editor
