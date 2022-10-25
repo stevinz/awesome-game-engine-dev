@@ -123,7 +123,7 @@ _Production game engines to tinker with, explore, learn and inspire._
 - ### AAA
     - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
     - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
-    - 💸 [CRYENGINE](https://www.cryengine.com) [:octocat:](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform created by Crytek.
+    - 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform created by Crytek.
     - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
     - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
@@ -248,7 +248,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
     - #### BASIC: App Framework
         - 💰 [Basic for Qt](https://www.q7basic.org/index.html) - (formerly Q7Basic) BASIC language and environment built on top of Qt.
-        - 🎉 [QB64](https://qb64.org) [:octocat:](https://github.com/QB64Team/qb64) - Modern BASIC + OpenGL language, retains QB4.5 / QBasic compatibility.
+        - 🎉 [QB64](https://qb64.com/) [:octocat:](https://github.com/QB64Team/qb64) - Modern BASIC + OpenGL language, retains QB4.5 / QBasic compatibility.
         - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language developed by Microsoft.
     - #### BASIC: Game Framework
         - 🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat:](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating Windows apps and games.
@@ -618,7 +618,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [DragonBones](https://github.com/openfl/dragonbones) - Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
         - 🎉 [Spine-Hx](https://github.com/jeremyfa/spine-hx) - Spine runtime for Haxe.
     - #### Haxe: App Framework
-        - 🎉 [Lime](https://lime.software) [:octocat:](https://github.com/haxelime/lime) - Flexible, lightweight layer for Haxe cross-platform developers.
+        - 🎉 [Lime](https://lime.openfl.org/) [:octocat:](https://github.com/haxelime/lime) - Flexible, lightweight layer for Haxe cross-platform developers.
         - 🎉 [nme](https://github.com/haxenme/nme) - Cross-platform native backend for Haxe projects.
     - #### Haxe: Cross-Platform
         - 🎉 [HashLink](https://hashlink.haxe.org) [:octocat:](https://github.com/HaxeFoundation/hashlink/) - Virtual machine for Haxe.
@@ -785,7 +785,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Hilo3d](https://hilo3d.js.org/docs/index.html) [:octocat:](https://github.com/hiloteam/Hilo3d) - (by Alibaba) WebGL 3D rendering engine.
         - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
         - 🎉 [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) - Toolkit that simplifies the creation of interactive 2D / 3D experiences.
-        - ⭐ [OGL](oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) - Very fast and powerful minimal WebGL library.
+        - ⭐ [OGL](https://oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) - Very fast and powerful minimal WebGL library.
         - 🎉 [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 General purpose 3D library. [[Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/0xAxiome/awesome-threejs)]
@@ -794,12 +794,12 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web applications using Three.js.
         - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
         - 🎉 [Sketch Three.js](https://ykob.github.io/sketch-threejs/) [:octocat:](https://github.com/ykob/sketch-threejs) - Interactive sketches made with Three.js.
-        - 🎉 [Sketchbook](jblaha.art/sketchbook/latest) [:octocat:](https://github.com/swift502/Sketchbook) - 3D playground built on Three.js and Cannon.js.
+        - 🎉 [Sketchbook](https://jblaha.art/sketchbook/0.4/) [:octocat:](https://github.com/swift502/Sketchbook) - 3D playground built on Three.js and Cannon.js.
         - 🌎 [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) - Excellent set of instructive examples.
         - 📚 [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Great collection of resources for Three.js.
         - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
         - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - (formerly ThreeJsFundamentals) Fantastic info on Three.js and 3D.
-        - 📚 [THREEx](http://www.threejsgames.com/extensions/) - Nice collection of open source game extensions for Three.js.
+        - 📚 [THREEx](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions for Three.js.
     - #### JavaScript: Gui
         - 🎉 [Bootstrap](https://getbootstrap.com) [:octocat:](https://github.com/twbs/bootstrap) - Framework for developing responsive, mobile first projects.
         - 🎉 [dat.GUI](https://github.com/dataarts/dat.gui) - Lightweight graphical user interface for changing variables in JavaScript.
