@@ -1,4 +1,3 @@
-
 <div align="center">
     <img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/>
 </div>
