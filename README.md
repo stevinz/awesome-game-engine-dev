@@ -167,6 +167,7 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
     - #### Blog Articles
         - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
+        - 📚 [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/) - Common art-related performance issues.
     - #### Books
         - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
         - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
@@ -174,6 +175,7 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - A top down approach to computer graphics.
         - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
     - #### Education Portals
+        - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
         - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
         - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of many computer graphics topics.
     - #### Graphics API: DirectX
