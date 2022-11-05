@@ -398,6 +398,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine, supports both OpenGL and Vulkan.
         - 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) - Yet another C++ open source 3D game engine with an Dear ImGui based editor.
         - 🔒 [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
+        - 🎉 [ÖbEngine](https://github.com/ObEngine/ObEngine) - 2D Engine with Lua Scripting built on SFML.
         - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented 3D game engine, inspired by industry standards.
         - 🎉 [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
         - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.
