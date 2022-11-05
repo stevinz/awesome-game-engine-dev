@@ -226,6 +226,8 @@ _Info on topics necessary for designing and developing game engines._
         - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
         - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
         - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
+    - #### Tutorials
+        - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 - ### Graphical User Interface
     - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
