@@ -790,9 +790,11 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
         - 🎉 [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) - Toolkit that simplifies the creation of interactive 2D / 3D experiences.
         - ⭐ [OGL](https://oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) - Very fast and powerful minimal WebGL library.
+        - 🎉 [PicoGL.js](https://tsherif.github.io/picogl.js/) [:octocat:](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library.
         - 🎉 [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
         - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 General purpose 3D library. [[Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/0xAxiome/awesome-threejs)]
+        - 🎉 [TWGL](https://twgljs.org/) [:octocat:](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
         - 🎉 [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
     - #### JavaScript: Graphics - Three.js Reference
         - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web applications using Three.js.
@@ -815,6 +817,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Leva](https://leva.pmnd.rs/) [:octocat:](https://github.com/pmndrs/leva) - React-first components GUI.
         - 🎉 [Magic Circle](https://magic-circle.dev/) [:octocat:](https://github.com/dpwoert/magic-circle) - Multi-functional gui inspired by dat.GUI, Unity and Framer.
         - 🎉 [PCUI](https://playcanvas.github.io/pcui) [:octocat:](https://github.com/playcanvas/pcui) - UI component library for the web, made for PlayCanvas.
+        - 🎉 [Tweakpane](https://cocopon.github.io/tweakpane/) [:octocat:](https://github.com/cocopon/tweakpane) - Compact GUI for fine-tuning values.
         - 🎉 [uil](https://lo-th.github.io/uil/) [:octocat:](https://github.com/lo-th/uil) - Simple JavaScript UI.
         - 🎉 [w2ui](https://w2ui.com/web/) [:octocat:](https://github.com/vitmalina/w2ui) - UI widgets for modern apps.
         - 🎉 [Zebkit](https://zebkit.org/dark/about.html) [:octocat:](https://github.com/barmalei/zebkit) - Canvas rendered UI component libary, very cool.
