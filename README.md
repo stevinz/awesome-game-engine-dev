@@ -267,10 +267,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 📚 [Single File Libs](https://github.com/nothings/single_file_libs) - Amazing collection of single file C/C++ libraries compiled from many authors.
         - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### C: App Framework
-        - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
         - 🎉 [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) - Cross-platform, simple API for windowing, graphics contexts, input and events.
-        - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only c99 framework for multimedia apps.
-        - 🎉 [RayLib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
         - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) - 🔥 Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
         - 🎉 [Sokol](https://github.com/floooh/sokol) - 🔥 Single-file libraries for graphics, windowing, file handling, audio and more. Excellent!
     - #### C: Audio
@@ -305,7 +302,11 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: Game Engine w/Editor
         - ⭐ [AVA](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine in C.
     - #### C: Game Framework
+        - 🎉 [CGL](https://github.com/Jaysmito101/cgl) - Single header file, lots of graphics & utility functions.
+        - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
         - ⭐ [FWK](https://github.com/r-lyeh/FWK) - 3D game framework in C.
+        - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only c99 framework for multimedia apps.
+        - 🎉 [RayLib](https://www.raylib.com) [:octocat:](https://github.com/raysan5/raylib) - 🔥 Simple and easy-to-use library to enjoy 2D / 3D videogame programming.
     - #### C: Geometry
         - 🎉 [Blob](https://github.com/BlockoS/blob) - Single header implementation of a contour tracing algorithm
         - 🎉 [Marching Squares](https://prideout.net/marching-squares) [:octocat:](https://github.com/prideout/par/blob/master/par_msquares.h) - Converts grayscale images, or 8-bit color images, into triangles.
@@ -361,8 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C++: App Framework
         - 🎉 [Cinder](https://libcinder.org/about) [:octocat:](https://github.com/cinder/Cinder) - App and graphics library. Supports macOS, Windows, Linux, iOS.
         - 🎉 [Cross Window](https://alain.xyz/libraries/crosswindow) [:octocat:](https://github.com/alaingalvan/CrossWindow) - For managing windows and performing OS tasks.
-        - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
-        - 🎉 [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) - Cross-platform access to windowing, graphics, audio and networking.
+        - 🎉 [SFML](https://www.sfml-dev.org/index.php) [:octocat:](https://github.com/SFML/SFML) - 🔥 Cross-platform access to windowing, graphics, audio and networking.
     - #### C++: Animation
         - 🎉 [Ozz-Animation](http://guillaumeblanc.github.io/ozz-animation/) [:octocat:](https://github.com/guillaumeblanc/ozz-animation) - Open source skeletal animation library and toolset.
         - 🎉 [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
@@ -413,6 +413,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C++: Game Framework
         - 🎉 [Acid](https://github.com/EQMG/Acid) - Written in modern C++17 and structured to be fast, simple, and modular.
         - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
+        - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
         - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
         - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
         - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
@@ -424,7 +425,7 @@ _Language specific game engine development libraries / frameworks / code._
         - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain C++ game engine mainly targeted for development of 2D games.
         - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
         - 🎉 [Two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
-        - 🎉 [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) - Free lightweight, cross-platform 2D and 3D game engine.
+        - 🎉 [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
         - 💸 [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
     - #### C++: Geometry
         - 🎉 [CinoLib](https://github.com/mlivesu/cinolib) - Header only C++ library for processing polygonal and polyhedral meshes.
@@ -1299,6 +1300,7 @@ _Resources to help bring video games and game engines alive._
     - 🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Free 3D models, all the 3D assets on this site are licensed as public domain.
     - 🆓 [Pmndrs Market](https://market.pmnd.rs) - Nice collection of public domain models.
     - 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
+    - 🆓 [Quaternius](https://quaternius.com) - Great collection of CC0 1.0 3D models.
     - 📚 [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
     - 💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
