@@ -273,7 +273,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### C: Audio
         - ⭐ [Miniaudio](https://miniaud.io) [:octocat:](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C.
         - 🎉 [SDL_mixer](https://libsdl.org/projects/SDL_mixer/) [:octocat:](https://github.com/libsdl-org/SDL_mixer) - Audio mixer that supports various file formats for SDL.
-        - 🎉 [SoLoud](http://sol.gfxile.net/soloud/) [:octocat:](https://github.com/jarikomppa/soloud) - 🔥 Free, easy, portable audio engine for games.
+        - 🎉 [SoLoud](http://solhsa.com/soloud/) [:octocat:](https://github.com/jarikomppa/soloud) - 🔥 Free, easy, portable audio engine for games.
     - #### C: Cross-Platform
         - 🎉 [Cosmopolitan](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library.
     - #### C: Entity Component System
@@ -499,6 +499,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body 3D physics and collision detection library.
         - 🎉 [Liquid Fun](https://google.github.io/liquidfun/) [:octocat:](https://github.com/google/liquidfun) - Extension of Box2D, adds particle based fluid and soft bodies.
         - 🎉 [Newton Dynamics](http://www.newtondynamics.com/) [:octocat:](https://github.com/MADEAPPS/newton-dynamics/) - Real time simulation of 3D environments.
+        - 🎉 [ODE](http://www.ode.org/) - Open Dynamics Engine, 3D rigid body physics.
         - 🎉 [ReactPhysics3D](https://www.reactphysics3d.com) [:octocat:](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
         - 🎉 [Qu3e](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
     - #### C++: Reflection
