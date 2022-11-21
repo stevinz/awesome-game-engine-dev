@@ -143,7 +143,6 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
     - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
     - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
-    - 💸 [ShiVa](https://shiva-engine.com) - 3D game and application development suite.
     - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
     - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
@@ -870,7 +869,6 @@ _Language specific game engine development libraries / frameworks / code._
 - ### Kotlin
     - #### - General -
         - 🌎 [Kotlin](https://kotlinlang.org/) [:octocat:](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
-        - 📚 [Kotlin Docs](https://kotlinlang.org/docs/) - Official docs.
     - #### Awesome Collections
         - 📚 [Awesome Kotlin](https://kotlin.link/) [:octocat:](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
     - #### Kotlin: Game Engine w/Editor
