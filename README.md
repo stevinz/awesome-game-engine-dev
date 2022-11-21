@@ -90,7 +90,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
     - [Generative Art](#generative-art)
-        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling)</sup></sub>
+        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling) | [Sound](#sound)</sup></sub>
     - [Image Editors](#image-editors)
     - [Level Editors](#level-editors)
     - [Materials / Textures](#materials--textures)
@@ -1102,6 +1102,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat:](https://github.com/alaingalvan/CrossShader) - Cross compiling shaders. Convert between GLSL, HLSL, Metal and more.
         - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Post processing, lighting, utlities and many, many more.
         - 📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
+        - 📚 [Ronja Tutorials](https://www.ronja-tutorials.com/) - Great tutorials covering many shader techniques.
         - 🌎 [Shader Park](https://shaderpark.com/) [:octocat:](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
         - 🌎 [SHADERed](https://shadered.org/) [:octocat:](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++, open source (MIT). [[Online Editor](https://shadered.org/app)]
         - 🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
@@ -1145,6 +1146,8 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Amazing list of signed distance functions for basic 2D primitives.
     - 📚 [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Amazing list of signed distance functions for basic 3D primitives.
     - 📚 [CSG w/ SDFs](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat:](https://github.com/jasmcole/Blog/tree/master/CSG) - Using circular SDFs to build 3D objects with Constructive Solid Geometry.
+    - 📚 [Basic 2D SDFs](https://www.ronja-tutorials.com/post/034-2d-sdf-basics/) - Basics of rendering 2D shapes with SDFs in shaders.
+    - 📚 [Bezier Strokes](https://vladjuckov.github.io/beziers-sdf/) - Blog post on rendering bezier strokes with SDFs.
     - 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) - Tutorials, papers, software, demos, discussions, etc.
     - 🎉 [SDF Mesh Generation](https://github.com/fogleman/sdf) - Python API to generate 3D meshes with SDFs.
 
@@ -1213,6 +1216,9 @@ _Software to help with game engine / video game development._
         - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
         - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
         - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
+    - #### Sound
+        - 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
+        - 🆓 [Sonic Pi](https://sonic-pi.net/) [:octocat:](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
 
 - ### Image Editors
     - 🆓 [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) - GNU Image Manipulation Program, free and open-source cross-platform image editor.
