@@ -128,7 +128,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
     - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
     - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
-    - 🎉 [O3DE](https://docs.o3de.org) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
+    - 🎉 [O3DE](https://www.o3de.org/) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
     - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling small teams to create AAA games.
     - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
@@ -791,7 +791,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Filament for Web](https://google.github.io/filament/webgl/) [:octocat:](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's Filament, mobile first 3D rendering.
         - 🎉 [Hilo3d](https://hilo3d.js.org/docs/index.html) [:octocat:](https://github.com/hiloteam/Hilo3d) - (by Alibaba) WebGL 3D rendering engine.
         - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
-        - 🎉 [LUME](https://lume.io) [:octocat:](https://github.com/lume/lume) - Toolkit that simplifies the creation of interactive 2D / 3D experiences.
+        - 🎉 [LUME](https://github.com/lume/lume) - Toolkit that simplifies the creation of interactive 2D / 3D experiences.
         - ⭐ [OGL](https://oframe.github.io/ogl/examples) [:octocat:](https://github.com/oframe/ogl) - Very fast and powerful minimal WebGL library.
         - 🎉 [PicoGL.js](https://tsherif.github.io/picogl.js/) [:octocat:](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library.
         - 🎉 [Pixi3D](https://pixi3d.org/) [:octocat:](https://github.com/jnsmalm/pixi3d#getting-started) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
