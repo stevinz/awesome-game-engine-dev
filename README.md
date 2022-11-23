@@ -755,6 +755,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) - Modern 2D game engine. Uses Tiled for level editing. [[Examples](https://melonjs.github.io/examples/)]
         - 🎉 [microStudio](https://microstudio.dev/) [:octocat:](https://github.com/pmgl/microstudio/) - Free online game engine, learn and practice programming.
         - 🎉 [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games.
+        - 🎉 [QICI Engine](https://github.com/qiciengine/qiciengine) - Toolset for making HTML5 games.
         - 🎉 [Superpowers](http://superpowers-html5.com/index.en.html) [:octocat:](https://github.com/superpowers) - Free and open source 2D and 3D game making for indies.
         - 🎉 [Taro](https://www.modd.io) [:octocat:](https://github.com/moddio/taro) - Multiplayer game engine with Box2D physics.
     - #### JavaScript: Game Framework
@@ -763,6 +764,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Meep](https://github.com/Usnul/meep) - Entity component system game engine framework.
         - 🎉 [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) - Fast 2D game framework, supports Canvas and WebGL.
         - 🎉 [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) - Modular 2D / 3D game framework for browsers, desktops and mobile devices.
+        - 🎉 [WhitestormJS](https://github.com/WhitestormJS/whs.js) - Framework for 3D apps / games, based on Three.js.
     - #### JavaScript: Geometry
         - 🎉 [Convexhull.js](https://github.com/indy256/convexhull-js) - Tiny high-performance JavaScript 2D convex hull library.
         - 🎉 [Delaunator](https://mapbox.github.io/delaunator/) [:octocat:](https://github.com/mapbox/delaunator) - Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
