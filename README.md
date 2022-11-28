@@ -1216,6 +1216,7 @@ _Software to help with game engine / video game development._
     - #### Modeling
         - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
         - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) [:octocat:](https://github.com/nv-tlabs/GET3D) - (by NVIDIA) Generative model of 3D shapes from images.
+        - 📚 [Magic3D](https://deepimagination.cc/Magic3D/) - High-resolution text-to-3D content creation.
         - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
     - #### Sound
         - 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
