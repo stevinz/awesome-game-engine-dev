@@ -762,6 +762,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) - Game library that can help you create 2D games in a structured way.
         - 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D game engine with WebGL rendering.
         - 🎉 [Meep](https://github.com/Usnul/meep) - Entity component system game engine framework.
+        - 🎉 [Oasis](https://oasisengine.cn/) [:octocat:](https://github.com/ant-galaxy/oasis-engine) - (by AntGroup) WebGL engine, 2D, 3D, animation, physics.
         - 🎉 [Phaser](https://phaser.io) [:octocat:](https://github.com/photonstorm/phaser) - Fast 2D game framework, supports Canvas and WebGL.
         - 🎉 [Turbulenz](http://biz.turbulenz.com/developers) [:octocat:](https://github.com/turbulenz/turbulenz_engine) - Modular 2D / 3D game framework for browsers, desktops and mobile devices.
         - 🎉 [WhitestormJS](https://github.com/WhitestormJS/whs.js) - Framework for 3D apps / games, based on Three.js.
