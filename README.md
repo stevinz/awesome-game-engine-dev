@@ -51,6 +51,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Dart](#dart)
     - [Go](#go)
     - [Haxe](#haxe)
+    - [Lua](#lua)
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Kotlin](#kotlin)
@@ -136,6 +137,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💰 [AppGameKit Studio](https://www.appgamekit.com/studio) - Easy, quick and powerful programming.
     - 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
     - 💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
+    - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Open sourced game engine for desktop, mobile and web games.
     - 💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
     - 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
     - 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
@@ -143,6 +145,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
     - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
     - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
+    - 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
     - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
     - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
@@ -388,7 +391,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) - Header only file browser implementation for Dear ImGui. C++17 is required.
     - #### C++: Game Engine w/Editor
         - 🎉 [AnKi 3D Engine](https://anki3d.org/) [:octocat:](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
-        - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Free to use game engine for desktop, mobile and web games.
         - 🔒 [Enigma](https://enigma-dev.org/) [:octocat:](https://github.com/enigma-dev/enigma-dev) - Open source Game Maker compatible 2D engine.
         - 🎉 [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica) - High performance game engine with editor and AAA quality animation graph.
         - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform C++ game engine and editor.
@@ -416,7 +418,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
         - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
         - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
-        - 🎉 [LOVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for writing game code with Lua.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
         - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
         - 🎉 [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
@@ -666,6 +667,15 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [SteamWrap](https://github.com/larsiusprime/SteamWrap) - Haxe native extension for the Steam API.
     - #### Haxe: Visual Programming / Nodes
         - 🎉 [Haxe-Blockly](https://github.com/nickmain/haxe-blockly) - Haxe wrapper for [Blockly](https://developers.google.com/blockly)
+
+- ### Lua
+    - #### Awesome Collections
+        - 📚 [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+    - #### Lua: Game Framework
+        - 🎉 [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of LÖVE written in Lua.
+        - 🎉 [Gideros](http://giderosmobile.com/) [:octocat:](https://github.com/gideros/gideros) - 2D / 3D cross-platform development for creating games with Lua.
+        - 🎉 [INSTEAD](http://instead.hugeping.ru/en/) [:octocat:](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
+        - 🎉 [LÖVE](https://love2d.org) [:octocat:](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome Löve](https://github.com/love2d-community/awesome-love2d)]
 
 - ### Java
     - #### - General -
