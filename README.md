@@ -904,6 +904,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Pyglet](http://pyglet.org/) [:octocat:](https://github.com/pyglet/pyglet) - Windowing and multimedia library, intended for game dev.
     - #### Python: Cross-Platform
         - 💸 [Anvil](https://anvil.works) - Full stack web apps with nothing but Python.
+        - 🎉 [Brython](https://github.com/brython-dev/brython) - Python 3 running in the browser.
     - #### Python: Game Framework
         - 🎉 [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
         - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU.
