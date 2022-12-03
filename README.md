@@ -551,7 +551,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) - Framework with as much performance as possible for game development.
         - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - Fast ECS Framework powered by C# with optional integration to Unity.
     - #### C#: Game Engine w/Editor
-        - 🎉 [Duality](https://www.duality2d.net) [:octocat:](https://github.com/AdamsLair/duality) - Modular 2D engine w/ visual editor. Built on C# and OpenTK.
+        - 🎉 [Duality](https://adamslair.github.io/duality/) [:octocat:](https://github.com/AdamsLair/duality) - Modular 2D engine w/ visual editor. Built on C# and OpenTK.
         - 🎉 [Flat Red Ball](https://flatredball.com) [:octocat:](https://github.com/vchelaru/FlatRedBall) - 2D engine built on MonoGame & tools to help with game design. [[Gui Editor](http://vchelaru.github.io/Gum/)]
         - 🎉 [Stride](https://stride3d.net) [:octocat:](https://github.com/stride3d/stride) - (formerly Xenko) C# game engine for realistic rendering and VR.
         - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
