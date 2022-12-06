@@ -137,6 +137,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💰 [AppGameKit Studio](https://www.appgamekit.com/studio) - Easy, quick and powerful programming.
     - 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
     - 💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
+    - 💰 [Corgi Engine](https://corgi-engine.moremountains.com/) - 2D / 2.5D platformer engine built on top of Unity.
     - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Open sourced game engine for desktop, mobile and web games.
     - 💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
     - 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
@@ -809,7 +810,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 General purpose 3D library. [[Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/0xAxiome/awesome-threejs)]
         - 🎉 [TWGL](https://twgljs.org/) [:octocat:](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
-        - 🎉 [x3dom](https://www.x3dom.org/) [:octocat:](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
+        - 🎉 [x3dom](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
     - #### JavaScript: Graphics - Three.js Reference
         - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web applications using Three.js.
         - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
