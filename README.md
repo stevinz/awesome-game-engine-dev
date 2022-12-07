@@ -134,12 +134,13 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
 - ### Commercial
-    - 💰 [AppGameKit Studio](https://www.appgamekit.com/studio) - Easy, quick and powerful programming.
+    - 💰 [AppGameKit](https://www.appgamekit.com/studio) - (by TheGameCreators) Easy and quick game making.
     - 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
     - 💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
     - 💰 [Corgi Engine](https://corgi-engine.moremountains.com/) - 2D / 2.5D platformer engine built on top of Unity.
     - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Open sourced game engine for desktop, mobile and web games.
     - 💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
+    - 💰 [GameGuru](https://www.game-guru.com/) - (by TheGameCreators) 3D game maker, no coding required.
     - 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
     - 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
     - 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
@@ -418,10 +419,11 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
         - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
         - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
-        - 🎉 [JNGL](https://github.com/jhasse/jngl) - C++ 2D engine. Develop anywhere, deploy everywhere.
+        - 🎉 [is::Engine](https://github.com/jhasse/jngl) - 2D engine built on SDL2 and SFML.
+        - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D engine. Develop anywhere, deploy everywhere.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
         - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
-        - 🎉 [ORX](http://orx-project.org) [:octocat:](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
+        - 🎉 [ORX](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
         - 🎉 [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) - Small, portable and extensible C++ 3D coding framework.
         - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain C++ game engine mainly targeted for development of 2D games.
         - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
