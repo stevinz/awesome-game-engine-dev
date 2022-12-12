@@ -319,6 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Par_Streamlines](https://prideout.net/blog/par_streamlines/) [:octocat:](https://github.com/prideout/par/blob/master/par_streamlines.h) - Library for triangulating wide/thick lines, Béziers, streamlines. [[Demo](https://github.com/prideout/streamlines_demo)]
     - #### C: Graphics - 2D
         - 🎉 [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
+        - 🎉 [Tilengine](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game dev.
     - #### C: Graphics - 3D
         - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL Examples](https://www.geertarien.com/learnopengl-examples-html5/)]
         - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented using Sokol.
@@ -410,6 +411,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
         - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
         - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Based on Irrlicht, with upgraded features including audio, physics and particles.
+        - 🎉 [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
         - 🎉 [Titan Engine](https://esenthel.com/) [:octocat:](https://github.com/Esenthel/EsenthelEngine) - (formerly Esenthel Engine) Cross-platform engine started in the year 2000.
         - 🎉 [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) - High performance 3D engine built on The Forge.
         - 🔒 [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) - Blender game engine. Originally forked from Blender.
@@ -469,7 +471,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
         - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) - Engine focusing on modern rendering techniques and performance.
     - #### C++: Gui
-        - 🎉 [Crazy Eddie's GUI](http://cegui.org.uk) [:octocat:](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
+        - 🎉 [Crazy Eddie's GUI](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
         - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) - 🔥 Bloat-free immediate mode gui library. Ported to many other languages.
         - 🔒 [FLTK](https://www.fltk.org) [:octocat:](https://github.com/fltk/fltk) - The Fast Light Toolkit. Modern, cross-platform gui.
         - 🔒 [GTK](https://www.gtk.org) [:octocat:](https://gitlab.gnome.org/GNOME/gtk/) - The GIMP Toolkit, a multi-platform toolkit for creating graphical user interfaces.
