@@ -143,6 +143,7 @@ _Production game engines to tinker with, explore, learn and inspire._
     - 💰 [GameGuru](https://www.game-guru.com/) - (by TheGameCreators) 3D game maker, no coding required.
     - 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
     - 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
+    - 💸 [Luxe](https://luxeengine.com/) - (in beta) 2D first engine, with a 2D / 3D renderer.
     - 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
     - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
     - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
@@ -431,7 +432,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
         - 🎉 [Supernova](https://github.com/supernovaengine/supernova) - Game engine cross-platform for 2D and 3D projects.
         - 🎉 [Two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
-        - 🎉 [Urho3D](https://urho3d.io) [:octocat:](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
+        - 🎉 [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
         - 💸 [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
     - #### C++: Geometry
         - 🎉 [CinoLib](https://github.com/mlivesu/cinolib) - Header only C++ library for processing polygonal and polyhedral meshes.
@@ -645,6 +646,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [LDtk](https://ldtk.io) [:octocat:](https://github.com/deepnight/ldtk) - 🔥 Very cool modern, lightweight and efficient 2D level editor.
         - 🎉 [Starling](https://gamua.com/starling/) [:octocat:](https://github.com/openfl/starling) - Popular (used for Angry Birds) 2D game engine built on OpenFL. [[Editor](http://starlingbuilder.github.io)]
     - #### Haxe: Game Framework
+        - 🎉 [Ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework.
         - 🎉 [Citrus](http://citrusengine.com) [:octocat:](https://github.com/DaVikingCode/Citrus-Engine) - 2D and 3D ActionScript 3 based engine.
         - 🎉 [Clay](https://github.com/clay2d/clay) - Cross-platform 2D game framework.
         - 🎉 [gameBase](https://github.com/deepnight/gameBase) - Base structure for Haxe games, using Heaps graphics framework. [[Tutorial](https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/)]
