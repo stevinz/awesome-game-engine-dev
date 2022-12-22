@@ -1225,6 +1225,7 @@ _Software to help with game engine / video game development._
     - 🌎 [Colormind](http://colormind.io) - Color scheme generator, can learn color styles from photographs, art, etc.
     - 🌎 [COLOURlovers](https://www.colourlovers.com) - Share colors, palettes and patterns.
     - 🌎 [Coolors](https://coolors.co) - Super fast color palette generator.
+    - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
     - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
 - ### Generative Art
