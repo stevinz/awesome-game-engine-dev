@@ -417,22 +417,23 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Torque 3D](https://torque3d.org/torque3d/) [:octocat:](https://github.com/GarageGames/Torque3D) - High performance 3D engine built on The Forge.
         - 🔒 [UPBGE](https://upbge.org) [:octocat:](https://github.com/UPBGE/upbge) - Blender game engine. Originally forked from Blender.
     - #### C++: Game Framework
-        - 🎉 [Acid](https://github.com/EQMG/Acid) - Written in modern C++17 and structured to be fast, simple, and modular.
+        - 🎉 [Acid](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
         - 🎉 [Cocos2d-x](https://www.cocos.com/en/cocos2dx) [:octocat:](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
         - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games in C++.
-        - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL engine for quick prototyping.
-        - 🎉 [Halley](https://github.com/amzeratul/halley) - Written in C++17. Used for Wargroove, a strategy game on desktop and consoles.
-        - 🎉 [is::Engine](https://github.com/jhasse/jngl) - 2D engine built on SDL2 and SFML.
-        - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D engine. Develop anywhere, deploy everywhere.
+        - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL framework for quick prototyping.
+        - 🎉 [Halley](https://github.com/amzeratul/halley) - Modern C++17. Used for Wargroove, a strategy game on desktop and consoles.
+        - 🎉 [is::Engine](https://github.com/jhasse/jngl) - 2D framework built on SDL2 and SFML.
+        - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D framework. Develop anywhere, deploy everywhere.
         - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
         - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
-        - 🎉 [ORX](https://github.com/orx/orx) - Orx is a 2.5D data-driven game development engine.
+        - 🎉 [ORX](https://github.com/orx/orx) - Orx is a 2.5D data-driven game dev framework.
         - 🎉 [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) - Small, portable and extensible C++ 3D coding framework.
-        - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain C++ game engine mainly targeted for development of 2D games.
+        - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
         - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
-        - 🎉 [Supernova](https://github.com/supernovaengine/supernova) - Game engine cross-platform for 2D and 3D projects.
+        - 🎉 [Supernova](https://github.com/supernovaengine/supernova) - Cross-platform for 2D and 3D projects.
+        - 🎉 [Thunder](https://github.com/thunder-engine/thunder) - Cross-platform 2D and 3D with module architecture.
         - 🎉 [Two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
-        - 🎉 [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
+        - 🎉 [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game framework.
         - 💸 [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
     - #### C++: Geometry
         - 🎉 [CinoLib](https://github.com/mlivesu/cinolib) - Header only C++ library for processing polygonal and polyhedral meshes.
@@ -988,6 +989,8 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Zig: Graphics - 2D
         - 🎉 [Mini Pixel](https://fabioarnold.itch.io/mini-pixel) [:octocat:](https://github.com/fabioarnold/MiniPixel) - Tiny pixel art editor.
         - 🔒 [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+    - #### Zig: Scripting
+        - 🎉 [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language.
 
 <br />
 <br />
