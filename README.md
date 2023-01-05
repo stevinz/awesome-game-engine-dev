@@ -81,7 +81,7 @@ This list currently favors (but is not limited to) programming game engines in t
         - <sub><sup>[Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy)</sup></sub>
     - [Scripting](#scripting)
     - [Shaders](#shaders)
-        - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
+        - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Lines](#lines) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
     - [Signed Distance Fields](#signed-distance-fields)
     - [Tiling](#tiling)
     - [Transparency](#transparency)
@@ -158,8 +158,9 @@ _Production ready game engines to tinker with, explore, learn and inspire._
     - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
     - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
     - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in GameMaker.
+    - 💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games. Built on Godot.
     - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
-    - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
+    - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klemb ot/twinejs) - Tool for telling interactive, nonlinear stories.
 
 <br />
 <br />
@@ -200,6 +201,7 @@ _Info on topics necessary for designing and developing game engines._
         - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Open web standard 3D graphics API.
         - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Full understanding of what WebGL really is and how it works.
         - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - Updated to use the WebGL2 standard.
+        - 📚 [WebGL 2 Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features.
         - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - How to use the canvas element to draw WebGL graphics.
     - #### Graphics API: WebGPU
         - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
@@ -224,10 +226,12 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
         - 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
         - 🌎 [Open Source Libraries](https://opensourcelibs.com) - Massive collection of the world's best open source software.
+        - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
     - #### Books
         - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
         - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
     - #### Developer Portals
+        - 🌎 [Game Developer](https://www.gamedeveloper.com) - (formerly Gamasutra) Industry blogs, events, jobs, updates and more.
         - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
         - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
         - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -395,12 +399,14 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) - Header only file browser implementation for Dear ImGui. C++17 is required.
     - #### C++: Game Engine w/Editor
         - 🎉 [AnKi 3D Engine](https://anki3d.org/) [:octocat:](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
+        - 🎉 [Drop Creator](https://github.com/scidian/drop) - No code, 2.5D game engine built with Qt, OpenGL and Chipmunk Physics.
         - 🔒 [Enigma](https://enigma-dev.org/) [:octocat:](https://github.com/enigma-dev/enigma-dev) - Open source Game Maker compatible 2D engine.
         - 🎉 [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica) - High performance game engine with editor and AAA quality animation graph.
         - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform C++ game engine and editor.
         - 🎉 [ezEngine](http://ezengine.net/index.html) [:octocat:](https://github.com/ezEngine/ezEngine) - Open source game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
         - 🎉 [FIFE](http://www.fifengine.net/) [:octocat:](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
         - 🎉 [Irrlicht](https://irrlicht.sourceforge.io) [:octocat:](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine written in C++ worked on for nearly 2 decades.
+        - 🎉 [Limon Engine](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
         - 🎉 [Lina Engine](https://github.com/inanevin/LinaEngine) - Modular C++ game engine, aimed to develop 3D desktop games.
         - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine, supports both OpenGL and Vulkan.
         - 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) - Yet another C++ open source 3D game engine with an Dear ImGui based editor.
@@ -740,10 +746,6 @@ _Language specific game engine development libraries / frameworks / code._
         - 💸 [Ultralight](https://ultralig.ht/) - Based on WebKit — supports most modern HTML5, CSS, and JavaScript.
         - 🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge control allows you to embed web tech in native apps. [[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
         - 🎉 [Window.js](https://windowjs.org) [:octocat:](https://github.com/windowjs/windowjs) - Open-source JavaScript runtime for desktop graphics programming.
-    - #### JavaScript: Entity Component System
-        - 🎉 [Becsy](https://github.com/LastOliveGames/becsy) - Multithreaded Entity Component System (ECS) for TypeScript and JavaScript.
-        - 🔒 [bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library.
-        - 🎉 [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) - Experimental ECS aiming to be lightweight, easy to use.
     - #### JavaScript: Docking
         - 🎉 [Dock Spawn TS](https://node-projects.github.io/dock-spawn-ts/) [:octocat:](https://github.com/node-projects/dock-spawn-ts) - Maintained, TypeScript version of [Dock Spawn](https://github.com/coderespawn/dock-spawn), a html docking framework.
         - 🎉 [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
@@ -752,6 +754,11 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [React Mosaic](https://nomcopter.github.io/react-mosaic/) [:octocat:](https://github.com/nomcopter/react-mosaic) - React tiling window manager.
         - 🎉 [RC-Dock](https://ticlo.github.io/rc-dock/examples/) [:octocat:](https://github.com/ticlo/rc-dock) - Dock Layout for React Component.
         - 🎉 [wcDocker](http://docker.webcabin.org/) [:octocat:](https://github.com/WebCabin/wcDocker) - Window layout system with a responsive and interactive design.
+    - #### JavaScript: Entity Component System
+        - 🎉 [Becsy](https://github.com/LastOliveGames/becsy) - Multithreaded Entity Component System (ECS) for TypeScript and JavaScript.
+        - 🔒 [bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library.
+        - 🎉 [Ecsy](https://ecsy.io) [:octocat:](https://github.com/ecsyjs/ecsy) - Experimental ECS aiming to be lightweight, easy to use.
+        - 🎉 [Miniplex](https://github.com/hmans/miniplex) - Entity management system for games.
     - #### JavaScript: File Formats
         - 🎉 [JSMpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
     - #### JavaScript: Framework
@@ -779,6 +786,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Taro](https://www.modd.io) [:octocat:](https://github.com/moddio/taro) - Multiplayer game engine with Box2D physics.
     - #### JavaScript: Game Framework
         - 🎉 [Crafty](http://craftyjs.com) [:octocat:](https://github.com/craftyjs/Crafty) - Game library that can help you create 2D games in a structured way.
+        - 🎉 [Kaboom](https://kaboomjs.com) [:octocat:](https://github.com/replit/kaboom) - Simple 2D engine.
         - 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D game engine with WebGL rendering.
         - 🎉 [Meep](https://github.com/Usnul/meep) - Entity component system game engine framework.
         - 🎉 [Oasis](https://oasisengine.cn/) [:octocat:](https://github.com/ant-galaxy/oasis-engine) - (by AntGroup) WebGL engine, 2D, 3D, animation, physics.
@@ -820,7 +828,10 @@ _Language specific game engine development libraries / frameworks / code._
         - 🎉 [Three.js](https://threejs.org) [:octocat:](https://github.com/mrdoob/three.js/) - 🔥 General purpose 3D library. [[Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/) | [Awesome Three.js](https://github.com/0xAxiome/awesome-threejs)]
         - 🎉 [TWGL](https://twgljs.org/) [:octocat:](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
         - 🎉 [x3dom](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
-    - #### JavaScript: Graphics - Three.js Reference
+    - #### JavaScript: Graphics - Three.js - React
+        - 🎉 [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
+        - 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
+    - #### JavaScript: Graphics - Three.js - Reference
         - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web applications using Three.js.
         - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
         - 🎉 [Sketch Three.js](https://ykob.github.io/sketch-threejs/) [:octocat:](https://github.com/ykob/sketch-threejs) - Interactive sketches made with Three.js.
@@ -828,6 +839,7 @@ _Language specific game engine development libraries / frameworks / code._
         - 🌎 [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) - Excellent set of instructive examples.
         - 📚 [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Great collection of resources for Three.js.
         - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
+        - 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
         - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - (formerly ThreeJsFundamentals) Fantastic info on Three.js and 3D.
         - 📚 [THREEx](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions for Three.js.
     - #### JavaScript: Gui
@@ -1004,6 +1016,7 @@ _Successful video games to pick apart and gain knowledge._
     - 💸 [Handmade Hero](https://handmadehero.org/) - Videos on making a game from start to finish, source code for $15.
 
 - ### C++
+    - 🔒 [Doom 3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
     - 🔒 [Dungeon Crawl: Stone Soup](https://crawl.develz.org/) [:octocat:](https://github.com/crawl/crawl) - Classic roguelike adventure.
     - 🎉 [Etheral Legends](https://store.steampowered.com/app/428980/Ethereal_Legends/) [:octocat:](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with Unreal Engine 4 for Steam, PS4, and Xbox One.
     - 🎉 [OpenLara](http://xproger.info/projects/OpenLara/) [:octocat:](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
@@ -1101,6 +1114,7 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) - How to create a physics system for a platformer.
         - 📚 [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) - Tutorial on ledge grabbing in 2D platformer physics.
     - #### Ropes / Chains
+        - 📚 [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/) - SVG path vector rope drawing.
         - 📚 [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) - Implementing the physics of ropes in Contraption Maker.
         - 🌎 [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) - Chains demo using the JavaScript library Matter.js.
     - #### Soft Body
@@ -1140,6 +1154,8 @@ _Exploring specialty application / game engine / game development topics and fea
     - #### Fire
         - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Great fire intro shader using noise textures and masking.
         - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
+    - #### Lines
+        - 📚 [Drawing Lines](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Techniques for 2D and 3D line rendering.
     - #### Noise
         - 📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
         - 📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
