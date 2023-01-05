@@ -79,6 +79,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Particles](#particles)
     - [Physics](#physics)
         - <sub><sup>[Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy)</sup></sub>
+    - [Rendering](#rendering)
     - [Scripting](#scripting)
     - [Shaders](#shaders)
         - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Lines](#lines) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
@@ -1126,6 +1127,10 @@ _Exploring specialty application / game engine / game development topics and fea
         - 📚 [Making a Verlet Physics Engine in JavaScript](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5) - Under the hood of a 2D physics engine in JS.
     - #### Water / Buoyancy
         - 📚 [2D Water](https://prime31.github.io/water2d-part1/) - Modeling 2D water with springs.
+
+- ### Rendering
+    - 📚 [GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) - Calculating rendering on the GPU in compute shaders.
+    - 📚 [Model Batching](https://webglfundamentals.org/webgl/lessons/webgl-qna-drawing-many-different-models-in-a-single-draw-call.html) - Drawing many different models in a single draw call.
 
 - ### Scripting
     - 📚 [Adding Languages to Game Engines](https://www.gamedeveloper.com/programming/adding-languages-to-game-engines) - Story of adding scripting to a game.
