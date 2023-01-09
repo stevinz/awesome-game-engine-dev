@@ -278,6 +278,7 @@ _Language specific game engine development libraries / frameworks / code._
         - ⭐ [stb](https://github.com/nothings/stb) - 🔥 The amazing stb single-file public domain libraries for C/C++ by [Sean Barrett](https://github.com/nothings).
     - #### C: App Framework
         - 🎉 [glfw](https://www.glfw.org) [:octocat:](https://github.com/glfw/glfw) - Cross-platform, simple API for windowing, graphics contexts, input and events.
+        - 🎉 [MiniFB](https://github.com/emoon/minifb) - Creates a cross-platform frame buffer for drawing pixels.
         - 🎉 [SDL](https://libsdl.org) [:octocat:](https://github.com/libsdl-org/SDL) - 🔥 Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
         - 🎉 [Sokol](https://github.com/floooh/sokol) - 🔥 Single-file libraries for graphics, windowing, file handling, audio and more. Excellent!
     - #### C: Audio
