@@ -226,7 +226,6 @@ _Info on topics necessary for designing and developing game engines._
         - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
         - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
         - 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
-        - 🌎 [Open Source Libraries](https://opensourcelibs.com) - Massive collection of the world's best open source software.
         - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
     - #### Books
         - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
@@ -943,7 +942,7 @@ _Language specific game engine development libraries / frameworks / code._
     - #### Python: Game Framework
         - 🎉 [Arcade](https://api.arcade.academy/en/latest/) [:octocat:](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
         - 🎉 [Panda3D](https://www.panda3d.org) [:octocat:](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU.
-        - 🔒 [Pygame](https://www.pygame.org/news) [:octocat:](https://github.com/pygame/pygame) - Multimedia library, built on top of the excellent SDL library.
+        - 🔒 [Pygame](https://github.com/pygame/pygame) - Multimedia library, built on top of the excellent SDL library.
         - 🎉 [Pygcurse](http://inventwithpython.com/pygcurse/) [:octocat:](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) module, great for text adventures / roguelikes.
     - #### Python: Gui
         - 🎉 [Kivy](https://kivy.org/) [:octocat:](https://github.com/kivy/kivy) - Gross-platform gui framework written in Python.
