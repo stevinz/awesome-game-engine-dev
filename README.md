@@ -1,3 +1,5 @@
+<!--lint ignore no-dead-urls-->
+
 <div align="center">
     <a href="https://github.com/stevinz/awesome-game-engine-dev"><img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/></a>
 </div>
@@ -1115,7 +1117,6 @@ _Exploring specialty application / game engine / game development topics and fea
     - 🌎 [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) [:octocat:](https://github.com/liabru/matter-js/blob/master/examples/chains.js) - Chains demo using the JavaScript library Matter.js.
 - Soft Body
     - 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
-    - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) - Step by step creation of a Box2D soft body blob.
     - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) [:octocat:](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc) - Bullet Physics 3D cloth using the Oryol game framework.
     - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) [:octocat:](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) - Demo of 3D soft body volumes using Ammo.js and Three.js.
 - Verlet Physics
