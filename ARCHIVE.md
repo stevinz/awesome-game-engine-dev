@@ -2,7 +2,7 @@
 
 # Archive
 
-These are links that fail the link checker. They may work or may not, they are kept because they are/were excellent resources.
+These are links that fail the link checker. They should still work, but may not. They are kept here because they are / were excellent resources.
 
 <br />
 <br />
@@ -10,6 +10,7 @@ These are links that fail the link checker. They may work or may not, they are k
 ## Contents
 
 - [Libraries](#libraries)
+    - [Haxe](#haxe)
     - [JavaScript](#javascript)
 - [Specialty Topics](#specialty-topics)
     - [Physics](#physics)
@@ -20,6 +21,10 @@ These are links that fail the link checker. They may work or may not, they are k
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code._
+
+### Haxe
+- Haxe: - Blog Articles -
+    - 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
 
 ### JavaScript
 - JavaScript: Game Engine w/Editor

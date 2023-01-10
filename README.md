@@ -629,7 +629,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [HaxeTink](https://github.com/haxetink) - Various add-on libraries for Haxe.
     - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: - Blog Articles -
-    - 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
     - 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 - Haxe: Animation
     - 🎉 [Actuate](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
@@ -1260,7 +1259,7 @@ _Software to help with game engine / video game development._
     - 📚 [NeRF](https://www.matthewtancik.com/nerf) [:octocat:](https://github.com/bmild/nerf) - View synthesis of scenes as neural radiance fields.
 - Sound
     - 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
-    - 🆓 [Sonic Pi](https://sonic-pi.net/) [:octocat:](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
+    - 🆓 [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
 
 ### Image Editors
 - 🆓 [GIMP](https://www.gimp.org) [:octocat:](https://github.com/GNOME/gimp) - GNU Image Manipulation Program, free and open-source cross-platform image editor.
