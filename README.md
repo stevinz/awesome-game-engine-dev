@@ -775,7 +775,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Egret](https://www.egret.com) [:octocat:](https://github.com/egret-labs/egret-core) - HTML5 game engine. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
     - 🎉 [GDevelop](https://gdevelop.io/) [:octocat:](https://github.com/4ian/GDevelop) - Full-featured, open source 2D game development software platform.
     - 🎉 [Impact](https://impactjs.com) [:octocat:](https://github.com/phoboslab/impact) - Game engine for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
-    - 🎉 [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) - Engine with advanced multiplayer (based on Valve's multiplayer system).
     - 🎉 [melonJS](https://melonjs.org) [:octocat:](https://github.com/melonjs/melonJS) - Modern 2D game engine. Uses Tiled for level editing. [[Examples](https://melonjs.github.io/examples/)]
     - 🎉 [microStudio](https://microstudio.dev/) [:octocat:](https://github.com/pmgl/microstudio/) - Free online game engine, learn and practice programming.
     - 🎉 [Pixelbox.js](https://pixwlk.itch.io/pixelbox) [:octocat:](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games.

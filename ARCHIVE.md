@@ -2,15 +2,27 @@
 
 # Archive
 
-These are links that might not work, and are kept because they are / were excellent resources.
+These are links that fail the link checker. They may work or may not. They are kept because they are / were excellent resources.
 
 <br />
 <br />
 
 ## Contents
 
+- [Libraries](#libraries)
+    - [JavaScript](#javascript)
 - [Specialty Topics](#specialty-topics)
     - [Physics](#physics)
+
+<br />
+<br />
+
+## Libraries
+_Language specific game engine development libraries / frameworks / code._
+
+### JavaScript
+- JavaScript: Game Engine w/Editor
+    - 🎉 [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) - Engine with advanced multiplayer (based on Valve's multiplayer system).
 
 <br />
 <br />
