@@ -1,10 +1,12 @@
 <div align="center">
-    <img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/>
+<a href="https://github.com/stevinz/awesome-game-engine-dev"><img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/></a>
 </div>
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > Awesome list of articles, assets, libraries, and tools for Game Engine Development.
+
+Crafting software to ease the creation of video games.
 
 Specifically, this list is geared toward development of high-level, fully featured game engines (e.g. Godot / Unity). This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g. MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities such as scripting support, physics integration, asset management, special effects, etc.
 
@@ -113,55 +115,55 @@ This list currently favors (but is not limited to) programming game engines in t
 ## Game Engines
 _Production ready game engines to tinker with, explore, learn and inspire._
 
-- ### Popular
-    - 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
-    - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
-    - 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
+### Popular
+- 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
+- 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
+- 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
 
-- ### Awesome Collections
-    - 📚 [CoolEngines](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
-    - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
+### Awesome Collections
+- 📚 [CoolEngines](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
+- 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
 
-- ### AAA
-    - 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
-    - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
-    - 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform created by Crytek.
-    - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
-    - 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
-    - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
-    - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
-    - 🎉 [O3DE](https://www.o3de.org/) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
-    - 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling small teams to create AAA games.
-    - 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
+### AAA
+- 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
+- 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
+- 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform created by Crytek.
+- 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
+- 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
+- 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
+- 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
+- 🎉 [O3DE](https://www.o3de.org/) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
+- 💰 [Snowdrop Engine](https://www.massive.se/project/snowdrop-engine/) - (by Massive Entertainment) Enabling small teams to create AAA games.
+- 💸 [Unigine](https://unigine.com) - Real-time 3D engine. Photorealistic graphics, large virtual worlds, C++ and C# API.
 
-- ### Commercial
-    - 💰 [AppGameKit](https://www.appgamekit.com/studio) - (by TheGameCreators) Easy and quick game making.
-    - 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
-    - 💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
-    - 💰 [Corgi Engine](https://corgi-engine.moremountains.com/) - 2D / 2.5D platformer engine built on top of Unity.
-    - 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Open sourced game engine for desktop, mobile and web games.
-    - 💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
-    - 💰 [GameGuru](https://www.game-guru.com/) - (by TheGameCreators) 3D game maker, no coding required.
-    - 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
-    - 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
-    - 💸 [Luxe](https://luxeengine.com/) - (in beta) 2D first engine, with a 2D / 3D renderer.
-    - 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
-    - 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
-    - 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
-    - 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
-    - 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
-    - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
-    - 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+### Commercial
+- 💰 [AppGameKit](https://www.appgamekit.com/studio) - (by TheGameCreators) Easy and quick game making.
+- 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
+- 💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. [[Awesome Construct](https://github.com/ConstructCommunity/awesome-construct#readme)]
+- 💰 [Corgi Engine](https://corgi-engine.moremountains.com/) - 2D / 2.5D platformer engine built on top of Unity.
+- 🎉 [Defold](https://defold.com) [:octocat:](https://github.com/defold/defold) - (by King) Open sourced game engine for desktop, mobile and web games.
+- 💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
+- 💰 [GameGuru](https://www.game-guru.com/) - (by TheGameCreators) 3D game maker, no coding required.
+- 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
+- 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
+- 💸 [Luxe](https://luxeengine.com/) - (in beta) 2D first engine, with a 2D / 3D renderer.
+- 💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
+- 💸 [NeoAxis](https://www.neoaxis.com) [:octocat:](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
+- 💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat:](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
+- 💸 [PlayCanvas](https://playcanvas.com) [:octocat:](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. [[Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme)]
+- 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
+- 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. [[Developer Website](http://fireflytech.org)]
+- 💸 [Stencyl](https://www.stencyl.com/) [:octocat:](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
-- ### Specialty
-    - 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [[Developer Website](http://www.geodstudio.net)]
-    - 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
-    - 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
-    - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
-    - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in GameMaker.
-    - 💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games. Built on Godot.
-    - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
-    - 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klemb ot/twinejs) - Tool for telling interactive, nonlinear stories.
+### Specialty
+- 💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. [[Developer Website](http://www.geodstudio.net)]
+- 💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Full GML Doom/Heretic map loading system for GameMaker Studio.
+- 🎉 [GB Studio](https://www.gbstudio.dev) [:octocat:](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for Game Boy available for Mac, Linux and Windows.
+- 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
+- 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in GameMaker.
+- 💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games. Built on Godot.
+- 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
+- 🔒 [Twine](https://twinery.org) [:octocat:](https://github.com/klemb ot/twinejs) - Tool for telling interactive, nonlinear stories.
 
 <br />
 <br />
@@ -169,86 +171,86 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 ## Learning
 _Info on topics necessary for designing and developing game engines._
 
-- ### Computer Graphics
-    - #### Awesome Collections
-        - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
-    - #### Blog Articles
-        - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
-        - 📚 [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/) - Common art-related performance issues.
-    - #### Books
-        - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
-        - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
-        - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by NVIDIA.
-        - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - A top down approach to computer graphics.
-        - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
-    - #### Education Portals
-        - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
-        - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
-        - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of many computer graphics topics.
-    - #### Graphics API: DirectX
-        - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D / 3D games and apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
-        - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
-    - #### Graphics API: Metal
-        - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
-        - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
-    - #### Graphics API: OpenGL
-        - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! In depth tutorials for modern graphics programming.
-        - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high performance graphics.
-        - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
-    - #### Graphics API: Vulkan
-        - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Sample Code](https://github.com/khronosGroup/Vulkan-samples)]
-        - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
-    - #### Graphics API: WebGL
-        - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Open web standard 3D graphics API.
-        - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Full understanding of what WebGL really is and how it works.
-        - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - Updated to use the WebGL2 standard.
-        - 📚 [WebGL 2 Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features.
-        - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - How to use the canvas element to draw WebGL graphics.
-    - #### Graphics API: WebGPU
-        - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
-        - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web 3D graphics API.
-        - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's collection of simple WebGPU examples.
-    - #### Platform: XNA
-        - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - C# learning resource, [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
-        - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA / [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) developers.
-    - #### Shader
-        - _see [Specialty Topic: Shaders](#shaders)_
+### Computer Graphics
+- #### Awesome Collections
+    - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
+- #### Blog Articles
+    - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
+    - 📚 [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/) - Common art-related performance issues.
+- #### Books
+    - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
+    - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
+    - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by NVIDIA.
+    - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - A top down approach to computer graphics.
+    - 📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
+- #### Education Portals
+    - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
+    - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
+    - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of many computer graphics topics.
+- #### Graphics API: DirectX
+    - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D / 3D games and apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
+    - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
+- #### Graphics API: Metal
+    - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
+    - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
+- #### Graphics API: OpenGL
+    - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! In depth tutorials for modern graphics programming.
+    - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high performance graphics.
+    - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
+- #### Graphics API: Vulkan
+    - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Sample Code](https://github.com/khronosGroup/Vulkan-samples)]
+    - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
+- #### Graphics API: WebGL
+    - 🌎 [WebGL](https://www.khronos.org/webgl/) [:octocat:](https://github.com/KhronosGroup/WebGL) - Open web standard 3D graphics API.
+    - 📚 [WebGL Fundamentals](https://webglfundamentals.org) - 🔥 Full understanding of what WebGL really is and how it works.
+    - 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - Updated to use the WebGL2 standard.
+    - 📚 [WebGL 2 Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features.
+    - 📚 [WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) - How to use the canvas element to draw WebGL graphics.
+- #### Graphics API: WebGPU
+    - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
+    - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web 3D graphics API.
+    - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's collection of simple WebGPU examples.
+- #### Platform: XNA
+    - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - C# learning resource, [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
+    - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA / [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) developers.
+- #### Shader
+    - _see [Specialty Topic: Shaders](#shaders)_
 
-- ### Engine Development
-    - #### Blog Articles
-        - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
-        - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
-    - #### Books
-        - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
+### Engine Development
+- #### Blog Articles
+    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
+    - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
+- #### Books
+    - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 
-- ### Game Development
-    - #### Awesome Collections
-        - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
-        - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
-        - 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
-        - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
-    - #### Books
-        - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-        - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
-    - #### Developer Portals
-        - 🌎 [Game Developer](https://www.gamedeveloper.com) - (formerly Gamasutra) Industry blogs, events, jobs, updates and more.
-        - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-        - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
-        - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
-    - #### Tutorials
-        - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
+### Game Development
+- #### Awesome Collections
+    - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
+    - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
+    - 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
+    - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
+- #### Books
+    - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
+    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+- #### Developer Portals
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - (formerly Gamasutra) Industry blogs, events, jobs, updates and more.
+    - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
+    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
+    - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
+- #### Tutorials
+    - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
-- ### Graphical User Interface
-    - 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
+### Graphical User Interface
+- 📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
 
-- ### Programming
-    - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
-    - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
-    - 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
-    - 📚 [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
-    - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
-    - 📚 [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
-    - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated once a month.
+### Programming
+- 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
+- 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
+- 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
+- 📚 [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+- 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
+- 📚 [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
+- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated once a month.
 
 <br />
 <br />
