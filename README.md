@@ -633,7 +633,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 - Haxe: Animation
     - 🎉 [Actuate](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
-    - 🎉 [DragonBones](https://github.com/openfl/dragonbones) - Runtime support for [DragonBones](https://www.dragonbones.com) skeletal animation.
+    - 🎉 [DragonBones](https://github.com/openfl/dragonbones) - Runtime support for DragonBones skeletal animation.
     - 🎉 [Spine-Hx](https://github.com/jeremyfa/spine-hx) - Spine runtime for Haxe.
 - Haxe: App Framework
     - 🎉 [Lime](https://lime.openfl.org/) [:octocat:](https://github.com/haxelime/lime) - Flexible, lightweight layer for Haxe cross-platform developers.
