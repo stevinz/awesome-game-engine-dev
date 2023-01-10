@@ -39,8 +39,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Commercial](#commercial)
     - [Specialty](#specialty)
 - [Learning](#learning)
-    - [Computer Graphics](#computer-graphics)
-        - <sub><sup>[DirectX](#graphics-api-directx) | [Metal](#graphics-api-metal) | [OpenGL](#graphics-api-opengl) | [Vulkan](#graphics-api-vulkan) | [WebGL](#graphics-api-webgl) | [WebGPU](#graphics-api-webgpu) | [XNA](#platform-xna) </sup></sub>
+    - [Computer Graphics](#computer-graphics) <sub><sup>( [DirectX](#graphics-api-directx) | [Metal](#graphics-api-metal) | [OpenGL](#graphics-api-opengl) | [Vulkan](#graphics-api-vulkan) | [WebGL](#graphics-api-webgl) | [WebGPU](#graphics-api-webgpu) | [XNA](#platform-xna) )</sup></sub>
     - [Engine Development](#engine-development)
     - [Game Development](#game-development)
     - [Graphical User Interface](#graphical-user-interface)
@@ -72,19 +71,15 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Color Manipulation](#color-manipulation)
     - [Entity Component Systems](#entity-component-systems)
     - [Fluid / Smoke](#fluid--smoke)
-    - [Geometry](#geometry)
-        - <sub><sup>[Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing)</sup></sub>
+    - [Geometry](#geometry) <sub><sup>( [Algorithms](#algorithms) | [CSG](#csg-constructive-solid-geometry) | [Meshes](#meshes) | [Smoothing](#smoothing) )</sup></sub>
     - [Hair](#hair)
-    - [Lighting / Shadows](#lighting--shadows)
-        - <sub><sup>[Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric)</sup></sub>
+    - [Lighting / Shadows](#lighting--shadows) <sub><sup>( [Lighting](#lighting-2d) | [Shadows](#shadows-2d) | [Volumetric](#volumetric) )</sup></sub>
     - [Network](#network)
     - [Particles](#particles)
-    - [Physics](#physics)
-        - <sub><sup>[Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy)</sup></sub>
+    - [Physics](#physics) <sub><sup>( [Platformer](#platformer) | [Ropes / Chains](#ropes--chains) | [Soft Body](#soft-body) | [Verlet](#verlet-physics) | [Water / Buoyancy](#water--buoyancy) )</sup></sub>
     - [Rendering](#rendering)
     - [Scripting](#scripting)
-    - [Shaders](#shaders)
-        - <sub><sup>[Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Lines](#lines) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe)</sup></sub>
+    - [Shaders](#shaders) <sub><sup>( [Bloom](#bloom) | [Displacement](#displacement) | [Fire](#fire) | [Lines](#lines) | [Noise](#noise) | [Outlines](#outlines) | [Pixelation](#pixelation) | [Upscaling](#upscaling) | [Water](#water--refraction) | [Wireframe](#wireframe) )</sup></sub>
     - [Signed Distance Fields](#signed-distance-fields)
     - [Tiling](#tiling)
     - [Transparency](#transparency)
@@ -93,8 +88,7 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Animation Software](#animation-software)
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
-    - [Generative Art](#generative-art)
-        - <sub><sup>[Imaging](#imaging) | [Modeling](#modeling) | [Sound](#sound)</sup></sub>
+    - [Generative Art](#generative-art) <sub><sup>( [Imaging](#imaging) | [Modeling](#modeling) | [Sound](#sound) )</sup></sub>
     - [Image Editors](#image-editors)
     - [Level Editors](#level-editors)
     - [Materials / Textures](#materials--textures)
