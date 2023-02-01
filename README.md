@@ -105,7 +105,6 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Material Assets](#material-assets)
     - [Model Assets](#model-assets)
 - [Archive](#archive)
-- [Contributing](#contributing)
 
 <br />
 <br />
