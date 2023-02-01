@@ -428,6 +428,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Halley](https://github.com/amzeratul/halley) - Modern C++17. Used for Wargroove, a strategy game on desktop and consoles.
     - 🎉 [is::Engine](https://github.com/Is-Daouda/is-Engine) - 2D framework built on SDL2 and SFML.
     - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D framework. Develop anywhere, deploy everywhere.
+    - 🎉 [Koala Engine](https://github.com/phisko/kengine) - (aka Kengine) Framework with an entity component system architecture.
     - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
     - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [ORX](https://github.com/orx/orx) - Orx is a 2.5D data-driven game dev framework.

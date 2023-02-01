@@ -7,18 +7,6 @@ These are links that fail the link checker. They should still work, but may not.
 <br />
 <br />
 
-## Contents
-
-- [Libraries](#libraries)
-    - [Haxe](#haxe)
-    - [JavaScript](#javascript)
-- [Specialty Topics](#specialty-topics)
-    - [Physics](#physics)
-    - [Shaders](#shaders)
-
-<br />
-<br />
-
 ## Libraries
 _Language specific game engine development libraries / frameworks / code._
 
