@@ -375,7 +375,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Tweeny](https://mobius3.github.io/tweeny/) [:octocat:](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
 - C++: Audio
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D and 3D cross-platform desktop sound engine and audio library.
-    - 💰 [Juce](https://juce.com) - The leading framework for multi-platform audio applications.
+    - 💰 [Juce](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio applications.
     - 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) - Software implementation of the OpenAL 3D audio API.
     - 🎉 [PortAudio](http://www.portaudio.com) [:octocat:](https://github.com/PortAudio/portaudio) - Free, cross-platform, open-source, audio I/O library.
 - C++: Cross-Platform
@@ -410,7 +410,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [neoGFX](https://neogfx.org) [:octocat:](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
     - 🎉 [ÖbEngine](https://github.com/ObEngine/ObEngine) - 2D Engine with Lua Scripting built on SFML.
     - 🎉 [Overload](http://overloadengine.org/) [:octocat:](https://github.com/adriengivry/Overload) - Highly documented 3D game engine, inspired by industry standards.
-    - 🎉 [Polycode](http://polycode.org/features/) [:octocat:](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
+    - 🎉 [Polycode](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
     - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.
     - 🎉 [Rootex](https://rootex.readthedocs.io/en/latest/) [:octocat:](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
     - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
@@ -860,7 +860,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Comprehensive guide to CSS flexbox layout.
     - 📚 [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Comprehensive guide to CSS grid.
 - JavaScript: Materials
-    - 🎉 [three-projected-material](https://marcofugaro.github.io/three-projected-material/) [:octocat:](https://github.com/marcofugaro/three-projected-material) - Texture projection in Three.js.
+    - 🎉 [three-projected-material](https://github.com/marcofugaro/three-projected-material) - Texture projection in Three.js.
     - 🎉 [Troika JS - Derived Material](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/) [:octocat:](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) - Extend existing Three.js materials.
 - JavaScript: Networking
     - 🎉 [Socket.io](https://socket.io/) [:octocat:](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
@@ -902,7 +902,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Kotlin: - General -
     - 🌎 [Kotlin](https://kotlinlang.org/) [:octocat:](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
 - Kotlin: - Awesome Collections -
-    - 📚 [Awesome Kotlin](https://kotlin.link/) [:octocat:](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
+    - 📚 [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
 - Kotlin: Game Engine w/Editor
     - 🎉 [KorGE](https://korge.org/) [:octocat:](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
 - Kotlin: Game Framework
@@ -1351,6 +1351,13 @@ _Resources to help bring video games and game engines alive._
 - 🆓 [Quaternius](https://quaternius.com) - Great collection of CC0 1.0 3D models.
 - 📚 [Retro3DGraphicsCollection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
 - 💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
+
+<br />
+<br />
+
+## Archive
+
+_Dead links that have been removed are kept in the [Archive](ARCHIVE.md)_
 
 <br />
 <br />
