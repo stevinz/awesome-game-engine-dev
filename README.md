@@ -1357,9 +1357,9 @@ _Resources to help bring video games and game engines alive._
 
 ## Archive
 
+<!--lint ignore awesome-list-item-->
 _Dead links that have been removed are kept in the [Archive](ARCHIVE.md)_
 
-<br />
 <br />
 
 ## Contributing
