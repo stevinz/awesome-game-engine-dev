@@ -104,6 +104,8 @@ This list currently favors (but is not limited to) programming game engines in t
     - [Graphic Assets](#graphic-assets)
     - [Material Assets](#material-assets)
     - [Model Assets](#model-assets)
+- [Archive](#archive)
+- [Contributing](#contributing)
 
 <br />
 <br />
@@ -1357,7 +1359,6 @@ _Resources to help bring video games and game engines alive._
 
 ## Archive
 
-<!--lint ignore awesome-list-item-->
 _Dead links that have been removed are kept in the [Archive](ARCHIVE.md)_
 
 <br />
