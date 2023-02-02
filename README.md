@@ -710,7 +710,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chroma.js](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations.
 - JavaScript: Cross-Platform
     - 🎉 [Apache Cordova](https://cordova.apache.org) - Mobile apps (iOS / Android) with with JavaScript, HTML, and CSS.
-    - 🎉 [Electron](https://github.com/electron/electron) - Cross-platform desktop apps with JavaScript, HTML, and CSS. [[Website](https://github.com/electron/electron)]
+    - 🎉 [Electron](https://github.com/electron/electron) - Cross-platform desktop apps with JavaScript, HTML, and CSS. [[Website](https://www.electronjs.org/)]
     - 📚 [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) - Cross-platform gui app development options.
     - 🎉 [Ejecta](https://github.com/phoboslab/Ejecta) - Fast JavaScript / Canvas / Audio implementation for iOS. App store compatible.
     - 🎉 [NW.js](https://github.com/nwjs/nw.js) - (previously Node-Webkit) Desktop apps with JavaScript. [[Website](https://nwjs.io)]
@@ -744,6 +744,9 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [React](https://reactjs.org) [:octocat:](https://github.com/facebook/react/) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
     - 🎉 [Svelte](https://svelte.dev) [:octocat:](https://github.com/sveltejs/svelte) - Takes your declarative components and converts them into efficient JavaScript.
     - 🎉 [Vue](https://vuejs.org/) [:octocat:](https://github.com/vuejs/vue) - Progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- JavaScript: Game Engines
+    - 📚 [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection of HTML5 / JavaScript game engines.
+    - 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) - HTML5 based game engines and frameworks.
 - JavaScript: Game Engine w/Editor
     - 🎉 [A-Frame](https://github.com/aframevr/aframe/) - Web framework for building 3D VR experiences. [[Website](https://aframe.io)]
     - 🎉 [Cocos Creator](https://github.com/cocos-creator/engine) - Cross-Platform 2D/3D game creation. [[Website](https://www.cocos.com/en/creator)]
@@ -751,8 +754,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Egret](https://github.com/egret-labs/egret-core) - HTML5 game engine. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
     - 🎉 [GDevelop](https://github.com/4ian/GDevelop) - Full-featured 2D game development. [[Website](https://gdevelop.io/)]
     - 🎉 [Impact](https://github.com/phoboslab/impact) - Game engine for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
-    - 📚 [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection of HTML5 / JavaScript game engines.
-    - 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) - HTML5 based game engines and frameworks.
     - 🎉 [melonJS](https://github.com/melonjs/melonJS) - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). [[Examples](https://melonjs.github.io/examples/) | [Website](https://melonjs.org)]
     - 🎉 [microStudio](https://github.com/pmgl/microstudio/) - Free online game engine. Learn and practice programming. [[Website](https://microstudio.dev/)]
     - 🎉 [Pixelbox.js](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games. [[Download](https://pixwlk.itch.io/pixelbox)]
@@ -805,20 +806,31 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
     - 📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
     - 🎉 [x3dom](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
-- JavaScript: Graphics - Three.js - React
-    - 🎉 [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
-    - 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
-- JavaScript: Graphics - Three.js - Reference
+- JavaScript: Graphics - Three.js
     - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web applications using Three.js.
     - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
     - 🎉 [Sketch Three.js](https://github.com/ykob/sketch-threejs) - Interactive sketches made with Three.js.
     - 🎉 [Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on Three.js and Cannon.js.
     - 🌎 [Stemkoski Three.js Examples](http://stemkoski.github.io/Three.js/) - Excellent set of instructive examples.
-    - 📚 [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Great collection of resources for Three.js.
+    - 📚 [Three.js Bookshelf](https://discourse.threejs.org/t/three-js-bookshelf/2468) - Great collection of resources.
     - 📚 [Three.js Discourse Examples](https://hofk.de/main/discourse.threejs/) - Yearly collection of all examples posted on the Three.js forum.
     - 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
-    - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - (formerly ThreeJsFundamentals) Fantastic info on Three.js and 3D.
-    - 📚 [THREEx](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions for Three.js.
+    - 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - (formerly ThreeJsFundamentals) Fantastic articles and explanations.
+    - 📚 [THREEx](https://github.com/jeromeetienne/threex) - Nice collection of open source game extensions.
+- JavaScript: Graphics - Three.js - Addon
+    - 🎉 [irregular-grid](https://github.com/sketchpunklabs/irregular_grid) - Examples of generating and using irregular grids. [[Demos](https://sketchpunklabs.github.io/irregular_grid/)]
+    - ❓ [screen-space-reflections](https://github.com/0beqz/screen-space-reflections) - Implements screen space reflections in Three.js.
+    - 🎉 [three-billboard-reflection](https://github.com/0beqz/three-billboard-reflection) - Performant plane reflections in Three.js.
+    - 🎉 [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG implementation on top of three-mesh-bvh.
+    - 🎉 [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - Speed up raycasting and enable spatial queries.
+    - 🎉 [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) - Make VR user interfaces for Three.js.
+    - 🎉 [three-nebula](https://github.com/creativelifeform/three-nebula) - WebGL based particle system engine for Three.js. [[Examples](https://three-nebula.org/examples/custom-renderer)]
+    - 🎉 [three.ik](https://github.com/jsantell/THREE.IK) - Inverse kinematics for Three.js.
+    - 🎉 [voxelizer](https://github.com/andstor/voxelizer) - Voxelization of 3D models.
+- JavaScript: Graphics - Three.js - React
+    - 🎉 [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
+    - 🎉 [gltfjsx](https://github.com/pmndrs/gltfjsx) - Turns GLTFs into JSX components.
+    - 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
 - JavaScript: Gui
     - 🎉 [Bootstrap](https://github.com/twbs/bootstrap) - Popular. Develop responsive, mobile first projects. [[Website](https://getbootstrap.com/)]
     - 🎉 [dat.GUI](https://github.com/dataarts/dat.gui) - Lightweight graphical user interface for changing variables in JavaScript.
@@ -836,10 +848,15 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Zebkit](https://github.com/barmalei/zebkit) - 🔥 Canvas rendered UI component libary.
 - JavaScript: Input
     - 🎉 [Joycon.js](https://github.com/barhatsor/joycon.js) - JavaScript controller functionality.
+    - ❓ [Mesekai](https://github.com/Neleac/Mesekai) - Real-time motion tracking.
+    - 🎉 [use-gesture](https://github.com/pmndrs/use-gesture) - Utility for mouse / touch gestures in React and JavaScript.
+    - 🔒 [WebAR.rocks.faceDepth](https://github.com/WebAR-rocks/WebAR.rocks.faceDepth) - Insert your face from your camera into a 3D scene.
 - JavaScript: Layout
     - 📚 [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Comprehensive guide to CSS flexbox layout.
     - 📚 [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Comprehensive guide to CSS grid.
 - JavaScript: Materials
+    - 🎉 [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) - Extend Three.js standard materials with your own shaders.
+    - 🎉 [Lamina](https://github.com/pmndrs/lamina) - Extensible, layer based shader material for Three.js.
     - 🎉 [three-projected-material](https://github.com/marcofugaro/three-projected-material) - Texture projection in Three.js.
     - 🎉 [Troika JS - Derived Material](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) - Extend existing Three.js materials. [[Docs](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/)]
 - JavaScript: Networking
@@ -890,7 +907,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Pascal
 - 📚 [Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
-- 🌎 [Delphi](https://www.embarcadero.com/products/delphi) - Popular IDE with cross-platform support.
+- 📚 [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)) - Pascal dialect and popular IDE with cross-platform support.
 - 🌎 [Free Pascal](https://www.freepascal.org/) - Mature, versatile, open source Pascal compiler.
 - 📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
 - Pascal: Game Engine w/Editor
@@ -1335,6 +1352,7 @@ _The meaning behind the emoji_
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
     - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT / Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB / LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://www.boost.org/users/license.html) etc.)
     - 🔒 - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) / [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
+    - ❓ - Unknown License
 - Asset / Service / Tool
     - 🆓 - Free
     - 💰 - Paid

@@ -5,9 +5,10 @@ Thanks for your interest in contributing. This list aims to provide excellent re
 
 - The link you are adding should not already be present in the list.
 - The link you are adding should not take up more than a single line (i.e. should fit in the regular Github readme column).
+- The link's primary target should be a [GitHub](https://github.com/) repository (if applicable).
 - The link you are adding should be relevant to Game Engine Development. New categories are possible if they improve the scope of the list as it pertains to Game Engine Development.
 - The link you are adding should be currently maintained and not deprecated. Exceptions may be allowed for resources that are well known and have large community support.
-- The links listed for each category are in alphabetical order, new links should be inserted within this order.
+- The links that are listed for each category are in alphabetical order, new links should be inserted within this order.
 - The link you are adding may not be accepted if:
     - The owner of this repo feels the link does not adhere to these rules.
     - The link is not a good fit for a list about Game Engine Development.
