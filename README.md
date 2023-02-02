@@ -117,16 +117,16 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Game engines along with their platforms and licenses.
 
 ### Popular
-- 🎉 [Godot](https://godotengine.org) [:octocat:](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme)]
+- 🎉 [Godot](https://github.com/godotengine/godot#readme) - 🔥 Feature-packed, open source engine. Excellent! [[Awesome Godot](https://github.com/godotengine/awesome-godot#readme) | [Official Site](https://godotengine.org)]
 - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome Unity](https://github.com/RyanNielson/awesome-unity)]
 - 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome UE4](https://github.com/insthync/awesome-ue4#readme)]
 
 ### AAA
-- 🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat:](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
+- 🎉 [Amazon Lumberyard](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
 - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
 - 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform created by Crytek.
 - 🆓 [Evergine](https://evergine.com) - (previously Wave Engine) High-quality 3D and 2D solutions. [[Projects/Samples](https://github.com/EvergineTeam/Samples)]
-- 💸 [Flax Engine](https://flaxengine.com) [:octocat:](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
+- 💸 [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
 - 💰 [Frostbite](https://www.ea.com/frostbite) - (by Electronic Arts) Cutting-Edge Games and Experiences.
 - 💰 [Gamebryo](http://www.gamebryo.com) - Complete toolset, flexible workflow, rapid prototyping.
 - 🎉 [O3DE](https://www.o3de.org/) [:octocat:](https://github.com/o3de/o3de/) - (successor to Lumberyard) Multi-platform AAA engine. Cinema-quality 3D.
@@ -187,11 +187,17 @@ _Info on topics necessary for designing and developing game engines._
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D / 3D games and apps. [[Sample Code](https://github.com/microsoft/DirectX-Graphics-Samples) | [Blog](https://devblogs.microsoft.com/directx/)]
     - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
+- Graphics API: Glide
+    - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by 3dfx Interactive for their Voodoo Graphics in the 1990's.
+    - 🌎 [Glide Open Source Project](https://glide.sourceforge.net/) - Glide open source project.
+- Graphics API: Mantle
+    - 📚 [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Alternative to Direct3D and OpenGL developed by AMD.
 - Graphics API: Metal
     - 🌎 [Metal](https://developer.apple.com/metal/) - Apple API for developing 3D apps on Apple platforms. [[Sample Code](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Apple's 3D graphics API at RayWenderlich.com.
 - Graphics API: OpenGL
     - 📚 [LearnOpenGL](https://learnopengl.com) - 🔥 Incredible resource! In depth tutorials for modern graphics programming.
+    - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
@@ -207,6 +213,10 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Google's open-source and cross-platform implementation of the WebGPU standard.
     - 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) [:octocat:](https://github.com/gpuweb/gpuweb) - Next generation web 3D graphics API.
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Apple's collection of simple WebGPU examples.
+- Pipeline: GPGPU
+    - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Parallel computing platform and programming model developed by NVIDIA.
+    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by Microsoft for using compute shaders with DirectX 10 & 11.
+    - 🌎 [OpenCL](https://www.khronos.org/opencl/) - Open framework for writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - C# learning resource, [XNA Tutorials](http://rbwhitaker.wikidot.com/xna-tutorials), [MonoGame Tutorials](http://rbwhitaker.wikidot.com/monogame-tutorials), and more.
     - 📚 [XNA Game Studio Archive](https://github.com/SimonDarksideJ/XNAGameStudio) - 🔥 Required visit for MonoGame / FNA / [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) developers.
@@ -429,18 +439,19 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Halley](https://github.com/amzeratul/halley) - Modern C++17. Used for Wargroove, a strategy game on desktop and consoles.
     - 🎉 [is::Engine](https://github.com/Is-Daouda/is-Engine) - 2D framework built on SDL2 and SFML.
     - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D framework. Develop anywhere, deploy everywhere.
+    - 🔒 [KlayGE](https://github.com/gongminmin/KlayGE) - Cross-platform game engine with plugin-based architecture.
     - 🎉 [Koala Engine](https://github.com/phisko/kengine) - (aka Kengine) Framework with an entity component system architecture.
     - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics applications.
     - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [ORX](https://github.com/orx/orx) - Orx is a 2.5D data-driven game dev framework.
-    - 🎉 [Oryol](http://floooh.github.io/oryol/) [:octocat:](https://github.com/floooh/oryol) - Small, portable and extensible C++ 3D coding framework.
+    - 🎉 [Oryol](https://github.com/floooh/oryol) - Small, portable and extensible C++ 3D coding framework.
     - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
-    - 🎉 [Solar2D](https://solar2d.com) [:octocat:](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
+    - 🎉 [Solar2D](https://github.com/coronalabs/corona) - (previously Corona) Focus on ease of iterations and usage.
     - 🎉 [Supernova](https://github.com/supernovaengine/supernova) - Cross-platform for 2D and 3D projects.
     - 🎉 [Thunder](https://github.com/thunder-engine/thunder) - Cross-platform 2D and 3D with module architecture.
     - 🎉 [Two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
     - 🎉 [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game framework.
-    - 💸 [Valve Source SDK](https://developer.valvesoftware.com/wiki/Source_SDK_2013) [:octocat:](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine))]
+    - 💸 [Valve Source SDK](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
 - C++: Geometry
     - 🎉 [CinoLib](https://github.com/mlivesu/cinolib) - Header only C++ library for processing polygonal and polyhedral meshes.
     - 🎉 [Delabella](https://github.com/msokalski/delabella) - Super stable 2D delaunay triangulation.
@@ -475,6 +486,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine](https://magnum.graphics) [:octocat:](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
     - 🎉 [Ogre](https://www.ogre3d.org) [:octocat:](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
+    - 🎉 [OSRE](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
     - 🎉 [Threepp](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular JavaScript 3D library  Three.js (r129).
     - 🎉 [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
     - 🎉 [Wicked Engine](https://wickedengine.net) [:octocat:](https://github.com/turanszkij/WickedEngine) - Engine focusing on modern rendering techniques and performance.
