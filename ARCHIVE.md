@@ -2,7 +2,7 @@
 
 # Archive
 
-These are links that fail the link checker. They should still work, but may not. They are kept here because they are / were excellent resources.
+These links sometimes fail link validation. They should still work, but may not. They are kept here because they are excellent resources.
 
 <br />
 <br />
@@ -11,12 +11,7 @@ These are links that fail the link checker. They should still work, but may not.
 _Language specific game engine development libraries / frameworks / code._
 
 ### Haxe
-- Haxe: - Blog Articles -
-    - 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
-
-### JavaScript
-- JavaScript: Game Engine w/Editor
-    - 🎉 [Isogenic](https://www.isogenicengine.com) [:octocat:](https://github.com/irrelon/ige) - Engine with advanced multiplayer (based on Valve's multiplayer system).
+- 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
 
 <br />
 <br />
