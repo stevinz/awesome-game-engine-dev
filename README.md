@@ -527,7 +527,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cereal](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
     - 🎉 [Cista++](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     - 🎉 [FlatBuffers](https://github.com/google/flatbuffers) - (by Google) Efficient cross-platform serialization library.
-    - 🎉 [JSON for Modern C++](https://github.com/nlohmann/json) - 🔥 JSON for Modern C++.
+    - 🎉 [JSON for Modern C++](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf](https://github.com/protocolbuffers/protobuf) - (by Google) Protocol Buffers, for platform-neutral serialized data.
     - 🎉 [RapidJSON](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
@@ -611,7 +611,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### Haxe
 - 📚 [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
 - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
-- 🌎 [Haxe](https://haxe.org) - 🔥 Produce cross-platform native code. [[GitHub](https://github.com/HaxeFoundation/haxe)]
+- 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub](https://github.com/HaxeFoundation/haxe)]
 - 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 - Haxe: Animation
     - 🎉 [Actuate](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
@@ -784,7 +784,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [p5.js](https://github.com/processing/p5.js) - Library for creative coding. [[Website](https://p5js.org)]
     - 🎉 [Paper.js](https://github.com/paperjs/paper.js) - The swiss army knife of vector graphics. [[Examples](http://paperjs.org/)]
     - 🎉 [Pencil.js](https://github.com/pencil-js/pencil.js) - Modular interactive 2D drawing library. [[Examples](https://pencil.js.org/)]
-    - 🎉 [PixiJS](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. [[Awesome](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor) | [Website](https://pixijs.com/)]
+    - 🎉 [PixiJS](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. [[Awesome](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor) | [Essentials](https://github.com/ShukantPal/pixi-essentials) | [Website](https://pixijs.com/)]
     - 🎉 [Pts](https://github.com/williamngan/pts) - Library for visualization and creative coding. [[Examples](https://ptsjs.org)]
     - 🎉 [Scrawl-canvas](https://github.com/KaliedaRik/Scrawl-canvas) - Library for working with the canvas element.
     - 🎉 [Stage.js](https://github.com/shakiba/stage.js) - 2D rendering engine for game development. [[Examples](https://piqnt.com/stage.js/)]
@@ -849,7 +849,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Tweakpane](https://github.com/cocopon/tweakpane) - Compact gui for fine-tuning values.
     - 🎉 [uil](https://github.com/lo-th/uil) - Simple JavaScript gui.
     - 🎉 [w2ui](https://github.com/vitmalina/w2ui) - Gui widgets for modern web apps.
-    - 🎉 [Zebkit](https://github.com/barmalei/zebkit) - 🔥 Canvas rendered UI component libary.
+    - 🎉 [Zebkit](https://github.com/barmalei/zebkit) - Canvas rendered UI component libary.
 - JavaScript: Input
     - 🎉 [Joycon.js](https://github.com/barhatsor/joycon.js) - JavaScript controller functionality.
     - ❓ [Mesekai](https://github.com/Neleac/Mesekai) - Real-time motion tracking.
