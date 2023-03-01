@@ -802,6 +802,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Pixi3D](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS, seamless integration with 2D apps. [[Examples](https://pixi3d.org/)]
     - 🎉 [RedGL](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
+    - 🎉 [SwissGL](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2.
     - 🎉 [Three.js](https://github.com/mrdoob/three.js/) - 🔥 General-purpose 3D library. [[Awesome](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
     - 🎉 [TWGL](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. [[Examples](http://twgljs.org/)]
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
@@ -892,6 +893,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Flow](https://github.com/sunag/flow) - Node-graph library.
     - 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) - Create graphs in the browser similar to Unreal Blueprints. [[Demo](https://tamats.com/projects/litegraph/editor/)]
     - 🎉 [Node-RED](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
+    - 🎉 [Nodl](https://github.com/emilwidlund/nodl) - Framework for computational node graphs.
     - 🎉 [Rete.js](https://github.com/retejs/rete) - Framework for visual programming and node editors. [[Demo](https://rete.js.org/#/examples/basic)]
 
 ### Kotlin
@@ -954,6 +956,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Rust: Game Engine w/Editor
     - 🎉 [Fyrox](https://github.com/FyroxEngine/Fyrox) - (formerly rg3d) 2D/3D game engine with editor. [[Website](https://fyrox.rs/)]
 - Rust: Game Framework
+    - 🎉 [Ambient](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
     - 🎉 [Amethyst](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
     - 🎉 [Bevy](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D/3D game engine. [[Website](https://bevyengine.org)]
     - 🎉 [Macroquad](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
