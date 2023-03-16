@@ -405,6 +405,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [UPBGE](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from Blender.
 - C++: Game Framework
     - 🎉 [Acid](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
+    - 🎉 [blah](https://github.com/NoelFB/blah) - Small 2D game framework.
     - 🎉 [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
     - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games.
     - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL framework for quick prototyping.
@@ -633,7 +634,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [LDtk](https://github.com/deepnight/ldtk) 🔥 - Modern, lightweight and efficient 2D level editor. [[Website](https://ldtk.io)]
     - 🎉 [Starling](https://github.com/openfl/starling) - Popular (Angry Birds) 2D game engine built on _OpenFL_. [[Editor](http://starlingbuilder.github.io) | [Website](https://gamua.com/starling/)]
 - Haxe: Game Framework
-    - 🎉 [Ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework.
+    - 🎉 [Ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework. [[Examples](https://ceramic-engine.com/examples/)]
     - 🎉 [Citrus](https://github.com/DaVikingCode/Citrus-Engine) - ActionScript 3 based 2D/3D framework. [[Website](http://citrusengine.com/)]
     - 🎉 [Clay](https://github.com/clay2d/clay) - Cross-platform 2D game framework.
     - 🎉 [gameBase](https://github.com/deepnight/gameBase) - Base structure for Haxe games, using Heaps graphics framework. [[Tutorial](https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/)]
