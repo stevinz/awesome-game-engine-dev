@@ -954,6 +954,8 @@ _Language specific game engine development libraries / frameworks / code._
 - Rust: App Framework
     - 🎉 [Makepad](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
     - 🎉 [Tao](https://github.com/tauri-apps/tao) - Cross-platform windowing. [[Docs](https://docs.rs/tao/latest/tao/)]
+- Rust: Audio
+    - 🎉 [Kira](https://github.com/tesselode/kira) - Create expressive audio for games.
 - Rust: Game Engine w/Editor
     - 🎉 [Fyrox](https://github.com/FyroxEngine/Fyrox) - 2D/3D game engine with editor. Formerly _Rg3d_. [[Website](https://fyrox.rs/)]
 - Rust: Game Framework
@@ -964,6 +966,8 @@ _Language specific game engine development libraries / frameworks / code._
 - Rust: Graphics - 3D
     - 🎉 [Kiss3D](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
 - Rust: Gui
+    - 🔒 [Azul](https://github.com/fschutt/azul) - Desktop gui framework.
+    - 🎉 [Dioxus](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
     - 🎉 [Druid](https://github.com/linebender/druid) - Data-first gui design toolkit.
     - 🎉 [egui](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. [[Demo](https://www.egui.rs/)]
     - 🔒 [Slint](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly _SixtyFPS_. [[Website](https://slint-ui.com/)]
