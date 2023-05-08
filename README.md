@@ -1250,6 +1250,7 @@ _Software to help with game engine / video game development._
     - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) - Generative model of 3D shapes from images by _NVIDIA_. [[Source](https://github.com/nv-tlabs/GET3D)]
     - 📚 [Magic3D](https://deepimagination.cc/Magic3D/) - High-resolution text-to-3D content creation.
     - 📚 [NeRF](https://www.matthewtancik.com/nerf) - View synthesis of scenes as neural radiance fields. [[Source](https://github.com/bmild/nerf)]
+    - 📚 [Shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images.
 - Sound
     - 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
     - 🆓 [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
