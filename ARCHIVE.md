@@ -7,15 +7,6 @@ These links sometimes fail link validation. They should still work, but may not.
 <br />
 <br />
 
-## Libraries
-_Language specific game engine development libraries / frameworks / code._
-
-### Haxe
-- 📚 [Flash is dead, long live OpenFL](https://web.archive.org/web/20201112021925/https://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
-
-<br />
-<br />
-
 ## Specialty Topics
 _Exploring specialty application / game engine / game development topics and features._
 

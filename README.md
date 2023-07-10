@@ -6,7 +6,7 @@
 
 # Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme)
 
-Curated list of resources related to the development of game engines (tools that improve and speed game creation). Specifically toward the development of high-level, fully featured game engines (e.g., Godot / Unity).
+Curated list of resources related to the development of game engines (tools that improve and speed up game creation). Specifically toward the development of high-level, fully featured game engines (e.g., Godot / Unity).
 
 This includes things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities like scripting, physics, asset management, special effects, monetization, etc.
 
@@ -151,6 +151,7 @@ _Info on topics necessary for designing and developing game engines._
 
 ### Computer Graphics
 - Awesome Collections
+    - 📚 [Awesome Demoscene](https://github.com/psykon/awesome-demoscene) - Underground computer art culture exploring computer graphics and sound.
     - 📚 [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 - Blog Articles
     - 📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
@@ -391,6 +392,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Lina Engine](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     - 🎉 [Lumos](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
     - 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) - Open source 3D game engine with Dear ImGui based editor.
+    - 🎉 [MxEngine](https://github.com/asc-community/MxEngine) - Modern-C++ general-purpose 3D game engine.
     - 🔒 [neoGFX](https://github.com/i42output/neogfx) - Cross-platform app and game engine.
     - 🎉 [ÖbEngine](https://github.com/ObEngine/ObEngine) - 2D engine with Lua scripting built with _SFML_.
     - 🎉 [Overload](https://github.com/adriengivry/Overload) - Well documented 3D game engine inspired by industry standards.
@@ -457,6 +459,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Filament](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
     - 🎉 [Forge](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
     - 🎉 [Horde3D](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
+    - 🎉 [Intermediate Graphics Library (IGL)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
     - 🎉 [Ogre](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
@@ -613,7 +616,9 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
 - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
 - 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub](https://github.com/HaxeFoundation/haxe)]
-- 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+- 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/
+how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+- 📚 [Game Dev: Flash is dead, long live OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-)
 - Haxe: Animation
     - 🎉 [Actuate](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
     - 🎉 [DragonBones](https://github.com/openfl/dragonbones) - Runtime support for DragonBones skeletal animation.
@@ -1349,13 +1354,13 @@ _Resources to help bring video games and game engines alive._
 
 ## Archive
 
-_Dead links that have been removed are kept in the [Archive](ARCHIVE.md)_
+_Dead links that have been removed are kept in the [Archive](ARCHIVE.md)._
 
 <br />
 
 ## Legend
 
-_The meaning behind the emoji_
+_The meaning behind the emoji._
 
 - Open Source Software
     - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
