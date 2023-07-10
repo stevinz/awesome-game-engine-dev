@@ -616,9 +616,8 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Haxe](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
 - 📚 [Awesome Haxe Game Dev](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
 - 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub](https://github.com/HaxeFoundation/haxe)]
-- 📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/
-how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
-- 📚 [Game Dev: Flash is dead, long live OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-)
+- 📚 [Haxe Blog: Game Engine](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months) - "How I wrote my own 3D game engine and shipped a game in 20 months".
+- 📚 [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
 - Haxe: Animation
     - 🎉 [Actuate](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
     - 🎉 [DragonBones](https://github.com/openfl/dragonbones) - Runtime support for DragonBones skeletal animation.
