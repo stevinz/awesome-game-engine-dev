@@ -464,6 +464,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Magnum Engine](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
     - 🎉 [Ogre](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
+    - 🔒 [StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
     - 🎉 [Threepp](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular 3D JavaScript library Three.js (r129).
     - 🎉 [Tungsten](https://github.com/tunabrain/tungsten) - High-performance physically-based renderer in C++11.
     - 🎉 [Wicked Engine](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
@@ -1290,6 +1291,7 @@ _Software to help with game engine / video game development._
 
 ### Pixel Art
 - 💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. [[Source](https://github.com/aseprite/aseprite)]
+- 💰 [Ditherdragon](https://winterveil.itch.io/ditherdragon) - Resample art, sketches and images into pixel-art.
 - 💰 [Fluid FX](https://codemanu.itch.io/fluid-fx) - Uses fluid simulation to achieve animations like explosions, blood, smoke, etc.
 - 💰 [Juice FX](https://codemanu.itch.io/juicefx) - Add style to your sprites and animations with ease.
 - 🆓 [Piskel](https://www.piskelapp.com) - Online editor for animated sprites & pixel art. [[Source](https://github.com/piskelapp/piskel)]
@@ -1371,7 +1373,7 @@ _The meaning behind the emoji._
     - 💸 - Partially Free
 - Other
     - 📚 - Article, Blog, Collection, List, Tutorial(s)
-    🔥 - - Hot, Amazing Resource!
+    - 🔥 - Hot! Amazing Resource!
     - 🌎 - Website
 
 <br />
