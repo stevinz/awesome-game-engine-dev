@@ -1248,7 +1248,7 @@ _Software to help with game engine / video game development._
 
 ### Generative Art
 - Imaging
-    - 💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
+    - 💸 [DALL·E 2](https://en.wikipedia.org/wiki/DALL-E) - Create realistic images from natural language.
     - 🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.[[Source](https://github.com/alembics/disco-diffusion)]
     - 💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
     - 💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
