@@ -559,6 +559,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🌎 [Blazor](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
     - 🎉 [Mono](https://github.com/mono/mono) - Open source implementation of Microsoft's .NET Framework.
 - C#: Entity Component System
+    - 🎉 [Arch](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
     - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
 - C#: Game Engine w/Editor
@@ -770,6 +771,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Taro](https://github.com/moddio/taro) - Multiplayer engine with Box2D physics, aka _Moddio_. [[Website](https://www.modd.io)]
 - JavaScript: Game Framework
     - 🎉 [Crafty](https://github.com/craftyjs/Crafty) - Create 2D games in a structured way.
+    - 🎉 [Galacean](https://github.com/galacean/engine) - Web/Mobile-first engine built on WebGL and glTF.
     - 🎉 [Kaboom](https://github.com/replit/kaboom) - Simple 2D framework.
     - 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D framework with WebGL rendering.
     - 🎉 [Meep](https://github.com/Usnul/meep) - ECS game framework.
@@ -1147,6 +1149,8 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - How to add support for a bloom effect.
 - Displacement
     - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
+- Dithering
+    - 📚 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Ordered dithering in glsl using 8x8 Bayer Dithering.
 - Fire
     - 📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Fire intro shader using noise textures and masking.
     - 🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
@@ -1239,6 +1243,7 @@ _Software to help with game engine / video game development._
 - 🌎 [COLOURlovers](https://www.colourlovers.com) - Share colors, palettes and patterns.
 - 🌎 [Coolors](https://coolors.co) - Fast color palette generator.
 - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
+- 🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
 - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
 ### Generative Art
