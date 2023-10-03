@@ -973,7 +973,11 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Bevy](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. [[Website](https://bevyengine.org)]
     - 🎉 [Macroquad](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
 - Rust: Graphics - 3D
+    - 🎉 [Ash](https://github.com/ash-rs/ash) - Vulkan bindgins for Rust.
+    - 🎉 [Glium](https://github.com/glium/glium) - Safe wrapper arount the OpenGL API.
     - 🎉 [Kiss3D](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3D graphics engine.
+    - 🎉 [Miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering.
+    - 🎉 [Vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich wrapper around the Vulkan API.
 - Rust: Gui
     - 🔒 [Azul](https://github.com/fschutt/azul) - Desktop gui framework.
     - 🎉 [Dioxus](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
