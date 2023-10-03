@@ -132,6 +132,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
 - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms.
 - 💸 [Stencyl](https://www.stencyl.com/) - Quick and easy game making with visual scripting. [[GitHub](https://github.com/Stencyl/stencyl-engine)]
+- 💸 [Titan Engine](https://esenthel.com/) - Cross-platform engine, started in 2000. Formerly _Esenthel Engine_.
 
 ### Specialty
 - 💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play _NES_ games in 3D. [[Website](http://www.geodstudio.net)]
@@ -401,7 +402,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
     - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
-    - 🎉 [Titan Engine](https://github.com/Esenthel/EsenthelEngine) - Cross-platform engine, started in 2000. Formerly _Esenthel Engine_.
     - 🎉 [Toolkit](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
     - 🎉 [Torque 3D](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
     - 🔒 [UPBGE](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from Blender.
