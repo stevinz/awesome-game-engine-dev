@@ -298,6 +298,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TIC-80](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
 - C: Game Framework
     - 🎉 [CGL](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
+    - 🎉 [DOME](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
     - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
@@ -420,6 +421,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Koala Engine](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
     - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
+    - 🎉 [nCine](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
