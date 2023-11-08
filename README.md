@@ -362,6 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ozz-Animation](https://github.com/guillaumeblanc/ozz-animation) - Open source skeletal animation library and toolset.
     - 🎉 [Tweeny](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
 - C++: Audio
+    - 🎉 [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform and open-source audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
     - 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) - Software implementation of the OpenAL 3D audio API.
