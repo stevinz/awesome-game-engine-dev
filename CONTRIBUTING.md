@@ -5,6 +5,7 @@ Thanks for your interest in contributing. This list aims to provide excellent re
 
 - The link you are adding should not already be present in the list.
 - The link you are adding should not take up more than a single line (i.e. should fit in the regular Github readme column).
+- The link you are adding should include the proper [license emoji](https://github.com/stevinz/awesome-game-engine-dev#legend). The link and description should not include any additional emoji.
 - The link's primary target should be a [GitHub](https://github.com/) repository (if applicable).
 - The link you are adding should be relevant to Game Engine Development. New categories are possible if they improve the scope of the list as it pertains to Game Engine Development.
 - The link you are adding should be currently maintained and not deprecated. Exceptions may be allowed for resources that are well known and have large community support.

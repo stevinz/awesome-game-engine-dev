@@ -166,6 +166,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
+    - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -1129,6 +1130,7 @@ _Exploring specialty game engine / game development topics and features._
     - 🌎 [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) - Chains demo using Matter.js. [[Source](https://github.com/liabru/matter-js/blob/master/examples/chains.js)]
 - Soft Body
     - 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
+    - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) - Step by step creation of a Box2D soft body blob.
     - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) - Bullet Physics 3D cloth using the Oryol game framework. [[Source](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc)]
     - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using Ammo.js and Three.js. [[Source](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html)]
 - Verlet Physics
@@ -1190,6 +1192,8 @@ _Exploring specialty game engine / game development topics and features._
 - Upscaling
     - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
     - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
+- Water / Refraction
+    - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
 - Wireframe
     - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
@@ -1395,6 +1399,6 @@ _The meaning behind the emoji._
 
 ## Contributing
 
-_See [Contribution Guide](CONTRIBUTING.md)_
+_See [Contribution Guide](CONTRIBUTING.md)._
 
 <br />
