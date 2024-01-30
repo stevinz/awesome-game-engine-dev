@@ -567,6 +567,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    - 🔒 [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus 🎯 on performance, cache locality and DX.
     - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
 - C#: Game Engine w/Editor
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
