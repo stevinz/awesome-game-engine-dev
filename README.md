@@ -313,7 +313,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NanoVG](https://github.com/memononen/nanovg) - OpenGL-based 2D vector drawing library for UI and visualizations.
     - 🎉 [Tilengine](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game development.
 - C: Graphics - 3D
-    - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL](https://www.geertarien.com/learnopengl-examples-html5/)]
+    - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/)]
     - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with Sokol.
 - C: Gui
     - 🎉 [cImgui](https://github.com/cimgui/cimgui) - Thin C wrapper generated for Dear ImGui.
@@ -1130,7 +1130,6 @@ _Exploring specialty game engine / game development topics and features._
     - 🌎 [Matter.js: Chains](https://brm.io/matter-js/demo/#chains) - Chains demo using Matter.js. [[Source](https://github.com/liabru/matter-js/blob/master/examples/chains.js)]
 - Soft Body
     - 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
-    - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) - Step by step creation of a Box2D soft body blob.
     - 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) - Bullet Physics 3D cloth using the Oryol game framework. [[Source](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc)]
     - 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using Ammo.js and Three.js. [[Source](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html)]
 - Verlet Physics
@@ -1208,7 +1207,6 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Tiling
 - 📚 [Auto-Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
-- 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Tutorial on 2D edge and corner matched tilesets.
 - 📚 [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) - Wikipedia article on uniform tiling, space-filling polygons.
 - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - [Polyhedra](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra), 3D polygons that fill space. [[5 Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
 
