@@ -3,6 +3,7 @@ name: Check Markdown Links
 on: 
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
   markdown-link-check:
