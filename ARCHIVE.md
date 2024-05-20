@@ -10,6 +10,10 @@ These links sometimes fail link validation. They should still work, but may not.
 ## Libraries
 _Language specific game engine development libraries / frameworks / code._
 
+### C
+- C: Fonts
+    - 🎉 [msdf-c](https://github.com/solenum/msdf-c) - Multi-channel signed distance field generator.
+
 ### C++
 - C++: Game Engine w/Editor
     - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
@@ -33,6 +37,8 @@ _Exploring specialty application / game engine / game development topics and fea
     - 📚 [Box2D Soft Body Blobs](https://www.emanueleferonato.com/2012/09/21/step-by-step-creation-of-a-box2d-soft-body-blob/) - Step by step creation of a Box2D soft body blob.
 
 ### Shaders
+- Displacement
+    - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
 - Noise
     - 🎉 [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) - GLSL 2D simplex noise function many games use. [[Source](https://github.com/ashima/webgl-noise/)]
 - Wireframe
@@ -46,6 +52,10 @@ _Exploring specialty application / game engine / game development topics and fea
 
 ## Video Game Assets
 _Resources to help bring video games and game engines alive._
+
+### Audio Assets
+- Music
+    - 💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
 
 ### Model Assets
 - 🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Public domain 3D models.
