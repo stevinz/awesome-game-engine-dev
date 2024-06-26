@@ -18,6 +18,9 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Game Engine w/Editor
     - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
 
+### Zig
+- 🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
+
 <br />
 <br />
 
