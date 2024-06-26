@@ -881,6 +881,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
     - 🎉 [gltfjsx](https://github.com/pmndrs/gltfjsx) - Turns GLTFs into JSX components.
     - 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
+- JavaScript: Graphics - Three.js - Svelte
+    - 🎉 [Threlte](https://github.com/threlte/threlte) - 3D framework and ecosystem for Svelte and Three.js. [[Website](https://threlte.xyz/)]
 - JavaScript: Gui
     - 🎉 [Bootstrap](https://github.com/twbs/bootstrap) - Popular. Develop responsive, mobile first projects. [[Website](https://getbootstrap.com/)]
     - 🎉 [dat.GUI](https://github.com/dataarts/dat.gui) - Lightweight gui for changing variables in JavaScript.
