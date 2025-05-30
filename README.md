@@ -68,6 +68,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Transparency](#transparency)
 - [Tools / Software](#tools--software)
     - [2D Game Dev](#2d-game-dev)
+    - [AI Assistants](#ai-assistants)
     - [Animation Software](#animation-software)
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
@@ -1251,6 +1252,10 @@ _Software to help with game engine / video game development._
 - 💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
 - 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
 - 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. [[Source](https://github.com/mapeditor/tiled)]
+
+### AI Assistants
+- 💸 [Coplay](https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev) - Multi-agent AI Assistant for all aspects of Unity game developement
+- 💸 [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
