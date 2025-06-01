@@ -604,6 +604,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
+    - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
     - 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
