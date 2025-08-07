@@ -476,6 +476,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Intermediate Graphics Library (IGL)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
+    - 🎉 [NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - _NVIDIA_ abstraction layer over multiple graphics APIs.
     - 🎉 [Ogre](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
     - 🔒 [StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
@@ -597,17 +598,22 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [OpenTK](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 - C#: Gui
+    - 🎉 [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for _MonoGame_.
     - 🎉 [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
     - 🎉 [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
+    - 🎉 [Gum](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
+    - 🎉 [MGUI](https://github.com/rds1983/Myra) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
+    - 🎉 [Squid](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
     - 🎉 [Uno](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
-    - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - C# port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
+    - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
     - 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
+    - 🎉 [Monogame.Extended](https://github.com/MonoGame-Extended/Monogame-Extended) - Extensions to make _MonoGame_ more awesome.
 
 ### Dart
 - 📚 [Awesome Dart](https://github.com/yissachar/awesome-dart) - Curated list of awesome Dart frameworks, libraries, and software.
@@ -724,6 +730,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Modern 3D game development suite.
     - 🎉 [libGDX](https://github.com/libgdx/libgdx) - Game framework built on, and adds to _LWJGL_. [[Awesome](https://github.com/rafaskb/awesome-libgdx#readme) | [Website](https://libgdx.com/)]
     - 🎉 [LWJGL](https://github.com/LWJGL/lwjgl3) - Graphics, audio, parallel computing, XR and more. [[Website](https://www.lwjgl.org/)]
+- Java: Gui
+    - 🎉 [VisUI](https://github.com/kotcrab/vis-ui) - A _libGDX_ UI toolkit.
 
 ### JavaScript
 - 📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
