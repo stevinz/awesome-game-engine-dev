@@ -50,7 +50,6 @@ This includes things typically not found in low-level game engines, app / game f
     - [Java](#java-1)
 - [Specialty Topics](#specialty-topics)
     - [AI / Pathfinding](#ai--pathfinding)
-    - [Animation Info](#animation-info)
     - [Color Manipulation](#color-manipulation)
     - [Entity Component Systems](#entity-component-systems)
     - [Fluid / Smoke](#fluid--smoke)
@@ -188,7 +187,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
     - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples](https://github.com/khronosGroup/Vulkan-samples)]
-    - 📚 [Vulkan Tutorial](https://vulkan-tutorial.com) - Teaches the basics of using Vulkan graphics and compute API.
+    - 📚 [Vulkan Tutorial](https://github.com/Overv/VulkanTutorial) - Teaches the basics of using Vulkan graphics and compute API.
 - Graphics API: WebGL
     - 🌎 [WebGL](https://www.khronos.org/webgl/) - Open web standard 3D graphics API. [[GitHub](https://github.com/KhronosGroup/WebGL)]
     - 📚 [WebGL Fundamentals](https://webglfundamentals.org) 🔥 - Full understanding of what WebGL really is and how it works.
@@ -602,7 +601,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
     - 🎉 [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
     - 🎉 [Gum](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
-    - 🎉 [MGUI](https://github.com/rds1983/Myra) - UI framework for the _MonoGame_ game framework.
+    - 🎉 [MGUI](https://github.com/Videogamers0/MGUI) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Squid](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
@@ -846,7 +845,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Babylon.js](https://github.com/BabylonJS/Babylon.js) 🔥 - Powerful web rendering engine. [[Extensions](https://github.com/BabylonJS/Extensions) | [Website](https://www.babylonjs.com/)]
     - 🎉 [ClayGL](https://github.com/pissang/claygl) - WebGL library for scalable Web3D applications.
     - 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - A 3D library for WebGL. [[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
-    - 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, Filament. [[Demos](https://google.github.io/filament/webgl/)]
+    - 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, _Filament_.
     - 🎉 [Four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
     - 🎉 [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by _Alibaba_.
     - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by WebGLStudio.
@@ -1085,9 +1084,6 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Intro to AI Programming for Games at RayWenderlich.com.
 - 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in AI for games.
 
-### Animation Info
-- 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with IK for animation.
-
 ### Color Manipulation
 - 📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) - Procedural palettes and how to generate them.
 - 📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) - Convert colors from the paint color wheel to RGB space. [[Source](https://github.com/bahamas10/ryb)]
@@ -1279,9 +1275,7 @@ _Software to help with game engine / video game development._
     - 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. [[Source](https://github.com/BleuBleu/FamiStudio)]
     - 💸 [fmod](https://www.fmod.com) - Popular (_Hades_, _Celeste_, _Untitled Goose Game_) audio software for games.
     - 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. [[Source](https://github.com/lmms/lmms)]
-    - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
     - 🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. [[Source](https://github.com/mbitsnbites/soundbox)]
-    - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
     - 🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. [[Source](https://github.com/keithclark/ZzFXM)]
 - Sound Effects
     - 🆓 [Bfxr](https://www.bfxr.net) - Classic. For making simple sound effects for games. [[Source](https://github.com/increpare/bfxr)]

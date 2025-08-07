@@ -27,6 +27,9 @@ _Language specific game engine development libraries / frameworks / code._
 ## Specialty Topics
 _Exploring specialty application / game engine / game development topics and features._
 
+### Animation Info
+- 📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with IK for animation.
+
 ### Geometry
 - Algorithms
     - 📚 [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) - Geometries, convex hulls, polyline simplification and more.
@@ -53,6 +56,18 @@ _Exploring specialty application / game engine / game development topics and fea
 
 ### Tiling
 - 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Tutorial on 2D edge and corner matched tilesets.
+
+
+<br />
+<br />
+
+## Tools / Software
+_Software to help with game engine / video game development._
+
+### Audio Tools
+- Music
+    - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
+    - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
 
 <br />
 <br />
