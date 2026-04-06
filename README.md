@@ -12,6 +12,7 @@ This includes things typically not found in low-level game engines, app / game f
 
 <br />
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for game engine development workflow orchestration, automated build pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Game Engines](#game-engines)
