@@ -1347,6 +1347,7 @@ _Software to help with game engine / video game development._
 ### Debugging / Profiling
 - 🆓 [Nsight](https://developer.nvidia.com/nsight-graphics) - Debug, profile, and export frames built with Direct3D, Vulkan, OpenGL, OpenXR.
 - 🆓 [PIX](https://learn.microsoft.com/en-us/windows/win32/direct3dtools/pix/articles/general/pix-overview) - Debugging and profiling for game developers using Direct3D 12.
+- 🆓 [podium-mcp](https://github.com/hoainho/podium-mcp) - MCP server with a no-vision canvas/WebGL brain for Pixi/Konva/Fabric/Phaser/Three/Babylon automation. Drives game UIs as addressable objects without screenshots. Experimental AltTester bridge for Unity/GL builds.
 - 🎉 [RenderDoc](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
 - 🎉 [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame profiler.
 
