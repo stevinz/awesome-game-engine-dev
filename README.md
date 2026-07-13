@@ -1145,6 +1145,7 @@ _Successful open source video games to pick apart and gain knowledge._
 _Exploring specialty game engine / game development topics and features._
 
 ### Asset Pipeline / Formats
+- 🔒 [ALIS JSON Data Pipeline](https://github.com/fallintodusk/alis/tree/main/docs/data) - Integrated UE5 editor suite for changing existing game definitions without recompiling C++: JSON regenerates typed DataAssets, renamed asset paths stay synchronized, and updates propagate to placed actors.
 - 📚 [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery format for scenes, meshes, materials, animations, data.
 - 🎉 [KTX-Software](https://github.com/KhronosGroup/KTX-Software) - _Khronos_ texture container tools and library for KTX/KTX2 workflow.
 - 🎉 [MikkTSpace](https://github.com/mmikk/MikkTSpace) - Standard for tangent space used in baking tools to produce normal maps.
