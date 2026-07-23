@@ -612,6 +612,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) - High-performance C# ECS.
     - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
+    - 🎉 [BlueSky Engine](https://github.com/Soham-Anand/BlueSky-Engine) - Open-source C# game engine built from scratch on .NET 8, featuring an editor, archetype ECS, TeaScript scripting, and Metal, Vulkan, and DirectX 11 rendering backends.
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
     - 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Website](https://flatredball.com/)]
     - 🎉 [Murder](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
