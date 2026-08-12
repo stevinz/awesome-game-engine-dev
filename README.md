@@ -1366,6 +1366,7 @@ _Software to help with game engine / video game development._
 
 ### Image Editors
 - 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. [[Source](https://github.com/GNOME/gimp)]
+- 🎉 [ItsPaint](https://github.com/joshlin2201/itspaint) - Native macOS image editor with pixel grid, nearest-neighbour zoom and PNG / GIF / ICO export. [[Website](https://itspaintmac.com)]
 - 🆓 [Photopea](https://www.photopea.com) - Capable online photo editor.
 
 ### Level Editors
