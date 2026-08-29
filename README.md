@@ -631,6 +631,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework
     - 🎉 [FNA](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
+    - 🎉 [GameFrameX](https://github.com/GameFrameX/GameFrameX) - Cross-engine game framework: Unity & Godot clients on an actor-model .NET server; deterministic codegen, AI-agent docs. [[Website](https://gameframex.doc.alianblank.com)]
     - 🎉 [Monofoxe](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with _MonoGame_.
     - 🎉 [MonoGame](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
