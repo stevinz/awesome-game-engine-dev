@@ -247,6 +247,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - Collection of free resources for making games.
     - 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     - 📚 [Magic Tools](https://github.com/ellisonleao/magictools) - List of game development resources to make magic happen.
+    - 🌎 [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
