@@ -562,6 +562,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chrono](https://github.com/projectchrono/chrono) - High-performance multiphysics and multibody dynamics simulations. [[Gallery](https://projectchrono.org/gallery/)]
     - 🎉 [Edyn](https://github.com/xissburg/edyn) - Multi-threaded, networked physics engine. Supports large dynamic worlds. [[Testbed](https://github.com/xissburg/edyn-testbed)]
     - 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi-core friendly rigid body 3D physics and collision detection.
+    - 🔒 [libfpv](https://github.com/hammerill/libfpv) - FPV drone in any game. Provides a virtual _Betaflight_-powered quad that can be injected into any 3D game.
     - 🎉 [Liquid Fun](https://github.com/google/liquidfun) - Extension of _Box2D_, adds particle-based fluid and soft bodies. [[Demos](http://google.github.io/liquidfun/)]
     - 🎉 [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics/) - Real-time simulation of 3D environments.
     - 🎉 [ODE](https://bitbucket.org/odedevs/ode/src/master/) - Open Dynamics Engine, 3D rigid body physics. [[Wikipedia](https://en.wikipedia.org/wiki/Open_Dynamics_Engine)]
