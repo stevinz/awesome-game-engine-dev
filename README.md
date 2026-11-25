@@ -510,6 +510,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Intermediate Graphics Library (IGL)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
+    - 🎉 [NRI](https://github.com/NVIDIA-RTX/NRI) - Low-level rendering interface for D3D12, D3D11, Vulkan, WebGPU, and Metal with high-level extensions.
     - 🎉 [NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - _NVIDIA_ abstraction layer over multiple graphics APIs.
     - 🎉 [Ogre](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
