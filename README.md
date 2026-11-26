@@ -405,6 +405,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
+    - 💰 [Yuby](https://github.com/gaborszanto/yubysdk) - Fast, low-latency, cross-platform audio engine with player, effects, analysis, and stem separation.
 - C++: Cross-Platform
     - 🌎 [emscripten](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. [[Website](https://emscripten.org/)]
 - C++: Entity Component System
